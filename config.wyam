@@ -1,8 +1,12 @@
+#n -p Wyam.Markdown
+#n -p Wyam.Yaml
+
+#theme CleanBlog
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
-Settings[BlogKeys.Title] = "My Blog";
+Settings[Keys.Host] = "blog.bigdoor24.pl";
+Settings[BlogKeys.Title] = "BigDoor24 Blog";
 Settings[BlogKeys.Description] = "Welcome!";
 
 // Add any pipeline customizations here
