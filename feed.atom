@@ -4,8 +4,18 @@
 	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-01-25T20:04:10Z</updated>
+	<updated>2018-01-25T20:05:21Z</updated>
 	<subtitle>Welcome!</subtitle>
+	<entry>
+		<link href="http://blog.bigdoor24.pl/posts/test" />
+		<id>http://blog.bigdoor24.pl/posts/test</id>
+		<title>test</title>
+		<updated>2018-01-25T00:00:00Z</updated>
+		<content>&lt;h1 id="heading"&gt;heading&lt;/h1&gt;
+&lt;p&gt;text&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;text&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/posts/Second-post" />
 		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/someheader.jpg" />
