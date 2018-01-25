@@ -4,7 +4,7 @@
 	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-01-25T20:44:19Z</updated>
+	<updated>2018-01-25T20:52:48Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/posts/2018-01-25-test" />
@@ -31,7 +31,7 @@
 		<link href="http://blog.bigdoor24.pl/posts/first-post" />
 		<id>http://blog.bigdoor24.pl/posts/first-post</id>
 		<title>First Post</title>
-		<updated>2016-01-01T00:00:00Z</updated>
+		<updated>2017-01-12T00:00:00Z</updated>
 		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
