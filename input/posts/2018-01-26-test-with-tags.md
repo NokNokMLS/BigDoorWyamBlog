@@ -6,4 +6,6 @@ Tags:
   - t
   - e
 ---
+![test image](/input/assets/add event advanced.png)
+
 test with tags
