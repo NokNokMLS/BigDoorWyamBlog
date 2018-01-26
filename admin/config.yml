@@ -16,3 +16,8 @@ collections:
       - {label: "Published", name: "Published", widget: "datetime"}
       - {label: "Featured Image", name: "Image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: Tags
+        name: Tags
+        widget: list
+        field:
+          - {label: Name, name: "tag", widget: string}

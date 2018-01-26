@@ -4,7 +4,7 @@
 	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-01-26T08:00:54Z</updated>
+	<updated>2018-01-26T08:22:59Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/posts/2018-01-26-test-with-tags" />
@@ -12,10 +12,13 @@
 		<id>http://blog.bigdoor24.pl/posts/2018-01-26-test-with-tags</id>
 		<title>test with tags</title>
 		<updated>2018-01-26T07:39:47Z</updated>
-		<content>&lt;p&gt;![test image](/input/assets/add event advanced.png)&lt;/p&gt;
-&lt;p&gt;test with tags&lt;/p&gt;
+		<content>&lt;p&gt;&lt;img src="/assets/Images/add%20event%20advanced.png" class="img-fluid" alt="test image" /&gt;
+&lt;img src="Empty%20Test%20Explorer.png" class="img-fluid" alt="" /&gt;
+test with tags&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;![test image](/input/assets/add event advanced.png)&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;&lt;img src="/assets/Images/add%20event%20advanced.png" class="img-fluid" alt="test image"&gt;
+&lt;img src="Empty%20Test%20Explorer.png" class="img-fluid" alt=""&gt;
+test with tags&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/posts/2018-01-26-test" />
