@@ -27,7 +27,8 @@ artifacts:
 build_script:
   - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
   - pwd
-  - xcopy output\ ..\output\ /Esy
+  - ls
+  - xcopy output ..\output\ /Esy
   - ls
 
 on_success:
