@@ -6,6 +6,6 @@ Tags:
   - t
   - e
 ---
-![test image](/assets/Images/add%20event%20advanced.png)
+![test image](../assets/Images/add_event_advanced.png){.img-responsive }
 ![](Empty%20Test%20Explorer.png) 
 test with tags
