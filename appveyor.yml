@@ -29,6 +29,9 @@ build_script:
   - pwd
   - ls
   - xcopy blog ..\output
+  - ls
+  - ls blog
+  - ls ..\output
 
 on_success:
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
@@ -40,6 +43,8 @@ on_success:
   - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
   - git checkout gh-pages
   - git rm -rf .
+  - ls
+  - ls ..\output
   - xcopy ..\output\blog . /E
   # EDIT your domain name or remove if not using a custom domain
   #- echo wyam.io > CNAME
