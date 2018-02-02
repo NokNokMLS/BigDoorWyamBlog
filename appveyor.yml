@@ -20,10 +20,14 @@ install:
   - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "..\Wyam\Wyam.zip"
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
 
+artifacts:
+- path: ..\output\
+  name: output
+
 build_script:
   - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
   - pwd
-  - xcopy output ..\output\ /Esy
+  - xcopy output\ ..\output\ /Esy
   - ls
 
 on_success:
