@@ -5,8 +5,18 @@
 		<link>http://blog.bigdoor24.pl/</link>
 		<description>Welcome!</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 26 Jan 2018 08:22:59 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jan 2018 08:22:59 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2018 06:53:36 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2018 06:53:36 GMT</lastBuildDate>
+		<item>
+			<title>test</title>
+			<link>http://blog.bigdoor24.pl/posts/2018-02-02-test</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/input/assets/add%20event%20advanced.png" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/posts/2018-02-02-test</guid>
+			<pubDate>Fri, 02 Feb 2018 06:50:10 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>test with tags</title>
 			<link>http://blog.bigdoor24.pl/posts/2018-01-26-test-with-tags</link>
