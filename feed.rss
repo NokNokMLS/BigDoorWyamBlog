@@ -5,8 +5,17 @@
 		<link>http://blog.bigdoor24.pl/</link>
 		<description>Welcome!</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 02 Feb 2018 06:53:36 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Feb 2018 06:53:36 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2018 07:01:59 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2018 07:01:59 GMT</lastBuildDate>
+		<item>
+			<title>test test</title>
+			<link>http://blog.bigdoor24.pl/posts/2018-02-02-test-test</link>
+			<description>&lt;p&gt;testing with a new list config for tags and optional image&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/posts/2018-02-02-test-test</guid>
+			<pubDate>Fri, 02 Feb 2018 07:00:07 GMT</pubDate>
+			<content:encoded>&lt;p&gt;testing with a new list config for tags and optional image&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>test</title>
 			<link>http://blog.bigdoor24.pl/posts/2018-02-02-test</link>
