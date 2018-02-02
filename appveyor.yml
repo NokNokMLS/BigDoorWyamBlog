@@ -21,14 +21,12 @@ install:
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
 
 artifacts:
-- path: ..\output\
+- path: output\
   name: output
 
 build_script:
   - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
   - pwd
-  - ls
-  - xcopy output ..\output\ /Esy
   - ls
 
 on_success:
