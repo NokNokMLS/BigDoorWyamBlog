@@ -28,7 +28,7 @@ build_script:
   - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
   - pwd
   - ls
-  - xcopy blog ..\output
+  - xcopy blog ..\output /Esy
   - ls
   - ls blog
   - ls ..\output
