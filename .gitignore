@@ -2,3 +2,4 @@ config.wyam.dll
 config.wyam.hash
 packages.xml
 [Oo]utput/
+[Bb]log
