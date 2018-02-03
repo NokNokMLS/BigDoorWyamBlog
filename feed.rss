@@ -5,8 +5,17 @@
 		<link>http://blog.bigdoor24.pl/blog</link>
 		<description>Welcome!</description>
 		<copyright>2018</copyright>
-		<pubDate>Fri, 02 Feb 2018 21:19:10 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Feb 2018 21:19:10 GMT</lastBuildDate>
+		<pubDate>Sat, 03 Feb 2018 07:18:15 GMT</pubDate>
+		<lastBuildDate>Sat, 03 Feb 2018 07:18:15 GMT</lastBuildDate>
+		<item>
+			<title>test publish workflow</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</guid>
+			<pubDate>Sat, 03 Feb 2018 07:11:05 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>test test</title>
 			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test-test.html</link>

@@ -4,8 +4,17 @@
 	<id>http://blog.bigdoor24.pl/blog</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-02-02T21:19:10Z</updated>
+	<updated>2018-02-03T07:18:15Z</updated>
 	<subtitle>Welcome!</subtitle>
+	<entry>
+		<link href="http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html" />
+		<id>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</id>
+		<title>test publish workflow</title>
+		<updated>2018-02-03T07:11:05Z</updated>
+		<content>&lt;p&gt;test&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;test&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/blog/posts/2018-02-02-test-test.html" />
 		<id>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test-test.html</id>
