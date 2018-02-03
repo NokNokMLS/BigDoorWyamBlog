@@ -55,10 +55,6 @@ on_success:
   - git commit -a -m "Commit from AppVeyor"
   - git push
 
-version: 1.0.{build}
-
-build:
-  verbosity: minimal
 notifications:
 - provider: Email
   to:
@@ -66,7 +62,7 @@ notifications:
   on_build_success: true
   on_build_failure: true
   on_build_status_changed: true
-  
+
 # here we are going to override common configuration		
 for:
  # override settings for `master` branch
