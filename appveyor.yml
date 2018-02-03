@@ -1,7 +1,3 @@
-branches:
-  only:
-    - master
-    
 environment:
   access_token:
     # EDIT the encrypted version of your GitHub access token
@@ -89,4 +85,4 @@ for:
   
   environment:
     PUSHTOBRANCH: gh-pages
-    EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
+    EXTRACOMMANDOPTIONS: -o blog
