@@ -16,6 +16,7 @@ install:
   - set /P WYAMVERSION=< ..\Wyam\wyamversion.txt
   - echo %WYAMVERSION%
   - echo %EXTRACOMMANDOPTIONS%
+  - echo push to branch %PUSHTOBRANCH%
   # Get and unzip the latest version of Wyam
   - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "..\Wyam\Wyam.zip"
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
@@ -53,3 +54,15 @@ on_success:
   - git add -A
   - git commit -a -m "Commit from AppVeyor"
   - git push
+
+-  # here we are going to override common configuration		
+ -for:
+ # override settings for `master` branch
+-
+  branches:
+    only:
+      - master
+
+  environment:		
+    PUSHTOBRANCH: gh-pages		
+    EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
