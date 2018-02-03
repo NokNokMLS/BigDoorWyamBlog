@@ -79,10 +79,8 @@ for:
       branch: /cms.*/
   
   environment:
-  PUSHTOBRANCH: gh-pages
-
-  environment:
-  EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
+    PUSHTOBRANCH: gh-pages
+    EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
 
 # override settings for `dev-*` branches
 -
@@ -91,8 +89,6 @@ for:
       - master
 
   environment:
-  PUSHTOBRANCH: gh-pages
-
-  environment:
-  EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
+    PUSHTOBRANCH: gh-pages
+    EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
 
