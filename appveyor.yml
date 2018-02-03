@@ -74,3 +74,19 @@ for:
   environment:		
     PUSHTOBRANCH: gh-pages		
     EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
+
+# override settings for `cms*` branches
+-
+  branches:
+    only:
+      - /cms.*/
+
+  deploy:
+  - provider: Environment
+    name: BigDoorTestBlog
+    on:
+      branch: /cms.*/
+  
+  environment:
+    PUSHTOBRANCH: gh-pages
+    EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
