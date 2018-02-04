@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>BigDoor24 Blog</title>
+		<link>http://blog.bigdoor24.pl/blog</link>
+		<description>Welcome!</description>
+		<copyright>2018</copyright>
+		<pubDate>Sun, 04 Feb 2018 19:57:22 GMT</pubDate>
+		<lastBuildDate>Sun, 04 Feb 2018 19:57:22 GMT</lastBuildDate>
+		<item>
+			<title>test publish workflow</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</guid>
+			<pubDate>Sat, 03 Feb 2018 07:11:05 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test test</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test-test.html</link>
+			<description>&lt;p&gt;testing with a new list config for tags and optional image&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test-test.html</guid>
+			<pubDate>Fri, 02 Feb 2018 07:00:07 GMT</pubDate>
+			<content:encoded>&lt;p&gt;testing with a new list config for tags and optional image&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test.html</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/add%20event%20advanced.png" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test.html</guid>
+			<pubDate>Fri, 02 Feb 2018 06:50:10 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test with tags</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-01-26-test-with-tags.html</link>
+			<description>&lt;p&gt;&lt;img src="../assets/Images/add_event_advanced.png" class="img-responsive img-fluid" alt="test image"&gt;
+&lt;img src="Empty%20Test%20Explorer.png" class="img-fluid" alt=""&gt;
+test with tags&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/add%20event%20advanced.png" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-01-26-test-with-tags.html</guid>
+			<pubDate>Fri, 26 Jan 2018 07:39:47 GMT</pubDate>
+			<content:encoded>&lt;p&gt;&lt;img src="../assets/Images/add_event_advanced.png" class="img-responsive img-fluid" alt="test image" /&gt;
+&lt;img src="Empty%20Test%20Explorer.png" class="img-fluid" alt="" /&gt;
+test with tags&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-01-26-test.html</link>
+			<description>&lt;p&gt;tttt&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/add%20event%20advanced.png" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-01-26-test.html</guid>
+			<pubDate>Fri, 26 Jan 2018 07:26:01 GMT</pubDate>
+			<content:encoded>&lt;p&gt;tttt&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-01-25-test.html</link>
+			<description>&lt;p&gt;text&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/add%20event%20advanced.png" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-01-25-test.html</guid>
+			<pubDate>Thu, 25 Jan 2018 20:02:29 GMT</pubDate>
+			<content:encoded>&lt;h1 id="heading"&gt;heading&lt;/h1&gt;
+&lt;p&gt;text&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Second Post</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/Second-post.html</link>
+			<description>&lt;p&gt;This is my second post!&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/someheader.jpg" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/Second-post.html</guid>
+			<pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my second post!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>First Post</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/first-post.html</link>
+			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/first-post.html</guid>
+			<pubDate>Thu, 12 Jan 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>
