@@ -62,7 +62,9 @@ notifications:
   on_build_success: true
   on_build_failure: true
   on_build_status_changed: true
-  
+
+# changed github webhooks to not run on pull requests to make this easier
+# https://github.com/appveyor/ci/issues/1636
 # here we are going to override common configuration		
 for:
  # override settings for `master` branch
@@ -96,4 +98,4 @@ for:
   
   environment:
     PUSHTOBRANCH: gh-pages-staging
-    EXTRACOMMANDOPTIONS: 
+    EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
