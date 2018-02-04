@@ -18,9 +18,11 @@ install:
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
 
 build_script:
+  # run once to generate output for gh-pages and netlify
   - ..\Wyam\wyam
-  - xcopy blog ..\output /Esy
+  - xcopy output ..\output /Esy
   - ls output
+  # now run to produce artifacts which will be deployed to website/blog folder
   - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
   - pwd
   - ls
