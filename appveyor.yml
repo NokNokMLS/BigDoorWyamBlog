@@ -17,18 +17,20 @@ install:
   - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "..\Wyam\Wyam.zip"
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
 
-artifacts:
-  - path: 'blog\**\*.*'
-    name: blog
-
 build_script:
+  - ..\Wyam\wyam
+  - xcopy blog ..\output /Esy
+  - ls output
   - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
   - pwd
   - ls
-  - xcopy blog ..\output /Esy
   - ls
   - ls blog
   - ls ..\output
+  
+artifacts:
+  - path: 'blog\**\*.*'
+    name: blog
 
 on_success:
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
@@ -92,4 +94,4 @@ for:
   
   environment:
     PUSHTOBRANCH: gh-pages-staging
-    EXTRACOMMANDOPTIONS: -o blog
+    EXTRACOMMANDOPTIONS: 
