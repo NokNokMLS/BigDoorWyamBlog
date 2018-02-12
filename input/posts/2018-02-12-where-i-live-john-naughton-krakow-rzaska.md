@@ -24,7 +24,7 @@ Tags:
 
 
 
-**Rent or bought and since when?**
+**Rent or bought and since when?
 
 
 
@@ -32,7 +32,7 @@ Bought in 2017
 
 
 
-**Apartment or house?**
+Apartment or house?
 
 
 
@@ -40,7 +40,7 @@ House
 
 
 
-**What attracted you to the district? **
+What attracted you to the district?
 
 
 
@@ -56,7 +56,7 @@ Being 10 minutes from the airport but not on a flight path is also handy for pic
 
 
 
-**Any negatives?**
+Any negatives?
 
 
 
@@ -66,7 +66,7 @@ The Air, The Air , The Air and there are no local bars , none that open after 10
 
 
 
-**What are you doing here?**
+What are you doing here?
 
  
 
@@ -74,7 +74,7 @@ Good question. Currently I am working with BigDoor24.pl, trying to make life eas
 
 
 
-**What's your best tip for people looking to buy /rent/get a home loan**
+What's your best tip for people looking to buy /rent/get a home loan
 
 
 
@@ -82,7 +82,7 @@ There is a very good infrastructure here for doing all of the above but, dependi
 
 
 
-_**Other useful links**_
+Other useful links
 
 
 
