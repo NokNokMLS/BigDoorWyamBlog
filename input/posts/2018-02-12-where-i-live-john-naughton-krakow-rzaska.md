@@ -6,7 +6,7 @@ Image: /input/assets/rzaskapic.jpg
 Tags:
   - Krakow
   - Rzaska
-  - Credit Tips
+  - Where I live
 ---
 **Name** John Naughton
 
