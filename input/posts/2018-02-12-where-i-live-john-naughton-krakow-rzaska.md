@@ -4,7 +4,9 @@ Lead: Expats describe their area
 Published: 2018-02-12T09:34:33.443Z
 Image: /input/assets/rzaska pic.jpg
 Tags:
-  - Krakow rzaska home credit tips
+  - Krakow
+  - Rzaska
+  - Credit Tips
 ---
 **Name** John Naughton
 
