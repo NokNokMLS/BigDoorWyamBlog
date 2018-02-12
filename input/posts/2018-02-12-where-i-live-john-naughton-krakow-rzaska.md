@@ -1,6 +1,6 @@
 ---
-Title: Where I Live
-Lead: 'Krakow, Rzaska - John Naughton'
+Title: 'Krakow, Rzaska - House & Home '
+Lead: Where I Live - John Naughton - bigdoor24.pl
 Published: 2018-02-12T09:34:33.443Z
 Image: /input/assets/rzaskapic.jpg
 Tags:
