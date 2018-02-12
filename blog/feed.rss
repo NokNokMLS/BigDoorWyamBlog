@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>BigDoor24 Blog</title>
+		<link>http://blog.bigdoor24.pl/blog</link>
+		<description>Welcome!</description>
+		<copyright>2018</copyright>
+		<pubDate>Mon, 12 Feb 2018 15:39:36 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Feb 2018 15:39:36 GMT</lastBuildDate>
+		<item>
+			<title>Krakow, Rzaska - House &amp; Home </title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</link>
+			<description>&lt;p&gt;Bought in 2017&lt;/p&gt;</description>
+			<author>John Naughton</author>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/rzaskapic.jpg" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</guid>
+			<pubDate>Mon, 12 Feb 2018 09:34:33 GMT</pubDate>
+			<content:encoded>&lt;dl&gt;
+&lt;dt&gt;**Name**&lt;/dt&gt; 
+&lt;dd&gt;John Naughton&lt;/dd&gt;
+&lt;dt&gt;**Nationality**&lt;/dt&gt; 
+&lt;dd&gt;Irish&lt;/dd&gt;
+&lt;dt&gt;**City**&lt;/dt&gt; 
+&lt;dd&gt;Krakow&lt;/dd&gt;
+&lt;dt&gt;**District** Rzaska&lt;/dt&gt; 
+&lt;dd&gt;
+&lt;dt&gt;**Business website**&lt;/dt&gt; 
+&lt;dd&gt;[BigDoor24.pl](www.BigDoor24.pl)&lt;/dd&gt;
+&lt;/dl&gt;
+**Rent or bought and since when?**
+&lt;p&gt;Bought in 2017&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apartment or house?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;House&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walking from the house.. Really nice neighbours, and quiet. Also with a two year old , there are some young families nearby , alot of them expat die to the closeness of the businesss park.&lt;/p&gt;
+&lt;p&gt;Zabierzow is the nearest village with a Tesco and Biedronka. For us, as my wife is Slovakian , its great to be on the A4 within minutes for trips to her parents. We also are only minutes drive away from Factory and only 10 minutes to Bronowice Galeria so we really aren't far from anything. Without a car, it may be more difficult. There are plenty of places to go with a toddler too so that helps.&lt;/p&gt;
+&lt;p&gt;Being 10 minutes from the airport but not on a flight path is also handy for picking up visitors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Any negatives?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Air, The Air , The Air and there are no local bars , none that open after 10 pm anyway.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What are you doing here?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Good question. Currently I am working with BigDoor24.pl, trying to make life easier for expats living and planning to vistit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's your best tip for people looking to buy /rent/get a home loan?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is a very good infrastructure here for doing all of the above but, depending on where you come from, the regulatory requirements can be frustrating and challenging. In many cases you can negotiate an agents fee down to zero and a credit advisor doesnt charge anything so I would advise using them as much as possible, In many cases they will become your first friend in Poland.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other useful links&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rz%C4%85ska"&gt;https://en.wikipedia.org/wiki/Rz%C4%85ska&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test publish workflow</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</guid>
+			<pubDate>Sat, 03 Feb 2018 07:11:05 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>test</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test.html</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/add%20event%20advanced.png" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-02-test.html</guid>
+			<pubDate>Fri, 02 Feb 2018 06:50:10 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Second Post</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/Second-post.html</link>
+			<description>&lt;p&gt;This is my second post!&lt;/p&gt;</description>
+			<enclosure url="http://blog.bigdoor24.pl/blog/someheader.jpg" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/Second-post.html</guid>
+			<pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my second post!&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>First Post</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/first-post.html</link>
+			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/first-post.html</guid>
+			<pubDate>Thu, 12 Jan 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>
