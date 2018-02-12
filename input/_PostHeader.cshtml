@@ -4,14 +4,14 @@
     var Tags = Model.Get<string[]>(BlogKeys.Tags);
 }
     <h2 class="offset-top-50">@Model.WithoutSettings.String(BlogKeys.Title)</h2>
-    <p class="small offset-top-16"><a href="#">Emilia Warren</a> 
+    <p class="small offset-top-16"><a href="#">@Model.String("Author")</a> 
     @if (Published != default(DateTime))
         {
             <text>- <a href="#" class="text-gray">@Published.ToLongDateString(Context)</a></text>
         }
     <span class="inset-left-10 reveal-inline-block">
         <span class="icon mdi mdi-comment-outline text-primary text-middle inset-right-5">
-        </span><a href="#comments" class="text-gray">0 comments</a>
+        </span><a class="text-gray" href="@Context.GetLink(Model, true)#disqus_thread" data-disqus-identifier="@Model.FilePath(Keys.RelativeFilePath).FileNameWithoutExtension.FullPath" async></a>
         </span>
             @if (Tags != null)
     {
