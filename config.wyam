@@ -10,4 +10,5 @@ Settings[BlogKeys.Title] = "BigDoor24 Blog";
 Settings[BlogKeys.Description] = "Welcome!";
 //Settings[Keys.LinkRoot] = "/blog";
 Settings[Keys.LinkHideExtensions] = false;
+Settings[BlogKeys.ArchiveExcerpts] = true;
 // Add any pipeline customizations here

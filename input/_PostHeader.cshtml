@@ -2,6 +2,7 @@
     var Lead = Model.String(BlogKeys.Lead);
     var Published = Model.Get<DateTime>(BlogKeys.Published);   
     var Tags = Model.Get<string[]>(BlogKeys.Tags);
+    var Image  = Model.Get<string>("Image");
 }
     <h2 class="offset-top-50">@Model.WithoutSettings.String(BlogKeys.Title)</h2>
     <p class="small offset-top-16"><a href="#">@Model.String("Author")</a> 
@@ -33,4 +34,9 @@
     {
         <h3 class="subheading">@Lead</h3>
     } 
+
+    @if(!string.IsNullOrWhiteSpace(Image))
+    {
+        <img src="@Context.GetLink(Image.Replace("/input", ""))" width="886" height="520" alt="" class="offset-top-20 img-responsive">
+    }
 
