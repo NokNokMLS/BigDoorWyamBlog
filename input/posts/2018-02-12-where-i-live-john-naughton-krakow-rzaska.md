@@ -1,6 +1,6 @@
 ---
-Title: 'Where I Live - John Naughton Krakow, Rzaska'
-Lead: Expats describe their area
+Title: Where I Live
+Lead: 'Krakow, Rzaska - John Naughton'
 Published: 2018-02-12T09:34:33.443Z
 Image: /input/assets/rzaska pic.jpg
 Tags:
