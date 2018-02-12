@@ -3,7 +3,7 @@
     @if(Documents[Blog.Tags].Any())
         {
             <div class="cell-md-12 offset-top-30">
-            <h5>Tags</h5>
+            <h3>Tags</h3>
             <div>
                 @foreach (IDocument tagDocument in Documents[Blog.Tags]
                     .GroupBy(x => x.String(BlogKeys.Tag)).Select(x => x.Where(p => p.Get<int>(Keys.CurrentPage) == 1).First())
@@ -63,22 +63,6 @@
                     </div>
                     <div class="cell-md-12 offset-top-40">
                       <div class="well">
-                        <h3>About Us</h3>
-                        <div class="unit unit-lg-horizontal offset-top-30">
-                          <div class="unit-left"><img src="images/user-01.jpg" width="140" height="140" alt="" class="img-responsive center-block"></div>
-                          <div class="unit-body">
-                            <h5>Emilia Warren</h5>
-                            <p class="offset-top-10">Hello! My name is Emilia Warren and I'm a full-time licensed real…</p>
-                          </div>
-                        </div>
-                        <div class="offset-top-30"><a href="#" style="padding: 12px 40px;" class="btn btn-base">read more</a></div>
-                      </div>
-                    </div>
-                    <div class="cell-md-12 offset-top-50">
-                      <hr>
-                    </div>
-                    <div class="cell-md-12 offset-top-40">
-                      <div class="well">
                         <h3>Follow Us</h3>
                         <ul class="list-inline offset-top-30">
                           <li><a href="https://www.facebook.com/bigdoor24" class="icon icon-sm text-white fa-facebook"></a></li>
@@ -86,19 +70,6 @@
                           <li><a href="https://www.linkedin.com/company-beta/18120416" class="icon icon-sm text-white fa-linkedin"></a></li>
                           <li><a href="https://plus.google.com/b/106629621768160679403/" class="icon icon-sm text-white fa-google-plus"></a></li>
                         </ul>
-                      </div>
-                      <div class="well well-dark">
-                        <h3>Newsletter</h3>
-                        <p class="offset-tpo-10 offset-md-top-25 text-gray">Sign up for the best deals in real estate!</p>
-                        <!-- RD Mailform-->
-                        <form data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php" class="offset-top-20 rd-mailform form-inline-custom" novalidate="novalidate">
-                          <div class="form-group">
-                            <label for="subscribe-email" class="form-label rd-input-label">Enter<span class="veil reveal-lg-inline"> please your</span> e-mail
-                            </label>
-                            <input id="subscribe-email" type="email" name="email" data-constraints="@@Required @@Email" class="form-control form-control-white form-control-has-validation form-control-last-child"><span class="form-validation"></span>
-                          </div>
-                          <button type="submit" class="btn btn-primary">get</button>
-                        </form>
                       </div>
                     </div>
 </div>
