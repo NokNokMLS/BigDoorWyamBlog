@@ -4,7 +4,7 @@
 	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-02-12T15:57:39Z</updated>
+	<updated>2018-02-12T16:00:09Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
@@ -54,16 +54,6 @@
 		<content>&lt;p&gt;test&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;test&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://blog.bigdoor24.pl/posts/Second-post.html" />
-		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/someheader.jpg" />
-		<id>http://blog.bigdoor24.pl/posts/Second-post.html</id>
-		<title>Second Post</title>
-		<updated>2018-01-01T00:00:00Z</updated>
-		<content>&lt;p&gt;This is my second post!&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;This is my second post!&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/posts/first-post.html" />
