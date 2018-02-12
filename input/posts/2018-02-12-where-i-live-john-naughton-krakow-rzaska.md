@@ -3,35 +3,34 @@ Title: 'Krakow, Rzaska - House & Home '
 Author: John Naughton
 Lead: Where I Live - John Naughton - bigdoor24.pl
 Published: 2018-02-12T09:34:33.443Z
-Image: /input/assets/rzaskapic.jpg
+Image: ../input/assets/rzaskapic.jpg
 Tags:
   - Krakow
   - Rzaska
   - Where I live
 ---
-<dl>
-<dt>**Name**</dt> 
+<dl class="list-terms-variant-1 text-left">
+<dt>Name</dt> 
 <dd>John Naughton</dd>
 
-<dt>**Nationality**</dt> 
+<dt>Nationality</dt> 
 <dd>Irish</dd>
 
-<dt>**City**</dt> 
+<dt>City</dt> 
 <dd>Krakow</dd>
 
-<dt>**District** Rzaska</dt> 
-<dd>
+<dt>District </dt> 
+<dd>Rzaska</dd>
 
-<dt>**Business website**</dt> 
-<dd>[BigDoor24.pl](www.BigDoor24.pl)</dd>
+<dt>Business website</dt> 
+<dd><a href="https://bigdoor24.pl" target="_blank">BigDoor24.pl</a></dd>
+
+<dt>Rent or bought and since when?</dt> 
+<dd>Bought in 2017</dd>
+
+<dt>Apartment or house?</dt>
+<dd>House</dd>
 </dl>
-**Rent or bought and since when?**
-
-Bought in 2017
-
-**Apartment or house?**
-
-House
 
 **What attracted you to the district?**
 
