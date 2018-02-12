@@ -4,7 +4,7 @@
 	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-02-12T15:39:25Z</updated>
+	<updated>2018-02-12T15:54:16Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
@@ -15,22 +15,22 @@
 		<id>http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
 		<title>Krakow, Rzaska - House &amp; Home </title>
 		<updated>2018-02-12T09:34:33Z</updated>
-		<content>&lt;dl&gt;
-&lt;dt&gt;**Name**&lt;/dt&gt; 
+		<content>&lt;dl class="list-terms-variant-1 text-left"&gt;
+&lt;dt&gt;Name&lt;/dt&gt; 
 &lt;dd&gt;John Naughton&lt;/dd&gt;
-&lt;dt&gt;**Nationality**&lt;/dt&gt; 
+&lt;dt&gt;Nationality&lt;/dt&gt; 
 &lt;dd&gt;Irish&lt;/dd&gt;
-&lt;dt&gt;**City**&lt;/dt&gt; 
+&lt;dt&gt;City&lt;/dt&gt; 
 &lt;dd&gt;Krakow&lt;/dd&gt;
-&lt;dt&gt;**District** Rzaska&lt;/dt&gt; 
-&lt;dd&gt;
-&lt;dt&gt;**Business website**&lt;/dt&gt; 
-&lt;dd&gt;[BigDoor24.pl](www.BigDoor24.pl)&lt;/dd&gt;
+&lt;dt&gt;District &lt;/dt&gt; 
+&lt;dd&gt;Rzaska&lt;/dd&gt;
+&lt;dt&gt;Business website&lt;/dt&gt; 
+&lt;dd&gt;&lt;a href="https://bigdoor24.pl" target="_blank"&gt;BigDoor24.pl&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Rent or bought and since when?&lt;/dt&gt; 
+&lt;dd&gt;Bought in 2017&lt;/dd&gt;
+&lt;dt&gt;Apartment or house?&lt;/dt&gt;
+&lt;dd&gt;House&lt;/dd&gt;
 &lt;/dl&gt;
-**Rent or bought and since when?**
-&lt;p&gt;Bought in 2017&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Apartment or house?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;House&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walking from the house.. Really nice neighbours, and quiet. Also with a two year old , there are some young families nearby , alot of them expat die to the closeness of the businesss park.&lt;/p&gt;
 &lt;p&gt;Zabierzow is the nearest village with a Tesco and Biedronka. For us, as my wife is Slovakian , its great to be on the A4 within minutes for trips to her parents. We also are only minutes drive away from Factory and only 10 minutes to Bronowice Galeria so we really aren't far from anything. Without a car, it may be more difficult. There are plenty of places to go with a toddler too so that helps.&lt;/p&gt;
@@ -44,7 +44,7 @@
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Other useful links&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rz%C4%85ska"&gt;https://en.wikipedia.org/wiki/Rz%C4%85ska&lt;/a&gt;&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Bought in 2017&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt;&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="http://blog.bigdoor24.pl/posts/2018-02-03-test-publish-workflow.html" />
