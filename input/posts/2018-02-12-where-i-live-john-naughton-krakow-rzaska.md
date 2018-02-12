@@ -32,7 +32,7 @@ Tags:
 <dd>House</dd>
 </dl>
 
-**What attracted you to the district?**
+**What attracted you to the district?** {.offset-top-16}
 
 The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walking from the house.. Really nice neighbours, and quiet. Also with a two year old , there are some young families nearby , alot of them expat die to the closeness of the businesss park.
 
