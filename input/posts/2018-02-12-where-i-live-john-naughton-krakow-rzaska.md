@@ -3,7 +3,7 @@ Title: 'Krakow, Rzaska - House & Home '
 Author: John Naughton
 Lead: Where I Live - John Naughton - bigdoor24.pl
 Published: 2018-02-12T09:34:33.443Z
-Image: ''
+Image: /input/assets/Images/rzaskapic.jpg
 Tags:
   - Krakow
   - Rzaska
