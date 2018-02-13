@@ -7,6 +7,7 @@ install:
   - git submodule update --init --recursive
   - mkdir ..\Wyam
   - mkdir ..\output
+  - mkdir ..\ghpages
   # Fetch the latest version of Wyam 
   - "curl -s https://raw.githubusercontent.com/Wyamio/Wyam/master/RELEASE -o ..\\Wyam\\wyamversion.txt"
   - set /P WYAMVERSION=< ..\Wyam\wyamversion.txt
@@ -18,8 +19,12 @@ install:
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
 
 build_script:
-  # run once to generate output for gh-pages and netlify
-  - ..\Wyam\wyam
+  # run once to generate output for gh-pages
+  - ..\Wyam\wyam LinkRoot="/BigDoorWyamBlog"
+  - xcopy output ..\ghpages /Esy
+  - ls output
+  # run once to generate output for netlify
+  - ..\Wyam\wyam 
   - xcopy output ..\output /Esy
   - ls output
   # now run to produce artifacts which will be deployed to website/blog folder
@@ -34,26 +39,7 @@ artifacts:
   - path: 'blog\**\*.*'
     name: blog
 
-on_success:
-  # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
-  # See http://www.appveyor.com/docs/how-to/git-push for more info
-  - git config --global credential.helper store
-  # EDIT your Git email and name
-  - git config --global user.email $env:op_build_user_email
-  - git config --global user.name $env:op_build_user
-  - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
-  - git checkout %PUSHTOBRANCH%
-  - git rm -rf .
-  - ls
-  - ls ..\output
-  - xcopy ..\output . /E
-  # EDIT your domain name or remove if not using a custom domain
-  #- echo wyam.io > CNAME
-  # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
-  - git remote set-url origin https://github.com/NokNokMLS/BigDoorWyamBlog.git
-  - git add -A
-  - git commit -a -m "Commit from AppVeyor"
-  - git push
+
 
 notifications:
 - provider: Email
@@ -83,8 +69,29 @@ for:
   environment:		
     PUSHTOBRANCH: gh-pages		
     EXTRACOMMANDOPTIONS: -s LinkRoot="/blog" -o blog
+    
+  on_success:
+     # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
+     # See http://www.appveyor.com/docs/how-to/git-push for more info
+     - git config --global credential.helper store
+     # EDIT your Git email and name
+     - git config --global user.email $env:op_build_user_email
+     - git config --global user.name $env:op_build_user
+     - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
+     - git checkout %PUSHTOBRANCH%
+     - git rm -rf .
+     - ls
+     - ls ..\ghpages
+     - xcopy ..\ghpages . /E
+     # EDIT your domain name or remove if not using a custom domain
+     #- echo wyam.io > CNAME
+     # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
+     - git remote set-url origin https://github.com/NokNokMLS/BigDoorWyamBlog.git
+     - git add -A
+     - git commit -a -m "Commit from AppVeyor"
+     - git push
 
-# override settings for `cms*` branches
+     # override settings for `cms*` branches
 -
   branches:
     only:
