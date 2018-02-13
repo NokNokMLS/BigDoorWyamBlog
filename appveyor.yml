@@ -20,7 +20,7 @@ install:
 
 build_script:
   # run once to generate output for gh-pages
-  - ..\Wyam\wyam LinkRoot="/BigDoorWyamBlog"
+  - ..\Wyam\wyam -s LinkRoot="/BigDoorWyamBlog"
   - xcopy output ..\ghpages /Esy
   - ls output
   # run once to generate output for netlify
