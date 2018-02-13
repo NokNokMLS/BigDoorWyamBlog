@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://blog.bigdoor24.pl/" />
-	<id>http://blog.bigdoor24.pl/</id>
-	<title>BigDoor24 Blog</title>
-	<rights>2018</rights>
-	<updated>2018-02-13T09:45:34Z</updated>
-	<subtitle>Welcome!</subtitle>
-	<entry>
-		<author>
-			<name>John Naughton</name>
-		</author>
-		<link href="http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
-		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/input/assets/Images/rzaskapic.jpg" />
-		<id>http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
-		<title>Krakow, Rzaska - House &amp; Home </title>
-		<updated>2018-02-12T09:34:33Z</updated>
-		<content>&lt;dl class="list-terms-variant-1 text-left"&gt;
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>BigDoor24 Blog</title>
+		<link>http://blog.bigdoor24.pl/blog</link>
+		<description>Welcome!</description>
+		<copyright>2018</copyright>
+		<pubDate>Tue, 13 Feb 2018 09:45:44 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Feb 2018 09:45:44 GMT</lastBuildDate>
+		<item>
+			<title>Krakow, Rzaska - House &amp; Home </title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</link>
+			<description>&lt;p class="offset-top-16"&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt; &lt;/p&gt;</description>
+			<author>John Naughton</author>
+			<enclosure url="http://blog.bigdoor24.pl/blog/input/assets/Images/rzaskapic.jpg" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</guid>
+			<pubDate>Mon, 12 Feb 2018 09:34:33 GMT</pubDate>
+			<content:encoded>&lt;dl class="list-terms-variant-1 text-left"&gt;
 &lt;dt&gt;Name&lt;/dt&gt; 
 &lt;dd&gt;John Naughton&lt;/dd&gt;
 &lt;dt&gt;Nationality&lt;/dt&gt; 
@@ -43,25 +43,25 @@
 &lt;p&gt;There is a very good infrastructure here for doing all of the above but, depending on where you come from, the regulatory requirements can be frustrating and challenging. In many cases you can negotiate an agents fee down to zero and a credit advisor doesnt charge anything so I would advise using them as much as possible, In many cases they will become your first friend in Poland.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Other useful links&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rz%C4%85ska"&gt;https://en.wikipedia.org/wiki/Rz%C4%85ska&lt;/a&gt;&lt;/p&gt;
-</content>
-		<summary>&lt;p class="offset-top-16"&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt; &lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://blog.bigdoor24.pl/posts/2018-02-03-test-publish-workflow.html" />
-		<id>http://blog.bigdoor24.pl/posts/2018-02-03-test-publish-workflow.html</id>
-		<title>test publish workflow</title>
-		<updated>2018-02-03T07:11:05Z</updated>
-		<content>&lt;p&gt;test&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;test&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="http://blog.bigdoor24.pl/posts/first-post.html" />
-		<id>http://blog.bigdoor24.pl/posts/first-post.html</id>
-		<title>First Post</title>
-		<updated>2017-01-12T00:00:00Z</updated>
-		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
-	</entry>
-</feed>
+</content:encoded>
+		</item>
+		<item>
+			<title>test publish workflow</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</link>
+			<description>&lt;p&gt;test&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-03-test-publish-workflow.html</guid>
+			<pubDate>Sat, 03 Feb 2018 07:11:05 GMT</pubDate>
+			<content:encoded>&lt;p&gt;test&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>First Post</title>
+			<link>http://blog.bigdoor24.pl/blog/posts/first-post.html</link>
+			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+			<guid>http://blog.bigdoor24.pl/blog/posts/first-post.html</guid>
+			<pubDate>Thu, 12 Jan 2017 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>
