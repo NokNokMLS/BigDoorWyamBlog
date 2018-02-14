@@ -7,7 +7,7 @@ Image: /assets/Images/rzaskapic.jpg
 Tags:
   - Krakow
   - Rzaska
-  - Where I live
+  - Where I Live
 ---
 Name             John Naughton
 
