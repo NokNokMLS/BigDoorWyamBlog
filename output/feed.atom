@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://blog.bigdoor24.pl/BigDoorWyamBlog" />
-	<id>http://blog.bigdoor24.pl/BigDoorWyamBlog</id>
+	<link rel="self" href="http://blog.bigdoor24.pl/" />
+	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-02-14T20:58:23Z</updated>
+	<updated>2018-02-14T20:58:41Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
 			<name>John Naughton</name>
 		</author>
-		<link href="http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
-		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/BigDoorWyamBlog/assets/Images/rzaskapic.jpg" />
-		<id>http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
+		<link href="http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
+		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/assets/Images/rzaskapic.jpg" />
+		<id>http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
 		<title>Krakow, Rzaska - House &amp; Home </title>
 		<updated>2018-02-12T09:34:33Z</updated>
 		<content>&lt;dl class="list-terms-variant-1 text-left"&gt;

@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://blog.bigdoor24.pl/BigDoorWyamBlog" />
-	<id>http://blog.bigdoor24.pl/BigDoorWyamBlog</id>
-	<title>BigDoor24 Blog</title>
-	<rights>2018</rights>
-	<updated>2018-02-14T20:58:23Z</updated>
-	<subtitle>Welcome!</subtitle>
-	<entry>
-		<author>
-			<name>John Naughton</name>
-		</author>
-		<link href="http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
-		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/BigDoorWyamBlog/assets/Images/rzaskapic.jpg" />
-		<id>http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
-		<title>Krakow, Rzaska - House &amp; Home </title>
-		<updated>2018-02-12T09:34:33Z</updated>
-		<content>&lt;dl class="list-terms-variant-1 text-left"&gt;
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>BigDoor24 Blog</title>
+		<link>http://blog.bigdoor24.pl/blog</link>
+		<description>Welcome!</description>
+		<copyright>2018</copyright>
+		<pubDate>Wed, 14 Feb 2018 20:58:50 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Feb 2018 20:58:50 GMT</lastBuildDate>
+		<item>
+			<title>Krakow, Rzaska - House &amp; Home </title>
+			<link>http://blog.bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</link>
+			<description>&lt;p class="offset-top-16"&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt; &lt;/p&gt;</description>
+			<author>John Naughton</author>
+			<enclosure url="http://blog.bigdoor24.pl/blog/assets/Images/rzaskapic.jpg" length="0" type="image" />
+			<guid>http://blog.bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</guid>
+			<pubDate>Mon, 12 Feb 2018 09:34:33 GMT</pubDate>
+			<content:encoded>&lt;dl class="list-terms-variant-1 text-left"&gt;
 &lt;dt&gt;Name&lt;/dt&gt; 
 &lt;dd&gt;John Naughton&lt;/dd&gt;
 &lt;dt&gt;Nationality&lt;/dt&gt; 
@@ -43,7 +43,7 @@
 &lt;p&gt;Use BigDoor24.pl !&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Other useful links&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rz%C4%85ska"&gt;https://en.wikipedia.org/wiki/Rz%C4%85ska&lt;/a&gt;&lt;/p&gt;
-</content>
-		<summary>&lt;p class="offset-top-16"&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt; &lt;/p&gt;</summary>
-	</entry>
-</feed>
+</content:encoded>
+		</item>
+	</channel>
+</rss>
