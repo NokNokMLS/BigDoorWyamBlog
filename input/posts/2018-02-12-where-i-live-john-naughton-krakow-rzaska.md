@@ -9,22 +9,30 @@ Tags:
   - Rzaska
   - Where I Live
 ---
-Name             John Naughton
+<dl class="list-terms-variant-1 text-left">
+<dt>Name</dt> 
+<dd>John Naughton</dd>
 
-Nationality     Irish
+<dt>Nationality</dt> 
+<dd>Irish</dd>
 
-City                Krakow
+<dt>City</dt> 
+<dd>Krakow</dd>
 
-District           Rzaska
+<dt>District </dt> 
+<dd>Rzaska</dd>
 
-Business website Bigdoor24.pl
+<dt>Business website</dt> 
+<dd><a href="https://bigdoor24.pl" target="_blank">BigDoor24.pl</a></dd>
 
+<dt>Rent or bought and since when?</dt> 
+<dd>Bought in 2017</dd>
 
-Rent or bought and since when?  Bought in 2017
+<dt>Apartment or house?</dt>
+<dd>House</dd>
+</dl>
 
-Apartment or house? House
-
-What attracted you to the district?
+**What attracted you to the district?** {.offset-top-16}
 
 The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walk from the house.. Really nice neighbours and a quiet environment. We have a  two year old toddler and there is a good infrastructure around to keep her entertained.
 
