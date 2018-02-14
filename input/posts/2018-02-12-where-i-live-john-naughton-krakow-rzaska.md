@@ -9,15 +9,17 @@ Tags:
   - Rzaska
   - Where I live
 ---
-Name John Naughton</dd>
+Name             John Naughton
 
-Nationality  Irish
+Nationality     Irish
 
-City Krakow
+City                Krakow
 
-District Rzaska
+District           Rzaska
 
 Business website Bigdoor24.pl
+
+
 Rent or bought and since when?  Bought in 2017
 
 Apartment or house? House
