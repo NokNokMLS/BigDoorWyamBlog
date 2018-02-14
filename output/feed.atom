@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://blog.bigdoor24.pl/" />
+	<id>http://blog.bigdoor24.pl/</id>
+	<title>BigDoor24 Blog</title>
+	<rights>2018</rights>
+	<updated>2018-02-14T20:03:47Z</updated>
+	<subtitle>Welcome!</subtitle>
+	<entry>
+		<author>
+			<name>John Naughton</name>
+		</author>
+		<link href="http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
+		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/assets/Images/rzaskapic.jpg" />
+		<id>http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
+		<title>Krakow, Rzaska - House &amp; Home </title>
+		<updated>2018-02-12T09:34:33Z</updated>
+		<content>&lt;p&gt;Name             John Naughton&lt;/p&gt;
+&lt;p&gt;Nationality     Irish&lt;/p&gt;
+&lt;p&gt;City                Krakow&lt;/p&gt;
+&lt;p&gt;District           Rzaska&lt;/p&gt;
+&lt;p&gt;Business website Bigdoor24.pl&lt;/p&gt;
+&lt;p&gt;Rent or bought and since when?  Bought in 2017&lt;/p&gt;
+&lt;p&gt;Apartment or house? House&lt;/p&gt;
+&lt;p&gt;What attracted you to the district?&lt;/p&gt;
+&lt;p&gt;The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walk from the house.. Really nice neighbours and a quiet environment. We have a  two year old toddler and there is a good infrastructure around to keep her entertained.&lt;/p&gt;
+&lt;p&gt;Zabierzow is the nearest village with a Tesco and Biedronka.  We are only minutes drive away from Factory and only 10 minutes to Bronowice Galeria so we really aren't far from anything. Without a car, it may be more difficult but there are plenty of bus connections.&lt;/p&gt;
+&lt;p&gt;Very close to the A4 ring road which gets us out of the city without going through the centre and 10 minutes from the airport is also handy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Any negatives?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Air, The Air , The Air and there are no local bars , none that open after 10 pm anyway.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What are you doing here?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am working with BigDoor24.pl, trying to make life easier for expats living and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's your best tip for people looking to buy /rent/get a home loan?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use BigDoor24.pl !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Other useful links&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rz%C4%85ska"&gt;https://en.wikipedia.org/wiki/Rz%C4%85ska&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Name             John Naughton&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="http://blog.bigdoor24.pl/posts/2018-02-03-test-publish-workflow.html" />
+		<id>http://blog.bigdoor24.pl/posts/2018-02-03-test-publish-workflow.html</id>
+		<title>test publish workflow</title>
+		<updated>2018-02-03T07:11:05Z</updated>
+		<content>&lt;p&gt;test&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;test&lt;/p&gt;</summary>
+	</entry>
+</feed>
