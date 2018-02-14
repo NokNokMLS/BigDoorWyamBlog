@@ -16,24 +16,17 @@
                 string lead = post.String(BlogKeys.Lead);
                 string Image  = post.String("Image");
                 var Tags = post.Get<string[]>(BlogKeys.Tags);
-                if(!string.IsNullOrWhiteSpace(Image))
-                {
-                    Image =  Image.Replace("/input","");
-                }
-                else
-                {
-                            
-                }
+
                         <div class="post-list">
         <div class="post-blog">
             <h5><a href="@Context.GetLink(post)" class="text-base">@post.WithoutSettings.String(BlogKeys.Title)</a></h5>
                 <p class="post-blog-meta small offset-top-16">
-                <a href="blog-single-post.html">@post.WithoutSettings.String("Author")</a> - <a href="#" class="text-gray">@(post.Get<DateTime>(BlogKeys.Published).ToLongDateString(Context))</a>
+                <a href="@Context.GetLink(post)">@post.WithoutSettings.String("Author")</a> - <a href="#" class="text-gray">@(post.Get<DateTime>(BlogKeys.Published).ToLongDateString(Context))</a>
                 </p>
 
 
                 <div class="thumbnail-variant-1"><a href="@Context.GetLink(post)">
-                <img src="@Image" width="886" height="520" alt="" class="img-responsive center-block"></a>
+                <img src="@Context.GetLink(Image)" width="886" height="520" alt="" class="img-responsive center-block"></a>
                     </div>
                     @if(!string.IsNullOrWhiteSpace(lead))
                     {
