@@ -9,30 +9,20 @@ Tags:
   - Rzaska
   - Where I live
 ---
-<dl class="list-terms-variant-1 text-left">
-<dt>Name</dt> 
-<dd>John Naughton</dd>
+Name John Naughton</dd>
 
-<dt>Nationality</dt> 
-<dd>Irish</dd>
+Nationality  Irish
 
-<dt>City</dt> 
-<dd>Krakow</dd>
+City Krakow
 
-<dt>District </dt> 
-<dd>Rzaska</dd>
+District Rzaska
 
-<dt>Business website</dt> 
-<dd><a href="https://bigdoor24.pl" target="_blank">BigDoor24.pl</a></dd>
+Business website Bigdoor24.pl
+Rent or bought and since when?  Bought in 2017
 
-<dt>Rent or bought and since when?</dt> 
-<dd>Bought in 2017</dd>
+Apartment or house? House
 
-<dt>Apartment or house?</dt>
-<dd>House</dd>
-</dl>
-
-**What attracted you to the district?** {.offset-top-16}
+What attracted you to the district?
 
 The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walk from the house.. Really nice neighbours, and quiet environment. We have a  two year old toddler, and there is a good infrastructure around to keep her entertained.
 
@@ -52,6 +42,6 @@ I am working with BigDoor24.pl, trying to make life easier for expats living and
 
 Use BigDoor24.pl !
 
-_**Other useful links**_
+**_Other useful links_**
 
 https://en.wikipedia.org/wiki/Rz%C4%85ska
