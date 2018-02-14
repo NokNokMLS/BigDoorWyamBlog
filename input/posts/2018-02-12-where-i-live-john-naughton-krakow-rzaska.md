@@ -24,11 +24,11 @@ Apartment or house? House
 
 What attracted you to the district?
 
-The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walk from the house.. Really nice neighbours, and quiet environment. We have a  two year old toddler, and there is a good infrastructure around to keep her entertained.
+The first thing was the proximity to the train station that brings us directly in to the city , just a few minutes walk from the house.. Really nice neighbours and a quiet environment. We have a  two year old toddler and there is a good infrastructure around to keep her entertained.
 
 Zabierzow is the nearest village with a Tesco and Biedronka.  We are only minutes drive away from Factory and only 10 minutes to Bronowice Galeria so we really aren't far from anything. Without a car, it may be more difficult but there are plenty of bus connections. 
 
-Minutes away from the A4 ring road which gets us out of the city without going through the centre and 10 minutes from the airport is also handy.
+Very close to the A4 ring road which gets us out of the city without going through the centre and 10 minutes from the airport is also handy.
 
 **Any negatives?**
 
@@ -42,6 +42,6 @@ I am working with BigDoor24.pl, trying to make life easier for expats living and
 
 Use BigDoor24.pl !
 
-**_Other useful links_**
+_**Other useful links**_
 
 https://en.wikipedia.org/wiki/Rz%C4%85ska
