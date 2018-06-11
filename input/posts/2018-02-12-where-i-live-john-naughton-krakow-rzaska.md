@@ -8,6 +8,7 @@ Tags:
   - Krakow
   - Rzaska
   - Where I Live
+  - Zabierzow
 ---
 <dl class="list-terms-variant-1 text-left">
 <dt>Name</dt> 
