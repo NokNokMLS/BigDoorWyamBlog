@@ -21,7 +21,7 @@ Tags:
   - Szczecin
   - Torun
 ---
-Can you help your fellow expats?
+Can you help your fellow expats (and promote your business/interests for free) ?
 
  If you are already living in Poland, please send us details of your area, in English and/or your native language. 
 
