@@ -2,7 +2,7 @@
 Title: 'Krakow, Rzaska - House & Home '
 Author: John Naughton
 Lead: Where I Live - John Naughton - bigdoor24.pl
-Published: 2018-02-12T09:34:33.443Z
+Published: '2018-06-10T10:34:33+02:00'
 Image: /assets/Images/rzaskapic.jpg
 Tags:
   - Krakow
@@ -46,12 +46,12 @@ The Air, The Air , The Air and there are no local bars , none that open after 10
 
 **What are you doing here?**
 
-I am working with BigDoor24.pl, trying to make life easier for expats living and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.
+I am working with BigDoor24.pl, trying to make life easier for expats living in and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.
 
 **What's your best tip for people looking to buy /rent/get a home loan?**
 
 Use BigDoor24.pl !
 
-_**Other useful links**_
+**_Other useful links_**
 
 https://en.wikipedia.org/wiki/Rz%C4%85ska
