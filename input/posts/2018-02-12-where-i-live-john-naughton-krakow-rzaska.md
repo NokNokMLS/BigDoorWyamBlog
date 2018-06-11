@@ -1,5 +1,5 @@
 ---
-Title: 'Krakow, Rzaska - House & Home '
+Title: 'Krakow, Rzaska - Where I Live '
 Author: John Naughton
 Lead: Where I Live - John Naughton - bigdoor24.pl
 Published: '2018-06-10T10:34:33+02:00'
