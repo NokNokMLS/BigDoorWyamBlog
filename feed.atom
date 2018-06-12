@@ -4,20 +4,27 @@
 	<id>http://blog.bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-06-11T12:31:42Z</updated>
+	<updated>2018-06-12T07:52:38Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
-			<name>mark burton</name>
+			<name>Team BigDoor24</name>
 		</author>
-		<link href="http://blog.bigdoor24.pl/posts/2018-06-11-test.html" />
-		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/assets/Images/bigdoor24-white-wide-logo.png" />
-		<id>http://blog.bigdoor24.pl/posts/2018-06-11-test.html</id>
-		<title>test </title>
-		<updated>2018-06-11T12:28:35Z</updated>
-		<content>&lt;p&gt;test test delete me&lt;/p&gt;
+		<link href="http://blog.bigdoor24.pl/posts/2018-06-11-where-i-live.html" />
+		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/assets/Images/crazy-house.jpg" />
+		<id>http://blog.bigdoor24.pl/posts/2018-06-11-where-i-live.html</id>
+		<title>Where I live</title>
+		<updated>2018-06-11T15:51:20Z</updated>
+		<content>&lt;p&gt;Can you help your fellow expats (and promote your business/interests for free) ?&lt;/p&gt;
+&lt;p&gt;If you are already living in Poland, please send us details of your area, in English and/or your native language.&lt;/p&gt;
+&lt;p&gt;An example of the information that would be helpful can be found here&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html"&gt;https://bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Simply email your contribution to&lt;/p&gt;
+&lt;p&gt;easier&amp;#64;bigdoor24.pl&lt;/p&gt;
+&lt;p&gt;and we will do the rest.&lt;/p&gt;
+&lt;p&gt;Big Thanks !&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;test test delete me&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;Can you help your fellow expats (and promote your business/interests for free) ?&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<author>
@@ -26,8 +33,8 @@
 		<link href="http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
 		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/assets/Images/rzaskapic.jpg" />
 		<id>http://blog.bigdoor24.pl/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
-		<title>Krakow, Rzaska - House &amp; Home </title>
-		<updated>2018-02-12T09:34:33Z</updated>
+		<title>Krakow, Rzaska - Where I Live </title>
+		<updated>2018-06-10T08:34:33Z</updated>
 		<content>&lt;dl class="list-terms-variant-1 text-left"&gt;
 &lt;dt&gt;Name&lt;/dt&gt; 
 &lt;dd&gt;John Naughton&lt;/dd&gt;
@@ -51,10 +58,10 @@
 &lt;p&gt;&lt;strong&gt;Any negatives?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Air, The Air , The Air and there are no local bars , none that open after 10 pm anyway.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What are you doing here?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I am working with BigDoor24.pl, trying to make life easier for expats living and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.&lt;/p&gt;
+&lt;p&gt;I am working with BigDoor24.pl, trying to make life easier for expats living in and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What's your best tip for people looking to buy /rent/get a home loan?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Use BigDoor24.pl !&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Other useful links&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other useful links&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Rz%C4%85ska"&gt;https://en.wikipedia.org/wiki/Rz%C4%85ska&lt;/a&gt;&lt;/p&gt;
 </content>
 		<summary>&lt;p class="offset-top-16"&gt;&lt;strong&gt;What attracted you to the district?&lt;/strong&gt; &lt;/p&gt;</summary>
