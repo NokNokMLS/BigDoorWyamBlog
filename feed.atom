@@ -4,8 +4,28 @@
 	<id>http://blog.bigdoor24.pl/BigDoorWyamBlog</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-06-11T12:46:22Z</updated>
+	<updated>2018-06-12T07:54:23Z</updated>
 	<subtitle>Welcome!</subtitle>
+	<entry>
+		<author>
+			<name>Team BigDoor24</name>
+		</author>
+		<link href="http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-11-where-i-live.html" />
+		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/BigDoorWyamBlog/assets/Images/crazy-house.jpg" />
+		<id>http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-11-where-i-live.html</id>
+		<title>Where I live</title>
+		<updated>2018-06-11T15:51:20Z</updated>
+		<content>&lt;p&gt;Can you help your fellow expats (and promote your business/interests for free) ?&lt;/p&gt;
+&lt;p&gt;If you are already living in Poland, please send us details of your area, in English and/or your native language.&lt;/p&gt;
+&lt;p&gt;An example of the information that would be helpful can be found here&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html"&gt;https://bigdoor24.pl/blog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Simply email your contribution to&lt;/p&gt;
+&lt;p&gt;easier&amp;#64;bigdoor24.pl&lt;/p&gt;
+&lt;p&gt;and we will do the rest.&lt;/p&gt;
+&lt;p&gt;Big Thanks !&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Can you help your fellow expats (and promote your business/interests for free) ?&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<author>
 			<name>John Naughton</name>
@@ -13,7 +33,7 @@
 		<link href="http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html" />
 		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/BigDoorWyamBlog/assets/Images/rzaskapic.jpg" />
 		<id>http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html</id>
-		<title>Krakow, Rzaska - House &amp; Home </title>
+		<title>Krakow, Rzaska - Where I Live </title>
 		<updated>2018-06-10T08:34:33Z</updated>
 		<content>&lt;dl class="list-terms-variant-1 text-left"&gt;
 &lt;dt&gt;Name&lt;/dt&gt; 
