@@ -6,18 +6,18 @@ Published: '2018-06-11T17:51:20+02:00'
 Image: /assets/Images/crazy-house.jpg
 Tags:
   - Where I Live
-  - Białystok
+  - Bialystok
   - Bydgoszcz
-  - Gdańsk
+  - Gdansk
   - Katowice
   - Kielce
-  - Kraków
-  - Łódź
+  - Krakow
+  - Lodz
   - Lublin
   - Olsztyn
   - Opole
-  - Poznań
-  - Rzeszów
+  - Poznan
+  - Rzeszow
   - Szczecin
   - Torun
 ---
