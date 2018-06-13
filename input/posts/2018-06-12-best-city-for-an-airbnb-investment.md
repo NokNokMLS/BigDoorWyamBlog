@@ -1,5 +1,5 @@
 ---
-Title: Best city for an Airbnb Investment
+Title: Best city for an Airbnb Investment Q II 2018
 Author: Team BigDoor24
 Lead: Which city offers the greatest return on investment
 Published: '2018-06-12T13:44:13+02:00'
@@ -23,5 +23,9 @@ Before you rush off to Bydgoszcz , there are of course other factors that should
 Additionally it's hard to argue against Warsaw and Krakow being magnets for visitors to Poland but as our research shows, the obvious is not always the best.
 
 And don't forget, with bigdoor24.pl you not only get automatic discounts in agency fees but also cash back on homeloans.
+
+For updates on this and other property related statistics, follow us now on Facebook.
+
+
 
 Happy hunting
