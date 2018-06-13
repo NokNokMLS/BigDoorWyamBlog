@@ -33,8 +33,8 @@ Rental agreements are normally pretty standard but if you are wary of any of the
 
 **Upon Signing**
 
-You will be expected to pay your deposit of one month rent and the fist month in advance. Additionally you will have to bring your signed lease to the different utility offices to put your name on the relevant electricity, water bills etc.
+You will be expected to pay your deposit of one month rent and the first month in advance. Additionally you will have to bring your signed lease to the different utility offices to put your name on the relevant electricity, water bills etc.
 
-Agents have a legal responsibility for any property they negotiate on so you wont have this guarantee but you will have saved the fee less any legal and translator charges you incur.
+Agents have a legal responsibility for any property they negotiate on so you won't have this guarantee but you will have saved the fee less any legal and translator charges you incur.
 
 Happy Hunting !
