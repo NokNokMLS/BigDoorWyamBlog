@@ -16,7 +16,7 @@ If you are considering investing in Polish property and renting out with Airbnb,
 
  The graph below details expected returns based on a 45 sqm apartment and 100 % occupancy. ( source: Morizon, Airbnb)
 
-![](/assets/Images/airbnb-graph.png)
+![](../assets/Images/airbnb-graph.png){.img-fluid .img-responsive}
 
 Before you rush off to Bydgoszcz , there are of course other factors that should influence your decision i.e. local management facilities, future property price growth, tourism numbers etc.
 
