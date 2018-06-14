@@ -4,8 +4,34 @@
 	<id>http://blog.bigdoor24.pl/BigDoorWyamBlog</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-06-14T15:31:40Z</updated>
+	<updated>2018-06-14T15:56:49Z</updated>
 	<subtitle>Welcome!</subtitle>
+	<entry>
+		<author>
+			<name>Team BigDoor24</name>
+		</author>
+		<link href="http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-14-english-language-media-in-poland.html" />
+		<link rel="enclosure" type="image" href="http://blog.bigdoor24.pl/BigDoorWyamBlog/assets/Images/newspaper.png" />
+		<id>http://blog.bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-14-english-language-media-in-poland.html</id>
+		<title>English Language Media in Poland</title>
+		<updated>2018-06-14T15:12:05Z</updated>
+		<content>&lt;p&gt;Just a few news sources we recommend for the English speakers amongst us&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;National&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;thenews.pl&lt;/p&gt;
+&lt;p&gt;poland-today.pl&lt;/p&gt;
+&lt;p&gt;inyourpocket.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warsaw&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Warsawvoice.pl&lt;/p&gt;
+&lt;p&gt;WBJ.pl ( Warsaw Business Journal )&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Krakow&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Krakowpost.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wroclaw&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;wroclawuncut.com&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lodz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lodzpost.com&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Just a few news sources we recommend for the English speakers amongst us&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<author>
 			<name>Team BigDoor24</name>
