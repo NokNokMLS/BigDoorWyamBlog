@@ -1,5 +1,5 @@
 ---
-Title: Home or Investment - Buy in the secondary market
+Title: Home or Investment - Don't ignore the secondary market
 Author: Team BigDoor24
 Lead: 'Everyone wants new, which means there are bargains to be had'
 Published: '2018-06-14T12:55:44+02:00'
@@ -10,7 +10,7 @@ Tags:
 ---
 Case Study
 
-Recently our attention was drawn to a 7 year old detached house on 6 ars ( 600sqm ) of land which was for sale at a lower price than the new development next door of semi-detached houses on 3 ars.
+Recently our attention was drawn to a 7 year old detached house on 6 ars ( 600sqm ) of land which was for sale at a lower price than the new development next door of semi-detached houses on 3 ars..
 
 The purchase price, fit out costs and financing costs of the adjacent new development, ignoring all the personal time involved, far surpassed the cost of buying what was a perfectly modern detached house with little to refurbish.
 
