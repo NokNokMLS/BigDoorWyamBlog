@@ -5,8 +5,8 @@ Lead: Buying or Selling - some tips on hiring  a property Valuer
 Published: '2018-06-13T15:36:39+02:00'
 Image: /assets/Images/small-house-made-out-of-gold-coins.jpg
 Tags:
-  - Buying
-  - Selling
+  - Buy
+  - Sell
   - Valuation
 ---
 Whether buying or selling, it's a good idea ( and required if getting a home loan ) to get a good independent valuation. And strangely, not all valuers are created equally.
