@@ -1,4 +1,4 @@
-
+            
             <div class="shell section-70 section-lg-120">
                 <div class="range text-md-left">
                     <div class="cell-md-4">
@@ -11,8 +11,12 @@
                     <div class="cell-md-4">
                         <h5>Recent posts</h5>
                         <div class="post-blog-sm offset-top-20 offset-md-top-36">
-                            <a href="@Context.GetLink("/posts/2018-02-12-where-i-live-john-naughton-krakow-rzaska.html")" class="text-bold">Krakow, Rzaska - House & Home</a>
-                            <p class="small offset-top-7">Feb 12, 2018</p>
+                            @foreach(IDocument post in Documents[Blog.BlogPosts].Take(4))
+            {   
+                string lead = post.String(BlogKeys.Lead);
+                <a class="text-bold" href="@Context.GetLink(post)">@post.WithoutSettings.String(BlogKeys.Title)</a>
+                <p class="small offset-top-7">@(post.Get<DateTime>(BlogKeys.Published).ToLongDateString(Context))</p>
+            }
                         </div>
                     </div>
                     <div class="cell-md-4">

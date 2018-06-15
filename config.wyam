@@ -5,10 +5,21 @@
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "blog.bigdoor24.pl";
+Settings[Keys.Host] = "bigdoor24.pl";
 Settings[BlogKeys.Title] = "BigDoor24 Blog";
 Settings[BlogKeys.Description] = "Welcome!";
 //Settings[Keys.LinkRoot] = "/blog";
 Settings[Keys.LinkHideExtensions] = false;
 Settings[BlogKeys.ArchiveExcerpts] = true;
 // Add any pipeline customizations here
+
+//Pipelines[Blog.Tags].InsertAfter("Populate",
+  //  new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
+
+public FilePath GetValidFilePath(FilePath filePath)
+{
+    string dir = filePath.Directory.ToString();
+    filePath = new FilePath(filePath.FullPath.ToLower().Replace("ą","a").Replace("ć","c").Replace("ę","e").Replace("ł","l").Replace("ń","n").Replace("ó","o").Replace("ś","s").Replace("ź","z").Replace("ż","z"));// "test" + filePath.FileName;
+     // Do whatever you need to the FilePath object here
+     return filePath;
+}
