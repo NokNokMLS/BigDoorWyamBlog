@@ -18,3 +18,9 @@ It's a long time ago that relationships between a bank and their customer had an
 At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft I know, but there you go .
 
 This makes it even more important that you employ the services of a qualified independent Credit Advisor.  They earn commission from the bank so there is no charge to you for their work. A good Advisor should be able to assess your situation quickly and give you good guidance on how much you can expect to borrow. Additionally they will also be aware of which banks would be more interested in lending to you, thus increasing your chances of success.
+
+When budgeting , be sure to include the valuation and arrangement fees that can be anywhere between 1-2 % of the loan amount.
+
+And don't forget, by requesting contact with an Advisor through BigDoor24, you will receive cashback once your loan is confirmed. This is not an offer you will get by going direct.
+
+Happy Hunting !
