@@ -27,6 +27,7 @@ public FilePath GetValidFilePath(FilePath filePath)
 public class PostMetaData
 {
     public string Tag { get; set; }
+    public string Url {get; set;}
     public int Weight { get; set; }
 }
 
@@ -42,10 +43,12 @@ public class GetJsonDocument : IModule
             {
                 string tag = tagDocument.String(BlogKeys.Tag);
                 int postCount = tagDocument.Get<int>(Keys.TotalItems);
+                string url = context.GetLink(tagDocument);
                 result.Add(new PostMetaData
                 {
                   Tag = tag,
-                  Weight = postCount
+                  Weight = postCount,
+                  Url = url
                 });
             }
 
