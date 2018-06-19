@@ -1,9 +1,10 @@
 ---
-Title: Where I live
+Title: test service
 Author: Team BigDoor24
-Lead: Where do you live ?
+Lead: test service
 Published: '2018-06-11T17:51:20+02:00'
 Image: /assets/Images/crazy-house.jpg
+SearchIndexItem: kraków
 Tags:
   - Where I Live
   - Bialystok

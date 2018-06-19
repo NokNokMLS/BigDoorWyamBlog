@@ -1,5 +1,6 @@
 #n -p Wyam.Markdown
 #n -p Wyam.Yaml
+#n Wyam.SearchIndex
 
 #theme CleanBlog
 #recipe Blog
@@ -62,4 +63,19 @@ Pipelines.Add("CreateJson",
     Documents(Blog.Tags),  // Fetch the post documents
     new GetJsonDocument(),
     WriteFiles((doc,ctx) => "tags.json")
+);
+
+//https://randalvance.net/post/implementing-searching-wyam.html
+Pipelines.Add("ServicesSearch",
+    ReadFiles("services/*.md"),
+    FrontMatter(Yaml()),
+    Markdown(),
+    Meta("SearchIndexItem", new SearchIndexItem("/" + @doc.String("RelativeFilePathBase"), @doc.String("Title"), @doc.Content)
+            { Description = @doc.String("Description"), Tags = @doc.String("Tags") })
+);
+
+Pipelines.Add("SearchIndex",
+	Documents("ServicesSearch"),
+	SearchIndex((FilePath)"stopwords.txt"),
+	WriteFiles((doc,ctx) => string.IsNullOrEmpty(doc.Content) ? null : "assets/js/searchindex.js").UseWriteMetadata(false)
 );
