@@ -23,4 +23,4 @@ Tags:
 city: Kraków
 ---
 test service
-try the [search here](/blog/search/html)
+try the [search here](../search.html)
