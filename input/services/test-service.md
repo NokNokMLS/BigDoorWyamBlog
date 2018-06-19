@@ -1,5 +1,5 @@
 ---
-Title: Test Service
+Title: Test Service with Search
 Author: Team BigDoor24
 Lead: Test Service
 Published: '2018-06-11T17:51:20+02:00'
@@ -23,3 +23,4 @@ Tags:
 city: Kraków
 ---
 test service
+try the [search here](/blog/search/html)
