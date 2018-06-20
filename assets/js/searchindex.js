@@ -22,14 +22,14 @@ var searchModule = function() {
         id:0,
         title:"test service",
         content:"Can you help your fellow expats and promote your business interests for free If you are already living in Poland please send us details of your area in English and or your native language An example of the information that would be helpful can be found here https bigdoor pl blog posts -where-i-live-john-naughton-krakow-rzaska html Simply email your contribution to easier bigdoor pl and we will do the rest Big Thanks",
-        description:"Welcome",
+        description:"krakow",
         tags:'Where I Live'
     });
 
     y({
         url:'/BigDoorWyamBlog/services/test-service',
         title:"test service",
-        description:"Welcome!"
+        description:"krakow"
     });
 
     return {
