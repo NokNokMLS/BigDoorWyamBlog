@@ -4,7 +4,7 @@
 	<id>http://bigdoor24.pl/BigDoorWyamBlog</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-06-20T07:00:53Z</updated>
+	<updated>2018-06-20T08:19:07Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
@@ -240,6 +240,19 @@
 &lt;p&gt;Big Thanks !&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Can you help your fellow expats (and promote your business/interests for free) ?&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<author>
+			<name>mark burton</name>
+		</author>
+		<link href="http://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-11-test.html" />
+		<link rel="enclosure" type="image" href="http://bigdoor24.pl/BigDoorWyamBlog/assets/Images/bigdoor24-white-wide-logo.png" />
+		<id>http://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-11-test.html</id>
+		<title>test </title>
+		<updated>2018-06-11T12:28:35Z</updated>
+		<content>&lt;p&gt;test test delete me&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;test test delete me&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<author>
