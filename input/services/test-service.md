@@ -4,7 +4,7 @@ Author: Team BigDoor24
 Lead: test service
 Published: '2018-06-11T17:51:20+02:00'
 Image: /assets/Images/crazy-house.jpg
-SearchIndexItem: kraków
+SearchIndexItem: krakow
 Tags:
   - Where I Live
   - Bialystok

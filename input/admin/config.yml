@@ -41,6 +41,18 @@ collections:
         name: "city"
         required: true
         widget: "select"
-        default: "top"
-        options: ["Kraków", "Warszawa (Warsaw)", "Gdańsk"]
+        default: "Krakow"
+        options: ["Krakow", "Warszawa (Warsaw)", "Gdansk"]
+      - label: "District"
+        name: "district"
+        required: true
+        widget: "select"
+        default: "Centrum"
+        options: ["Bronowice", "Kazimierz", "Centrum"]
+      - label: "Service"
+        name: "service"
+        required: true
+        widget: "select"
+        default: "Car"
+        options: ["Hair", "Car", "Food"]
       - {label: "Body", name: "body", widget: "markdown"}

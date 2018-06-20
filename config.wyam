@@ -71,7 +71,7 @@ Pipelines.Add("ServicesSearch",
     FrontMatter(Yaml()),
     Markdown(),
     Meta("SearchIndexItem", new SearchIndexItem("/" + @doc.String("RelativeFilePathBase"), @doc.String("Title"), @doc.Content)
-            { Description = @doc.String("Description"), Tags = @doc.String("Tags") })
+            { Description = @doc.String("SearchIndexItem"), Tags = @doc.String("Tags") })
 );
 
 Pipelines.Add("SearchIndex",
