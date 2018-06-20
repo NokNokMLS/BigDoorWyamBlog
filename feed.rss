@@ -5,8 +5,18 @@
 		<link>http://bigdoor24.pl/BigDoorWyamBlog</link>
 		<description>Welcome!</description>
 		<copyright>2018</copyright>
-		<pubDate>Wed, 20 Jun 2018 08:19:07 GMT</pubDate>
-		<lastBuildDate>Wed, 20 Jun 2018 08:19:07 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Jun 2018 08:21:49 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Jun 2018 08:21:49 GMT</lastBuildDate>
+		<item>
+			<title>test</title>
+			<link>http://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-19-test.html</link>
+			<description>&lt;p&gt;delete me&lt;/p&gt;</description>
+			<author>mark</author>
+			<guid>http://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-19-test.html</guid>
+			<pubDate>Tue, 19 Jun 2018 13:04:10 GMT</pubDate>
+			<content:encoded>&lt;p&gt;delete me&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Getting a Home Loan</title>
 			<link>http://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-15-getting-a-home-loan.html</link>
