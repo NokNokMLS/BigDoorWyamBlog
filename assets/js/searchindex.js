@@ -26,10 +26,24 @@ var searchModule = function() {
         tags:'Where I Live'
     });
 
+    a({
+        id:1,
+        title:"test new fields",
+        content:"test new fields should search for krakow bronowice and hair but not this main body content so no results for oscypek",
+        description:'',
+        tags:'additional search tags'
+    });
+
     y({
         url:'/BigDoorWyamBlog/services/test-service',
         title:"test service",
         description:"krakow"
+    });
+
+    y({
+        url:'/BigDoorWyamBlog/services/test-new-fields',
+        title:"test new fields",
+        description:""
     });
 
     return {
