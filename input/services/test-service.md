@@ -24,3 +24,9 @@ city: Kraków
 ---
 test service
 try the [search here](../search.html)
+
+some more words to search
+
+buy
+sell
+oscypek
