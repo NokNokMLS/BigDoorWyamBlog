@@ -21,6 +21,8 @@ Tags:
   - Szczecin
   - Torun
 city: Kraków
+district: Kazimierz
+service: Car
 ---
 test service
 try the [search here](../search.html)
