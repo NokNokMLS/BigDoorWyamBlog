@@ -20,44 +20,44 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"Test Service with Search",
-        content:"test service try the search here some more words to search buy sell oscypek",
-        description:'',
-        tags:'Where I Live'
+        title:"John Hair Salon",
+        content:"Hair Salon",
+        description:"The best John Hair Salon in Krakow Centrum",
+        tags:'Krakow Centrum Hair Hair'
     });
 
     a({
         id:1,
-        title:"test new fields",
-        content:"test new fields should search for krakow bronowice and hair but not this main body content so no results for oscypek",
-        description:'',
-        tags:'additional search tags'
+        title:"Dave Car Rental",
+        content:"additional search tags",
+        description:"The Best Dave Car Rental in Krakow Bronowice",
+        tags:'Krakow Bronowice Car Car'
     });
 
     a({
         id:2,
-        title:"test rd service",
-        content:"test krakow cemtrum car",
-        description:'',
-        tags:'keywords'
+        title:"Mark Car Rental",
+        content:"Car Rental",
+        description:"The Best Mark Car Rental in Krakow Kazimierz",
+        tags:'Krakow Kazimierz Car Car'
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/test-service',
-        title:"Test Service with Search",
-        description:""
+        url:'/BigDoorWyamBlog/services/johns-hair-salon',
+        title:"John's Hair Salon",
+        description:"The best John's Hair Salon in Krakow Centrum"
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/test-new-fields',
-        title:"test new fields",
-        description:""
+        url:'/BigDoorWyamBlog/services/daves-car-rental',
+        title:"Dave's Car Rental",
+        description:"The Best Dave's Car Rental in Krakow, Bronowice"
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/test-3rd-service',
-        title:"test 3rd service",
-        description:""
+        url:'/BigDoorWyamBlog/services/marks-car-rental',
+        title:"Mark's Car Rental",
+        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
     });
 
     return {
