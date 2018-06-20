@@ -32,7 +32,6 @@ build_script:
   - pwd
   - ls
   - ls
-  - ls blog
   - ls ..\output
   
 artifacts:
@@ -79,6 +78,7 @@ for:
     - git checkout %PUSHTOBRANCH%
     - git rm -rf .
     - ls
+    - ls blog
     - ls ..\ghpages
     - xcopy ..\ghpages . /E
     # EDIT your domain name or remove if not using a custom domain
