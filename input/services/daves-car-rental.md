@@ -1,12 +1,12 @@
 ---
-Title: test new fields
+Title: Dave's Car Rental
 Author: mark
-Lead: test new fields lead
+Lead: The Best Dave's Car Rental in Krakow, Bronowice
 Published: '2018-06-20T09:28:08+02:00'
 Tags:
   - additional search tags
 city: Krakow
 district: Bronowice
-service: Hair
+service: Car
 ---
 test new fields should search for krakow bronowice and hair but not this main body content, so no results for oscypek.

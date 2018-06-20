@@ -70,8 +70,8 @@ Pipelines.Add("ServicesSearch",
     ReadFiles("services/*.md"),
     FrontMatter(Yaml()),
     Markdown(),
-    Meta("SearchIndexItem", new SearchIndexItem("/" + @doc.String("RelativeFilePathBase"), @doc.String("Title"), @doc.Content)
-            { Description = @doc.String("SearchIndexItem"), Tags = @doc.String("Tags") })
+    Meta("SearchIndexItem", new SearchIndexItem("/" + @doc.String("RelativeFilePathBase"), @doc.String("Title"), @doc.String("Tags"))
+            { Description = @doc.String("Lead"), Tags = @doc.String("city") + " " + @doc.String("district") + " " + @doc.String("Service") + " " + @doc.String("Service") })
 );
 
 Pipelines.Add("SearchIndex",
