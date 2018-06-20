@@ -49,8 +49,8 @@ collections:
         widget: "select"
         default: "Centrum"
         options: ["Bronowice", "Kazimierz", "Centrum"]
-      - label: "ServiceType"
-        name: "serviceType"
+      - label: "Service"
+        name: "service"
         required: true
         widget: "select"
         default: "Car"
