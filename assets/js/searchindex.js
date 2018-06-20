@@ -20,6 +20,14 @@ var searchModule = function() {
 
     a({
         id:0,
+        title:"test new fields",
+        content:"test new fields should search for krakow bronowice and hair but not this main body content so no results for oscypek",
+        description:'',
+        tags:'additional search tags'
+    });
+
+    a({
+        id:1,
         title:"test service",
         content:"Can you help your fellow expats and promote your business interests for free If you are already living in Poland please send us details of your area in English and or your native language An example of the information that would be helpful can be found here https bigdoor pl blog posts -where-i-live-john-naughton-krakow-rzaska html Simply email your contribution to easier bigdoor pl and we will do the rest Big Thanks",
         description:"krakow",
@@ -27,11 +35,17 @@ var searchModule = function() {
     });
 
     a({
-        id:1,
-        title:"test new fields",
-        content:"test new fields should search for krakow bronowice and hair but not this main body content so no results for oscypek",
+        id:2,
+        title:"test rd service",
+        content:"test krakow cemtrum car",
         description:'',
-        tags:'additional search tags'
+        tags:'keywords'
+    });
+
+    y({
+        url:'/BigDoorWyamBlog/services/test-new-fields',
+        title:"test new fields",
+        description:""
     });
 
     y({
@@ -41,8 +55,8 @@ var searchModule = function() {
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/test-new-fields',
-        title:"test new fields",
+        url:'/BigDoorWyamBlog/services/test-3rd-service',
+        title:"test 3rd service",
         description:""
     });
 
