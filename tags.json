@@ -5,18 +5,23 @@
     "Weight": 5
   },
   {
+    "Tag": "Sell",
+    "Url": "/tags/Sell.html",
+    "Weight": 4
+  },
+  {
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
+    "Weight": 3
+  },
+  {
     "Tag": "Krakow",
     "Url": "/tags/Krakow.html",
     "Weight": 3
   },
   {
-    "Tag": "Sell",
-    "Url": "/tags/Sell.html",
-    "Weight": 3
-  },
-  {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
+    "Tag": "test",
+    "Url": "/tags/test.html",
     "Weight": 2
   },
   {
@@ -25,29 +30,9 @@
     "Weight": 2
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 2
-  },
-  {
-    "Tag": "test",
-    "Url": "/tags/test.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Zabierzow",
-    "Url": "/tags/Zabierzow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzaska",
-    "Url": "/tags/Rzaska.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
   },
   {
     "Tag": "Szczecin",
@@ -60,48 +45,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Katowice",
     "Url": "/tags/Katowice.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
     "Weight": 1
   },
   {
@@ -110,38 +55,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Invest",
-    "Url": "/tags/Invest.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "language school",
-    "Url": "/tags/language-school.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Kantor",
     "Url": "/tags/Kantor.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Zloty",
-    "Url": "/tags/Zloty.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "FX",
-    "Url": "/tags/FX.html",
     "Weight": 1
   },
   {
@@ -150,13 +65,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
+    "Tag": "Zabierzow",
+    "Url": "/tags/Zabierzow.html",
     "Weight": 1
   },
   {
-    "Tag": "advice",
-    "Url": "/tags/advice.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "FX",
+    "Url": "/tags/FX.html",
     "Weight": 1
   },
   {
@@ -165,8 +95,73 @@
     "Weight": 1
   },
   {
+    "Tag": "Rzaska",
+    "Url": "/tags/Rzaska.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Invest",
+    "Url": "/tags/Invest.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Zloty",
+    "Url": "/tags/Zloty.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Home Loan",
     "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "language school",
+    "Url": "/tags/language-school.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
     "Weight": 1
   }
 ]
