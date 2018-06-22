@@ -2,7 +2,7 @@
   {
     "Tag": "Buy",
     "Url": "/BigDoorWyamBlog/tags/Buy.html",
-    "Weight": 4
+    "Weight": 5
   },
   {
     "Tag": "Krakow",
@@ -10,18 +10,13 @@
     "Weight": 3
   },
   {
-    "Tag": "test",
-    "Url": "/BigDoorWyamBlog/tags/test.html",
-    "Weight": 2
+    "Tag": "Sell",
+    "Url": "/BigDoorWyamBlog/tags/Sell.html",
+    "Weight": 3
   },
   {
     "Tag": "Where I Live",
     "Url": "/BigDoorWyamBlog/tags/Where-I-Live.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Sell",
-    "Url": "/BigDoorWyamBlog/tags/Sell.html",
     "Weight": 2
   },
   {
@@ -30,8 +25,18 @@
     "Weight": 2
   },
   {
-    "Tag": "Invest",
-    "Url": "/BigDoorWyamBlog/tags/Invest.html",
+    "Tag": "test",
+    "Url": "/BigDoorWyamBlog/tags/test.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Investment",
+    "Url": "/BigDoorWyamBlog/tags/Investment.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/BigDoorWyamBlog/tags/Rzeszow.html",
     "Weight": 1
   },
   {
@@ -40,33 +45,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Valuation",
-    "Url": "/BigDoorWyamBlog/tags/Valuation.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Investment",
-    "Url": "/BigDoorWyamBlog/tags/Investment.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "advice",
-    "Url": "/BigDoorWyamBlog/tags/advice.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzaska",
-    "Url": "/BigDoorWyamBlog/tags/Rzaska.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Gdansk",
-    "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
+    "Tag": "Opole",
+    "Url": "/BigDoorWyamBlog/tags/Opole.html",
     "Weight": 1
   },
   {
@@ -75,8 +55,8 @@
     "Weight": 1
   },
   {
-    "Tag": "language school",
-    "Url": "/BigDoorWyamBlog/tags/language-school.html",
+    "Tag": "Zloty",
+    "Url": "/BigDoorWyamBlog/tags/Zloty.html",
     "Weight": 1
   },
   {
@@ -85,18 +65,38 @@
     "Weight": 1
   },
   {
-    "Tag": "HomeLoan",
-    "Url": "/BigDoorWyamBlog/tags/HomeLoan.html",
+    "Tag": "advice",
+    "Url": "/BigDoorWyamBlog/tags/advice.html",
     "Weight": 1
   },
   {
-    "Tag": "Torun",
-    "Url": "/BigDoorWyamBlog/tags/Torun.html",
+    "Tag": "Zabierzow",
+    "Url": "/BigDoorWyamBlog/tags/Zabierzow.html",
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/BigDoorWyamBlog/tags/Rzeszow.html",
+    "Tag": "Poznan",
+    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/BigDoorWyamBlog/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "language school",
+    "Url": "/BigDoorWyamBlog/tags/language-school.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/BigDoorWyamBlog/tags/Valuation.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Szczecin",
+    "Url": "/BigDoorWyamBlog/tags/Szczecin.html",
     "Weight": 1
   },
   {
@@ -105,13 +105,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Katowice",
-    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
+    "Tag": "Kielce",
+    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -125,28 +120,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Zloty",
-    "Url": "/BigDoorWyamBlog/tags/Zloty.html",
-    "Weight": 1
-  },
-  {
     "Tag": "rent",
     "Url": "/BigDoorWyamBlog/tags/rent.html",
     "Weight": 1
   },
   {
-    "Tag": "Zabierzow",
-    "Url": "/BigDoorWyamBlog/tags/Zabierzow.html",
+    "Tag": "Home Loan",
+    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
     "Weight": 1
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/BigDoorWyamBlog/tags/Szczecin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/BigDoorWyamBlog/tags/Opole.html",
+    "Tag": "Torun",
+    "Url": "/BigDoorWyamBlog/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -155,13 +140,33 @@
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Tag": "Gdansk",
+    "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
     "Weight": 1
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/BigDoorWyamBlog/tags/Bydgoszcz.html",
+    "Tag": "Invest",
+    "Url": "/BigDoorWyamBlog/tags/Invest.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "General Information",
+    "Url": "/BigDoorWyamBlog/tags/General-Information.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzaska",
+    "Url": "/BigDoorWyamBlog/tags/Rzaska.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
     "Weight": 1
   }
 ]
