@@ -8,7 +8,8 @@ Tags:
   - Buy
   - Sell
   - Investment
-  - ''
+  - News
+  - General Information
 ---
 Case Study
 
