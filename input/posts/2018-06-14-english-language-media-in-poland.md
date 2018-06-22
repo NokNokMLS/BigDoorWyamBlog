@@ -3,35 +3,37 @@ Title: English Language Media in Poland
 Author: Team BigDoor24
 Lead: What's happenin'
 Published: '2018-06-14T17:12:05+02:00'
-Image: /assets/Images/newspaper.png
+Image: /assets/Images/newspapers.jpg
 Tags:
   - News
-  - ''
+  - General Information
 ---
-Just a few news sources we recommend for the English speakers amongst us
+Just a few news sources we recommend for the English speakers amongst us. 
+
+(Note - If you believe we have missed some, please let us now and we'll be happy to update)
 
 **National**
 
-thenews.pl
+<http://thenews.pl>
 
-poland-today.pl
+<https://www.inyourpocket.com/poland>
 
-inyourpocket.com
+[http://poland-today.pl](https://www.inyourpocket.com/poland)
 
 **Warsaw**
 
-Warsawvoice.pl
+<http://www.warsawvoice.pl>
 
-WBJ.pl ( Warsaw Business Journal )
+<http://wbj.pl>
 
 **Krakow**
 
-Krakowpost.com
+<http://www.krakowpost.com>
 
 **Wroclaw**
 
-wroclawuncut.com
+<http://wroclawuncut.com>
 
 **Lodz**
 
-Lodzpost.com
+<http://lodzpost.com>
