@@ -7,7 +7,9 @@ Image: /assets/Images/houseexpensive.jpg
 Tags:
   - Krakow
   - Investment
-  - ''
+  - Buy
+  - Sell
+  - News
 ---
 No doubt the really really expensive properties currently for sale are whispered about amongst the worlds elite and not posted on websites for all to see. But this one is.
 
