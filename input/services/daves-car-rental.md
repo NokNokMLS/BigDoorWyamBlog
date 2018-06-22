@@ -5,7 +5,7 @@ Lead: The Best Dave's Car Rental in Krakow, Bronowice
 Published: '2018-06-20T09:28:08+02:00'
 Tags:
   - additional search tags
-city: Krakow
+city: Kraków
 district: Bronowice
 service: Car
 ---
