@@ -25,9 +25,13 @@
                 </p>
 
 
-                <div class="thumbnail-variant-1"><a href="@Context.GetLink(post)">
-                <img src="@Context.GetLink(Image)" width="886" height="520" alt="" class="img-responsive center-block"></a>
-                    </div>
+                <div class="row">
+                <div class="col-md-4 thumbnail-variant-1">
+                    <a href="@Context.GetLink(post)">
+                        <img src="@Context.GetLink(Image)" alt="" class="img-responsive center-block">
+                    </a>
+                </div>
+                <div class="col-md-8 post-list-lead">
                     @if(!string.IsNullOrWhiteSpace(lead))
                     {
                         <p class="offset-top-20">
@@ -35,9 +39,11 @@
                         </p>
                     }
                     @if(Context.Bool(BlogKeys.ArchiveExcerpts))
-            {
-                @Html.Raw(post.String(BlogKeys.Excerpt))
-            }    
+                    {
+                        @Html.Raw(post.String(BlogKeys.Excerpt))
+                    }    
+                </div>
+            </div>
                         <div class="range offset-top-20 range-xs-middle">
                           <div class="cell-md-8">
                             <p class="small">

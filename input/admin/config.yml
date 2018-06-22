@@ -41,8 +41,8 @@ collections:
         name: "city"
         required: true
         widget: "select"
-        default: "Krakow"
-        options: ["Krakow", "Warszawa (Warsaw)", "Gdansk"]
+        default: ""
+        options: ["Kraków", "Warszawa (Warsaw)", "Gdańsk"]
       - label: "District"
         name: "district"
         required: true

@@ -14,21 +14,28 @@
                 <p class="post-blog-meta small offset-top-16">
                 <a href="@Context.GetLink(post)">@post.WithoutSettings.String("Author")</a> - <a href="#" class="text-gray">@(post.Get<DateTime>(BlogKeys.Published).ToLongDateString(Context))</a>
                 </p>
-
-
-                <div class="thumbnail-variant-1"><a href="@Context.GetLink(post)">
-                <img src="@Context.GetLink(Image)" width="886" height="520" alt="" class="img-responsive center-block"></a>
+                <div class="row">
+                <div class="col-sm-4 thumbnail-variant-1">
+                <a href="@Context.GetLink(post)">
+                <img src="@Context.GetLink(Image)"  alt="" class="img-responsive center-block"></a>
                     </div>
+                    <div class="col-sm-8 post-list-lead">
                     @if(!string.IsNullOrWhiteSpace(lead))
                     {
                         <p class="offset-top-20">
                             @lead
-                        </p>
+                        </p>   
                     }
+                    </div> 
+                    <span class="post-list-excerpt">
                     @if(Context.Bool(BlogKeys.ArchiveExcerpts))
                     {
-                        @Html.Raw(post.String(BlogKeys.Excerpt))
-                    }    
+                        <p style="padding-left: 25px">
+                        @Html.Raw(post.String(BlogKeys.Excerpt).Replace("<p>", "<p class='post-list-excerpt'>"))
+                        </p>
+                    }
+                        </span>
+                    </div>
                         <div class="range offset-top-20 range-xs-middle">
                           <div class="cell-md-8">
                             <p class="small">

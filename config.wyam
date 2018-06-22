@@ -65,7 +65,8 @@ Pipelines.Add("CreateJson",
     WriteFiles((doc,ctx) => "tags.json")
 );
 
-//https://randalvance.net/post/implementing-searching-wyam.html
+// https://randalvance.net/post/implementing-searching-wyam.html
+// https://github.com/cvan/lunr-unicode-normalizer
 Pipelines.Add("ServicesSearch",
     ReadFiles("services/*.md"),
     FrontMatter(Yaml()),
