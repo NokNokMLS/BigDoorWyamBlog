@@ -13,8 +13,8 @@ No doubt the really really expensive properties currently for sale are whispered
 
 Only 18 km from Krakow center, this is the most expensive purely residential advertised property for sale at the moment in Poland. 
 
-Boasting a tennis court ( only 1 ! ) and surrounded by forest the price tag of PLN 27,000,000 probably puts it out of reach of the average person. With 24 hour security, the property is offered by Crystal House Brokers in Warsaw. 
+Boasting a tennis court ( only 1 ! ) and surrounded by forest, the price tag of PLN 27,000,000 probably puts it out of reach of the average person. With 24 hour security, the property is offered by Crystal House Brokers in Warsaw. 
 
-If you are interested in buying it , you should know that in addition to your deposit taxes and costs of about PLN 5,000000 , your mortgage repayment per month would be expected to be about PLN 120,000 ...per month.
+If you are interested in buying it, you should know that in addition to your deposit, taxes and costs, expected to be about PLN 5,000000, your mortgage repayment would be expected to be about PLN 120,000 ...per month.
 
 Time to start looking behind the couch !
