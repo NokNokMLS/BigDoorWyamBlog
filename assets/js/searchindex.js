@@ -20,22 +20,6 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"John Hair Salon",
-        content:"Hair Salon",
-        description:"The best John Hair Salon in Krakow Centrum",
-        tags:'Krakow Centrum Hair Hair'
-    });
-
-    a({
-        id:1,
-        title:"Dave Car Rental",
-        content:"additional search tags",
-        description:"The Best Dave Car Rental in Krakow Bronowice",
-        tags:'Krakow Bronowice Car Car'
-    });
-
-    a({
-        id:2,
         title:"Mark Car Rental",
         content:"Car Rental",
         description:"The Best Mark Car Rental in Krakow Kazimierz",
@@ -43,11 +27,25 @@ var searchModule = function() {
     });
 
     a({
-        id:3,
-        title:"Food shop in Bronowice",
-        content:"pierogi",
-        description:"Polish food shop with pierogi",
-        tags:'Krakow Bronowice Food Food'
+        id:1,
+        title:"John Hair Salon",
+        content:"Hair Salon",
+        description:"The best John Hair Salon in Krakow Centrum",
+        tags:'Krakow Centrum Hair Hair'
+    });
+
+    a({
+        id:2,
+        title:"Dave Car Rental",
+        content:"additional search tags",
+        description:"The Best Dave Car Rental in Krakow Bronowice",
+        tags:'Krakow Bronowice Car Car'
+    });
+
+    y({
+        url:'/services/marks-car-rental',
+        title:"Mark's Car Rental",
+        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
     });
 
     y({
@@ -60,18 +58,6 @@ var searchModule = function() {
         url:'/services/daves-car-rental',
         title:"Dave's Car Rental",
         description:"The Best Dave's Car Rental in Krakow, Bronowice"
-    });
-
-    y({
-        url:'/services/marks-car-rental',
-        title:"Mark's Car Rental",
-        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
-    });
-
-    y({
-        url:'/services/a-food-shop-in-bronowice',
-        title:"A Food shop in Bronowice",
-        description:"Polish food shop with pierogi"
     });
 
     return {
