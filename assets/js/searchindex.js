@@ -28,18 +28,18 @@ var searchModule = function() {
 
     a({
         id:1,
-        title:"Dave Car Rental",
-        content:"additional search tags",
-        description:"The Best Dave Car Rental in Krakow Bronowice",
-        tags:'Krakow Bronowice Car Car'
-    });
-
-    a({
-        id:2,
         title:"Mark Car Rental",
         content:"Car Rental",
         description:"The Best Mark Car Rental in Krakow Kazimierz",
         tags:'Krakow Kazimierz Car Car'
+    });
+
+    a({
+        id:2,
+        title:"Dave Car Rental",
+        content:"additional search tags",
+        description:"The Best Dave Car Rental in Krakow Bronowice",
+        tags:'Krakow Bronowice Car Car'
     });
 
     y({
@@ -49,15 +49,15 @@ var searchModule = function() {
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/daves-car-rental',
-        title:"Dave's Car Rental",
-        description:"The Best Dave's Car Rental in Krakow, Bronowice"
-    });
-
-    y({
         url:'/BigDoorWyamBlog/services/marks-car-rental',
         title:"Mark's Car Rental",
         description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+    });
+
+    y({
+        url:'/BigDoorWyamBlog/services/daves-car-rental',
+        title:"Dave's Car Rental",
+        description:"The Best Dave's Car Rental in Krakow, Bronowice"
     });
 
     return {
