@@ -20,18 +20,18 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"Mark Car Rental",
-        content:"Car Rental",
-        description:"The Best Mark Car Rental in Krakow Kazimierz",
-        tags:'Krakow Kazimierz Car Car'
-    });
-
-    a({
-        id:1,
         title:"John Hair Salon",
         content:"Hair Salon",
         description:"The best John Hair Salon in Krakow Centrum",
         tags:'Krakow Centrum Hair Hair'
+    });
+
+    a({
+        id:1,
+        title:"Mark Car Rental",
+        content:"Car Rental",
+        description:"The Best Mark Car Rental in Krakow Kazimierz",
+        tags:'Krakow Kazimierz Car Car'
     });
 
     a({
@@ -43,15 +43,15 @@ var searchModule = function() {
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/marks-car-rental',
-        title:"Mark's Car Rental",
-        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
-    });
-
-    y({
         url:'/BigDoorWyamBlog/services/johns-hair-salon',
         title:"John's Hair Salon",
         description:"The best John's Hair Salon in Krakow Centrum"
+    });
+
+    y({
+        url:'/BigDoorWyamBlog/services/marks-car-rental',
+        title:"Mark's Car Rental",
+        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
     });
 
     y({
