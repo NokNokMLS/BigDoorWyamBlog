@@ -20,38 +20,38 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"John Hair Salon",
-        content:"Hair Salon",
-        description:"The best John Hair Salon in Krakow Centrum",
-        tags:'Krakow Centrum Hair Hair'
+        title:"Mark Car Rental",
+        content:"Car Rental",
+        description:"Best Mark Car Rental Krakow Kazimierz",
+        tags:'Krakow Kazimierz Car Car'
     });
 
     a({
         id:1,
-        title:"Mark Car Rental",
-        content:"Car Rental",
-        description:"The Best Mark Car Rental in Krakow Kazimierz",
-        tags:'Krakow Kazimierz Car Car'
+        title:"John Hair Salon",
+        content:"Hair Salon",
+        description:"best John Hair Salon Krakow Centrum",
+        tags:'Krakow Centrum Hair Hair'
     });
 
     a({
         id:2,
         title:"Dave Car Rental",
         content:"additional search tags",
-        description:"The Best Dave Car Rental in Krakow Bronowice",
-        tags:'Krakow Bronowice Car Car'
-    });
-
-    y({
-        url:'/services/johns-hair-salon',
-        title:"John's Hair Salon",
-        description:"The best John's Hair Salon in Krakow Centrum"
+        description:"Best Dave Car Rental Krakow Bronowice",
+        tags:'Kraków Bronowice Car Car'
     });
 
     y({
         url:'/services/marks-car-rental',
         title:"Mark's Car Rental",
         description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+    });
+
+    y({
+        url:'/services/johns-hair-salon',
+        title:"John's Hair Salon",
+        description:"The best John's Hair Salon in Krakow Centrum"
     });
 
     y({
