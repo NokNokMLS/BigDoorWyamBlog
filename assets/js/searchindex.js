@@ -20,18 +20,18 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"Mark Car Rental",
-        content:"Car Rental",
-        description:"Best Mark Car Rental Krakow Kazimierz",
-        tags:'Krakow Kazimierz Car Car'
-    });
-
-    a({
-        id:1,
         title:"Dave Car Rental",
         content:"additional search tags",
         description:"Best Dave Car Rental Krakow Bronowice",
         tags:'Kraków Bronowice Car Car'
+    });
+
+    a({
+        id:1,
+        title:"Mark Car Rental",
+        content:"Car Rental",
+        description:"Best Mark Car Rental Krakow Kazimierz",
+        tags:'Krakow Kazimierz Car Car'
     });
 
     a({
@@ -43,15 +43,15 @@ var searchModule = function() {
     });
 
     y({
-        url:'/BigDoorWyamBlog/services/marks-car-rental',
-        title:"Mark's Car Rental",
-        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
-    });
-
-    y({
         url:'/BigDoorWyamBlog/services/daves-car-rental',
         title:"Dave's Car Rental",
         description:"The Best Dave's Car Rental in Krakow, Bronowice"
+    });
+
+    y({
+        url:'/BigDoorWyamBlog/services/marks-car-rental',
+        title:"Mark's Car Rental",
+        description:"The Best Mark's Car Rental in Krakow, Kazimierz"
     });
 
     y({
