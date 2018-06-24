@@ -28,6 +28,8 @@ Just a few news sources we recommend for the English speakers amongst us.
 
 **Krakow**
 
+<https://krakcast.podbean.com/>
+
 <http://www.krakowpost.com>
 
 **Wroclaw**
