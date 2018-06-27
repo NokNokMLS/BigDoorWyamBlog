@@ -1,6 +1,6 @@
 ---
 Title: Dave's Car Rental
-Author: 'mark '
+Author: mark
 Lead: 'The Best Dave''s Car Rental in Krakow, Bronowice'
 Published: '2018-06-20T09:28:08+02:00'
 Tags:
