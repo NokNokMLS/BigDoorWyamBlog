@@ -15,7 +15,7 @@ Here are some pointers in how you can go about it
 
 **Finding a property**
 
-You will need to only deal with owners who are offering their properties directly and the best way to find them is by using the filter " owners only " on the property search engine you are using( i.e. Morizon.pl, Otodom.pl, Gratka.pl etc ).
+You will need to only deal with owners who are offering their properties directly and the best way to find them is by using the filter " owners only " on the property search engine you are using (i.e. Morizon.pl, Otodom.pl, Gratka.pl etc).
 
 Alternatively you can look at gumtree.pl for direct offers from owners or post what you are looking for on one of the local Facebook groups.
 
@@ -25,7 +25,7 @@ You should be aware that this will severely limit the number of properties avail
 
 It is likely that the owner may not speak your language so it would be best to bring a Polish friend or hire a translator while you are negotiating the terms. The additional costs will include electricity, water etc ( called Media ) and building management fees. 
 
-**Time to sign **
+**Time to sign**
 
 Your agreement will probably be in Polish only and it is a legal document so again , bring a friend or hire a translator. You may also want the Landlord to accompany you to the city registration office to record that you are living there,
 
