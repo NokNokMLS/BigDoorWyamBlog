@@ -1,5 +1,6 @@
 @{
         string Title = Model.WithoutSettings.String(BlogKeys.Title);
+        string BlogImage = Model.WithoutSettings.String(BlogKeys.Image);
         string PageTitle = Context.String(BlogKeys.Title) + (string.IsNullOrWhiteSpace(Title) ? string.Empty : " - " + Title);
 }
 
@@ -50,6 +51,7 @@
         <meta property="og:description" content="Find a Property & Credit Agent who speaks your language.
                 Save on Fees & Qualify for Rebates
                 It's free and always will be." />
+        <meta property="" content="@Context.GetLink(@BlogImage, true)" />
         <!-- TODO: More social graph meta tags -->
 
         <script src="@Context.GetLink("/assets/js/jquery.min.js")"></script>
