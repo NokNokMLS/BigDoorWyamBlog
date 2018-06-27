@@ -1,6 +1,10 @@
 @{
         string Title = Model.WithoutSettings.String(BlogKeys.Title);
         string BlogImage = Model.WithoutSettings.String(BlogKeys.Image);
+        string Lead = (string.IsNullOrWhiteSpace(Model.WithoutSettings.String(BlogKeys.Lead)) ?
+                @"Find a Property & Credit Agent who speaks your language.
+                Save on Fees & Qualify for Rebates
+                It's free and always will be." : Model.WithoutSettings.String(BlogKeys.Lead));
         string PageTitle = Context.String(BlogKeys.Title) + (string.IsNullOrWhiteSpace(Title) ? string.Empty : " - " + Title);
 }
 
@@ -48,10 +52,8 @@
         <meta property="og:type" content="website" />
         <meta property="og:url" content="@Context.GetLink(Model, true)" />
         <meta property="og:title" content="@PageTitle" />
-        <meta property="og:description" content="Find a Property & Credit Agent who speaks your language.
-                Save on Fees & Qualify for Rebates
-                It's free and always will be." />
-        <meta property="" content="@Context.GetLink(@BlogImage, true)" />
+        <meta property="og:description" content="@Lead" />
+        <meta property="og:image" content="@Context.GetLink(@BlogImage, true)" />
         <!-- TODO: More social graph meta tags -->
 
         <script src="@Context.GetLink("/assets/js/jquery.min.js")"></script>
