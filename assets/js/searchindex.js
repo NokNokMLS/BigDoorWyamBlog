@@ -20,18 +20,18 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"Dave Car Rental",
-        content:"additional search tags",
-        description:"Best Dave Car Rental Krakow Bronowice",
-        tags:'Kraków Bronowice Car Car'
-    });
-
-    a({
-        id:1,
         title:"Food shop Bronowice",
         content:"pierogi",
         description:"Polish food shop pierogi",
         tags:'Krakow Bronowice Food Food'
+    });
+
+    a({
+        id:1,
+        title:"Dave Car Rental",
+        content:"additional search tags",
+        description:"Best Dave Car Rental Krakow Bronowice",
+        tags:'Kraków Bronowice Car Car'
     });
 
     a({
@@ -51,15 +51,15 @@ var searchModule = function() {
     });
 
     y({
-        url:'/services/daves-car-rental',
-        title:"Dave's Car Rental",
-        description:"The Best Dave's Car Rental in Krakow, Bronowice"
-    });
-
-    y({
         url:'/services/a-food-shop-in-bronowice',
         title:"A Food shop in Bronowice",
         description:"Polish food shop with pierogi"
+    });
+
+    y({
+        url:'/services/daves-car-rental',
+        title:"Dave's Car Rental",
+        description:"The Best Dave's Car Rental in Krakow, Bronowice"
     });
 
     y({
