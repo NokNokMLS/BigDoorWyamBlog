@@ -11,19 +11,19 @@ Tags:
   - Zabierzow
   - Suburb West
 ---
-**Name **John N.
+**Name** John N..
 
-**Nationality **Irish
+**Nationality** Irish
 
-**City **Krakow
+**City** Krakow
 
-**District **Zabierzow, Rzaska
+**District** Zabierzow, Rzaska
 
 **Business Website **BigDoor24.pl
 
-**Rent/ Buy and since **Bought in 2017
+**Rent/Bought/Since** Bought in 2017
 
-**Apartment or House **House
+**Apartment or House** House
 
 **What attracted you to, and keeps you in, the district?**
 
@@ -49,6 +49,6 @@ I am working with BigDoor24.pl, trying to make life easier for expats living in 
 
 Use BigDoor24.pl !
 
-_**Other useful links**_
+**_Other useful links_**
 
-[_**https://en.wikipedia.org/wiki/Rz%C4%85ska**_](https://en.wikipedia.org/wiki/Rz%C4%85ska)
+[**_https://en.wikipedia.org/wiki/Rz%C4%85ska_**](https://en.wikipedia.org/wiki/Rz%C4%85ska)
