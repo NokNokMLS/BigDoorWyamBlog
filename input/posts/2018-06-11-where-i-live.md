@@ -1,5 +1,5 @@
 ---
-Title: Where I live
+Title: Where I Live
 Author: Team BigDoor24
 Lead: Where do you live ?
 Published: '2018-06-11T17:51:20+02:00'
