@@ -17,7 +17,7 @@ Tags:
 
 **Distict:** Stary Włochy
 
-**Accommodation Type:** Bought apartment in 2017 ,Ground floor with garden
+**Accommodation Type:** Bought apartment in 2017, Ground floor with garden
 
 **What attracted you to, and keeps you in, the district?**
 
