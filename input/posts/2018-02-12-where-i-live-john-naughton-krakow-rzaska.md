@@ -11,7 +11,7 @@ Tags:
   - Zabierzow
   - Suburb West
 ---
-**Name** John N..
+**Name **John N..
 
 **Nationality** Irish
 
