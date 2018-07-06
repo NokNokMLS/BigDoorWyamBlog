@@ -11,7 +11,7 @@ Tags:
   - Zabierzow
   - Suburb West
 ---
-**Name **John N..
+**Name** John N..
 
 **Nationality** Irish
 
@@ -19,7 +19,7 @@ Tags:
 
 **District** Zabierzow, Rzaska
 
-**Business Website **BigDoor24.pl
+**Business Website** BigDoor24.pl
 
 **Rent/Bought/Since** Bought in 2017
 
