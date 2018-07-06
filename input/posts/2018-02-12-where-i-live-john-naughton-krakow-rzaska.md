@@ -51,4 +51,4 @@ Use BigDoor24.pl !
 
 **_Other useful links_**
 
-[**_https://en.wikipedia.org/wiki/Rz%C4%85ska_**](https://en.wikipedia.org/wiki/Rz%C4%85ska)
+[**_Read more about Rząska_**](https://en.wikipedia.org/wiki/Rz%C4%85ska)
