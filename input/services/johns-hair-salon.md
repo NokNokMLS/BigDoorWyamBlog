@@ -9,4 +9,6 @@ city: Krakow
 district: Centrum
 service: Hair
 ---
-test krakow centrum car
+John's hair salon did a really good job.
+
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5b4f8610da49d8001146f024&product=sticky-share-buttons' async='async'></script>
