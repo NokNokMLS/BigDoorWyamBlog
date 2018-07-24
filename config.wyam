@@ -12,6 +12,7 @@ Settings[BlogKeys.Description] = "Welcome!";
 //Settings[Keys.LinkRoot] = "/blog";
 Settings[Keys.LinkHideExtensions] = false;
 Settings[BlogKeys.ArchiveExcerpts] = true;
+Settings[Keys.LinksUseHttps] = true;
 // Add any pipeline customizations here
 
 //Pipelines[Blog.Tags].InsertAfter("Populate",
