@@ -2,7 +2,7 @@
 Title: Is this the most expensive residential home for sale in Poland today ?
 Author: Team BigDoor24
 Lead: '"Buy land. They''re not making it anymore" - Mark Twain'
-Published: '2018-06-14T10:08:57+02:00'
+Published: '2018-07-24T10:08:57+02:00'
 Image: /assets/Images/houseexpensive.jpg
 Tags:
   - Krakow
