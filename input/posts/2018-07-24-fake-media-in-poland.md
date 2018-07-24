@@ -6,6 +6,7 @@ Published: '2018-07-24T09:53:25+02:00'
 Image: /assets/Images/fake-news.jpg
 Tags:
   - General Information
+  - Rent
 ---
 OK so the headline was fake ...ish. 
 
