@@ -16,7 +16,7 @@ Settings[Keys.LinksUseHttps] = true;
 // Add any pipeline customizations here
 
 //Pipelines[Blog.Tags].InsertAfter("Populate",
-  //  new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
+//  new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
 
 public FilePath GetValidFilePath(FilePath filePath)
 {
