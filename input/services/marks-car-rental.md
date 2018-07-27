@@ -6,7 +6,7 @@ Published: '2018-06-11T17:51:20+02:00'
 Image: /assets/Images/crazy-house.jpg
 Tags:
   - Car Rental
-city: Krakow
+city: Kraków
 district: Kazimierz
 service: Car
 ---
@@ -19,3 +19,4 @@ buy
 sell
 oscypek
 test
+
