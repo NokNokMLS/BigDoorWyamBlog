@@ -28,6 +28,14 @@ var searchModule = function() {
 
     a({
         id:1,
+        title:"John Hair Salon",
+        content:"Hair Salon",
+        description:"best John Hair Salon Krakow Centrum",
+        tags:'Krakow Centrum Hair Hair'
+    });
+
+    a({
+        id:2,
         title:"Dave Car Rental",
         content:"additional search tags",
         description:"Best Dave Car Rental Krakow Bronowice",
@@ -35,25 +43,23 @@ var searchModule = function() {
     });
 
     a({
-        id:2,
+        id:3,
         title:"Mark Car Rental",
         content:"Car Rental",
         description:"Best Mark Car Rental Krakow Kazimierz",
         tags:'Krakow Kazimierz Car Car'
     });
 
-    a({
-        id:3,
-        title:"John Hair Salon",
-        content:"Hair Salon",
-        description:"best John Hair Salon Krakow Centrum",
-        tags:'Krakow Centrum Hair Hair'
-    });
-
     y({
         url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
         title:"A Food shop in Bronowice",
         description:"Polish food shop with pierogi"
+    });
+
+    y({
+        url:'/BigDoorWyamBlog/services/johns-hair-salon',
+        title:"John's Hair Salon",
+        description:"The best John's Hair Salon in Krakow Centrum"
     });
 
     y({
@@ -66,12 +72,6 @@ var searchModule = function() {
         url:'/BigDoorWyamBlog/services/marks-car-rental',
         title:"Mark's Car Rental",
         description:"The Best Mark's Car Rental in Krakow, Kazimierz"
-    });
-
-    y({
-        url:'/BigDoorWyamBlog/services/johns-hair-salon',
-        title:"John's Hair Salon",
-        description:"The best John's Hair Salon in Krakow Centrum"
     });
 
     return {
