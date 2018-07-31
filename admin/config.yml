@@ -70,3 +70,4 @@ collections:
       - label: Tags
         name: Tags
         widget: list
+      - {label: "Body", name: "body", widget: "markdown"}
