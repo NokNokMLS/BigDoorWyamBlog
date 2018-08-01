@@ -50,18 +50,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Home Loan",
     "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
     "Weight": 1
   },
   {
@@ -70,13 +65,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Zabierzow",
-    "Url": "/tags/Zabierzow.html",
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
-    "Tag": "let",
-    "Url": "/tags/let.html",
+    "Tag": "Zabierzow",
+    "Url": "/tags/Zabierzow.html",
     "Weight": 1
   },
   {
@@ -85,8 +80,8 @@
     "Weight": 1
   },
   {
-    "Tag": "rent",
-    "Url": "/tags/rent.html",
+    "Tag": "let",
+    "Url": "/tags/let.html",
     "Weight": 1
   },
   {
@@ -95,8 +90,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
+    "Tag": "rent",
+    "Url": "/tags/rent.html",
     "Weight": 1
   },
   {
@@ -105,8 +100,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Wlochy",
-    "Url": "/tags/Wlochy.html",
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
     "Weight": 1
   },
   {
@@ -115,13 +110,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
+    "Tag": "Wlochy",
+    "Url": "/tags/Wlochy.html",
     "Weight": 1
   },
   {
     "Tag": "Poznan",
     "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
     "Weight": 1
   },
   {
