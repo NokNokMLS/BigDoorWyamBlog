@@ -13,4 +13,8 @@ you can add text and images the same as any other blog.
 ## tags
 tags probably don't make sense, i will remove them
 
+## where do they show?
+should only be found by direct link, it will not appear on the blog list.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvDm1nFvsiEs-dt6xXDH8oLoqc7fCE8cHtaLI-eX1_iZfifA/viewform?embedded=true" width="600" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
