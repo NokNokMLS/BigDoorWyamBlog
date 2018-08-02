@@ -2,7 +2,7 @@
 Title: Best city for an Airbnb Investment Q II 2018
 Author: Team BigDoor24
 Lead: Which city offers the greatest return on investment
-Published: '2018-06-12T13:44:13+02:00'
+Published: '2018-08-02T13:44:13+02:00'
 Image: /assets/Images/airbnb.jpg
 Tags:
   - Buy
