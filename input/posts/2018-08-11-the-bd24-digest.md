@@ -7,13 +7,11 @@ Image: /assets/Images/the-digest.png
 Tags:
   - news
 ---
-This is our new service for expats, a weekly roundup of the best from different
-
-
+A new weekly roundup of stories we think you might like. 
 
 **Poland**
 
-The excellent site, Notes from Poland this week gives us a brief description of one of the most controversial pieces of new legislation recently introduced in Poland that has implications both at home and within the EU.  
+Notes from Poland this week gives us a brief description of one of the most controversial pieces of new legislation recently introduced in Poland that has implications both at home and within the EU.  
 
 <https://notesfrompoland.com/2018/07/31/law-and-justice-a-brief-guide-to-polands-judicial-reforms/>
 
@@ -23,7 +21,7 @@ And the NY Times has a piece on the most powerful unofficial man in the country
 
 **Local**
 
-Warsaw - YouTube CEO arrives in Warsaw to renew her passport
+_Warsaw_ - YouTube CEO arrives in Warsaw to renew her passport (WBJ.pl)
 
 <http://wbj.pl/youtube-ceo-visits-poland-gets-polish-passport/>
 
@@ -47,16 +45,18 @@ Ryanair threatens Poland with new jobs
 
 **Sport**
 
-Kwiatkowski wins the Tour de Pologne
+Kwiatkowski wins the Tour de Pologne (tvn24.pl)
 
 <https://www.tvn24.pl/tvn24-news-in-english,157,m/michal-kwiatkowski-wins-the-75th-tour-de-pologne,860268.html>
 
 **Odds & Ends**
 
-A reason to say " Cheers !"
+A reason to say " Cheers !" (thenews.pl)
 
 <http://thenews.pl/1/11/Artykul/376908,One-million-visitors-to-brewery-museum-in-southern-Poland>
 
+**The Krakcast Podcast**
 
+As usual, lots to listen to from Polands best English language podcast. Our favourite of this week was about Krakow's Wisla Stadium. 
 
-The Krakcast
+<https://www.krakcast.pl/e/the-krakcast-wisla-stadium/>
