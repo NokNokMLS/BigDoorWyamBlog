@@ -7,7 +7,7 @@ Image: /assets/Images/digest-aug.jpg
 Tags:
   - news
 ---
-Some stories we think you might like. 
+A new weekly roundup of stories we think you might like. 
 
 **Poland**
 
@@ -60,3 +60,9 @@ A reason to say " Cheers !" (thenews.pl)
 As usual, lots to listen to from Polands best English language podcast. Our favourite of this week was about Krakow's Wisla Stadium. 
 
 <https://www.krakcast.pl/e/the-krakcast-wisla-stadium/>
+
+
+
+A new Digest is posted every Sunday at 10 am. Follow BigDoor24 on FB and have a great Sunday!
+
+Team BigDoor24
