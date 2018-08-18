@@ -7,7 +7,7 @@ Image: /assets/Images/the-digest-aug19th.png
 Tags:
   - news
 ---
-## **Cop-out Cops/Parade for the Past/Top Krakow start-ups/ Hating the haters/Cycle Safety/ Controlled Memory/Dopey Russian & more**
+## **Cop-out Cops/ Parade for the Past/ Top Krakow start-ups/ Hating the haters/ Cycle Safety/ Controlled Memory/ Dopey Russian & more**
 
 **Poland**
 
@@ -25,8 +25,6 @@ _Wroclaw - _[We don't hate this - new website launched to combat hate speech](ht
 
 _Lodz_ - [A new safety cycle](http://lodzpost.com/lodznews/priority-to-cyclists-new-street-signs-to-help-make-cycling-in-lodz-safer/)
 
-
-
 **International**
 
 **Memory vs Memory**
@@ -39,17 +37,15 @@ The Guardian long read reports on [the bitter conflict over Polands communist hi
 
 **Odds & Ends**
 
-[**How a drink and a run could get you 3 years in the slammer **](http://wroclawuncut.com/2018/08/08/drunk-pitch-invader-could-be-jailed-for-3-years/)
+[How a drink and a run could get you 3 years in the slammer ](http://wroclawuncut.com/2018/08/08/drunk-pitch-invader-could-be-jailed-for-3-years/)
 
 **The Krakcast Podcast**
 
 The lads are on a holiday this week so no shows to mention .... plenty in the archive though - [here they look at the Polish obsession with " have you any change ? "](https://www.krakcast.pl/e/krakcast-rant-change/)
 
-
-
 Follow us on FB for your regular Digest, posted every Sunday at 10 am.
 
-_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
+**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
 
 Have a great Sunday!
 
