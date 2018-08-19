@@ -10,20 +10,6 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"John Hair Salon",
-            content:"Hair Salon",
-            description:"best John Hair Salon Krakow Centrum",
-            tags:'Krakow Centrum Hair Hair'
-        },
-        {
-            url:'/BigDoorWyamBlog/services/johns-hair-salon',
-            title:"John's Hair Salon",
-            description:"The best John's Hair Salon in Krakow Centrum"
-        }
-    );
-    a(
-        {
-            id:1,
             title:"Dave Car Rental",
             content:"additional search tags",
             description:"Best Dave Car Rental Krakow Bronowice",
@@ -33,6 +19,20 @@ var searchModule = function() {
             url:'/BigDoorWyamBlog/services/daves-car-rental',
             title:"Dave's Car Rental",
             description:"The Best Dave's Car Rental in Krakow, Bronowice"
+        }
+    );
+    a(
+        {
+            id:1,
+            title:"Food shop Bronowice",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
+        },
+        {
+            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
+            title:"A Food shop in Bronowice",
+            description:"Polish food shop with pierogi"
         }
     );
     a(
@@ -52,15 +52,15 @@ var searchModule = function() {
     a(
         {
             id:3,
-            title:"Food shop Bronowice",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
+            title:"John Hair Salon",
+            content:"Hair Salon",
+            description:"best John Hair Salon Krakow Centrum",
+            tags:'Krakow Centrum Hair Hair'
         },
         {
-            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
-            title:"A Food shop in Bronowice",
-            description:"Polish food shop with pierogi"
+            url:'/BigDoorWyamBlog/services/johns-hair-salon',
+            title:"John's Hair Salon",
+            description:"The best John's Hair Salon in Krakow Centrum"
         }
     );
     var idx = lunr(function() {
