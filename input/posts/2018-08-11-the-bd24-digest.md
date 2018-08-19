@@ -7,7 +7,7 @@ Image: /assets/Images/the-digest-aug19th.png
 Tags:
   - news
 ---
-## **Cop-out Cops/ Parade for the Past/ Top Krakow start-ups/ Hating the haters/ Cycle Safety/ Controlled Memory/ Dopey Russian & more**
+**Cop-out Cops/ Parade for the Past/ Top Krakow start-ups/ Hating the haters/ Cycle Safety/ Controlled Memory/ Dopey Russian & more**
 
 **Poland**
 
@@ -45,7 +45,7 @@ The lads are on a holiday this week so no shows to mention .... plenty in the ar
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am.
 
-**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
+_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
 
 Have a great Sunday!
 
