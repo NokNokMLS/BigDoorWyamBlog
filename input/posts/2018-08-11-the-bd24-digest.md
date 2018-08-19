@@ -2,7 +2,7 @@
 Title: The BD24 Digest
 Author: Team BigDoor24
 Lead: A Sunday News roundup of the last week in Poland
-Published: '2018-08-19T10:00:00+02:00'
+Published: '2018-08-19T10:01:00+02:00'
 Image: /assets/Images/the-digest-aug19th.png
 Tags:
   - news
