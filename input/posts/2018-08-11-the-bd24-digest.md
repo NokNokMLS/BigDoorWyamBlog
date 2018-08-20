@@ -7,13 +7,13 @@ Image: /assets/Images/the-digest-aug19th.png
 Tags:
   - news
 ---
-**Cop-out Cops/ Parade for the Past/ Top Krakow start-ups/ Hating the haters/ Cycle Safety/ Controlled Memory/ Dopey Russian & more**
+## **Cop-out Cops/ Parade for the Past/ Top Krakow start-ups/ Hating the haters/ Cycle Safety/ Controlled Memory/ Dopey Russian & more**
 
 **Poland**
 
 **The Cops are copping out**
 
-VIDEO: [TVN reposrts on the impending work to rule strike by Polish Police](https://www.tvn24.pl/tvn24-news-in-english,157,m/police-trade-unions-announced-a-work-to-rule-strike,861569.html)
+VIDEO: [TVN reports on the impending work to rule strike by Polish Police](https://www.tvn24.pl/tvn24-news-in-english,157,m/police-trade-unions-announced-a-work-to-rule-strike,861569.html)
 
 **Local**
 
