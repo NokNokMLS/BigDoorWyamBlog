@@ -19,9 +19,9 @@ VIDEO: [TVN reports on the impending work to rule strike by Polish Police](https
 
 _Warsaw_ - [Massive Parade celebrates centenary of Independence](https://voiceofeurope.com/2018/08/poland-celebrates-independence-centennial-with-massive-military-parade-in-warsaw/)
 
-_Krakow - _[Ten of the coolest start ups in Krakow](https://www.siliconrepublic.com/start-ups/krakow-tech-entrepreneurs-software-iot-hardware)
+_Krakow_ - [Ten of the coolest start ups in Krakow](https://www.siliconrepublic.com/start-ups/krakow-tech-entrepreneurs-software-iot-hardware)
 
-_Wroclaw - _[We don't hate this - new website launched to combat hate speech](http://wroclawuncut.com/2018/08/13/new-website-launched-to-help-combat-hate-speech/)
+_Wroclaw_ - [We don't hate this - new website launched to combat hate speech](http://wroclawuncut.com/2018/08/13/new-website-launched-to-help-combat-hate-speech/)
 
 _Lodz_ - [A new safety cycle](http://lodzpost.com/lodznews/priority-to-cyclists-new-street-signs-to-help-make-cycling-in-lodz-safer/)
 
@@ -41,7 +41,7 @@ The Guardian long read reports on [the bitter conflict over Polands communist hi
 
 **The Krakcast Podcast**
 
-The lads are on a holiday this week so no shows to mention .... plenty in the archive though - [here they look at the Polish obsession with " have you any change ? "](https://www.krakcast.pl/e/krakcast-rant-change/)
+The lads are on a holiday this week so no shows to mention .... plenty in the archive though - [here they look at the Polish obsession with "Have you any change?"](https://www.krakcast.pl/e/krakcast-rant-change/)
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am.
 
