@@ -5,7 +5,10 @@ Lead: The average rental costs per district and more
 Published: '2018-09-10T13:39:52+02:00'
 Image: /assets/Images/lodz-pic.jpg
 Tags:
-  - lodz
+  - LODZ
+  - RENT
+  - LET
+  - INVESTMENT
 ---
 **LODZ**
 
