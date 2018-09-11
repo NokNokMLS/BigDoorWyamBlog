@@ -29,7 +29,7 @@ To give an even clearer picture we have broken down our numbers by district belo
 ![](/assets/Images/district-advert-bd24.png){.img-fluid .img-responsive}
 
 [](https://www.google.com) 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage"){.btn-primary}
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage"){.btn .btn-primary}
 
 | District    | Offers | Avg. Rent | Avg. Per M² |
 | :---------- | :----- | :-------- | :---------- |
