@@ -4,7 +4,7 @@
 	<id>https://bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-09-11T17:26:08Z</updated>
+	<updated>2018-09-11T17:33:17Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
@@ -25,7 +25,7 @@
 &lt;p&gt;To give an even clearer picture we have broken down our numbers by district below.&lt;/p&gt;
 &lt;p&gt;&lt;img src="/assets/Images/district-advert-bd24.png" class="img-fluid img-responsive" alt="" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.google.com"&gt;&lt;/a&gt;
-&lt;a href="https://www.google.com" class="btn-primary" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.google.com" class="btn btn-primary" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;&lt;/p&gt;
 &lt;table class="table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
