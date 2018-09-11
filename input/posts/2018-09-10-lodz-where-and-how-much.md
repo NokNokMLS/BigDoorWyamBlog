@@ -10,7 +10,7 @@ Tags:
   - LET
   - INVESTMENT
 ---
-![]()
+![null]()
 
 **LODZ**
 
@@ -28,11 +28,11 @@ To give an even clearer picture we have broken down our numbers by district belo
 
 ![](/assets/Images/district-advert-bd24.png){.img-fluid .img-responsive}
 
-Copy to clipdRight | Left | Default | Center
------:|:-----|---------|:-----:
-12    | 12   | 12      | 12
-123   | 123  | 123     | 123
-1     | 1    | 1       | 1
+| Copy tolipdight | Left | Default | Center |
+| --------------- | ---- | ------- | ------ |
+| 12              | 12   | 12      | 12     |
+| 123             | 123  | 123     | 123    |
+| 1               | 1    | 1       | 1      |
 
 **District           Offers         Avg. Rent      Avg. Per M2**
 
