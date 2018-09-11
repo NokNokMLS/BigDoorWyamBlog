@@ -10,6 +10,8 @@ Tags:
   - LET
   - INVESTMENT
 ---
+![]()
+
 **LODZ**
 
 So you're either moving to Lodz or just looking for a new place in the city and need a some tips.  For information on the city and its history you can see the wikipedia page [here](https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA). 
@@ -24,9 +26,7 @@ We would point out that these numbers are based on what is on offer rather than 
 
 To give an even clearer picture we have broken down our numbers by district below.
 
-
-
-![](/assets/Images/do-you-have-a-business-blog-pic.png)
+![](/assets/Images/district-advert-bd24.png){.img-fluid .img-responsive}
 
 **District           Offers         Avg. Rent      Avg. Per M2**
 
