@@ -4,7 +4,7 @@
 	<id>https://bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-09-11T10:36:03Z</updated>
+	<updated>2018-09-11T10:38:48Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
@@ -15,7 +15,7 @@
 		<id>https://bigdoor24.pl/posts/2018-09-10-lodz-where-and-how-much.html</id>
 		<title>Lodz - Where and How Much?</title>
 		<updated>2018-09-10T11:39:52Z</updated>
-		<content>&lt;p&gt;&lt;img src="" class="img-fluid" alt="" /&gt;&lt;/p&gt;
+		<content>&lt;p&gt;&lt;img src="" class="img-fluid" alt="null" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;LODZ&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;So you're either moving to Lodz or just looking for a new place in the city and need a some tips.  For information on the city and its history you can see the wikipedia page &lt;a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;At BigDoor24.pl we were interested less in the history and more in some of the average rental costs , availability levels etc in the main districts.&lt;/p&gt;
@@ -27,30 +27,30 @@
 &lt;table class="table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align: right;"&gt;Copy to clipdRight&lt;/th&gt;
-&lt;th style="text-align: left;"&gt;Left&lt;/th&gt;
+&lt;th&gt;Copy tolipdight&lt;/th&gt;
+&lt;th&gt;Left&lt;/th&gt;
 &lt;th&gt;Default&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;Center&lt;/th&gt;
+&lt;th&gt;Center&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: right;"&gt;12&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12&lt;/td&gt;
 &lt;td&gt;12&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;12&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: right;"&gt;123&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;123&lt;/td&gt;
 &lt;td&gt;123&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;123&lt;/td&gt;
+&lt;td&gt;123&lt;/td&gt;
+&lt;td&gt;123&lt;/td&gt;
+&lt;td&gt;123&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: right;"&gt;1&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;1&lt;/td&gt;
 &lt;td&gt;1&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -64,7 +64,7 @@
 &lt;p&gt;Hope it helps and happy hunting !&lt;/p&gt;
 &lt;p&gt;Team BigDoor24.pl&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;&lt;img src="" class="img-fluid" alt=""&gt;&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;&lt;img src="" class="img-fluid" alt="null"&gt;&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<author>
