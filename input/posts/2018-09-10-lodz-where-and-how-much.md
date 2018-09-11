@@ -16,8 +16,6 @@ So you're either moving to Lodz or just looking for a new place in the city and 
 
 At BigDoor24.pl we were interested less in the history and more in some of the average rental costs , availability levels etc in the main districts.
 
-
-
 Generally in the city, as of September 2018, average monthly rents were PLN 2,065 + utilities ( media ) which equates to PLN 37.50 per square metre, on average.
 
 Based on our research there are currently just over 600 apartments available for rent, of differing quality and sizes, which is slightly less than the national average based on population.
@@ -26,7 +24,9 @@ We would point out that these numbers are based on what is on offer rather than 
 
 To give an even clearer picture we have broken down our numbers by district below.
 
-![](/assets/Images/district-advert-bd24.png)
+
+
+![](/assets/Images/do-you-have-a-business-blog-pic.png)
 
 **District           Offers         Avg. Rent      Avg. Per M2**
 
