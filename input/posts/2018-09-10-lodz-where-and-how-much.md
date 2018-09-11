@@ -30,7 +30,8 @@ To give an even clearer picture we have broken down our numbers by district belo
 
 [google](https://www.google.com) 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage"){.btn .btn-primary}
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+[Button docs here](https://getbootstrap.com/docs/4.0/components/buttons/ "Bootstrap buttons"){.btn .btn-outline-primary}
 
 | District    | Offers | Avg. Rent | Avg. Per M² |
 | :---------- | :----- | :-------- | :---------- |
