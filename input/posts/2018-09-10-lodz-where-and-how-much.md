@@ -28,19 +28,14 @@ To give an even clearer picture we have broken down our numbers by district belo
 
 ![](/assets/Images/district-advert-bd24.png){.img-fluid .img-responsive}
 
-| Copy tolipdight | Left | Default | Center |
-| --------------- | ---- | ------- | ------ |
-| 12              | 12   | 12      | 12     |
-| 123             | 123  | 123     | 123    |
-| 1               | 1    | 1       | 1      |
+[](https://www.google.com) 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage"){.btn-primary}
 
-**District           Offers         Avg. Rent      Avg. Per M2**
-
-Srodmiescie	282	              2 226	                 38
-
-Polesce	        102                1 743                   34
-
-Baluty	        75	              2 268            	 35
+| District    | Offers | Avg. Rent | Avg. Per M² |
+| :---------- | :----- | :-------- | :---------- |
+| Srodmiescie | 282    | 2 226     | 38          |
+| Polesce     | 102    | 1 743     | 34          |
+| Baluty      | 75     | 2 268     | 35          |
 
 Gorna	        70	              1 657                   39
 
