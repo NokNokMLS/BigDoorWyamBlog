@@ -5,8 +5,8 @@
 		<link>https://bigdoor24.pl/</link>
 		<description>Welcome!</description>
 		<copyright>2018</copyright>
-		<pubDate>Tue, 11 Sep 2018 17:41:23 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Sep 2018 17:41:23 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Sep 2018 18:02:43 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Sep 2018 18:02:43 GMT</lastBuildDate>
 		<item>
 			<title>Lodz - Where and How Much?</title>
 			<link>https://bigdoor24.pl/posts/2018-09-10-lodz-where-and-how-much.html</link>
@@ -26,7 +26,8 @@
 &lt;p&gt;&lt;img src="/assets/Images/district-advert-bd24.png" class="img-fluid img-responsive" alt="" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.google.com"&gt;google&lt;/a&gt;
 &lt;a href="https://www.google.com" class="btn btn-primary" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;
-&lt;a href="https://www.google.com" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://www.google.com" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://getbootstrap.com/docs/4.0/components/buttons/" class="btn btn-outline-primary" title="Bootstrap buttons"&gt;Button docs here&lt;/a&gt;&lt;/p&gt;
 &lt;table class="table"&gt;
 &lt;thead&gt;
 &lt;tr&gt;
