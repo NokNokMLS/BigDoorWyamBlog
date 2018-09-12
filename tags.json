@@ -25,18 +25,18 @@
     "Weight": 4
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
-    "Weight": 3
-  },
-  {
     "Tag": "Krakow",
     "Url": "/tags/Krakow.html",
     "Weight": 3
   },
   {
-    "Tag": "news",
-    "Url": "/tags/news.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
+    "Weight": 3
+  },
+  {
+    "Tag": "Let",
+    "Url": "/tags/Let.html",
     "Weight": 2
   },
   {
@@ -45,68 +45,18 @@
     "Weight": 2
   },
   {
-    "Tag": "Let",
-    "Url": "/tags/Let.html",
+    "Tag": "news",
+    "Url": "/tags/news.html",
     "Weight": 2
   },
   {
-    "Tag": "Wlochy",
-    "Url": "/tags/Wlochy.html",
+    "Tag": "Suburb West",
+    "Url": "/tags/Suburb-West.html",
     "Weight": 1
   },
   {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "INVESTMENT",
-    "Url": "/tags/INVESTMENT.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "LET",
-    "Url": "/tags/LET.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "RENT",
-    "Url": "/tags/RENT.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "LODZ",
-    "Url": "/tags/LODZ.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
+    "Tag": "Rzaska",
+    "Url": "/tags/Rzaska.html",
     "Weight": 1
   },
   {
@@ -115,18 +65,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -140,8 +80,18 @@
     "Weight": 1
   },
   {
-    "Tag": "rent",
-    "Url": "/tags/rent.html",
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "INVESTMENT",
+    "Url": "/tags/INVESTMENT.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "LODZ",
+    "Url": "/tags/LODZ.html",
     "Weight": 1
   },
   {
@@ -150,18 +100,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Suburb West",
-    "Url": "/tags/Suburb-West.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Zabierzow",
-    "Url": "/tags/Zabierzow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzaska",
-    "Url": "/tags/Rzaska.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -170,8 +110,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -180,13 +125,68 @@
     "Weight": 1
   },
   {
+    "Tag": "let",
+    "Url": "/tags/let.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "LET",
+    "Url": "/tags/LET.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Zabierzow",
+    "Url": "/tags/Zabierzow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Bydgoszcz",
     "Url": "/tags/Bydgoszcz.html",
     "Weight": 1
   },
   {
-    "Tag": "let",
-    "Url": "/tags/let.html",
+    "Tag": "rent",
+    "Url": "/tags/rent.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wlochy",
+    "Url": "/tags/Wlochy.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "RENT",
+    "Url": "/tags/RENT.html",
     "Weight": 1
   }
 ]

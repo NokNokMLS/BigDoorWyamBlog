@@ -4,7 +4,7 @@
 	<id>https://bigdoor24.pl/</id>
 	<title>BigDoor24 Blog</title>
 	<rights>2018</rights>
-	<updated>2018-09-11T18:14:08Z</updated>
+	<updated>2018-09-12T12:20:04Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
 		<author>
@@ -43,6 +43,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td style="text-align: left;"&gt;:----------&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;:-----&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;:--------&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;:----------&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style="text-align: left;"&gt;Srodmiescie&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;282&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;2 226&lt;/td&gt;
@@ -60,10 +66,20 @@
 &lt;td style="text-align: left;"&gt;2 268&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;35&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Gorna&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;75&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1 657&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;39&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Widzew&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;58&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1 938&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;39&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Gorna	        70	              1 657                   39&lt;/p&gt;
-&lt;p&gt;Widzew	        58	              1 938                   39&lt;/p&gt;
 &lt;p&gt;All averages do NOT include utilities (media) costs.&lt;/p&gt;
 &lt;p&gt;Hope it helps and happy hunting !&lt;/p&gt;
 &lt;p&gt;Team BigDoor24.pl&lt;/p&gt;
