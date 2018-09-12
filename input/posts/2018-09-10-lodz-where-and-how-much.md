@@ -40,13 +40,14 @@ To give an even clearer picture we have broken down our numbers by district belo
 
 | District    | Offers | Avg. Rent | Avg. Per M² |
 | :---------- | :----- | :-------- | :---------- |
+| :---------- | :----- | :-------- | :---------- |
 | Srodmiescie | 282    | 2 226     | 38          |
 | Polesce     | 102    | 1 743     | 34          |
 | Baluty      | 75     | 2 268     | 35          |
+| Gorna       | 75     | 1 657     | 39          |
+| Widzew      | 58     | 1 938     | 39          |
 
-Gorna	        70	              1 657                   39
 
-Widzew	        58	              1 938                   39
 
 All averages do NOT include utilities (media) costs.
 
