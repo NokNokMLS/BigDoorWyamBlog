@@ -10,7 +10,7 @@ Tags:
   - LET
   - INVESTMENT
 ---
-![null]()
+
 
 **LODZ**
 
