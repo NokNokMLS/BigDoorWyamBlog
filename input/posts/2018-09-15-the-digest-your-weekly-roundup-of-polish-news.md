@@ -7,13 +7,14 @@ Image: /assets/Images/the-digest-old-woman.png
 Tags:
   - NEWS
 ---
-## Coal's gonna get you/ Lambo on the lamb/ Smart Poznan/ Krakow Tourists/ Katowice Climate/ Wroclaw-the bad side/ What goes up... / The Irish are coming/ Queues to decline/ Krakcast gets stripped
+## VOX says Poland is endangering EU / Europe & Polands lessons for the US / Ryanair playbook getting old / Krakow sobers up / Lodz - Festival / Wroclaw - Dating the elite / Bloody foreigners / Pretend Sport / Like pulling teeth..but not / Krakcast pulls out the stats and today, the big shops are ......
 
 **Poland**
 
 [**VIDEO : Vox  -** Is Poland pushing EU into crisis territory ? Vox argues they are.](https://www.vox.com/videos/2018/9/14/17856552/poland-eu-europe-crisis-union-illiberal-democracy)
 
-[**The Atlantic - A Warning from Europe -** Noted Historian, Anne Applebaum, argues what Poland's past & present holds for the US's future.](https://www.theatlantic.com/magazine/archive/2018/10/poland-polarization/568324/)
+[**The Atlantic - A Warning from Europe -** Noted Historian, Anne Applebaum, argues
+ what Poland's past & present holds for the US's future.](https://www.theatlantic.com/magazine/archive/2018/10/poland-polarization/568324/)
 
 **Local**
 
@@ -43,13 +44,11 @@ _Wroclaw_ - [City twins with Oxford,UK (Wroclaw Uncut)](http://wroclawuncut.com/
 
 [Multi topic approach to this weeks podcast from these long time observers of all things Polish .. our favourite is the stats on Polish names.](https://www.krakcast.pl/e/krakcast-news-1536675468/)
 
-_**And today .. the shops are open !**_
-
-
+**_And today .. the shops are CLOSED !_**
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am.
 
-_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
+**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
 
 Have a great Sunday!
 
