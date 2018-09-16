@@ -3,7 +3,7 @@ Title: The Digest - Your weekly roundup of Polish news
 Author: Team BigDoor24
 Lead: Polish News for Expats
 Published: '2018-09-15T16:40:50+02:00'
-Image: /assets/Images/the-digest-old-woman.png
+Image: /assets/Images/the-digest-woman.png
 Tags:
   - NEWS
 ---
@@ -44,11 +44,13 @@ _Wroclaw_ - [City twins with Oxford,UK (Wroclaw Uncut)](http://wroclawuncut.com/
 
 [Multi topic approach to this weeks podcast from these long time observers of all things Polish .. our favourite is the stats on Polish names.](https://www.krakcast.pl/e/krakcast-news-1536675468/)
 
-**_And today .. the shops are CLOSED !_**
+_**And today .. the shops are CLOSED !**_
 
-Follow us on FB for your regular Digest, posted every Sunday at 10 am.
+![](/assets/Images/shut-happens.jpg)
 
-**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
+Visit our FB page [here](https://www.facebook.com/bigdoor24/) for more and please follow us for your regular Digest, posted every Sunday at 10 am.
+
+_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
 
 Have a great Sunday!
 
