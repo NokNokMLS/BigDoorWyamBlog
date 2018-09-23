@@ -7,7 +7,9 @@ Image: /assets/Images/the-digest-aug19th.png
 Tags:
   - NEWS
 ---
-## Fort Dumpf/ Mo' Money!/ Poznan tacks as Govt. says "Nie!" / Krakow 3rd/ Wroclaw racist suspect identified/ Ghetto memories/ Prodigy crash/ PLN 2 Billion Painting fraud/Krakcast -let's get ready to grumble
+## Fort Dumpf/ Mo' Money!/ Poznan tacks as Govt. says "Nie!"/ Krakow 3rd/ Wroclaw racist suspect identified/ Ghetto memories/ Prodigy crash/ PLN 2 Billion Painting fraud/ Krakcast - let's get ready to grumble
+
+_Please support us now by sharing to your favourite FB Expat group_
 
 **Poland**
 
