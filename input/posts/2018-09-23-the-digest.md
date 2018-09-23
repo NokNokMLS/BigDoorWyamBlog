@@ -7,7 +7,11 @@ Image: /assets/Images/the-digest-aug19th.png
 Tags:
   - NEWS
 ---
-## Fort Dumpf/ Mo' Money!/ Poznan tacks as Govt. says "Nie!" / Krakow 3rd/ Wroclaw racist suspect identified/ Ghetto memories/ Prodigy crash/ PLN 2 Billion Painting fraud/Krakcast -let's get ready to grumble
+## Fort Dumpf/ Mo' Money!/ Poznan tacks as Govt. says "Nie!" / Krakow 3rd/ Wroclaw racist suspect identified/ Ghetto memories/ Prodigy crash/ PLN 2 Billion Painting fraud/ Krakcast - let's get ready to grumble
+
+
+
+_Please support us now by sharing to your favourite FB Expat group_
 
 **Poland**
 
@@ -47,7 +51,7 @@ TVN- Video
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
+**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
 
 Have a great Sunday!
 
