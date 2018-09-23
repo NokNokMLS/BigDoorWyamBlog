@@ -5,13 +5,13 @@
     "Weight": 9
   },
   {
-    "Tag": "Buy",
-    "Url": "/tags/Buy.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 6
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Buy",
+    "Url": "/tags/Buy.html",
     "Weight": 6
   },
   {
@@ -25,23 +25,23 @@
     "Weight": 4
   },
   {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
-    "Weight": 3
-  },
-  {
     "Tag": "Where I Live",
     "Url": "/tags/Where-I-Live.html",
     "Weight": 3
   },
   {
-    "Tag": "Let",
-    "Url": "/tags/Let.html",
-    "Weight": 2
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
+    "Weight": 3
   },
   {
     "Tag": "Rent",
     "Url": "/tags/Rent.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Let",
+    "Url": "/tags/Let.html",
     "Weight": 2
   },
   {
@@ -50,9 +50,9 @@
     "Weight": 2
   },
   {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
-    "Weight": 1
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 2
   },
   {
     "Tag": "Warsaw",
@@ -60,8 +60,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
@@ -70,13 +70,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
+    "Tag": "RENT",
+    "Url": "/tags/RENT.html",
     "Weight": 1
   },
   {
-    "Tag": "Zabierzow",
-    "Url": "/tags/Zabierzow.html",
+    "Tag": "Suburb West",
+    "Url": "/tags/Suburb-West.html",
     "Weight": 1
   },
   {
@@ -85,13 +85,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -110,23 +105,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "LODZ",
+    "Url": "/tags/LODZ.html",
     "Weight": 1
   },
   {
-    "Tag": "RENT",
-    "Url": "/tags/RENT.html",
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Suburb West",
-    "Url": "/tags/Suburb-West.html",
+    "Tag": "Zabierzow",
+    "Url": "/tags/Zabierzow.html",
     "Weight": 1
   },
   {
@@ -135,13 +125,18 @@
     "Weight": 1
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Olsztyn",
     "Url": "/tags/Olsztyn.html",
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -150,18 +145,23 @@
     "Weight": 1
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "rent",
+    "Url": "/tags/rent.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
     "Weight": 1
   },
   {
     "Tag": "LET",
     "Url": "/tags/LET.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "LODZ",
-    "Url": "/tags/LODZ.html",
     "Weight": 1
   },
   {
@@ -175,13 +175,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
     "Weight": 1
   },
   {
@@ -190,8 +190,8 @@
     "Weight": 1
   },
   {
-    "Tag": "rent",
-    "Url": "/tags/rent.html",
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   }
 ]
