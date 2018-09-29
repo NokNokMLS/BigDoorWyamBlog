@@ -11,6 +11,7 @@ Tags:
   - NEWS
 ---
 _Please support us now by sharing to your favourite FB Expat group_
+
 <div class="sharethis-inline-share-buttons"></div>
 
 **Poland**
@@ -29,13 +30,13 @@ _Wroclaw_ - [City wide game launched on international history of the city](http:
 
 _Lodz_ - [12 year old saves family from burning home - Now that's a headline!](https://www.tvn24.pl/tvn24-news-in-english,157,m/a-12-year-old-hero-little-dawid-rescued-his-family-from-a-burning-building,872037.html) - (TVN Video)
 
-Katowice - [COP24 - Clean air priority programme announcement](http://cop24.gov.pl/en/news/news-details/news/thecleanairpriorityprogramme/)  - (COP24/Katowice2018)
+_Katowice_ - [COP24 - Clean air priority programme announcement](http://cop24.gov.pl/en/news/news-details/news/thecleanairpriorityprogramme/)  - (COP24/Katowice2018)
 
 **International**
 
 **I Decree !**
 
-[Judging the Judges - Defiance in the courts](https://edition.cnn.com/2018/09/26/europe/malgorzata-gersdorf-poland-judiciary-eu-intl/index.html) **\- (**CNN Video & Text)
+[Judging the Judges - Defiance in the courts](https://edition.cnn.com/2018/09/26/europe/malgorzata-gersdorf-poland-judiciary-eu-intl/index.html) \- (CNN Video & Text)
 
 **Sport**
 
@@ -51,7 +52,7 @@ Volleyball - [Poland through to world semi's...is this old news on Sunday?](http
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
+**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
 
 Have a great Sunday!
 
