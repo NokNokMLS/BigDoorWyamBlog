@@ -2,7 +2,7 @@
 Title: Lodz - Where and How Much?
 Author: Team BigDoor24
 Lead: The average rental costs per district and more
-Published: '2018-09-10T13:39:52+02:00'
+Published: '2018-12-30T13:39:00+01:00'
 Image: /assets/Images/lodz-pic.jpg
 Tags:
   - LODZ
@@ -10,7 +10,7 @@ Tags:
   - LET
   - INVESTMENT
 ---
-![]()
+
 
 **LODZ**
 
@@ -28,17 +28,26 @@ To give an even clearer picture we have broken down our numbers by district belo
 
 ![](/assets/Images/district-advert-bd24.png){.img-fluid .img-responsive}
 
-**District           Offers         Avg. Rent      Avg. Per M2**
+[google](https://www.google.com) 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage"){.btn .btn-primary}
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")  
+[Button docs here](https://getbootstrap.com/docs/4.0/components/buttons/ "Bootstrap buttons"){.btn .btn-outline-primary}  
+[Button docs here](https://getbootstrap.com/docs/4.0/components/buttons/ "Bootstrap buttons"){.btn .btn-secondary}  
+[Button docs here](https://getbootstrap.com/docs/4.0/components/buttons/ "Bootstrap buttons"){.btn .btn-success}  
+[Button docs here](https://getbootstrap.com/docs/4.0/components/buttons/ "Bootstrap buttons"){.btn .btn-warning}  
+[Button docs here](https://getbootstrap.com/docs/4.0/components/buttons/ "Bootstrap buttons"){.btn .btn-dark}  
 
-Srodmiescie	282	              2 226	                 38
 
-Polesce	        102                1 743                   34
+| District    | Offers | Avg. Rent | Avg. Per M² |
+| :---------- | :----- | :-------- | :---------- |
+| :---------- | :----- | :-------- | :---------- |
+| Srodmiescie | 282    | 2 226     | 38          |
+| Polesce     | 102    | 1 743     | 34          |
+| Baluty      | 75     | 2 268     | 35          |
+| Gorna       | 75     | 1 657     | 39          |
+| Widzew      | 58     | 1 938     | 39          |
 
-Baluty	        75	              2 268            	 35
 
-Gorna	        70	              1 657                   39
-
-Widzew	        58	              1 938                   39
 
 All averages do NOT include utilities (media) costs.
 
