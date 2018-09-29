@@ -40,17 +40,15 @@ Volleyball - [Poland through to world semi's ... is this old news on Sunday?](ht
 
 **Odds & Ends**
 
-
-
-TVN- Video
+[From Wales to Poland, by foot - (The Guardian)](https://www.theguardian.com/artanddesign/2018/sep/24/michal-iwanowski-go-home-polish-photography-galeri-caernarfon)
 
 **The Krakcast Podcast**
 
-[How does one become Mayor of Krakow? - a constant theme of expat conversation in bars for many years, finally answered in this weeks podcast.](https://www.krakcast.pl/e/krakcast-krakows-mayoral-election/)
+[Coming out - The lads finally seek help from a sex therapist, the only question is .. why?](https://www.krakcast.pl/e/krakcast-interview-antonina-debogorska/)
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
+_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
 
 Have a great Sunday!
 
