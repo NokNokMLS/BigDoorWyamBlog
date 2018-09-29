@@ -1,12 +1,16 @@
 ---
 Title: The Digest - Your Polish News Update
 Author: Team BigDoor24
+Lead: >-
+  3 million not enough/ Warsaw Mayor Melee/ Indian Govt. responds to Poznan
+  attack/ Waking the Dead in Krakow/ Wroclaw Games/ Lodz Superboy/ Katowice
+  KleanAir/ I Decree!/ Volleyball Success/ Welsh madness/ Sexual Therapy
 Published: '2018-09-29T06:47:22+02:00'
 Image: /assets/Images/the-digest-1-sep21.png
 Tags:
   - NEWS
 ---
-## 3 million not enough/ Warsaw Mayor Melee/ Indian Govt. responds to Poznan attack/ Waking the Dead in Krakow/ Wroclaw Games/ Lodz Superboy/ Katowice KleanAir/ I Decree!/ Volleyball Success/ Welsh madness/ Sexual Therapy
+## 
 
 _Please support us now by sharing to your favourite FB Expat group_
 
