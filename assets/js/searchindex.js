@@ -10,15 +10,15 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Mark Car Rental",
-            content:"Car Rental",
-            description:"Best Mark Car Rental Krakow Kazimierz",
-            tags:'Krakow Kazimierz Car Car'
+            title:"Food shop Bronowice",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
         },
         {
-            url:'/BigDoorWyamBlog/services/marks-car-rental',
-            title:"Mark's Car Rental",
-            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
+            title:"A Food shop in Bronowice",
+            description:"Polish food shop with pierogi"
         }
     );
     a(
@@ -52,15 +52,15 @@ var searchModule = function() {
     a(
         {
             id:3,
-            title:"Food shop Bronowice",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
+            title:"Mark Car Rental",
+            content:"Car Rental",
+            description:"Best Mark Car Rental Krakow Kazimierz",
+            tags:'Krakow Kazimierz Car Car'
         },
         {
-            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
-            title:"A Food shop in Bronowice",
-            description:"Polish food shop with pierogi"
+            url:'/BigDoorWyamBlog/services/marks-car-rental',
+            title:"Mark's Car Rental",
+            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
     var idx = lunr(function() {
