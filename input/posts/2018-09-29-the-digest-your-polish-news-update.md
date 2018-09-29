@@ -22,7 +22,7 @@ _Poznan_ -  - [Indian government react to attack on their citizen in city](https
 
 _Krakow_ - [Waking the Dead -New Krakow cop shop to solve old crimes](http://thenews.pl/1/2/Artykul/384512,Polish-%E2%80%98X-Files%E2%80%99-team-to-probe-hardtosolve-crime) (thenews.pl)
 
-_Wroclaw_ - [City wide game launched on international history of the city](http://wroclawuncut.com/2018/09/25/game-explain-wroclaws-history/) - (Warsaw Uncut)
+_Wroclaw_ - [City wide game launched on international history of the city](http://wroclawuncut.com/2018/09/25/game-explain-wroclaws-history/) - (Wroclaw Uncut)
 
 _Lodz_ - [12 year old saves family from burning home - Now that's a headline!](https://www.tvn24.pl/tvn24-news-in-english,157,m/a-12-year-old-hero-little-dawid-rescued-his-family-from-a-burning-building,872037.html) (TVN Video)
 
