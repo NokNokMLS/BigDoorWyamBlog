@@ -15,7 +15,7 @@ _Please support us now by sharing to your favourite FB Expat group_
 
 **Poland**
 
-**VIDEO - **[**3 million Ukrainians and yet employee shortages still expected**](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-news-in-english-business-news-with-mateusz-walczak,872105.html)**\- **(TVN)
+**VIDEO** -[3 million Ukrainians and yet employee shortages still expected](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-news-in-english-business-news-with-mateusz-walczak,872105.html) - (TVN)
 
 **Local**
 
