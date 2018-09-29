@@ -40,7 +40,7 @@ Volleyball - [Poland through to world semi's ... is this old news on Sunday?](ht
 
 **Odds & Ends**
 
-[From Wales to Poland, by foot - (The Guardian)](https://www.theguardian.com/artanddesign/2018/sep/24/michal-iwanowski-go-home-polish-photography-galeri-caernarfon)
+[From Wales to Poland, by foot](https://www.theguardian.com/artanddesign/2018/sep/24/michal-iwanowski-go-home-polish-photography-galeri-caernarfon) - (The Guardian)
 
 **The Krakcast Podcast**
 
