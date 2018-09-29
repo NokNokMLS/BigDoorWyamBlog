@@ -10,9 +10,8 @@ Image: /assets/Images/the-digest-1-sep21.png
 Tags:
   - NEWS
 ---
-## 
-
 _Please support us now by sharing to your favourite FB Expat group_
+<div class="sharethis-inline-share-buttons"></div>
 
 **Poland**
 
