@@ -2,7 +2,7 @@
 Title: Lodz - Where and How Much?
 Author: Team BigDoor24
 Lead: The average rental costs per district and more
-Published: '2018-09-10T13:39:52+02:00'
+Published: '2018-12-30T13:39:00+01:00'
 Image: /assets/Images/lodz-pic.jpg
 Tags:
   - LODZ
