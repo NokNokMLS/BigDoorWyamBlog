@@ -24,23 +24,23 @@ _Warsaw_ - [Warsaw Mayoral Race -  The debate heats up](https://www.tvn24.pl/tvn
 
 _Poznan_ - [Indian government react to attack on their citizen in city](https://www.firstpost.com/india/indian-student-attacked-in-poznan-poland-sushma-swaraj-seeks-report-3362604.html) - (FirstPost)
 
-_Krakow_ - [Waking the Dead -New Krakow cop shop to solve old crimes](http://thenews.pl/1/2/Artykul/384512,Polish-%E2%80%98X-Files%E2%80%99-team-to-probe-hardtosolve-crime) (thenews.pl)
+_Krakow_ - [Waking the Dead -New Krakow cop shop to solve old crimes](http://thenews.pl/1/2/Artykul/384512,Polish-%E2%80%98X-Files%E2%80%99-team-to-probe-hardtosolve-crime) - (thenews.pl)
 
 _Wroclaw_ - [City wide game launched on international history of the city](http://wroclawuncut.com/2018/09/25/game-explain-wroclaws-history/) - (Wroclaw Uncut)
 
-_Lodz_ - [12 year old saves family from burning home - Now that's a headline!](https://www.tvn24.pl/tvn24-news-in-english,157,m/a-12-year-old-hero-little-dawid-rescued-his-family-from-a-burning-building,872037.html) (TVN Video)
+_Lodz_ - [12 year old saves family from burning home - Now that's a headline!](https://www.tvn24.pl/tvn24-news-in-english,157,m/a-12-year-old-hero-little-dawid-rescued-his-family-from-a-burning-building,872037.html) - (TVN Video)
 
-Katowice - [COP24 - Clean air priority programme announcement](http://cop24.gov.pl/en/news/news-details/news/thecleanairpriorityprogramme/) (COP24/Katowice2018)
+Katowice - [COP24 - Clean air priority programme announcement](http://cop24.gov.pl/en/news/news-details/news/thecleanairpriorityprogramme/)  - (COP24/Katowice2018)
 
 **International**
 
 **I Decree !**
 
-[Judging the Judges - Defiance in the courts](https://edition.cnn.com/2018/09/26/europe/malgorzata-gersdorf-poland-judiciary-eu-intl/index.html)**\- (**CNN Video & Text)
+[Judging the Judges - Defiance in the courts](https://edition.cnn.com/2018/09/26/europe/malgorzata-gersdorf-poland-judiciary-eu-intl/index.html) **\- (**CNN Video & Text)
 
 **Sport**
 
-Volleyball - [Poland through to world semi's ... is this old news on Sunday?](http://italy-bulgaria2018.fivb.com/en/news/poland-take-last-ticket-to-mens-world?id=79107) (thisisvolleyball)
+Volleyball - [Poland through to world semi's...is this old news on Sunday?](http://italy-bulgaria2018.fivb.com/en/news/poland-take-last-ticket-to-mens-world?id=79107) - (thisisvolleyball)
 
 **Odds & Ends**
 
