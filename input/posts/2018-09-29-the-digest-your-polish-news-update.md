@@ -20,9 +20,9 @@ _Please support us now by sharing to your favourite FB Expat group_
 
 **Local**
 
-_Warsaw_ - [Warsaw Mayoral Race -  The debate heats up](https://www.tvn24.pl/tvn24-news-in-english,157,m/in-warsaw-s-local-election-europe-s-identity-crisis-plays-out,871965.html)  - (TVN)
+_Warsaw_ - [Warsaw Mayoral Race -  The debate heats up](https://www.tvn24.pl/tvn24-news-in-english,157,m/in-warsaw-s-local-election-europe-s-identity-crisis-plays-out,871965.html) - (TVN)
 
-_Poznan_ -  - [Indian government react to attack on their citizen in city](https://www.firstpost.com/india/indian-student-attacked-in-poznan-poland-sushma-swaraj-seeks-report-3362604.html) - (FirstPost)
+_Poznan_ - [Indian government react to attack on their citizen in city](https://www.firstpost.com/india/indian-student-attacked-in-poznan-poland-sushma-swaraj-seeks-report-3362604.html) - (FirstPost)
 
 _Krakow_ - [Waking the Dead -New Krakow cop shop to solve old crimes](http://thenews.pl/1/2/Artykul/384512,Polish-%E2%80%98X-Files%E2%80%99-team-to-probe-hardtosolve-crime) (thenews.pl)
 
