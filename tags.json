@@ -25,24 +25,19 @@
     "Weight": 4
   },
   {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
-    "Weight": 3
-  },
-  {
     "Tag": "Where I Live",
     "Url": "/tags/Where-I-Live.html",
     "Weight": 3
   },
   {
-    "Tag": "news",
-    "Url": "/tags/news.html",
-    "Weight": 2
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
+    "Weight": 3
   },
   {
     "Tag": "NEWS",
     "Url": "/tags/NEWS.html",
-    "Weight": 2
+    "Weight": 3
   },
   {
     "Tag": "Rent",
@@ -55,8 +50,48 @@
     "Weight": 2
   },
   {
+    "Tag": "news",
+    "Url": "/tags/news.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Wlochy",
     "Url": "/tags/Wlochy.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "rent",
+    "Url": "/tags/rent.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
     "Weight": 1
   },
   {
@@ -125,43 +160,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
     "Tag": "let",
     "Url": "/tags/let.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "rent",
-    "Url": "/tags/rent.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
     "Weight": 1
   },
   {
