@@ -6,7 +6,7 @@ Lead: >-
   attack/ Waking the Dead in Krakow/ Gdansk Poll/ Wroclaw Games/ Lodz Superboy/
   Katowice KleanAir/ I Decree!/ Volleyball Success/ Welsh madness/ Sexual
   Therapy
-Published: '2018-09-30T09:30:22+02:00'
+Published: '2018-09-30T07:20:00+02:00'
 Image: /assets/Images/the-digest-1-sep21.png
 Tags:
   - NEWS
