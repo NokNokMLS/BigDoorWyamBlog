@@ -3,8 +3,9 @@ Title: The Digest - Your Polish News Update
 Author: Team BigDoor24
 Lead: >-
   3 million not enough/ Warsaw Mayor Melee/ Indian Govt. responds to Poznan
-  attack/ Waking the Dead in Krakow/ Wroclaw Games/ Lodz Superboy/ Katowice
-  KleanAir/ I Decree!/ Volleyball Success/ Welsh madness/ Sexual Therapy
+  attack/ Waking the Dead in Krakow/ Gdansk Poll/ Wroclaw Games/ Lodz Superboy/
+  Katowice KleanAir/ I Decree!/ Volleyball Success/ Welsh madness/ Sexual
+  Therapy
 Published: '2018-09-30T09:30:22+02:00'
 Image: /assets/Images/the-digest-1-sep21.png
 Tags:
@@ -26,6 +27,8 @@ _Poznan_ - [Indian government react to attack on their citizen in city](https://
 
 _Krakow_ - [Waking the Dead -New Krakow cop shop to solve old crimes](http://thenews.pl/1/2/Artykul/384512,Polish-%E2%80%98X-Files%E2%80%99-team-to-probe-hardtosolve-crime) - (thenews.pl)
 
+_Gdansk_ - [City tops the tourist pol](https://www.inyourpocket.com/gdansk/gdansk-tops-tourist-poll_74845f)l - (IYP)
+
 _Wroclaw_ - [City wide game launched on international history of the city](http://wroclawuncut.com/2018/09/25/game-explain-wroclaws-history/) - (Wroclaw Uncut)
 
 _Lodz_ - [12 year old saves family from burning home - Now that's a headline!](https://www.tvn24.pl/tvn24-news-in-english,157,m/a-12-year-old-hero-little-dawid-rescued-his-family-from-a-burning-building,872037.html) - (TVN Video)
@@ -36,7 +39,7 @@ _Katowice_ - [COP24 - Clean air priority programme announcement](http://cop24.go
 
 **I Decree !**
 
-[Judging the Judges - Defiance in the courts](https://edition.cnn.com/2018/09/26/europe/malgorzata-gersdorf-poland-judiciary-eu-intl/index.html) \- (CNN Video & Text)
+[Judging the Judges - Defiance in the courts](https://edition.cnn.com/2018/09/26/europe/malgorzata-gersdorf-poland-judiciary-eu-intl/index.html) - (CNN Video & Text)
 
 **Sport**
 
@@ -52,7 +55,7 @@ Volleyball - [Poland through to world semi's...is this old news on Sunday?](http
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
+_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
 
 Have a great Sunday!
 
