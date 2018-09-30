@@ -43,7 +43,7 @@ _Katowice_ - [COP24 - Clean air priority programme announcement](http://cop24.go
 
 **Sport**
 
-Volleyball - [Poland through to world semi's...is this old news on Sunday?](http://italy-bulgaria2018.fivb.com/en/news/poland-take-last-ticket-to-mens-world?id=79107) - (thisisvolleyball)
+Volleyball - [Poland to defend world title today against Brazil](http://italy-bulgaria2018.fivb.com/en/news/poland-to-defend-world-title-against-brazil?id=79157) - (thisisvolleyball)
 
 **Odds & Ends**
 
@@ -55,7 +55,7 @@ Volleyball - [Poland through to world semi's...is this old news on Sunday?](http
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
+**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
 
 Have a great Sunday!
 
