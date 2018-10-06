@@ -7,9 +7,7 @@ Image: /assets/Images/lech-the-digest.jpg
 Tags:
   - NEWS
 ---
-Lech Walesa's Birthday / Warsaw - Metro mayhem / Poznan - Corn'in it / Krakow - Kids & Cars / Gdansk - Film Fest Fanfare / Wroclaw Equality / Lodz - Gets Funny / Katowice - CultureFest / International - Short skirt gets short shrift / Sport - Roanalso is a Nie! / Man of Hope / Krakcast new podcast .
-
-
+Lech Walesa's Birthday / Warsaw - Metro mayhem / Poznan - Corn'in it / Krakow - Kids & Cars / Gdansk - Film Fest Fanfare / Wroclaw Equality / Lodz - Gets Funny / Katowice - CultureFest / International - Short skirt gets short shrift / Sport - Ronaldo is a Nie! / Man of Hope / Krakcast new podcast .
 
 _Please support us now by sharing to your favourite FB Expat group_
 
@@ -25,13 +23,13 @@ _Warsaw_ - [Metro Escalator goes postal and injures 3](https://www.tvn24.pl/tvn2
 
 _Poznan_ -  [New "Corn" restaurant in Poznan](http://streetwise.pl/2018/10/06/moze-zboze-newly-opened-corn-restuarant-in-poznan/)  - (Streetwise.pl)
 
-_Krakow_ -   [Presidential motorcade hits cross-walking child](https://www.tvn24.pl/tvn24-news-in-english,157,m/accident-involving-presidential-motorcade-police-car-slightly-hit-a-child,873506.html) - (TVN24)
+_Krakow_ - [Presidential motorcade hits cross-walking child](https://www.tvn24.pl/tvn24-news-in-english,157,m/accident-involving-presidential-motorcade-police-car-slightly-hit-a-child,873506.html) - (TVN24)
 
 _Gdansk_ - [Polish Film Festival Winners](https://tricitynews.pl/polish-film-festival-award-winners-cold-war/) - (Tricitynews.pl)
 
-_Wroclaw_ -  [Equality marches on](http://wroclawuncut.com/2018/10/02/tenth-equality-march-to-make-its-way-through-wroclaw-on-saturday/) - (Wroclaw Uncut)
+_Wroclaw_ - [Equality marches on](http://wroclawuncut.com/2018/10/02/tenth-equality-march-to-make-its-way-through-wroclaw-on-saturday/) - (Wroclaw Uncut)
 
-_Lodz_ - [ Lodz gets funny](http://lodzpost.com/entertainment/stand-comedy-english-world-wide-comedy-returns-lodz/) - (lodzpost.com)
+_Lodz_ - [Lodz gets funny](http://lodzpost.com/entertainment/stand-comedy-english-world-wide-comedy-returns-lodz/) - (lodzpost.com)
 
 _Katowice_ - [Culture without barriers Festival kicks off](http://www.thenews.pl/1/11/Artykul/384727,Culture-Without-Barriers-Festival-starts-in-Poland)  - (thenews.pl)
 
