@@ -39,11 +39,11 @@ _Katowice_ -   [Culture without barriers Festival kicks off](http://www.thenews.
 
 **Sport**
 
-Soccer - [Ronaldo is a Nie !](https://www.tvn24.pl/tvn24-news-in-english,157,m/cristiano-ronaldo-will-not-play-against-poland-next-week,873542.html) - (TVN24 VIDEO)
+Soccer - [Ronaldo is a Nie !](https://www.tvn24.pl/tvn24-news-in-english,157,m/cristiano-ronaldo-will-not-play-against-poland-next-week,873542.html) - (TVN24 - VIDEO)
 
 **Odds & Ends**
 
-[Continuing the theme, a 5 year old BBC interview with Walesa about his Biopic](https://www.bbc.com/news/entertainment-arts-24538140) - BBC
+[Continuing the theme, a 5 year old BBC interview with Walesa about his Biopic](https://www.bbc.com/news/entertainment-arts-24538140) - (BBC)
 
 **The Krakcast Podcast**
 
@@ -51,7 +51,7 @@ Soccer - [Ronaldo is a Nie !](https://www.tvn24.pl/tvn24-news-in-english,157,m/c
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans.**_
+**_BigDoor24.pl is a new free service that sources property professionals for expats, securing discounts and providing cash-backs on home loans._**
 
 Have a great Sunday!
 
