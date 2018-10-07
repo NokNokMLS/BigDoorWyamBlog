@@ -9,7 +9,7 @@ Lead: >-
 Published: '2018-09-30T07:20:00+02:00'
 Image: /assets/Images/the-digest-1-sep21.png
 Tags:
-  - NEWS
+  - The Digest
 ---
 _Please support us now by sharing to your favourite FB Expat group_
 
