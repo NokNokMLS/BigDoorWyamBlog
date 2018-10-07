@@ -1,5 +1,5 @@
 ---
-Title: The Digest
+Title: The Digest - Your Polish weekly news roundup
 Author: Team BigDoor24
 Lead: >-
   Lech Walesa's Birthday / Warsaw - Metro mayhem / Poznan - Corn'in it / Krakow
