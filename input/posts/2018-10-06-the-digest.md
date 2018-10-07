@@ -2,10 +2,10 @@
 Title: The Digest
 Author: Team BigDoor24
 Lead: Your weeky roundup of Polish News
-Published: '2018-10-06T19:18:39+02:00'
+Published: '2018-10-07T22:00:39+02:00'
 Image: /assets/Images/lech-the-digest.jpg
 Tags:
-  - NEWS
+  - The Digest
 ---
 Lech Walesa's Birthday / Warsaw - Metro mayhem / Poznan - Corn'in it / Krakow - Kids & Cars / Gdansk - Film Fest Fanfare / Wroclaw Equality / Lodz - Gets Funny / Katowice - CultureFest / International - Short skirt gets short shrift / Sport - Ronaldo is a Nie! / Man of Hope / Krakcast new podcast .
 
