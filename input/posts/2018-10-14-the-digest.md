@@ -3,7 +3,7 @@ Title: The Digest
 Author: Team BigDoor24
 Lead: Your Sunday Polish News Round-up
 Published: '2018-10-14T09:00:35+02:00'
-Image: /assets/Images/copy-of-the-digest-cheerleader-3.png
+Image: /assets/Images/weekly-1410-the-digest.png
 Tags:
   - THE DIGEST
 ---
