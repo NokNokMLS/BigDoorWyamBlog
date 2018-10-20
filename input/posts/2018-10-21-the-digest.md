@@ -5,7 +5,7 @@ Lead: >-
   PiS to pass ? / Warsaw - Action! The Film Festival / Krakow - Make smog a
   memory / Poznan - Game Arena / Gdansk - Rapist suspect on cam / Wroclaw- Lime
   scooters let loose/ Lodz - Rubinstein clanks the keys / Katowice - Jungle
-  Journeys / International - John Paul II's Obituary/ Sport - Lewandowski sores
+  Journeys / International - John Paul II's Obituary/ Sport - Lewandowski scores
   / Desert ramble / Wroclaw Podcast links.
 Published: '2018-10-20T23:27:46+02:00'
 Image: /assets/Images/the-digest-man-reading.png
