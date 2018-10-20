@@ -5,13 +5,13 @@
     "Weight": 9
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Buy",
+    "Url": "/tags/Buy.html",
     "Weight": 6
   },
   {
-    "Tag": "Buy",
-    "Url": "/tags/Buy.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 6
   },
   {
@@ -25,8 +25,8 @@
     "Weight": 4
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 3
   },
   {
@@ -35,14 +35,9 @@
     "Weight": 3
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 3
-  },
-  {
-    "Tag": "news",
-    "Url": "/tags/news.html",
-    "Weight": 2
   },
   {
     "Tag": "Let",
@@ -55,33 +50,33 @@
     "Weight": 2
   },
   {
-    "Tag": "Suburb West",
-    "Url": "/tags/Suburb-West.html",
+    "Tag": "news",
+    "Url": "/tags/news.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "The Digest",
+    "Url": "/tags/The-Digest.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Wlochy",
+    "Url": "/tags/Wlochy.html",
     "Weight": 1
   },
   {
-    "Tag": "let",
-    "Url": "/tags/let.html",
+    "Tag": "Zabierzow",
+    "Url": "/tags/Zabierzow.html",
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Rzaska",
+    "Url": "/tags/Rzaska.html",
     "Weight": 1
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -95,18 +90,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzaska",
-    "Url": "/tags/Rzaska.html",
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
@@ -115,53 +100,13 @@
     "Weight": 1
   },
   {
-    "Tag": "The Digest",
-    "Url": "/tags/The-Digest.html",
+    "Tag": "THE DIGEST",
+    "Url": "/tags/THE-DIGEST.html",
     "Weight": 1
   },
   {
     "Tag": "Bialystok",
     "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Zabierzow",
-    "Url": "/tags/Zabierzow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Wlochy",
-    "Url": "/tags/Wlochy.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "rent",
-    "Url": "/tags/rent.html",
     "Weight": 1
   },
   {
@@ -175,8 +120,68 @@
     "Weight": 1
   },
   {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Lublin",
     "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "rent",
+    "Url": "/tags/rent.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Suburb West",
+    "Url": "/tags/Suburb-West.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "let",
+    "Url": "/tags/let.html",
     "Weight": 1
   }
 ]
