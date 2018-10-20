@@ -8,7 +8,7 @@ Lead: >-
   Journeys / International - John Paul II's Obituary/ Sport - Lewandowski sores
   / Desert ramble / Wroclaw Podcast links.
 Published: '2018-10-20T23:27:46+02:00'
-Image: /assets/Images/the-digest-21oct.png
+Image: /assets/Images/the-digest-man-reading.png
 Tags:
   - The Digest
 ---
