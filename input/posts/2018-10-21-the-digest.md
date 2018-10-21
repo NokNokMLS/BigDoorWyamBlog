@@ -42,11 +42,11 @@ _Katowice_ -  [Jungle Journeys](https://www.tvn24.pl/tvn24-news-in-english,157,m
 
 **Sport**
 
-[Lewendowski ends Bayern 4 game losing streak with 2 goals](https://www.bbc.com/sport/football/45915902)** **- (BBC)
+[Lewendowski ends Bayern 4 game losing streak with 2 goals](https://www.bbc.com/sport/football/45915902) - (BBC)
 
 **Odds & Ends**
 
-[Pole first to walk through Gobi Desert](https://polandinenglish.info/39484418/pole-first-to-walk-through-asian-desert)**\- ** (Polandinenglish.info)
+[Pole first to walk through Gobi Desert](https://polandinenglish.info/39484418/pole-first-to-walk-through-asian-desert) **\-** (Polandinenglish.info)
 
 **The Wroclaw Sunday Lunch Podcast**
 
@@ -54,7 +54,7 @@ _Katowice_ -  [Jungle Journeys](https://www.tvn24.pl/tvn24-news-in-english,157,m
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
 Have a great Sunday!
 
