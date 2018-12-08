@@ -3,7 +3,7 @@ Title: 'Rental Deposits - how much, when and getting it back'
 Author: Team BigDoor24
 Lead: 'It''s easy when you know '
 Published: '2018-12-08T10:53:29+01:00'
-Image: /assets/Images/apartment-rental-deposit.jpg
+Image: /assets/Images/apartment-rental-deposit-thumbnail.jpg
 Tags:
   - RENT
 ---
