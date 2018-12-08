@@ -19,7 +19,7 @@ Tags:
 
 **District** Zabierzow, Rzaska
 
-**Business Website** BigDoor24.pl
+**Business Website**  BigDoor24.pl
 
 **Rent/Bought/Since** Bought in 2017
 
@@ -49,6 +49,6 @@ I am working with [BigDoor24.pl](https://bigdoor24.pl), trying to make life easi
 
 Use [BigDoor24.pl](https://bigdoor24.pl)!
 
-**_Other useful links_**
+_**Other useful links**_
 
-[**_Read more about Rząska_**](https://en.wikipedia.org/wiki/Rz%C4%85ska)
+[_**Read more about Rząska**_](https://en.wikipedia.org/wiki/Rz%C4%85ska)
