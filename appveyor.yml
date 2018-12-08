@@ -20,17 +20,16 @@ install:
 
 build_script:
   # run once to generate output for gh-pages
-  - ..\Wyam\wyam -s LinkRoot="/BigDoorWyamBlog"
+  - dotnet ..\Wyam\Wyam.dll -s LinkRoot="/BigDoorWyamBlog"
   - xcopy output ..\ghpages /Esy
   - ls output
   # run once to generate output for netlify
-  - ..\Wyam\wyam 
+  - dotnet ..\Wyam\Wyam.dll 
   - xcopy output ..\output /Esy
   - ls output
   # now run to produce artifacts which will be deployed to website/blog folder
-  - ..\Wyam\wyam %EXTRACOMMANDOPTIONS%
+  - dotnet ..\Wyam\Wyam.dll %EXTRACOMMANDOPTIONS%
   - pwd
-  - ls
   - ls
   - ls ..\output
   
