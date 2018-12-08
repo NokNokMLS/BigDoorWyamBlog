@@ -24,7 +24,7 @@ _Warsaw_ - [ Poland has worst pollution in Europe - Ugh!](http://thenews.pl/1/9/
 
 _Krakow_ -  [Informative 2017 article on Krakow / Polish Smog](https://phys.org/news/2017-02-smog-coal-addicted-poland.html) (phys.org)
 
-_Gdansk_ - - [Gdansk winning battle against smog](https://www.huffingtonpost.com/pawel-adamowicz/gdansk-winning-battle-aga_b_14103748.html?guccounter=1) - (HuffPost)
+_Gdansk_ - [Gdansk winning battle against smog](https://www.huffingtonpost.com/pawel-adamowicz/gdansk-winning-battle-aga_b_14103748.html?guccounter=1) - (HuffPost)
 
 _Wroclaw_ - [5 anti-smog proposals](https://www.tvn24.pl/tvn24-news-in-english,157,m/city-of-wroclaw-considers-five-options-of-battling-smog,889226.html) - (TVN- Video)
 
@@ -50,7 +50,7 @@ _Katowice_ -  ["We will not let Coal Industry die" - President Duda .... interes
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
 Have a great Sunday!
 
