@@ -19,7 +19,7 @@ Tags:
 
 **District** Zabierzow, Rzaska
 
-**Business Website **BigDoor24.pl
+**Business Website**  BigDoor24.pl
 
 **Rent/Bought/Since** Bought in 2017
 
@@ -39,16 +39,16 @@ Being 8 KM from the centre means late night beers require a taxi service and we 
 
 **Any negatives?**
 
-The Air, The Air , The Air and there are no local bars , none that open after 10 pm anyway.
+The Air, The Air, The Air and there are no local bars, none that open after 10 pm anyway.
 
 **What are you doing here?**
 
-I am working with BigDoor24.pl, trying to make life easier for expats living in and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.
+I am working with [BigDoor24.pl](https://bigdoor24.pl), trying to make life easier for expats living in and planning to visit Poland, and at the same time, teaching  my trilingual toddler that I can't understand all of her new words.
 
-**What's your best tip for people looking to buy /rent/get a home loan?**
+**What's your best tip for people looking to buy/rent/get a home loan?**
 
-Use BigDoor24.pl !
+Use [BigDoor24.pl](https://bigdoor24.pl)!
 
-**_Other useful links_**
+_**Other useful links**_
 
-[**_https://en.wikipedia.org/wiki/Rz%C4%85ska_**](https://en.wikipedia.org/wiki/Rz%C4%85ska)
+[_**Read more about Rząska**_](https://en.wikipedia.org/wiki/Rz%C4%85ska)
