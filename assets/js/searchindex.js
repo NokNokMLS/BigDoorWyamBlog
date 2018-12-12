@@ -10,20 +10,6 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Dave Car Rental",
-            content:"additional search tags",
-            description:"Best Dave Car Rental Krakow Bronowice",
-            tags:'Kraków Bronowice Car Car'
-        },
-        {
-            url:'/BigDoorWyamBlog/services/daves-car-rental',
-            title:"Dave's Car Rental",
-            description:"The Best Dave's Car Rental in Krakow, Bronowice"
-        }
-    );
-    a(
-        {
-            id:1,
             title:"Food shop Bronowice",
             content:"pierogi",
             description:"Polish food shop pierogi",
@@ -33,6 +19,20 @@ var searchModule = function() {
             url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
             title:"A Food shop in Bronowice",
             description:"Polish food shop with pierogi"
+        }
+    );
+    a(
+        {
+            id:1,
+            title:"Dave Car Rental",
+            content:"additional search tags",
+            description:"Best Dave Car Rental Krakow Bronowice",
+            tags:'Kraków Bronowice Car Car'
+        },
+        {
+            url:'/BigDoorWyamBlog/services/daves-car-rental',
+            title:"Dave's Car Rental",
+            description:"The Best Dave's Car Rental in Krakow, Bronowice"
         }
     );
     a(
