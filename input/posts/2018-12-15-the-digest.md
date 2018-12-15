@@ -7,6 +7,10 @@ Image: /assets/Images/copy-of-copy-of-copy-of-copy-of-copy-of-the-digest.png
 Tags:
   - NEWS
 ---
+Big Balls/ Norwegian Asylum/ The Jesus Competition/ Boom Town/ Mo' Shoppin'/ COP24 Closes/ Smog snaps/ Volleyball Victory/ Criminal cops/ Krakcast
+
+
+
 _Please support us now by sharing to your favourite FB Expat group_
 
 <div class="sharethis-inline-share-buttons"></div>
@@ -45,7 +49,7 @@ _Katowice_ - [Climate Conference draws to a close - (DW)](https://www.dw.com/en/
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
 Have a great Sunday!
 
