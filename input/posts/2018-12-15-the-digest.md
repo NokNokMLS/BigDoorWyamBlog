@@ -7,9 +7,9 @@ Image: /assets/Images/snow-digest.png
 Tags:
   - NEWS
 ---
+
+
 Big Balls/ Norwegian Asylum/ The Jesus Competition/ Boom Town/ Mo' Shoppin'/ COP24 Closes/ Smog snaps/ Volleyball Victory/ Criminal cops/ Krakcast
-
-
 
 _Please support us now by sharing to your favourite FB Expat group_
 
@@ -33,7 +33,7 @@ _Katowice_ - [Climate Conference draws to a close - (DW)](https://www.dw.com/en/
 
 **International**
 
-[In Pictures - Poland Deadly Addiction to Coal - (theguardian)](https://www.theguardian.com/environment/gallery/2018/dec/14/poland-deadly-coal-addiction-in-pictures)
+[In Pictures - Polands Deadly Addiction to Coal - (theguardian)](https://www.theguardian.com/environment/gallery/2018/dec/14/poland-deadly-coal-addiction-in-pictures)
 
 **Sport**
 
@@ -49,7 +49,7 @@ _Katowice_ - [Climate Conference draws to a close - (DW)](https://www.dw.com/en/
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
 Have a great Sunday!
 
