@@ -5,19 +5,14 @@
     "Weight": 9
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
-    "Weight": 6
-  },
-  {
     "Tag": "Buy",
     "Url": "/tags/Buy.html",
     "Weight": 6
   },
   {
-    "Tag": "Sell",
-    "Url": "/tags/Sell.html",
-    "Weight": 5
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
+    "Weight": 6
   },
   {
     "Tag": "News",
@@ -25,18 +20,23 @@
     "Weight": 5
   },
   {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
-    "Weight": 3
+    "Tag": "Sell",
+    "Url": "/tags/Sell.html",
+    "Weight": 5
   },
   {
     "Tag": "NEWS",
     "Url": "/tags/NEWS.html",
-    "Weight": 3
+    "Weight": 4
   },
   {
     "Tag": "Where I Live",
     "Url": "/tags/Where-I-Live.html",
+    "Weight": 3
+  },
+  {
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
     "Weight": 3
   },
   {
@@ -50,38 +50,18 @@
     "Weight": 2
   },
   {
-    "Tag": "Let",
-    "Url": "/tags/Let.html",
-    "Weight": 2
-  },
-  {
     "Tag": "news",
     "Url": "/tags/news.html",
     "Weight": 2
   },
   {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
-    "Weight": 1
+    "Tag": "Let",
+    "Url": "/tags/Let.html",
+    "Weight": 2
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "RENT",
-    "Url": "/tags/RENT.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
+    "Tag": "Zabierzow",
+    "Url": "/tags/Zabierzow.html",
     "Weight": 1
   },
   {
@@ -90,8 +70,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
     "Weight": 1
   },
   {
@@ -110,28 +90,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Wlochy",
-    "Url": "/tags/Wlochy.html",
+    "Tag": "rent",
+    "Url": "/tags/rent.html",
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Suburb West",
+    "Url": "/tags/Suburb-West.html",
     "Weight": 1
   },
   {
-    "Tag": "Zabierzow",
-    "Url": "/tags/Zabierzow.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
@@ -145,13 +125,18 @@
     "Weight": 1
   },
   {
-    "Tag": "let",
-    "Url": "/tags/let.html",
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
     "Weight": 1
   },
   {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
@@ -160,8 +145,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Suburb West",
-    "Url": "/tags/Suburb-West.html",
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -170,8 +155,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
     "Weight": 1
   },
   {
@@ -185,8 +170,23 @@
     "Weight": 1
   },
   {
-    "Tag": "rent",
-    "Url": "/tags/rent.html",
+    "Tag": "let",
+    "Url": "/tags/let.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wlochy",
+    "Url": "/tags/Wlochy.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "RENT",
+    "Url": "/tags/RENT.html",
     "Weight": 1
   }
 ]
