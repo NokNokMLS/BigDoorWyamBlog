@@ -1,5 +1,5 @@
 ---
-Title: The Digest
+Title: The Digest - December 16th 2018
 Author: Team BigDoor24
 Lead: Your Sunday News Roundup
 Published: '2018-12-15T21:37:54+01:00'
