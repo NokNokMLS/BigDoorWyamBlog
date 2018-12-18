@@ -17,7 +17,7 @@ Jan 27  / Feb 24 / Mar 31 / Apr 14 & 28 / May 26 / Jun 30 / Jul 28
 
 Aug 25 / Sep 29 / Oct 27 /  Nov 24 / Dec 15, 22 & 29
 
-Cinemas , petrol stations and shops operated by owners will still be allowed to operate.
+Cinemas, petrol stations and owner-operated shops will still be allowed to open.
 
 If you are disappointed by this reduction from 2018 levels, be consoled by the knowledge that in 2020 there will only be 7 days of Sunday shopping available!
 
