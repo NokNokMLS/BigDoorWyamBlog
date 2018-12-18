@@ -17,7 +17,9 @@ Feb 24
 
 Mar 31
 
-Apr 14 & 28
+Apr14
+
+Apr 28
 
 May 26
 
@@ -33,13 +35,17 @@ Oct 27
 
 Nov 24
 
-Dec 15, 22 & 29
+Dec 15
+
+Dec 22
+
+Dec 29
 
 Cinemas , petrol stations and shops operated by owners will still be allowed to open.
 
 If you are disappointed by this reduction from 2018 levels, be consoled by the knowledge that in 2020 there will only be 7 days of Sunday shopping available.
 
-If you think our BigDoor24.pl service adds value, follow us and share now.
+Every Sunday, The Digest, our weekly round up of Polish news, will include details on shop openings so follow us now.
 
 <div class="sharethis-inline-share-buttons"></div>
 
