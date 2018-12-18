@@ -25,6 +25,8 @@ If you are disappointed by this reduction from 2018 levels, be consoled by the k
 
 <div class="sharethis-inline-share-buttons"></div>
 
+
+
 Happy shopping,
 
 Team BigDoor24.pl
