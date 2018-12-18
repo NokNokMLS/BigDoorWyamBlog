@@ -7,13 +7,39 @@ Image: /assets/Images/kiss-your-shopping-.jpg
 Tags:
   - NEWS
 ---
-
-
 In 2017 you could shop on any Sunday you wanted. From March 2018, just the first and last Sunday of each month allowed non owner operated shops to open. With 2019 comes the further roll out of the Polish trade ban.
 
 In 2019, large stores will be open on the following dates
 
-![](/assets/Images/shopping-days-2019.jpg)
+Jan 27
+
+Feb 24
+
+Mar 31
+
+Apr14
+
+Apr 28
+
+May 26
+
+Jun 30
+
+Jul 28
+
+Aug 25
+
+Sep 29
+
+Oct 27
+
+Nov 24
+
+Dec 15
+
+Dec 22
+
+Dec 29
 
 Cinemas , petrol stations and shops operated by owners will still be allowed to open.
 
@@ -21,11 +47,7 @@ If you are disappointed by this reduction from 2018 levels, be consoled by the k
 
 If you think our BigDoor24.pl service adds value, follow and share us now.
 
-
-
 <div class="sharethis-inline-share-buttons"></div>
-
-
 
 Happy shopping,
 
