@@ -1,5 +1,5 @@
 ---
-Title: Kiss your 2018 shopping days goodbye !
+Title: Kiss your 2018 shopping days goodbye!
 Author: Team BigDoor24
 Lead: Only 15 out of 52 Sundays are open for shopping in 2019
 Published: '2018-12-18T13:30:33+01:00'
@@ -11,8 +11,18 @@ In 2017 you could shop on any Sunday you wanted, from March '18 just the first a
 
 In 2019, large stores will be open on the following dates
 
-![](/assets/Images/shopping-days-2019.jpg)
+![null](/assets/Images/shopping-days-2019.jpg)
 
 Cinemas , petrol stations and shops operated by owners will still be allowed to open.
 
 If you are disappointed by this reduction from 2018 levels, be consoled by the knowledge that in 2020 there will only be 7 days of Sunday shopping available.
+
+If you think our BigDoor24.pl service adds value, follow and share us now.
+
+<div class="sharethis-inline-share-buttons"></div>
+
+
+
+Happy shopping,
+
+Team BigDoor24.pl
