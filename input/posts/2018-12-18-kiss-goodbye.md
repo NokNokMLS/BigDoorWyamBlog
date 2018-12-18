@@ -16,7 +16,7 @@ In 2019, large stores will be open on the following dates
 Jan 27  / Feb 24 / Mar 31 / Apr 14 & 28 / May 26 / Jun 30 / Jul 28
 
 Aug 25 / Sep 29 / Oct 27 /  Nov 24 / Dec 15, 22 & 29
-
+![](../assets/Images/shopping-days-2019.jpg){.img-fluid .img-responsive}
 Cinemas, petrol stations and owner-operated shops will still be allowed to open.
 
 If you are disappointed by this reduction from 2018 levels, be consoled by the knowledge that in 2020 there will only be 7 days of Sunday shopping available!
