@@ -13,7 +13,9 @@ After the introduction of the 2018 Sunday trading ban, limiting shopping to just
 
 In 2019, large stores will be open on the following dates
 
-Jan 27  / Feb 24 / Mar 31 / Apr 14 & 28 / May 26 / Jun 30 / Jul 28 / Aug 25 / Sep 29 / Oct 27 /  Nov 24 / Dec 15, 22 & 29
+Jan 27  / Feb 24 / Mar 31 / Apr 14 & 28 / May 26 / Jun 30 / Jul 28
+
+Aug 25 / Sep 29 / Oct 27 /  Nov 24 / Dec 15, 22 & 29
 
 Cinemas , petrol stations and shops operated by owners will still be allowed to operate.
 
