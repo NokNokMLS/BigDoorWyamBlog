@@ -13,7 +13,7 @@ In 2017 you could shop on any Sunday you wanted. From March 2018, just the first
 
 In 2019, large stores will be open on the following dates
 
-![null](/assets/Images/shopping-days-2019.jpg)
+![](/assets/Images/shopping-days-2019.jpg)
 
 Cinemas , petrol stations and shops operated by owners will still be allowed to open.
 
