@@ -11,13 +11,15 @@ In 2017 you could shop on any Sunday you wanted. From March 2018, just the first
 
 In 2019, large stores will be open on the following dates
 
+![](../assets/Images/shopping-days-2019.jpg){.img-fluid .img-responsive}
+
 Jan 27
 
 Feb 24
 
 Mar 31
 
-Apr14
+Apr 14
 
 Apr 28
 
