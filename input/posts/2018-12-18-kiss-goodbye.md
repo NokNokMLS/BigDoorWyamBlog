@@ -1,6 +1,7 @@
 ---
-Title: Kiss goodbye
+Title: Kiss your 2018 shopping days goodbye !!!
 Author: Team BigDoor24
+Lead: Only 15 out of 52 Sundays are open for shopping in 2019
 Published: '2018-12-18T20:38:05+01:00'
 Image: /assets/Images/kiss-your-shopping-.jpg
 Tags:
