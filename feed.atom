@@ -3,9 +3,88 @@
 	<id>https://bigdoor24.pl/BigDoorWyamBlog</id>
 	<title>BigDoor24 Blog</title>
 	<link rel="self" href="https://bigdoor24.pl/BigDoorWyamBlog" />
-	<rights>2018</rights>
-	<updated>2018-12-18T20:22:14Z</updated>
+	<rights>2019</rights>
+	<updated>2019-01-06T08:38:58Z</updated>
 	<subtitle>Welcome!</subtitle>
+	<entry>
+		<id>https://bigdoor24.pl/BigDoorWyamBlog/posts/2018-09-10-lodz-where-and-how-much.html</id>
+		<title>Lodz - Where and How Much?</title>
+		<author>
+			<name>Team BigDoor24</name>
+		</author>
+		<link href="https://bigdoor24.pl/BigDoorWyamBlog/posts/2018-09-10-lodz-where-and-how-much.html" />
+		<link rel="enclosure" type="image" href="https://bigdoor24.pl/BigDoorWyamBlog/assets/Images/lodz-pic.jpg" />
+		<updated>2018-12-30T12:39:00Z</updated>
+		<content>&lt;p&gt;&lt;strong&gt;LODZ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So you're either moving to Lodz or just looking for a new place in the city and need a some tips.  For information on the city and its history you can see the wikipedia page &lt;a href="https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At BigDoor24.pl we were interested less in the history and more in some of the average rental costs , availability levels etc in the main districts.&lt;/p&gt;
+&lt;p&gt;Generally in the city, as of September 2018, average monthly rents were PLN 2,065 + utilities ( media ) which equates to PLN 37.50 per square metre, on average.&lt;/p&gt;
+&lt;p&gt;Based on our research there are currently just over 600 apartments available for rent, of differing quality and sizes, which is slightly less than the national average based on population.&lt;/p&gt;
+&lt;p&gt;We would point out that these numbers are based on what is on offer rather than a study of all rental prices etc.. Additionally the figures may be skewed upwards slightly as it includes expensive penthouses.&lt;/p&gt;
+&lt;p&gt;To give an even clearer picture we have broken down our numbers by district below.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/assets/Images/district-advert-bd24.png" class="img-fluid img-responsive" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.google.com"&gt;google&lt;/a&gt;
+&lt;a href="https://www.google.com" class="btn btn-primary" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;
+&lt;a href="https://www.google.com" title="Google's Homepage"&gt;I'm an inline-style link with title&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://getbootstrap.com/docs/4.0/components/buttons/" class="btn btn-outline-primary" title="Bootstrap buttons"&gt;Button docs here&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://getbootstrap.com/docs/4.0/components/buttons/" class="btn btn-secondary" title="Bootstrap buttons"&gt;Button docs here&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://getbootstrap.com/docs/4.0/components/buttons/" class="btn btn-success" title="Bootstrap buttons"&gt;Button docs here&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://getbootstrap.com/docs/4.0/components/buttons/" class="btn btn-warning" title="Bootstrap buttons"&gt;Button docs here&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://getbootstrap.com/docs/4.0/components/buttons/" class="btn btn-dark" title="Bootstrap buttons"&gt;Button docs here&lt;/a&gt;&lt;/p&gt;
+&lt;table class="table"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: left;"&gt;District&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;Offers&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;Avg. Rent&lt;/th&gt;
+&lt;th style="text-align: left;"&gt;Avg. Per M²&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;:----------&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;:-----&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;:--------&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;:----------&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Srodmiescie&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;282&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;2 226&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;38&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Polesce&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;102&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1 743&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;34&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Baluty&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;75&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;2 268&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Gorna&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;75&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1 657&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;39&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;Widzew&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;58&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1 938&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;39&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;All averages do NOT include utilities (media) costs.&lt;/p&gt;
+&lt;p&gt;Hope it helps and happy hunting !&lt;/p&gt;
+&lt;p&gt;Team BigDoor24.pl&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;&lt;strong&gt;LODZ&lt;/strong&gt;&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>https://bigdoor24.pl/BigDoorWyamBlog/posts/2018-12-18-kiss-goodbye.html</id>
 		<title>Kiss your 2018 shopping days goodbye !!!</title>
@@ -597,33 +676,5 @@ what Poland's past &amp;amp; present holds for the US's future.&lt;/a&gt;&lt;/p&
 &lt;p&gt;Happy Hunting&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Whether buying or selling, it's a good idea (and required if getting a home loan) to get a good independent valuation. And strangely, not all valuers are created equally.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>https://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-13-renting-without-an-agent-a-checklist.html</id>
-		<title>Renting without an Agent -  A Checklist</title>
-		<author>
-			<name>Team BigDoor24</name>
-		</author>
-		<link href="https://bigdoor24.pl/BigDoorWyamBlog/posts/2018-06-13-renting-without-an-agent-a-checklist.html" />
-		<link rel="enclosure" type="image" href="https://bigdoor24.pl/BigDoorWyamBlog/assets/Images/rent-on-your-own.jpg" />
-		<updated>2018-06-13T12:00:27Z</updated>
-		<content>&lt;p&gt;When renting a property through an agent you will normally pay a fee equivalent to one months rent ( or less if using BigDoor24 ).so you may decide you would like to avoid paying anything.&lt;/p&gt;
-&lt;p&gt;Here are some pointers in how you can go about it&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Finding a property&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You will need to only deal with owners who are offering their properties directly and the best way to find them is by using the filter &amp;quot; owners only &amp;quot; on the property search engine you are using (i.e. Morizon.pl, Otodom.pl, Gratka.pl etc).&lt;/p&gt;
-&lt;p&gt;Alternatively you can look at gumtree.pl for direct offers from owners or post what you are looking for on one of the local Facebook groups.&lt;/p&gt;
-&lt;p&gt;You should be aware that this will severely limit the number of properties available to you as the large majority are offered through agencies but you may get lucky.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Negotiating&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;It is likely that the owner may not speak your language so it would be best to bring a Polish friend or hire a translator while you are negotiating the terms. The additional costs will include electricity, water etc ( called Media ) and building management fees.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Time to sign&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Your agreement will probably be in Polish only and it is a legal document so again , bring a friend or hire a translator. You may also want the Landlord to accompany you to the city registration office to record that you are living there,&lt;/p&gt;
-&lt;p&gt;It is a rare issue but you should also ensure that the landlord is actually the owner of the property. Ask them to bring along ownership documents for you to view before signing..&lt;/p&gt;
-&lt;p&gt;Rental agreements are normally pretty standard but if you are wary of any of the terms, bring it to a lawyer to check it over before signing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Upon Signing&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You will be expected to pay your deposit of one month rent and the first month in advance. Additionally you will have to bring your signed lease to the different utility offices to put your name on the relevant electricity, water bills etc.&lt;/p&gt;
-&lt;p&gt;Agents have a legal responsibility for any property they negotiate on so you won't have this guarantee but you will have saved the fee less any legal and translator charges you incur.&lt;/p&gt;
-&lt;p&gt;Happy Hunting !&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;When renting a property through an agent you will normally pay a fee equivalent to one months rent ( or less if using BigDoor24 ).so you may decide you would like to avoid paying anything.&lt;/p&gt;</summary>
 	</entry>
 </feed>
