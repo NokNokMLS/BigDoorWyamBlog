@@ -35,7 +35,7 @@ _Poznan_ -  [Bear Care - Poznan zoo auctions a day of animal care for charity](h
 
 **Sport**
 
-[Real Madrid, Chealsea join hunt to sign Poland's 23 year old Krzysztof Piątek](http://thenews.pl/1/5/Artykul/400467,Football-giants-chasing-rising-Polish-star-Piatek-reports) - (thenews.pl)
+[Real Madrid, Chelsea join hunt to sign Poland's 23 year old Krzysztof Piątek](http://thenews.pl/1/5/Artykul/400467,Football-giants-chasing-rising-Polish-star-Piatek-reports) - (thenews.pl)
 
 **Odds & Ends**
 
