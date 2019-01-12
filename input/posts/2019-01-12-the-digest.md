@@ -27,7 +27,7 @@ _Gdansk_ - [Good Morning Gdansk - new English language radio for Tri-city](https
 
 _Wroclaw_ - [Wroclaw "Escape Rooms" undergo widespread safety checks](http://wroclawuncut.com/2019/01/07/koszalin-tragedy-prompts-safety-checks-of-wroclaws-escape-rooms/) - (Wroclaw Uncut)
 
-_Poznan _-  [Bear Care - Poznan zoo auctions a day of animal care for charity](https://www.tvn24.pl/tvn24-news-in-english,157,m/the-zoo-poznan-supports-the-great-orchestra-of-christmas-charity,899004.html) - (TVN - Video)
+_Poznan_ -  [Bear Care - Poznan zoo auctions a day of animal care for charity](https://www.tvn24.pl/tvn24-news-in-english,157,m/the-zoo-poznan-supports-the-great-orchestra-of-christmas-charity,899004.html) - (TVN - Video)
 
 **International**
 
@@ -39,7 +39,7 @@ _Poznan _-  [Bear Care - Poznan zoo auctions a day of animal care for charity](h
 
 **Odds & Ends**
 
-[After mass entertainment - miners enjoy a male stripper, all on state money, Shock, horror](https://www.tvn24.pl/tvn24-news-in-english,157,m/male-stripper-at-a-miner-s-holiday-party-sponsored-by-polish-gas-giant,899000.html)- (TVN Video )
+[After celebrating mass, miners enjoy a male stripper, all on state money, Shock, horror](https://www.tvn24.pl/tvn24-news-in-english,157,m/male-stripper-at-a-miner-s-holiday-party-sponsored-by-polish-gas-giant,899000.html)- (TVN Video )
 
 **The Krakcast Podcast**
 
@@ -47,7 +47,7 @@ _Poznan _-  [Bear Care - Poznan zoo auctions a day of animal care for charity](h
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
 Have a great Sunday!
 
