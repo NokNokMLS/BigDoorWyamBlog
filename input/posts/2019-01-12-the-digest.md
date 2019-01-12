@@ -1,5 +1,5 @@
 ---
-Title: The Digest
+Title: The Digest - January 13th 2019
 Author: Team BigDoor24
 Lead: Your Weekly News Roundup
 Published: '2019-01-12T08:10:48+01:00'
