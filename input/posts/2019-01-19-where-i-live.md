@@ -1,5 +1,5 @@
 ---
-Title: Where I Live
+Title: 'Where I Live - Krakow, Pradnik Czerwony'
 Author: Team BigDoor24.pl
 Lead: 'Krakow, Pradnik Czerwony'
 Published: '2019-01-19T22:01:32+01:00'
