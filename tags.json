@@ -7,12 +7,7 @@
   {
     "Tag": "NEWS",
     "Url": "/tags/NEWS.html",
-    "Weight": 8
-  },
-  {
-    "Tag": "Buy",
-    "Url": "/tags/Buy.html",
-    "Weight": 6
+    "Weight": 7
   },
   {
     "Tag": "Investment",
@@ -20,14 +15,24 @@
     "Weight": 6
   },
   {
-    "Tag": "News",
-    "Url": "/tags/News.html",
-    "Weight": 5
+    "Tag": "Buy",
+    "Url": "/tags/Buy.html",
+    "Weight": 6
   },
   {
     "Tag": "Sell",
     "Url": "/tags/Sell.html",
     "Weight": 5
+  },
+  {
+    "Tag": "News",
+    "Url": "/tags/News.html",
+    "Weight": 5
+  },
+  {
+    "Tag": "The Digest",
+    "Url": "/tags/The-Digest.html",
+    "Weight": 3
   },
   {
     "Tag": "Where I Live",
@@ -40,9 +45,9 @@
     "Weight": 3
   },
   {
-    "Tag": "The Digest",
-    "Url": "/tags/The-Digest.html",
-    "Weight": 3
+    "Tag": "news",
+    "Url": "/tags/news.html",
+    "Weight": 2
   },
   {
     "Tag": "Rent",
@@ -55,9 +60,64 @@
     "Weight": 2
   },
   {
-    "Tag": "news",
-    "Url": "/tags/news.html",
-    "Weight": 2
+    "Tag": "Wlochy",
+    "Url": "/tags/Wlochy.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "RENT",
+    "Url": "/tags/RENT.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzaska",
+    "Url": "/tags/Rzaska.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Where I LIve",
+    "Url": "/tags/Where-I-LIve.html",
+    "Weight": 1
   },
   {
     "Tag": "Zabierzow",
@@ -65,8 +125,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
@@ -85,36 +150,6 @@
     "Weight": 1
   },
   {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzaska",
-    "Url": "/tags/Rzaska.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Valuation",
     "Url": "/tags/Valuation.html",
     "Weight": 1
@@ -125,33 +160,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "let",
-    "Url": "/tags/let.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "RENT",
-    "Url": "/tags/RENT.html",
+    "Tag": "THE DIGEST",
+    "Url": "/tags/THE-DIGEST.html",
     "Weight": 1
   },
   {
@@ -160,18 +170,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -180,13 +190,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Wlochy",
-    "Url": "/tags/Wlochy.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "THE DIGEST",
-    "Url": "/tags/THE-DIGEST.html",
+    "Tag": "let",
+    "Url": "/tags/let.html",
     "Weight": 1
   }
 ]
