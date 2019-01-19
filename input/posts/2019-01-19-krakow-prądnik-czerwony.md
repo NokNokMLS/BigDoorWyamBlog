@@ -1,7 +1,7 @@
 ---
 Title: 'Krakow,  Prądnik Czerwony'
 Author: Team BigDoor24
-Lead: Where I live - David McG.
+Lead: Where I Live - David McG.
 Published: '2019-01-19T15:54:19+01:00'
 Image: /assets/Images/tauran-pradnik-czerwony.jpg
 Tags:
