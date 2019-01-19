@@ -36,6 +36,6 @@ Still, the trade off between price and location is a decision that everyone has 
 
 Use BigDoor24.pl!
 
-[_Read more about Prądnik Czerwony_](https://pl.wikipedia.org/wiki/Dzielnica_III_Pr%C4%85dnik_Czerwony)
+
 
 Dave McG is a founder and regular contributor to The KrakCast, Krakows biggest English language podcast. Listen  to their latest podcasts [here](https://www.krakcast.pl/).
