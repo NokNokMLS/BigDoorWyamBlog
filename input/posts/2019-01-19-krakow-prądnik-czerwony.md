@@ -1,5 +1,5 @@
 ---
-Title: 'Krakow,  Prądnik Czerwony'
+Title: 'Krakow,  Pradnik Czerwony'
 Author: Team BigDoor24
 Lead: Where I Live - David McG.
 Published: '2019-01-19T15:54:19+01:00'
