@@ -3,6 +3,7 @@ Title: The Digest 20th January 2019
 Author: Team BigDoor24
 Lead: Your weekly Polish news roundup
 Published: '2019-01-19T17:54:58+01:00'
+Image: /assets/Images/jan20th-digest.png
 Tags:
   - NEWS
 ---
