@@ -28,7 +28,7 @@ _Gdansk_ - [Trying to understand a crime](https://www.politico.eu/article/gdansk
 
 _Wroclaw_ - [Clamping down on online hate speech](http://wroclawuncut.com/2019/01/15/local-news-website-vows-to-stamp-out-threats-and-hateful-comments/) - (Wroclaw Uncut)
 
-_Poznan_ -  [Finally ! A Trade Fair for pigeon fanciers comes to town](https://www.olimpiadagolebi.pl/en/news/trade_fair_of_racing_pigeons_and_accessories/)
+_Poznan_ -  [Finally ! A Trade Fair for pigeon fanciers comes to town](https://www.olimpiadagolebi.pl/en/news/trade_fair_of_racing_pigeons_and_accessories/) (WhoCares)
 
 **International**
 
@@ -44,11 +44,11 @@ _Poznan_ -  [Finally ! A Trade Fair for pigeon fanciers comes to town](https://w
 
 **The Krakcast Podcast**
 
-[If you are not following the Wisla soccer saga, you need to hear this](https://www.krakcast.pl/e/krakcast-wisla-yet-again/)**  **
+[If you are not following the Wisla soccer saga, you need to hear this](https://www.krakcast.pl/e/krakcast-wisla-yet-again/)\*\*  \*\*
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
 Have a great Sunday!
 
