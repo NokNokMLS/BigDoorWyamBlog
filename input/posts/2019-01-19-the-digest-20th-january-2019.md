@@ -6,7 +6,7 @@ Published: '2019-01-19T17:54:58+01:00'
 Tags:
   - NEWS
 ---
-**Poland** - Kill 'em all/ **Warsaw** - Conspiracist conspiracy/ **Krakow** - Clean Kaz/ **Tri-city** - Radio Gdansk/ **Wroclaw** - Escape rooms/ **Poznan** - Bear Care/ **International** - Hu-What?/ **Sport** - Favourite son/ **Odds & ends** - Mining the depths/ **Krakcast** - Wisla woes
+**Poland** - Atro-city/ **Warsaw** - Money for nothing/ **Krakow** - Loyalty Pays/ **Tri-city** - Why?/ **Wroclaw** - Hateful comments/ **Poznan** - Pigeon Paradise/ **International** - Italian Invite/ **Sport** - National Hero/ **Odds & ends** - Teachers know their numbers/ **Krakcast** - Wisla woes ( again)
 
 _Please support us now by sharing to your favourite FB Expat group_
 
@@ -48,7 +48,7 @@ _Poznan_ -  [Finally ! A Trade Fair for pigeon fanciers comes to town](https://w
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
 Have a great Sunday!
 
