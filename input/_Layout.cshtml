@@ -5,7 +5,7 @@
                 @"Find a Property & Credit Agent who speaks your language.
                 Save on Fees & Qualify for Rebates
                 It's free and always will be." : Model.WithoutSettings.String(BlogKeys.Lead));
-        string PageTitle = Context.String(BlogKeys.Title) + (string.IsNullOrWhiteSpace(Title) ? string.Empty : " - " + Title);
+        string PageTitle =  (string.IsNullOrWhiteSpace(Title) ? Context.String(BlogKeys.Title) : Title);
 }
 
 <!DOCTYPE html>
