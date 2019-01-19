@@ -9,19 +9,19 @@ Tags:
   - Prądnik Czerwony
   - Krakow
 ---
-**Name** - David McG.
+**Name**  David McG.
 
-**Nationality** - Irish
+**Nationality**  Irish
 
-**City** - Krakow
+**City**  Krakow
 
-**District** -  Prądnik Czerwony
+**District**  Prądnik Czerwony
 
-**Business Website** - [Krakcast.pl](https://www.krakcast.pl/)
+**Business Website**  [Krakcast.pl](https://www.krakcast.pl/)
 
-**Rent/Bought** - Bought
+**Rent/Bought**  Bought
 
-**Apartment or House **- Apartment
+**Apartment or House ** Apartment
 
 **What attracted you to, and keeps you in, the district?**
 
@@ -35,7 +35,5 @@ Still, the trade off between price and location is a decision that everyone has 
 **
 
 Use BigDoor24.pl!
-
-
 
 Dave McG is a founder and regular contributor to The KrakCast, Krakows biggest English language podcast. Listen  to their latest podcasts [here](https://www.krakcast.pl/).
