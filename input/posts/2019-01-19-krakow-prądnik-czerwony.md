@@ -21,7 +21,7 @@ Tags:
 
 **Rent/Bought** - Bought
 
-**Apartment or House **- House
+**Apartment or House **- Apartment
 
 **What attracted you to, and keeps you in, the district?**
 
