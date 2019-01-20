@@ -1,5 +1,5 @@
 ---
-Title: Krakow - Pradnik Czerwony
+Title: Where I Live - Krakow - Pradnik Czerwony
 Author: Team BigDoor24
 Lead: Where I live
 Published: '2019-01-19T23:01:13+01:00'
@@ -19,7 +19,7 @@ Tags:
 
 **Rent/Bought**  Bought
 
-**Apartment or House ** Apartment
+**Apartment or House** Apartment
 
 **What attracted you to, and keeps you in, the district?**
 
@@ -29,8 +29,7 @@ The good side of Wieczysta is the quiet neighbourhood feel despite being so clos
 
 Still, the trade off between price and location is a decision that everyone has to make for themselves and you can do a lot worse in Krakow than the area where ul. Mogilska turns into ul. Jana Pawla on its way to Nowa Huta. Being close to a main transport artery makes it easy to get around the entire city and you can feel like you're far enough away from the noise of the center of town while still being close enough when you want a little noise. Three malls are within a short walk, you're never more than a few minutes away from someplace to buy what you need for dinner and a range of other amenities makes it a good choice. 
 
-**What's your best tip for people looking to buy/rent/get a home loan?
-**
+**What's your best tip for people looking to buy/rent/get a home loan ?**
 
 Use BigDoor24.pl!
 
