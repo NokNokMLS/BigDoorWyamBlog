@@ -17,7 +17,7 @@ We start by looking at the average Rent per district in real terms.
 
 As you can see by the Graph below, rents in the city range from under zl. 1,500 to nearly zl. 3,500 depending on where you choose to lay your hat. 
 
-![null](../assets/Images/krakow-rent-2.png)
+!(/assets/Images/krakow-rent-2.png){.img-fluid .img-responsive}
 
 Within the numbers, there is a disparity between apartments that have been newly built and those that are in older buildings and additionally these are what Landlords are asking, not necessarily what they are getting.
 
