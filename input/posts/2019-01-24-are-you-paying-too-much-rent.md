@@ -17,7 +17,7 @@ We start by looking at the average Rent per district in real terms.
 
 As you can see by the Graph below, rents in the city range from under zl. 1,500 to nearly zl. 3,500 depending on where you choose to lay your hat. 
 
-![null](/assets/Images/krakow-rent-2.png)
+![](/assets/Images/krakow-rent-2.png)
 
 Within the numbers, there is a disparity between apartments that have been newly built and those that are in older buildings and additionally these are what Landlords are asking, not necessarily what they are getting.
 
@@ -27,7 +27,7 @@ To get a better view on value, the following graph is average rent per metre squ
 
 **REFER US TO A SUCCESSFUL MORTGAGE APPLICANT AND GET A zl. 250 VOUCHER IN THANKS. REGISTER FOR MORE DETAILS.**
 
-![null](/assets/Images/krakow-rent-1.png)
+![](/assets/Images/krakow-rent-1.png)
 
 At first look, we can see that despite Stare Miasto being the most expensive in terms of total net rent, Krododrza is more expensive in terms of cost per apartment size. We would also add that in the less popular districts, particularly those further from the centre, there is limited offers and so the numbers should be used as a guide only. We would expect that there is better value than presented.
 
