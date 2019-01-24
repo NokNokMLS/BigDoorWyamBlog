@@ -45,7 +45,7 @@ Krakow has a much higher level of apartments available for rent versus apartment
 
 \- Best District to Buy
 
-\- The Digest - every Sunday, the best stories from around the world about Poland. See previous examples here.
+\- The Digest - every Sunday, the best stories from around the world about Poland. See previous examples [here.](https://bigdoor24.pl/blog/posts/2019-01-19-the-digest-20th-january-2019.html)
 
 If any of the above interests you or you simply wish to _support us Follow/Like & Share now._
 
