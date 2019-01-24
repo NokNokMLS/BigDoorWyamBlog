@@ -17,7 +17,7 @@ We start by looking at the average Rent per district in real terms.
 
 As you can see by the Graph below, rents in the city range from under zl. 1,500 to nearly zl. 3,500 depending on where you choose to lay your hat. 
 
-![](/assets/Images/krakow-rent-2.png)
+![null](/assets/Images/krakow-rent-2.png)
 
 Within the numbers, there is a disparity between apartments that have been newly built and those that are in older buildings and additionally these are what Landlords are asking, not necessarily what they are getting.
 
@@ -43,7 +43,7 @@ Krakow has a much higher level of apartments available for rent versus apartment
 
 \- Example of Polish apartment lease, in English
 
-\- Best district to Buy
+\- Best District to Buy
 
 \- The Digest - every Sunday, the best stories from around the world about Poland. See previous examples here.
 
