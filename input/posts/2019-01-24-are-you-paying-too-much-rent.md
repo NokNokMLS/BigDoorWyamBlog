@@ -51,4 +51,8 @@ If any of the above interests you or you simply wish to _support us Follow/Like 
 
 <div class="sharethis-inline-share-buttons"></div>
 
+
+
+
+
 **About BigDoor24.pl -  A new free service that matches Expats with Professionals who speak their language. Receive zl. 200 for every zl. 100,000 borrowed through a BigDoor24 certified Credit Advisor.**
