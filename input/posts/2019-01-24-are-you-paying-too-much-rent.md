@@ -27,7 +27,7 @@ To get a better view on value, the following graph is average rent per metre squ
 
 **REFER US TO A SUCCESSFUL MORTGAGE APPLICANT AND GET A zl. 250 VOUCHER IN THANKS. REGISTER FOR MORE DETAILS.**
 
-![](/assets/Images/krakow-rent-1.png)
+![null](/assets/Images/krakow-rent-1.png)
 
 At first look, we can see that despite Stare Miasto being the most expensive in terms of total net rent, Krododrza is more expensive in terms of cost per apartment size. We would also add that in the less popular districts, particularly those further from the centre, there is limited offers and so the numbers should be used as a guide only. We would expect that there is better value than presented.
 
@@ -46,3 +46,9 @@ Krakow has a much higher level of apartments available for rent versus apartment
 \- Best district to Buy
 
 \- The Digest - every Sunday, the best stories from around the world about Poland. See previous examples here.
+
+If any of the above interests you or you simply wish to _support us follow/Like & Share now._
+
+<div class="sharethis-inline-share-buttons"></div>
+
+**About BigDoor24.pl -  A new free service that matches Expats with Professionals who speak their language. Receive zl. 200 for every zl. 100,000 borrowed through a BigDoor24 certified Credit Advisor.**
