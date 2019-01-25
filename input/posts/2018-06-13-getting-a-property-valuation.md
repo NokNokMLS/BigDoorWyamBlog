@@ -7,7 +7,6 @@ Image: /assets/Images/housemoney.jpg
 Tags:
   - Buy
   - Sell
-  - Valuation
   - Investment
   - General Information
 ---
