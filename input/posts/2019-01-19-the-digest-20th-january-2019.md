@@ -5,7 +5,8 @@ Lead: Your weekly Polish news roundup
 Published: '2019-01-19T17:54:58+01:00'
 Image: /assets/Images/jan20th-digest.png
 Tags:
-  - NEWS
+  - News
+  - The Digest
 ---
 **Poland** - Atro-city/ **Warsaw** - Money for nothing/ **Krakow** - Loyalty Pays/ **Tri-city** - Why?/ **Wroclaw** - Hateful comments/ **Poznan** - Pigeon Paradise/ **International** - Italian Invite/ **Sport** - National Hero/ **Odds & ends** - Teachers know their numbers/ **Krakcast** - Wisla woes ( again)
 
