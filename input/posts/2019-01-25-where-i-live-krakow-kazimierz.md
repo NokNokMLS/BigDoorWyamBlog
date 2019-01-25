@@ -1,5 +1,5 @@
 ---
-Title: 'Where I LIve - Krakow, Kazimierz'
+Title: 'Where I Live - Krakow, Kazimierz'
 Author: Team BigDoor24
 Lead: 'Kazimierz, Krakow'
 Published: '2019-01-25T09:05:49+01:00'
