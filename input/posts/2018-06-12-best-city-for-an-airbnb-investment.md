@@ -7,7 +7,7 @@ Image: /assets/Images/airbnb.jpg
 Tags:
   - Buy
   - Investment
-  - Statistics
+  - General Information
 ---
 Everyone is doing it so why can't I?
 
