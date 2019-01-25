@@ -2,7 +2,7 @@
 Title: When & How to apply for a Home Loan
 Author: Team BigDoor24
 Lead: 'When to apply, How to apply, What to consider'
-Published: '2018-12-21T08:59:25+01:00'
+Published: '2019-01-25T08:59:25+01:00'
 Image: /assets/Images/chicken-egg.jpg
 Tags:
   - Home Loan
@@ -33,12 +33,12 @@ This makes it even more important that you employ the services of a qualified in
 
 **Tip 5 - Be aware of the ancillary costs when budgeting**
 
-When budgeting, be sure to include the valuation and arrangement fees that can be anywhere between 1-2 % of the loan amount.
+When budgeting, be sure to include the valuation and arrangement fees that can be anywhere between 1-3 % of the loan amount.
 
 **Tip 6 - Not using BigDoor24 can actually cost you money !**
 
-And don't forget, by requesting contact with an Advisor through BigDoor24, you will receive cashback once your loan is confirmed. ( i.e PLN 200 per PLN 100k borrowed  - For more information see FAQ  <https://bigdoor24.pl/Home/FAQ>
+And don't forget, by requesting contact with an Advisor through BigDoor24.pl, you will receive cashback once your loan is confirmed, (i.e **zl. 200 per zl. 100k borrowed**). Additionally, by simply registering with BigDoor24.pl, you will receive a personal referral code. Every time you refer us you to a successful applicant you will get a **zl. 250 thank you.**
 
-This is not an offer you will get by going direct.
+_**This is not an offer you will get by going direct.**_
 
 Happy Hunting !
