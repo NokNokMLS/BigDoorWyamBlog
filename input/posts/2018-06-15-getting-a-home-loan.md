@@ -2,7 +2,7 @@
 Title: When & How to apply for a Home Loan
 Author: Team BigDoor24
 Lead: 'When to apply, How to apply, What to consider'
-Published: '2018-05-11T08:59:25+02:00'
+Published: '2019-01-17T08:59:25+01:00'
 Image: /assets/Images/chicken-egg.jpg
 Tags:
   - Home Loan
