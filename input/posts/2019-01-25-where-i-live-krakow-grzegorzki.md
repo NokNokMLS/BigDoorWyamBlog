@@ -7,7 +7,6 @@ Image: /assets/Images/galeria-kaz.jpg
 Tags:
   - Where I Live
   - Krakow
-  - Grzegorzki
 ---
 **Name** David McG.
 
