@@ -5,7 +5,8 @@ Lead: Your Sunday News Roundup
 Published: '2018-12-15T21:37:54+01:00'
 Image: /assets/Images/snow-digest.png
 Tags:
-  - NEWS
+  - News
+  - The Digest
 ---
 
 
