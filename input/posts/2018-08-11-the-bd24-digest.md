@@ -5,7 +5,8 @@ Lead: A Sunday News roundup of the last week in Poland
 Published: '2018-08-19T10:01:00+02:00'
 Image: /assets/Images/the-digest-aug19th.png
 Tags:
-  - news
+  - News
+  - The Digest
 ---
 ## **Cop-out Cops/ Parade for the Past/ Top Krakow start-ups/ Hating the haters/ Cycle Safety/ Controlled Memory/ Dopey Russian & more**
 
