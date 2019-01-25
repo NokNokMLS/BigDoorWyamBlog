@@ -5,9 +5,9 @@ Lead: Going it alone
 Published: '2018-06-13T14:00:27+02:00'
 Image: /assets/Images/rent-on-your-own.jpg
 Tags:
-  - rent
-  - let
+  - Rent
   - General Information
+  - Let
 ---
 When renting a property through an agent you will normally pay a fee equivalent to one months rent ( or less if using BigDoor24 ).so you may decide you would like to avoid paying anything. 
 
