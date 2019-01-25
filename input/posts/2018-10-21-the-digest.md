@@ -10,6 +10,7 @@ Lead: >-
 Published: '2018-10-20T23:27:46+02:00'
 Image: /assets/Images/the-digest-man-reading.png
 Tags:
+  - News
   - The Digest
 ---
 _Please support us now by sharing to your favourite FB Expat group_
