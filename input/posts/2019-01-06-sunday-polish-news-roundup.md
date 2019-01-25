@@ -5,7 +5,8 @@ Lead: No escape from tragedy
 Published: '2019-01-06T09:45:46+01:00'
 Image: /assets/Images/january6th.png
 Tags:
-  - NEWS
+  - News
+  - The Digest
 ---
 Just one story this week. Five teenage girls are dead after a fire in an escape room party event.  With over 1,000 escape rooms operating in Poland, recriminations and regulations will surely follow but for now we believe no other news should crowd out this horrifying event.
 
