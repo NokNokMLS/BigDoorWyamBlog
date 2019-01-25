@@ -10,34 +10,20 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Mark Car Rental",
-            content:"Car Rental",
-            description:"Best Mark Car Rental Krakow Kazimierz",
-            tags:'Krakow Kazimierz Car Car'
+            title:"Food shop Bronowice",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
         },
         {
-            url:'/services/marks-car-rental',
-            title:"Mark's Car Rental",
-            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+            url:'/services/a-food-shop-in-bronowice',
+            title:"A Food shop in Bronowice",
+            description:"Polish food shop with pierogi"
         }
     );
     a(
         {
             id:1,
-            title:"Dave Car Rental",
-            content:"additional search tags",
-            description:"Best Dave Car Rental Krakow Bronowice",
-            tags:'Kraków Bronowice Car Car'
-        },
-        {
-            url:'/services/daves-car-rental',
-            title:"Dave's Car Rental",
-            description:"The Best Dave's Car Rental in Krakow, Bronowice"
-        }
-    );
-    a(
-        {
-            id:2,
             title:"John Hair Salon",
             content:"Hair Salon",
             description:"best John Hair Salon Krakow Centrum",
@@ -51,16 +37,30 @@ var searchModule = function() {
     );
     a(
         {
-            id:3,
-            title:"Food shop Bronowice",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
+            id:2,
+            title:"Dave Car Rental",
+            content:"additional search tags",
+            description:"Best Dave Car Rental Krakow Bronowice",
+            tags:'Kraków Bronowice Car Car'
         },
         {
-            url:'/services/a-food-shop-in-bronowice',
-            title:"A Food shop in Bronowice",
-            description:"Polish food shop with pierogi"
+            url:'/services/daves-car-rental',
+            title:"Dave's Car Rental",
+            description:"The Best Dave's Car Rental in Krakow, Bronowice"
+        }
+    );
+    a(
+        {
+            id:3,
+            title:"Mark Car Rental",
+            content:"Car Rental",
+            description:"Best Mark Car Rental Krakow Kazimierz",
+            tags:'Krakow Kazimierz Car Car'
+        },
+        {
+            url:'/services/marks-car-rental',
+            title:"Mark's Car Rental",
+            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
     var idx = lunr(function() {
