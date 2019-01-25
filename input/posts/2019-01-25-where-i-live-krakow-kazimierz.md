@@ -6,7 +6,6 @@ Published: '2019-01-25T09:05:49+01:00'
 Image: /assets/Images/kazimierz-wielki-904143_960_720.jpg
 Tags:
   - Where I Live
-  - Kazimierz
   - Krakow
 ---
 **Name** Josh S.
