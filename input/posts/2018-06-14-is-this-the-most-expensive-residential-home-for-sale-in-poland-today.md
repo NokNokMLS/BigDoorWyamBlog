@@ -5,7 +5,6 @@ Lead: '"Buy land. They''re not making it anymore" - Mark Twain'
 Published: '2018-07-24T10:08:57+02:00'
 Image: /assets/Images/houseexpensive.jpg
 Tags:
-  - Krakow
   - Investment
   - Buy
   - Sell
