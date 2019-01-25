@@ -5,7 +5,7 @@ Lead: 'It''s easy when you know '
 Published: '2018-12-08T10:53:29+01:00'
 Image: /assets/Images/apartment-rental-deposit-thumbnail.jpg
 Tags:
-  - RENT
+  - Rent
 ---
 As in most countries, it is perfectly normal that a tenant is required to pay a deposit to a new landlord to cover any outstanding utility charges or damages to the property during a tenants stay.  
 
