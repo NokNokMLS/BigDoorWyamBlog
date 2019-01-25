@@ -5,7 +5,8 @@ Lead: Only 15 out of 52 Sundays are open for shopping in 2019
 Published: '2018-12-18T20:38:05+01:00'
 Image: /assets/Images/kiss-your-shopping-.jpg
 Tags:
-  - NEWS
+  - News
+  - General Information
 ---
 A lot of you knew it was coming but may have forgotten.
 
