@@ -37,8 +37,10 @@ When budgeting, be sure to include the valuation and arrangement fees that can b
 
 **Tip 6 - Not using BigDoor24 can actually cost you money !**
 
-And don't forget, by requesting contact with an Advisor through BigDoor24.pl, you will receive cashback once your loan is confirmed, (i.e **zl. 200 per zl. 100k borrowed**). Additionally, by simply registering with BigDoor24.pl, you will receive a personal referral code. Every time you refer us you to a successful applicant you will get a **zl. 250 thank you.**
+And don't forget, by requesting contact with an Advisor through BigDoor24.pl, you will receive cashback once your loan is confirmed, (i.e **zl. 200 per zl. 100k borrowed**).
 
-_**This is not an offer you will get by going direct.**_
+Additionally, by simply registering with BigDoor24.pl, you will receive a personal referral code. Every time you refer us you to a successful applicant you will get a **zl. 250 thank you.**
+
+**_This is not an offer you will get by going direct._**
 
 Happy Hunting !
