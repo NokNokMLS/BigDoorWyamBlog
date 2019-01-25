@@ -2,7 +2,7 @@
 Title: Choosing a Language School - things to consider
 Author: Team BigDoor24
 Lead: Why you want to learn is as important as where you study
-Published: '2018-06-12T15:06:42+02:00'
+Published: '2018-12-12T15:06:42+01:00'
 Image: /assets/Images/polish-alphabet.png
 Tags:
   - General Information
