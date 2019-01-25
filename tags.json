@@ -2,7 +2,7 @@
   {
     "Tag": "News",
     "Url": "/BigDoorWyamBlog/tags/News.html",
-    "Weight": 11
+    "Weight": 12
   },
   {
     "Tag": "General Information",
@@ -12,7 +12,7 @@
   {
     "Tag": "The Digest",
     "Url": "/BigDoorWyamBlog/tags/The-Digest.html",
-    "Weight": 8
+    "Weight": 9
   },
   {
     "Tag": "Investment",
@@ -45,28 +45,18 @@
     "Weight": 5
   },
   {
-    "Tag": "Rent",
-    "Url": "/BigDoorWyamBlog/tags/Rent.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Let",
     "Url": "/BigDoorWyamBlog/tags/Let.html",
     "Weight": 2
   },
   {
-    "Tag": "Statistics",
-    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
-    "Weight": 1
+    "Tag": "Rent",
+    "Url": "/BigDoorWyamBlog/tags/Rent.html",
+    "Weight": 2
   },
   {
-    "Tag": "THE DIGEST",
-    "Url": "/BigDoorWyamBlog/tags/THE-DIGEST.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Pradnik Czerwony",
-    "Url": "/BigDoorWyamBlog/tags/Pradnik-Czerwony.html",
+    "Tag": "RENT",
+    "Url": "/BigDoorWyamBlog/tags/RENT.html",
     "Weight": 1
   },
   {
@@ -75,13 +65,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Suburb West",
-    "Url": "/BigDoorWyamBlog/tags/Suburb-West.html",
+    "Tag": "Zabierzow",
+    "Url": "/BigDoorWyamBlog/tags/Zabierzow.html",
     "Weight": 1
   },
   {
-    "Tag": "Zabierzow",
-    "Url": "/BigDoorWyamBlog/tags/Zabierzow.html",
+    "Tag": "Poznan",
+    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
     "Weight": 1
   },
   {
@@ -100,13 +90,8 @@
     "Weight": 1
   },
   {
-    "Tag": "rent",
-    "Url": "/BigDoorWyamBlog/tags/rent.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Wlochy",
-    "Url": "/BigDoorWyamBlog/tags/Wlochy.html",
+    "Tag": "Valuation",
+    "Url": "/BigDoorWyamBlog/tags/Valuation.html",
     "Weight": 1
   },
   {
@@ -115,13 +100,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
+    "Tag": "Statistics",
+    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
     "Weight": 1
   },
   {
-    "Tag": "Torun",
-    "Url": "/BigDoorWyamBlog/tags/Torun.html",
+    "Tag": "Pradnik Czerwony",
+    "Url": "/BigDoorWyamBlog/tags/Pradnik-Czerwony.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Grzegorzki",
+    "Url": "/BigDoorWyamBlog/tags/Grzegorzki.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Suburb West",
+    "Url": "/BigDoorWyamBlog/tags/Suburb-West.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzaska",
+    "Url": "/BigDoorWyamBlog/tags/Rzaska.html",
     "Weight": 1
   },
   {
@@ -130,18 +130,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/BigDoorWyamBlog/tags/Rzeszow.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Lublin",
     "Url": "/BigDoorWyamBlog/tags/Lublin.html",
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Tag": "Katowice",
+    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
     "Weight": 1
   },
   {
@@ -155,13 +150,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/BigDoorWyamBlog/tags/Airbnb.html",
+    "Tag": "Wlochy",
+    "Url": "/BigDoorWyamBlog/tags/Wlochy.html",
     "Weight": 1
   },
   {
-    "Tag": "RENT",
-    "Url": "/BigDoorWyamBlog/tags/RENT.html",
+    "Tag": "Airbnb",
+    "Url": "/BigDoorWyamBlog/tags/Airbnb.html",
     "Weight": 1
   },
   {
@@ -170,18 +165,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Grzegorzki",
-    "Url": "/BigDoorWyamBlog/tags/Grzegorzki.html",
+    "Tag": "Home Loan",
+    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
     "Weight": 1
   },
   {
-    "Tag": "Rzaska",
-    "Url": "/BigDoorWyamBlog/tags/Rzaska.html",
+    "Tag": "Torun",
+    "Url": "/BigDoorWyamBlog/tags/Torun.html",
     "Weight": 1
   },
   {
-    "Tag": "Poznan",
-    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
+    "Tag": "Rzeszow",
+    "Url": "/BigDoorWyamBlog/tags/Rzeszow.html",
     "Weight": 1
   },
   {
@@ -190,8 +185,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Katowice",
-    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
+    "Tag": "Kielce",
+    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -200,8 +195,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Valuation",
-    "Url": "/BigDoorWyamBlog/tags/Valuation.html",
+    "Tag": "rent",
+    "Url": "/BigDoorWyamBlog/tags/rent.html",
     "Weight": 1
   }
 ]
