@@ -5,7 +5,8 @@ Lead: The Digest - Your Weekly Roundup
 Published: '2018-09-02T06:24:51+02:00'
 Image: /assets/Images/the-digest-aug19th.png
 Tags:
-  - news
+  - News
+  - The Digest
 ---
 ## Coal's gonna get you/ Lambo on the lamb/ Smart Poznan/ Krakow Tourists/ Katowice Climate/ Wroclaw-the bad side/ What goes up... / The Irish are coming/ Queues to decline/ Krakcast gets stripped
 
