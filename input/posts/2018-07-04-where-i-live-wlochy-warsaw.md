@@ -7,7 +7,6 @@ Image: /assets/Images/wlochy-warsaw.jpg
 Tags:
   - Where I Live
   - Warsaw
-  - Wlochy
 ---
 **Name**: Thanasis
 
