@@ -5,7 +5,8 @@ Lead: Your Sunday Polish News Round-up
 Published: '2018-10-14T09:00:35+02:00'
 Image: /assets/Images/weekly-1410-the-digest.png
 Tags:
-  - THE DIGEST
+  - News
+  - The Digest
 ---
 David v Goliath / Warsaw - Visions of greatness / Poznan - Uni scores / Krakow - Chelsea FC to reward racist fans / Gdansk - Bloody Drug Wars by the sea / Wroclaw- Inside the crowd of Love / Lodz - World Cheerleader C'ships are G-R-E-A-T / Katowice - Polish Nazi not insane / International - US knowledge not what it might be / Sport - Tennis Master / Sunday rest / Warsaw Podcast Library.
 
