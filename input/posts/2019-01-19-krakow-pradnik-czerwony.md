@@ -1,15 +1,17 @@
 ---
 Title: Where I Live - Krakow - Pradnik Czerwony
 Author: Team BigDoor24
-Lead: Where I live
+Lead: 'Where I live, Krakow - Pradnik Czerwony'
 Published: '2019-01-19T23:01:13+01:00'
 Image: /assets/Images/tauran.jpg
 Tags:
   - Where I LIve
+  - Krakow
+  - Pradnik Czerwony
 ---
-**Name**  David McG.
+**Name**  John A.
 
-**Nationality**  Irish
+**Nationality**  USA
 
 **City**  Krakow
 
@@ -33,4 +35,4 @@ Still, the trade off between price and location is a decision that everyone has 
 
 Use BigDoor24.pl!
 
-Dave McG is a founder and regular contributor to The KrakCast, Krakows biggest English language podcast. Listen  to their latest podcasts [here](https://www.krakcast.pl/).
+John A. is a founder and regular contributor to The KrakCast, Krakows biggest English language podcast. Listen  to their latest podcasts [here](https://www.krakcast.pl/).
