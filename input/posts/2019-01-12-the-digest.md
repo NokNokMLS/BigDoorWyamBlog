@@ -5,7 +5,8 @@ Lead: Your Weekly News Roundup
 Published: '2019-01-12T08:10:48+01:00'
 Image: /assets/Images/digest-16th-jan.png
 Tags:
-  - NEWS
+  - News
+  - The Digest
 ---
 **Poland** - Kill 'em all/ **Warsaw** - Conspiracist conspiracy/ **Krakow** - Clean Kaz/ **Tri-city** - Radio Gdansk/ **Wroclaw** - Escape rooms/ **Poznan** - Bear Care/ **International** - Hu-What?/ **Sport** - Favourite son/ **Odds & ends** - Mining the depths/ **Krakcast** - Wisla woes
 
