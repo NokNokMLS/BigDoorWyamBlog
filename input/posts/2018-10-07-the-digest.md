@@ -5,6 +5,7 @@ Lead: Your weekly roundup of Polish News
 Published: '2018-10-07T11:19:45+02:00'
 Image: /assets/Images/the-digest-lw1300.png
 Tags:
+  - News
   - The Digest
 ---
 Lech Walesa's Birthday / Warsaw - Metro mayhem / Poznan - Corn'in it / Krakow - Kids & Cars / Gdansk - Film Fest Fanfare / Wroclaw Equality / Lodz - Gets Funny / Katowice - CultureFest / International - Short skirt gets short shrift / Sport - Ronaldo is a Nie! / Man of Hope / Krakcast new podcast.
