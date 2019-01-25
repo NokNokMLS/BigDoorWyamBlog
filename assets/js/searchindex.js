@@ -24,20 +24,6 @@ var searchModule = function() {
     a(
         {
             id:1,
-            title:"Food shop Bronowice",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
-        },
-        {
-            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
-            title:"A Food shop in Bronowice",
-            description:"Polish food shop with pierogi"
-        }
-    );
-    a(
-        {
-            id:2,
             title:"John Hair Salon",
             content:"Hair Salon",
             description:"best John Hair Salon Krakow Centrum",
@@ -47,6 +33,20 @@ var searchModule = function() {
             url:'/BigDoorWyamBlog/services/johns-hair-salon',
             title:"John's Hair Salon",
             description:"The best John's Hair Salon in Krakow Centrum"
+        }
+    );
+    a(
+        {
+            id:2,
+            title:"Food shop Bronowice",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
+        },
+        {
+            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
+            title:"A Food shop in Bronowice",
+            description:"Polish food shop with pierogi"
         }
     );
     a(
