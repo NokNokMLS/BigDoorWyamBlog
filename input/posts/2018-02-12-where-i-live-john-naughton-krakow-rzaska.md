@@ -6,10 +6,7 @@ Published: '2018-06-10T10:34:33+02:00'
 Image: /assets/Images/rzaskapic.jpg
 Tags:
   - Krakow
-  - Rzaska
   - Where I Live
-  - Zabierzow
-  - Suburb West
 ---
 **Name** John N..
 
