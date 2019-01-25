@@ -1,7 +1,7 @@
 ---
 Title: Where I Live - Krakow - Pradnik Czerwony
 Author: Team BigDoor24
-Lead: 'Where I live, Krakow - Pradnik Czerwony'
+Lead: 'Pradnik Czerwony, Krakow'
 Published: '2019-01-19T23:01:13+01:00'
 Image: /assets/Images/tauran.jpg
 Tags:
