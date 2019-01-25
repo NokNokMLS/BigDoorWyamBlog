@@ -5,7 +5,8 @@ Lead: Your weekly roundup of Polish News
 Published: '2018-09-23T09:59:59+02:00'
 Image: /assets/Images/the-digest-aug19th.png
 Tags:
-  - NEWS
+  - News
+  - The Digest
 ---
 ## Fort Dumpf/ Mo' Money!/ Poznan tacks as Govt. says "Nie!"/ Krakow 3rd/ Wroclaw racist suspect identified/ Ghetto memories/ Prodigy crash/ PLN 2 Billion Painting fraud/ Krakcast - let's get ready to grumble
 
