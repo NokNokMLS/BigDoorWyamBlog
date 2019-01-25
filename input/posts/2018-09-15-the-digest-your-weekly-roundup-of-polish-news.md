@@ -5,7 +5,8 @@ Lead: Polish News for Expats
 Published: '2018-09-15T16:40:50+02:00'
 Image: /assets/Images/the-digest-september.jpg
 Tags:
-  - NEWS
+  - News
+  - The Digest
 ---
 ## VOX says Poland is endangering EU / Europe & Polands lessons for the US / Ryanair playbook getting old / Krakow sobers up / Lodz - Festival / Wroclaw - Dating the elite / Bloody foreigners / Pretend Sport / Like pulling teeth..but not / Krakcast pulls out the stats and today, the big shops are ......
 
