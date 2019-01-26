@@ -38,7 +38,7 @@ _Wroclaw_ - [Racist attacker gets sentenced](http://wroclawuncut.com/2019/01/23/
 
 **Odds & Ends**
 
-[Polands $ millionaires growing rapidly](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-s-business-news-from-poland-in-english,902599.html) - (TVN Video )
+[Poland's $ millionaires growing rapidly](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-s-business-news-from-poland-in-english,902599.html) - (TVN Video )
 
 **The Krakcast Podcast**
 
