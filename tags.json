@@ -2,12 +2,12 @@
   {
     "Tag": "News",
     "Url": "/tags/News.html",
-    "Weight": 16
+    "Weight": 17
   },
   {
     "Tag": "The Digest",
     "Url": "/tags/The-Digest.html",
-    "Weight": 13
+    "Weight": 14
   },
   {
     "Tag": "General Information",
@@ -15,8 +15,8 @@
     "Weight": 10
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 6
   },
   {
@@ -25,8 +25,8 @@
     "Weight": 6
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 6
   },
   {
@@ -50,8 +50,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
     "Weight": 1
   },
   {
@@ -60,8 +60,33 @@
     "Weight": 1
   },
   {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Opole",
     "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
     "Weight": 1
   },
   {
@@ -75,23 +100,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Warsaw",
     "Url": "/tags/Warsaw.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -100,23 +110,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Gdansk",
     "Url": "/tags/Gdansk.html",
     "Weight": 1
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
     "Weight": 1
   },
   {
