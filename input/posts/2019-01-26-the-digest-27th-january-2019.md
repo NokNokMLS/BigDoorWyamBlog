@@ -3,6 +3,7 @@ Title: The Digest 27th January 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: '2019-01-26T20:43:26+01:00'
+Image: /assets/Images/digest27jan.png
 Tags:
   - News
   - The Digest
