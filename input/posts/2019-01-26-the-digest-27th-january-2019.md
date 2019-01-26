@@ -46,7 +46,9 @@ _Wroclaw_ - [Racist attacker gets sentenced](http://wroclawuncut.com/2019/01/23/
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+
+_**Register now for personal referral code and earn zl. 250 per successful referral**_
 
 Have a great Sunday!
 
