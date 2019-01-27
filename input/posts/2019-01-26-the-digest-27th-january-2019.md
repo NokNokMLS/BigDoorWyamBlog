@@ -20,25 +20,25 @@ _Please support us now by sharing to your favourite FB Expat group_
 
 **Local**
 
-_Warsaw_ - [DeNiro to open Hotel in Warsaw](http://thenews.pl/1/11/Artykul/403036,Robert-De-Niro-to-open-hotel-in-Warsaw-report) - (thenews)
+_Warsaw_ - [DeNiro to open Hotel in Warsaw](http://thenews.pl/1/11/Artykul/403036,Robert-De-Niro-to-open-hotel-in-Warsaw-report) - thenews
 
-_Krakow_ - [ ](https://kafkadesk.org/2019/01/18/poland-legend-joins-boyhood-club-wisla-krakow-for-free-to-help-revive-the-polish-side/)[Uber to invest millions in new R&D centre](http://thenews.pl/1/6/Artykul/403178,Uber-to-invest-millions-in-Poland) - (The News)
+_Krakow_ - [ ](https://kafkadesk.org/2019/01/18/poland-legend-joins-boyhood-club-wisla-krakow-for-free-to-help-revive-the-polish-side/)[Uber to invest millions in new R&D centre](http://thenews.pl/1/6/Artykul/403178,Uber-to-invest-millions-in-Poland) - thenews
 
-_Gdansk_ -[ Circles of Art](https://tricitynews.pl/event/circles-of-art-festival-a-big-ending-in-poland/) - (TriCity News)
+_Gdansk_ -[ Circles of Art](https://tricitynews.pl/event/circles-of-art-festival-a-big-ending-in-poland/) - TriCity News
 
-_Wroclaw_ - [Racist attacker gets sentenced](http://wroclawuncut.com/2019/01/23/racist-attacker-sentenced-to-10-months-community-service/) - (Wroclaw Uncut)
+_Wroclaw_ - [Racist attacker gets sentenced](http://wroclawuncut.com/2019/01/23/racist-attacker-sentenced-to-10-months-community-service/) - Wroclaw Uncut
 
 **International**
 
-[Poland 30th in Good Country Index](https://www.goodcountryindex.org/results) - (Good Country Index)
+[Poland 30th in Good Country Index](https://www.goodcountryindex.org/results) - Good Country Index
 
 **Sport**
 
-[Piatek breaks transfer fee record in move to AC Milan](https://www.tvn24.pl/tvn24-news-in-english,157,m/krzysztof-piatek-joins-milan-from-genoa-for-a-record-fee-for-polish-player,903565.html)  - (TVN - Video)
+[Piatek breaks transfer fee record in move to AC Milan](https://www.tvn24.pl/tvn24-news-in-english,157,m/krzysztof-piatek-joins-milan-from-genoa-for-a-record-fee-for-polish-player,903565.html)  - TVN Video
 
 **Odds & Ends**
 
-[Poland's $ millionaires growing rapidly](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-s-business-news-from-poland-in-english,902599.html) - (TVN Video )
+[Poland's $ millionaires growing rapidly](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-s-business-news-from-poland-in-english,902599.html) - TVN Video 
 
 **The Krakcast Podcast**
 
@@ -48,7 +48,7 @@ Follow us on FB for your regular Digest, posted every Sunday at 10 am and share 
 
 _**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
-_**Register now for personal referral code and earn zl. 250 per successful referral**_
+_**Register now for personal code and earn zl. 250 per successful referral**_
 
 Have a great Sunday!
 
