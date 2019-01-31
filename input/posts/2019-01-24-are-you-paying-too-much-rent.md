@@ -2,7 +2,7 @@
 Title: Are you paying too much rent?
 Author: Team BigDoor24.pl
 Lead: Krakow Rent by District - Jan 2019
-Published: '2019-01-24T14:15:55+01:00'
+Published: '2019-01-31T11:15:00+01:00'
 Image: /assets/Images/goldilocks-rent.png
 Tags:
   - NEWS
@@ -47,12 +47,12 @@ Krakow has a much higher level of apartments available for rent versus apartment
 
 \- The Digest - every Sunday, the best stories from around the world about Poland. See previous examples [here.](https://bigdoor24.pl/blog/posts/2019-01-19-the-digest-20th-january-2019.html)
 
+You can hear an episode on Polish property on the recent KrakCast Podcast [here](https://www.krakcast.pl/e/krakcast-interview-john-naughton/).
+
+
+
 If any of the above interests you or you simply wish to _support us Follow/Like & Share now._
 
 <div class="sharethis-inline-share-buttons"></div>
-
-
-
-
 
 **About BigDoor24.pl -  A new free service that matches Expats with Professionals who speak their language. Receive zl. 200 for every zl. 100,000 borrowed through a BigDoor24 certified Credit Advisor.**
