@@ -38,9 +38,9 @@ _Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.
 
 **Did you know ?**
 
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
-_**Register now for personal code and earn zl. 250 per successful referral**_
+**_Register now for personal code and earn zl. 250 per successful referral_**
 
 **Sport**
 
@@ -50,11 +50,11 @@ _**Register now for personal code and earn zl. 250 per successful referral**_
 
 [Poland leads in face surgery](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-is-a-world-leader-in-developing-face-reconstruction-techniques,904961.html) - TVN Video 
 
-**The Krakcast Podcast**(Sponsored by BigDoor24.pl)
+**The Krakcast Podcast** (Sponsored by BigDoor24.pl)
 
 [The Polish Lektor and other stories](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-polish-tv/)
 
-**SPECIAL - Are you paying too much rent in Krakow?**- [see our BigDoor24 report on Krakow rents here](https://bigdoor24.pl/blog/posts/2019-01-24-are-you-paying-too-much-rent.html)
+**SPECIAL - Are you paying too much rent in Krakow?** - [see our BigDoor24 report on Krakow rents here](https://bigdoor24.pl/blog/posts/2019-01-24-are-you-paying-too-much-rent.html)
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
