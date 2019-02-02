@@ -6,9 +6,9 @@ Published: '2019-02-02T15:56:16+01:00'
 Image: /assets/Images/digest-feb-3-2019.png
 Tags:
   - The Digest
-  - NEWS
+  - News
 ---
-**Poland** - Preparing Poland for Brexit/ **Warsaw** - Mr. " You talkin' to me?" hits town/ **Krakow** -Uber Dollars/ **Tri-city** - Circles of Art/ **Wroclaw** - Racist attacker sentenced/ **International** - A Good 30/ **Sport** - Record Breaker/ **Odds & ends** - Millionaires rapid rise/ **Krakcast** - BigDoor24 speaks 
+**Full must-watch documentary about those sick Polish cows with English subtitles... and other news from Warsaw, Krakow,Gdansk, Katowice & Poznan followed by a weird German/Polish/Russian false flag attack in Ukraine and more**
 
 _Please support us now by sharing to your favourite FB Expat group_
 
@@ -36,23 +36,25 @@ Poznan - [One charity soccer game  equals one Ambulance donation](https://www.tv
 
 [German hires Poles to execute false flag attack in Ukraine, on behalf of the Russians](https://www.theguardian.com/world/2019/jan/27/polish-far-right-trial-raises-spectre-of-false-flag-tactics-german-journalist-russia-ukraine-fire-court?CMP=Share_AndroidApp_Gmail) - The Guardian
 
+_**Did you know ? **_
+
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+
+_**Register now for personal code and earn zl. 250 per successful referral**_
+
 **Sport**
 
  [ Piatek scores a cracker on Milan debut](http://www.sportbible.com/football/goals-krzysztof-piatek-scores-brilliant-goal-on-ac-milan-full-debut-20190129) - SportBible
 
 **Odds & Ends**
 
-\- TVN Video 
+[Poland leads in face surgery](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-is-a-world-leader-in-developing-face-reconstruction-techniques,904961.html)** **- TVN Video 
 
 **The Krakcast Podcast**
 
-[A member of the BigDoor24 team is interviewed about .....yep, property](https://www.krakcast.pl/e/krakcast-interview-john-naughton/)
+[The Polish Lektor and other stories](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-polish-tv/)
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
-
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
-
-_**Register now for personal code and earn zl. 250 per successful referral**_
 
 Have a great Sunday!
 
