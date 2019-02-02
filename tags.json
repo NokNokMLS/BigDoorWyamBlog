@@ -7,7 +7,7 @@
   {
     "Tag": "The Digest",
     "Url": "/tags/The-Digest.html",
-    "Weight": 14
+    "Weight": 15
   },
   {
     "Tag": "General Information",
@@ -15,8 +15,8 @@
     "Weight": 10
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Buy",
+    "Url": "/tags/Buy.html",
     "Weight": 6
   },
   {
@@ -30,8 +30,8 @@
     "Weight": 6
   },
   {
-    "Tag": "Buy",
-    "Url": "/tags/Buy.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 6
   },
   {
@@ -50,33 +50,13 @@
     "Weight": 2
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 1
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 2
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
     "Weight": 1
   },
   {
@@ -85,8 +65,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
     "Weight": 1
   },
   {
@@ -95,33 +75,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -130,8 +85,53 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   }
 ]
