@@ -15,13 +15,8 @@
     "Weight": 10
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
-    "Weight": 6
-  },
-  {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 6
   },
   {
@@ -30,8 +25,13 @@
     "Weight": 6
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
+    "Weight": 6
+  },
+  {
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
     "Weight": 6
   },
   {
@@ -55,8 +55,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
     "Weight": 1
   },
   {
@@ -70,8 +70,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
     "Weight": 1
   },
   {
@@ -110,13 +110,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
     "Weight": 1
   },
   {
