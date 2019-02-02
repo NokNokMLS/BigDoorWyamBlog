@@ -36,7 +36,7 @@ _Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.
 
 [German hires Poles to execute false flag attack in Ukraine, on behalf of the Russians](https://www.theguardian.com/world/2019/jan/27/polish-far-right-trial-raises-spectre-of-false-flag-tactics-german-journalist-russia-ukraine-fire-court?CMP=Share_AndroidApp_Gmail) - The Guardian
 
-**_Did you know ? _**
+**Did you know ? **
 
 **_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
