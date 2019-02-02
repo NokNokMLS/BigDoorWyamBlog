@@ -38,9 +38,9 @@ _Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.
 
 **Did you know ? **
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
-**_Register now for personal code and earn zl. 250 per successful referral_**
+_**Register now for personal code and earn zl. 250 per successful referral**_
 
 **Sport**
 
@@ -53,6 +53,8 @@ _Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.
 **The Krakcast Podcast**
 
 [The Polish Lektor and other stories](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-polish-tv/)
+
+**SPECIAL - Are you paying too much rent in Krakow? **- [see our BigDoor24 report on Krakow rents here](https://bigdoor24.pl/blog/posts/2019-01-24-are-you-paying-too-much-rent.html)
 
 Follow us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.
 
