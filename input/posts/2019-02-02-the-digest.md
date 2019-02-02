@@ -50,7 +50,7 @@ _**Register now for personal code and earn zl. 250 per successful referral**_
 
 [Poland leads in face surgery](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-is-a-world-leader-in-developing-face-reconstruction-techniques,904961.html)\*\* \*\*- TVN Video 
 
-**The Krakcast Podcast**
+**The Krakcast Podcast **(Sponsored by BigDoor24.pl)
 
 [The Polish Lektor and other stories](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-polish-tv/)
 
