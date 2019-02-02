@@ -28,19 +28,19 @@ _Gdansk_ -[ ](https://tricitynews.pl/event/circles-of-art-festival-a-big-ending-
 
 _Wroclaw - _[ Activists change anti gay Advert to one that sells sex](http://wroclawuncut.com/2019/01/29/wroclaw-activists-change-anti-gay-billboard-into-advert-for-sex/)  - Wroclaw Uncut
 
-Katowice - [Building shortlisted for European architectural prize](http://thenews.pl/1/11/Artykul/402376,Polish-building-shortlisted-for-int%E2%80%99l-architectural-award) - TheNews
+_Katowice_ - [Building shortlisted for European architectural prize](http://thenews.pl/1/11/Artykul/402376,Polish-building-shortlisted-for-int%E2%80%99l-architectural-award) - TheNews
 
-Poznan - [One charity soccer game  equals one Ambulance donation](https://www.tvn24.pl/tvn24-news-in-english,157,m/new-ambulance-for-a-hospital-in-poznan-bought-for-charity-match-money,905867.html) - TVN Video
+_Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.tvn24.pl/tvn24-news-in-english,157,m/new-ambulance-for-a-hospital-in-poznan-bought-for-charity-match-money,905867.html) - TVN Video
 
 **International**
 
 [German hires Poles to execute false flag attack in Ukraine, on behalf of the Russians](https://www.theguardian.com/world/2019/jan/27/polish-far-right-trial-raises-spectre-of-false-flag-tactics-german-journalist-russia-ukraine-fire-court?CMP=Share_AndroidApp_Gmail) - The Guardian
 
-_**Did you know ? **_
+**_Did you know ? _**
 
-_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
+**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
 
-_**Register now for personal code and earn zl. 250 per successful referral**_
+**_Register now for personal code and earn zl. 250 per successful referral_**
 
 **Sport**
 
@@ -48,7 +48,7 @@ _**Register now for personal code and earn zl. 250 per successful referral**_
 
 **Odds & Ends**
 
-[Poland leads in face surgery](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-is-a-world-leader-in-developing-face-reconstruction-techniques,904961.html)** **- TVN Video 
+[Poland leads in face surgery](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-is-a-world-leader-in-developing-face-reconstruction-techniques,904961.html)\*\* \*\*- TVN Video 
 
 **The Krakcast Podcast**
 
