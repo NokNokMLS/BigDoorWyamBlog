@@ -26,7 +26,7 @@ _Krakow_ - [ ](https://kafkadesk.org/2019/01/18/poland-legend-joins-boyhood-club
 
 _Gdansk_ -[ ](https://tricitynews.pl/event/circles-of-art-festival-a-big-ending-in-poland/)[Things to try in the Tri-City this weekend](https://tricitynews.pl/the-first-weekend-of-february-in-tricity/) - TriCity News
 
-_Wroclaw - _[ Activists change anti gay Advert to one that sells sex](http://wroclawuncut.com/2019/01/29/wroclaw-activists-change-anti-gay-billboard-into-advert-for-sex/)  - Wroclaw Uncut
+_Wroclaw_ - [ Activists change anti gay Advert to one that sells sex](http://wroclawuncut.com/2019/01/29/wroclaw-activists-change-anti-gay-billboard-into-advert-for-sex/)  - Wroclaw Uncut
 
 _Katowice_ - [Building shortlisted for European architectural prize](http://thenews.pl/1/11/Artykul/402376,Polish-building-shortlisted-for-int%E2%80%99l-architectural-award) - TheNews
 
@@ -36,7 +36,7 @@ _Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.
 
 [German hires Poles to execute false flag attack in Ukraine, on behalf of the Russians](https://www.theguardian.com/world/2019/jan/27/polish-far-right-trial-raises-spectre-of-false-flag-tactics-german-journalist-russia-ukraine-fire-court?CMP=Share_AndroidApp_Gmail) - The Guardian
 
-**Did you know ? **
+**Did you know ?**
 
 _**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
