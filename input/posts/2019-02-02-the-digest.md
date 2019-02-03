@@ -16,7 +16,7 @@ _Please support us now by sharing to your favourite FB Expat group_
 
 **Poland**
 
-This is the full investigative documentary, with English subtitles, of the TVN report on practice of putting sick cows into the food chain ( TVN - Video - 34 minutes)
+[This is the full investigative documentary, with English subtitles, of the TVN report on practice of putting sick cows into the food chain](https://www.tvn24.pl/tvn24-news-in-english,157,m/meat-from-sick-cows-on-sale-shocking-report-by-superwizjer-tvn,904899.html) ( TVN - Video - 34 minutes)
 
 **Local**
 
@@ -38,9 +38,9 @@ _Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.
 
 **Did you know ?**
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
-**_Register now for personal code and earn zl. 250 per successful referral_**
+_**Register now for personal code and earn zl. 250 per successful referral**_
 
 **Sport**
 
