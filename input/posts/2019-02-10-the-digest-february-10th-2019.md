@@ -15,39 +15,39 @@ _Please support us now by sharing to your favourite FB Expat group_
 
 **Poland**
 
-[This is the full investigative documentary, with English subtitles, of the TVN report on practice of putting sick cows into the food chain](https://www.tvn24.pl/tvn24-news-in-english,157,m/meat-from-sick-cows-on-sale-shocking-report-by-superwizjer-tvn,904899.html) ( TVN - Video - 34 minutes)
+[Mad Cow Disease found in Poland.. and apparently it's all OK](https://www.euractiv.com/section/agriculture-food/news/poland-reports-atypical-case-of-mad-cow-disease/) - EurActiv
 
 **Local**
 
-_Warsaw_ - [Soros led group may be blocked from buying Radio Zet](https://www.bloomberg.com/news/articles/2019-01-28/poland-vows-to-stop-speculators-as-soros-bids-for-radio-zet) - Bloomberg
+_Warsaw_ - [New Kaczynski tape released](https://www.tvn24.pl/tvn24-news-in-english,157,m/gazeta-wyborcza-published-another-part-of-kaczynski-tapes,907885.html) - TVN Videoa
 
-_Krakow_ - [ ](https://kafkadesk.org/2019/01/18/poland-legend-joins-boyhood-club-wisla-krakow-for-free-to-help-revive-the-polish-side/)[Right wing protest at Auschwitz](https://www.newsweek.com/far-right-group-stages-anti-semitic-protest-auschwitz-holocaust-memorial-day-1309570) - Newsweek
+_Krakow_ - [ ](https://kafkadesk.org/2019/01/18/poland-legend-joins-boyhood-club-wisla-krakow-for-free-to-help-revive-the-polish-side/)- Newsweek
 
-_Gdansk_ -[ ](https://tricitynews.pl/event/circles-of-art-festival-a-big-ending-in-poland/)[Things to try in the Tri-City this weekend](https://tricitynews.pl/the-first-weekend-of-february-in-tricity/) - TriCity News
+_Gdansk_ -[ ](https://tricitynews.pl/event/circles-of-art-festival-a-big-ending-in-poland/) - TriCity News
 
-_Wroclaw_ - [ Activists change anti gay Advert to one that sells sex](http://wroclawuncut.com/2019/01/29/wroclaw-activists-change-anti-gay-billboard-into-advert-for-sex/)  - Wroclaw Uncut
+_Wroclaw_ - [ ](http://wroclawuncut.com/2019/01/29/wroclaw-activists-change-anti-gay-billboard-into-advert-for-sex/) - Wroclaw Uncut
 
-_Katowice_ - [Building shortlisted for European architectural prize](http://thenews.pl/1/11/Artykul/402376,Polish-building-shortlisted-for-int%E2%80%99l-architectural-award) - TheNews
+_Katowice_ -  - TheNews
 
-_Poznan_ - [One charity soccer game  equals one Ambulance donation](https://www.tvn24.pl/tvn24-news-in-english,157,m/new-ambulance-for-a-hospital-in-poznan-bought-for-charity-match-money,905867.html) - TVN Video
+_Poznan_ -  - TVN Video
 
 **International**
 
-[German hires Poles to execute false flag attack in Ukraine, on behalf of the Russians](https://www.theguardian.com/world/2019/jan/27/polish-far-right-trial-raises-spectre-of-false-flag-tactics-german-journalist-russia-ukraine-fire-court?CMP=Share_AndroidApp_Gmail) - The Guardian
+\- The Guardian
 
 **Did you know ?**
 
-**_BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats._**
+_**BigDoor24.pl is a new free service that provides mortgage cashbacks and sources property professionals & discounts for expats.**_
 
-**_Register now for personal code and earn zl. 250 per successful referral_**
+_**Register now for personal code and earn zl. 250 per successful referral**_
 
 **Sport**
 
- [ Piatek scores a cracker on Milan debut](http://www.sportbible.com/football/goals-krzysztof-piatek-scores-brilliant-goal-on-ac-milan-full-debut-20190129) - SportBible
+\- SportBible
 
 **Odds & Ends**
 
-[Poland leads in face surgery](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-is-a-world-leader-in-developing-face-reconstruction-techniques,904961.html) - TVN Video 
+\- TVN Video 
 
 **The Krakcast Podcast** (Sponsored by BigDoor24.pl)
 
