@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-**Crazy Cows / Kaczynski Caught (again)/ Wisla Krakow Golden Boy/ TriCity Charter/Wroclaw Floating Gardens/ Lodz Liked/ Making waves in Poznan and more**
+**Crazy Cows/ Kaczynski Caught (again)/ Wisla Krakow Golden Boy/ TriCity Charter/ Wroclaw Floating Gardens/ Lodz Liked/ Making waves in Poznan and more**
 
 _Please support us now by sharing to your favourite FB Expat group_
 
