@@ -1,14 +1,14 @@
 ---
 Title: The Digest February 10th 2019
 Author: Team BigDoor24
-Lead: Your Polish Weekly News Roundup
+Lead: Your weekly Polish News Roundup
 Published: '2019-02-10T07:50:58+01:00'
 Image: /assets/Images/digest-feb10th.png
 Tags:
   - News
   - The Digest
 ---
-**Crazy Cows / Kaczynski Kaught/ Wisla Krakow Golden Boy/ TriCity Charter/Wroclaw Floating Gardens/ Lodz Liked/ Making waves in Poznan and more**
+**Crazy Cows / Kaczynski Caught (again)/ Wisla Krakow Golden Boy/ TriCity Charter/Wroclaw Floating Gardens/ Lodz Liked/ Making waves in Poznan and more**
 
 _Please support us now by sharing to your favourite FB Expat group_
 
@@ -30,11 +30,11 @@ _Wroclaw_ - [Funding floating Gardens](http://wroclawuncut.com/2019/02/08/fundin
 
 _Lodz_ - [Top 10 destination for 2019](https://www.poland.travel/en/travel-inspirations/lonely-planet-announces-lodz-as-one-of-the-top-10-value-destinations-in-2019) - The Lonely Planet
 
-_Poznan_ - [Short Waves Festival needs you](http://shortwaves.pl/en/open-call-for-apartaments-for-random-home-cinema/) - TVN Video
+_Poznan_ - [Short Waves Festival needs you](http://shortwaves.pl/en/open-call-for-apartaments-for-random-home-cinema/) - ShortWaves
 
 **International**
 
-\- [Tusk reportedly mulls return to Polish politics](https://www.bloomberg.com/news/articles/2019-02-08/eu-s-tusk-plans-polish-comeback-for-2019-elections-paper-says) - Shortwaves
+\- [Tusk reportedly mulls return to Polish politics](https://www.bloomberg.com/news/articles/2019-02-08/eu-s-tusk-plans-polish-comeback-for-2019-elections-paper-says) - Bloomberg
 
 **Did you know ?**
 
