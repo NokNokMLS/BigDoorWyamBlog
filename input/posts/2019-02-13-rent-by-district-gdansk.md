@@ -18,7 +18,7 @@ Let's start by looking at the average Rent per district in real terms.
 
 As you can see by the Graph below, rents in the city range from under zl. 2,300 to nearly zl. 3,100 depending on where you decide to live. With the city average at 2,650, most districts are actually very close to this.
 
-![](../assets/Images/gdanskrent.jpg)
+![null](../assets/Images/gdanskrent.jpg)
 
 Within the numbers, there is a disparity between apartments that have been newly built and those that are in older buildings. Newly built apartments do tend to be both more expensive in rent but also in terms of building management costs.
 
@@ -28,7 +28,7 @@ To get a better view on value, the following graph is average rent per metre squ
 
 [**REGISTER NOW ON BIGDOOR24.PL TO RECEIVE YOUR PERSONAL REFERRAL CODE.**](https://bigdoor24.pl/)
 
-![](../assets/Images/gdanskm2img0.jpg)
+![null](../assets/Images/gdanskm2img0.jpg)
 
 At first look, we can see that Zabianka-Jelitkowo, while more expensive in real terms, will actually allow for a slightly larger apartment for your money compared to Srodmiescie.
 
@@ -50,11 +50,11 @@ You can hear an episode on Polish property on the recent KrakCast Podcast [here]
 
 If any of the above interests you or you simply wish to _support us Follow/Like & Share now._
 
-# <div class="sharethis-inline-share-buttons"></div>
+_<div class="sharethis-inline-share-buttons"></div>_
 
+# 
 
-
-![](/assets/Images/we-pay.png)
+![null](/assets/Images/we-pay.png)
 
 **About BigDoor24.pl -  A new free service that matches Expats with Property Professionals who speak their language.**
 
