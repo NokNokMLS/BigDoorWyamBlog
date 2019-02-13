@@ -10,13 +10,11 @@ Tags:
 ---
 Are you paying too much rent or to little? ... or, as Goldilocks would say, just right!
 
-A few comments first on our data.
+We at BigDoor24 have researched all offers advertised for each district across a number of portals, adjusting for stupid offers (rent for zl. 1 etc. !). Additionally we have only concentrated on those areas where there a large number of apartments for rent, omitting districts where there were too few.
 
-We have researched all offers advertised for each district across a number of portals, adjusting for stupid offers (rent for zl. 1 etc. !). Additionally we have only concentrated on those areas where there a  number of properties offered, omitting districts where we felt the number of offers were too low to confidently derive an average.
+Be aware that these are offers (net of media) and so are open to negotiation. It would be fair to say that in a lot of cases the average could be reduced by 5 % + if we had access to actual market rents.
 
-We would also add that these are offers (net of media) and so are open to negotiation. It would be fair to say that in a lot of cases the average could be reduced by 5 % + if we had access to actual market rents.
-
-We start by looking at the average Rent per district in real terms.
+Let's start by looking at the average Rent per district in real terms.
 
 As you can see by the Graph below, rents in the city range from under zl. 2,300 to nearly zl. 3,100 depending on where you decide to live. With the city average at 2,650, most districts are actually very close to this.
 
@@ -26,9 +24,9 @@ Within the numbers, there is a disparity between apartments that have been newly
 
 To get a better view on value, the following graph is average rent per metre squared ( m2).
 
-**QUICK NOTE - DID YOU KNOW THAT BIGDOOR24.PL NOW OFFERS PERSONAL REFERRAL CODES TO ALL OF OUR USERS?**
+**QUICK NOTE - DID YOU KNOW YOU GET zl. 250 BY SIMPLY REFERRING US TO A SUCCESSFUL CREDIT APPLICANT?**
 
-**REFER US TO A SUCCESSFUL MORTGAGE APPLICANT AND GET A zl. 250 VOUCHER IN THANKS. REGISTER FOR MORE DETAILS.**
+[**REGISTER NOW ON BIGDOOR24.PL TO RECEIVE YOUR PERSONAL REFERRAL CODE.**](https://bigdoor24.pl/)
 
 ![](../assets/Images/gdanskm2img0.jpg){.img-fluid .img-responsive)
 
