@@ -7,8 +7,6 @@ Tags:
   - Statistics
   - Gdansk
 ---
-
-
 Are you paying too much rent? , too little? ... or as Goldilocks would say ... just right!
 
 A few comments first on our data.
@@ -21,9 +19,11 @@ We start by looking at the average Rent per district in real terms.
 
 As you can see by the Graph below, rents in the city range from under zl. 2,300 to nearly zl. 3,100 depending on where you decide to live. With the city average at 2,650, most districts are actually very close to this.
 
-![](../assets/Images/krakow-rent-2.png){.img-fluid .img-responsive}
+![](/assets/Images/gdanskrent.jpg)
 
-Within the numbers, there is a disparity between apartments that have been newly built and those that are in older buildings. Newly built apartments do tend to be both more expensive in rent but also in term so f building management costs.
+{.img-fluid .img-responsive
+
+Within the numbers, there is a disparity between apartments that have been newly built and those that are in older buildings. Newly built apartments do tend to be both more expensive in rent but also in terms of building management costs.
 
 To get a better view on value, the following graph is average rent per metre squared ( m2).
 
@@ -31,17 +31,15 @@ To get a better view on value, the following graph is average rent per metre squ
 
 **REFER US TO A SUCCESSFUL MORTGAGE APPLICANT AND GET A zl. 250 VOUCHER IN THANKS. REGISTER FOR MORE DETAILS.**
 
-![](../assets/Images/krakow-rent-1.png){.img-fluid .img-responsive}
+![](/assets/Images/gdanskm2img0.jpg)
 
-At first look, we can see that despite in Srodmiescie, you can get a largeer apartment Stare Miasto being the most expensive in terms of total net rent, Krowodrza is more expensive in terms of cost per apartment size. We would also add that in the less popular districts, particularly those further from the centre, there is limited offers and so the numbers should be used as a guide only. We would expect that there is better value than presented.
-
-Generally however, in relative terms, one district being cheaper than another, we believe our numbers are a good indication.
+At first look, we can see that Zabianka-Jelitkowo is more expensive in real terms , you will actually get a slightly larger apartment for your money compared to Srodmiescie.
 
 **Availability**
 
-Krakow has a much higher level of apartments available for rent versus apartments for sale, compared to similar cities. This can be due to a lot of apartments for sale, not yet built, duplicate adverts for the same property etc. but we still believe there is a good selection out there. 
+The availability is similar to other cities with approximately 4 times more apartments for sale versus those available to rent. However, the number of properties for sale or rent is significantly lower than for example Krakow, versus population.
 
-(Source - Morizon, Otodom, Olx & Gratka)
+(Source - BigDoor24 ,Morizon, Otodom, Olx & Gratka)
 
 **Future Articles -** 
 
@@ -57,4 +55,6 @@ If any of the above interests you or you simply wish to _support us Follow/Like 
 
 <div class="sharethis-inline-share-buttons"></div>
 
-**About BigDoor24.pl -  A new free service that matches Expats with Professionals who speak their language. Receive zl. 200 for every zl. 100,000 borrowed through a BigDoor24 certified Credit Advisor.**
+**About BigDoor24.pl -  A new free service that matches Expats with Property Professionals who speak their language.**
+
+**Receive zl. 200 for every zl. 100,000 borrowed through a BigDoor24 certified Credit Advisor.**
