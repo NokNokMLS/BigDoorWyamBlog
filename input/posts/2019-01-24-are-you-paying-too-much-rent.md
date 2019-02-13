@@ -1,5 +1,5 @@
 ---
-Title: Are you paying too much rent?
+Title: Are you paying too much rent? - Krakow
 Author: Team BigDoor24.pl
 Lead: Krakow Rent by District - Jan 2019
 Published: '2019-01-31T11:15:00+01:00'
