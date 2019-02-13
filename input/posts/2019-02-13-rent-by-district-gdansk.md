@@ -24,7 +24,7 @@ Within the numbers, there is a disparity between apartments that have been newly
 
 To get a better view on value, the following graph is average rent per metre squared ( m2).
 
-**QUICK NOTE - DID YOU KNOW YOU GET zl. 250 BY SIMPLY REFERRING US TO A SUCCESSFUL CREDIT APPLICANT?**
+**QUICK QUESTION - DID YOU KNOW YOU GET zl. 250 BY SIMPLY REFERRING US TO A SUCCESSFUL CREDIT APPLICANT?**
 
 [**REGISTER NOW ON BIGDOOR24.PL TO RECEIVE YOUR PERSONAL REFERRAL CODE.**](https://bigdoor24.pl/)
 
