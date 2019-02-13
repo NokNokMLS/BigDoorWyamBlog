@@ -3,6 +3,7 @@ Title: Rent by District - Gdansk
 Author: Team BigDoor24
 Lead: Are you paying too much rent? too little? ... or just right?
 Published: '2019-02-13T13:29:05+01:00'
+Image: /assets/Images/are-you-paying-too-much-rent-gdansk_.png
 Tags:
   - Statistics
   - Gdansk
@@ -31,7 +32,7 @@ To get a better view on value, the following graph is average rent per metre squ
 
 **REFER US TO A SUCCESSFUL MORTGAGE APPLICANT AND GET A zl. 250 VOUCHER IN THANKS. REGISTER FOR MORE DETAILS.**
 
-![](/assets/Images/gdanskm2img0.jpg)
+(/assets/Images/gdanskm2img0.jpg)
 
 At first look, we can see that Zabianka-Jelitkowo is more expensive in real terms , you will actually get a slightly larger apartment for your money compared to Srodmiescie.
 
