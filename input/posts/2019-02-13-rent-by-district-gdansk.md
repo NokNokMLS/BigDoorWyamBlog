@@ -1,7 +1,7 @@
 ---
 Title: Rent by District Q1 2019 - Gdansk
 Author: Team BigDoor24
-Lead: How close are you to being a Goldilocks?
+Lead: Are you a Goldilocks?
 Published: '2019-02-13T13:29:05+01:00'
 Image: /assets/Images/are-you-paying-too-much-rent-gdansk_.png
 Tags:
@@ -30,7 +30,7 @@ To get a better view on value, the following graph is average rent per metre squ
 
 ![](../assets/Images/gdanskm2img0.jpg)
 
-At first look, we can see that Zabianka-Jelitkowo is more expensive in real terms , you will actually get a slightly larger apartment for your money compared to Srodmiescie.
+At first look, we can see that Zabianka-Jelitkowo, while more expensive in real terms, will actually allow for a slightly larger apartment for your money compared to Srodmiescie.
 
 **Availability**
 
@@ -50,9 +50,9 @@ You can hear an episode on Polish property on the recent KrakCast Podcast [here]
 
 If any of the above interests you or you simply wish to _support us Follow/Like & Share now._
 
-<div class="sharethis-inline-share-buttons"></div>
+# <div class="sharethis-inline-share-buttons"></div>
 
-
+![](/assets/Images/we-pay.png)
 
 **About BigDoor24.pl -  A new free service that matches Expats with Property Professionals who speak their language.**
 
