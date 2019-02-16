@@ -30,7 +30,7 @@ _Wroclaw_ - [Expats Exasperation addressed ](http://wroclawuncut.com/2019/02/13/
 
 **International**
 
-[I-RaN Mike Pence calls Europeans cheese eating surrender monkeys in Warsaw..( kind of.... but not actually.....but might as well have.. )](https://www.theguardian.com/world/2019/feb/14/us-and-israel-say-confrontation-with-iran-needed-for-peace)** **- The Guardian
+[I-RaN Mike Pence calls Europeans cheese eating surrender monkeys in Warsaw..( kind of.... but not actually.....but might as well have.. )](https://www.theguardian.com/world/2019/feb/14/us-and-israel-say-confrontation-with-iran-needed-for-peace) - The Guardian
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
