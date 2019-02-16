@@ -1,6 +1,7 @@
 ---
 Title: ' Polish Rental Agreement - 5 things you need to know'
 Author: Team BigDoor24
+Lead: 'What''s in the contract, What''s not , and What should be....'
 Published: '2019-02-16T21:27:59+01:00'
 Image: /assets/Images/fivedice.jpg
 Tags:
@@ -8,7 +9,7 @@ Tags:
   - Rent
   - Let
 ---
-# **5 things you need to know about rental agreements**
+# **5 things you need to know about Polish Rental Agreements**
 
 The first thing you need to be aware of is that a lease agreement, all over the world, is a civil agreement and so is an agreement between two private parties. Only misrepresentation or fraud will bring into the state criminal arena. Therefore, it's very important that before you sign one you know what is in the contract, what's not  .. and what should be. 
 
@@ -28,6 +29,10 @@ Do not sign anything until  all ancillary costs, management, electricity, water 
 
 How the protocol is agreed at the end of the rental period should also be made clear in the agreement.
 
+[Did you know?](https://bigdoor24.pl/)
+
+[BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - in addition to what we send them - simply register now for your personal referral code.](https://bigdoor24.pl/)
+
 **Damage and Deposit**
 
 So what is actual damage and what is normal wear and tear? Again it is worth agreeing this beforehand. How a dispute is decided should be included in the agreement. In some instances, it is suggested that both parties can bring in independent assessors and the average is taken. Whatever the solution, dispute resolution should be an integral part of the agreement. An agreement without one is crying out for trouble,
@@ -36,4 +41,4 @@ So what is actual damage and what is normal wear and tear? Again it is worth agr
 
 All communication, however small, should be made between both parties in written form, e-mail and text message is perfectly acceptable. |for example how and when the deposit is returned should be clearly stated in the agreement and so any further communication that admits responsibility for damage or includes a commitment to pay for repairs should be documented.
 
-For a full example of a Lease agreement in both Polish & English (kindly provided by [Superopcja.pl, Krakow](http://superopcja.pl/),) simply like us on [FB](https://www.facebook.com/bigdoor24/), and send us a message with your email address and we will happily send it out to you.
+For a full example of a Lease agreement in both Polish & English (kindly provided by [Superopcja.pl, Krakow](http://superopcja.pl/),) simply like us on [FB](https://www.facebook.com/bigdoor24/), now & [send us a message](https://test.bigdoor24.pl/home/contact) with your email address and we will happily send it on to you.
