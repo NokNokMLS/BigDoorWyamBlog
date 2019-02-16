@@ -5,7 +5,7 @@ Lead: Your Polish News Roundup
 Published: '2019-02-16T18:44:31+01:00'
 Image: /assets/Images/digest-feb17th2019.png
 Tags:
-  - Digest
+  - The Digest
   - News
 ---
 **The Tower Cats & Kaczynski/ Warsaw - We need to speak about the economy/ Krakow - Anti-smog scam/ Gdansk - Tolerating Kids/ Wroclaw - Expats exasperation/ Int'l -  I-RaN Mike, surrender monkeys and more....**
