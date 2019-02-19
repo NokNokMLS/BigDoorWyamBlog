@@ -15,11 +15,6 @@
     "Weight": 11
   },
   {
-    "Tag": "Buy",
-    "Url": "/BigDoorWyamBlog/tags/Buy.html",
-    "Weight": 6
-  },
-  {
     "Tag": "Investment",
     "Url": "/BigDoorWyamBlog/tags/Investment.html",
     "Weight": 6
@@ -27,6 +22,11 @@
   {
     "Tag": "Krakow",
     "Url": "/BigDoorWyamBlog/tags/Krakow.html",
+    "Weight": 6
+  },
+  {
+    "Tag": "Buy",
+    "Url": "/BigDoorWyamBlog/tags/Buy.html",
     "Weight": 6
   },
   {
@@ -50,8 +50,38 @@
     "Weight": 3
   },
   {
+    "Tag": "Warsaw",
+    "Url": "/BigDoorWyamBlog/tags/Warsaw.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/BigDoorWyamBlog/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Torun",
     "Url": "/BigDoorWyamBlog/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Szczecin",
+    "Url": "/BigDoorWyamBlog/tags/Szczecin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poznan",
+    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
     "Weight": 1
   },
   {
@@ -65,11 +95,6 @@
     "Weight": 1
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Lublin",
     "Url": "/BigDoorWyamBlog/tags/Lublin.html",
     "Weight": 1
@@ -80,13 +105,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Statistics",
-    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
+    "Tag": "Kielce",
+    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Tag": "Home Loan",
+    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -105,33 +130,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/BigDoorWyamBlog/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Szczecin",
-    "Url": "/BigDoorWyamBlog/tags/Szczecin.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Bydgoszcz",
     "Url": "/BigDoorWyamBlog/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Warsaw",
-    "Url": "/BigDoorWyamBlog/tags/Warsaw.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
     "Weight": 1
   }
 ]
