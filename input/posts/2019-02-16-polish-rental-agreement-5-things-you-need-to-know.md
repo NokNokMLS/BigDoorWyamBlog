@@ -9,6 +9,8 @@ Tags:
   - Rent
   - Let
 ---
+Not knowing some basic things about a Rental Agreement is just a gamble.
+
 The first thing you need to be aware of is that a lease agreement, all over the world, is a civil agreement and so is an agreement between two private parties. Only misrepresentation or fraud will bring into the state criminal arena. Therefore, it's very important that before you sign one you know what is in the contract, what's not  .. and what should be. 
 
 The vast majority of agreements are incident free, but for Expats , there is the extra obvious worry. The following suggestions are for those who do not engage a property broker to help them.  We would note that it may be possible, even though you have located a property yourself, to engage the services of an agent to help you with the final contract signing for a nominal sum (maybe zl. 100 or zl. 200 - certainly less than a full commission) 
@@ -27,9 +29,11 @@ Do not sign anything until  all ancillary costs - management fees, electricity, 
 
 How the protocol is agreed at the end of the rental period should also be made clear in the agreement.
 
-[Did you know?](https://bigdoor24.pl/)
+[Did you know?
+](https://bigdoor24.pl/)
 
-[BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - in addition to what we send them - simply register now for your personal referral code.](https://bigdoor24.pl/)
+[
+BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - in addition to what we send them - simply register now for your personal referral code.](https://bigdoor24.pl/)
 
 **Damage, Deposit & Disputes**
 
@@ -46,6 +50,8 @@ Please note that the above is advice based on our experience only and so for leg
 Resource
 
 [Expat Advocacy Group - Krakow](https://www.facebook.com/groups/2026099667632725/)
+
+[The Krakcast will have an Interview with a member of BigDoor24 about rental agreements during the week of February 18th 2019](https://www.krakcast.pl/)
 
 Hope it helps,
 
