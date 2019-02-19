@@ -47,7 +47,7 @@ All communication, however small, should be made between both parties in written
 
 **\- About BigDoor24.pl**
 
-We are a new free online service that matches Expats with property professionals that speak their language, providing cashback on home loans, in built discounts and more. If you would like to support our service please [like our page on FB](https://www.facebook.com/bigdoor24/) now.
+We are a new free online service that matches Expats with property professionals that speak their language, providing cashback on home loans, in-built discounts and more. If you would like to support our service please [like our page on FB](https://www.facebook.com/bigdoor24/) now.
 
 _Please note that the above article is opinion only and so for legal issues covering any contract you should engage qualified professionals in your area. _
 
