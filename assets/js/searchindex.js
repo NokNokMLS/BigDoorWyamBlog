@@ -10,6 +10,20 @@ var searchModule = function() {
     a(
         {
             id:0,
+            title:"Food shop Bronowice",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
+        },
+        {
+            url:'/services/a-food-shop-in-bronowice',
+            title:"A Food shop in Bronowice",
+            description:"Polish food shop with pierogi"
+        }
+    );
+    a(
+        {
+            id:1,
             title:"Dave Car Rental",
             content:"additional search tags",
             description:"Best Dave Car Rental Krakow Bronowice",
@@ -19,20 +33,6 @@ var searchModule = function() {
             url:'/services/daves-car-rental',
             title:"Dave's Car Rental",
             description:"The Best Dave's Car Rental in Krakow, Bronowice"
-        }
-    );
-    a(
-        {
-            id:1,
-            title:"Mark Car Rental",
-            content:"Car Rental",
-            description:"Best Mark Car Rental Krakow Kazimierz",
-            tags:'Krakow Kazimierz Car Car'
-        },
-        {
-            url:'/services/marks-car-rental',
-            title:"Mark's Car Rental",
-            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
     a(
@@ -52,15 +52,15 @@ var searchModule = function() {
     a(
         {
             id:3,
-            title:"Food shop Bronowice",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
+            title:"Mark Car Rental",
+            content:"Car Rental",
+            description:"Best Mark Car Rental Krakow Kazimierz",
+            tags:'Krakow Kazimierz Car Car'
         },
         {
-            url:'/services/a-food-shop-in-bronowice',
-            title:"A Food shop in Bronowice",
-            description:"Polish food shop with pierogi"
+            url:'/services/marks-car-rental',
+            title:"Mark's Car Rental",
+            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
     var idx = lunr(function() {
