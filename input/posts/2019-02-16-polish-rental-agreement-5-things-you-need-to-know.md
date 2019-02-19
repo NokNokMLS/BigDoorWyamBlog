@@ -43,7 +43,7 @@ So what is actual damage and what is normal wear and tear? Again it is worth agr
 
 All communication, however small, should be made between both parties in written form, e-mail and text message is perfectly acceptable. For example, how and when the deposit is returned should be clearly stated in the agreement and so any further communication that admits responsibility for damage or includes a commitment to pay for repairs should be documented.
 
-**For a full example of a Lease agreement in both Polish & English (kindly provided by **[**Superopcja.pl, Krakow**](http://superopcja.pl/)**,) simply like us on **[**FB**](https://www.facebook.com/bigdoor24/)**, now & **[**contact us**](https://bigdoor24.pl/home/contact)** and we will happily send it on to you.**
+**For a full example of a Lease agreement in both Polish & English (kindly provided by **[**Superopcja.pl, Krakow**](http://superopcja.pl/)**) simply like us on **[**FB**](https://www.facebook.com/bigdoor24/)**, now & **[**contact us**](https://bigdoor24.pl/home/contact)** and we will happily send it on to you.**
 
 Please note that the above is advice based on our experience only and so for legal issues covering any contract you should engage qualified professionals in your area. 
 
