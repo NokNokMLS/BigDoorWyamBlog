@@ -1,5 +1,5 @@
 ---
-Title: The Digest 24th February 2019
+Title: The Digest
 Author: Team BigDoor24
 Lead: Your Weekly Roundup of Polish News
 Published: '2019-02-23T12:23:12+01:00'
