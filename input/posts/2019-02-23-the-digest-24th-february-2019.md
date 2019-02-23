@@ -3,11 +3,12 @@ Title: The Digest 24th February 2019
 Author: Team BigDoor24
 Lead: Your Weekly Roundup of Polish News
 Published: '2019-02-23T12:23:12+01:00'
+Image: /assets/Images/digest-24feb2019.png
 Tags:
   - The Digest
   - News
 ---
-**The Tower Cats & Kaczynski/ Warsaw - We need to speak about the economy/ Krakow - Anti-smog scam/ Gdansk - Tolerating Kids/ Wroclaw - Expats exasperation/ Int'l -  I-RaN Mike, surrender monkeys and more....**
+**Signs of Spring/ Warsaw - Gay & Gay is OK/ Krakow - Copernicus/ Gdansk - Toppling Totems/ Wroclaw - Bad Smak Attack/ Katowice - Iranian Italian/ 30 under 30,Rental agreements and more....**
 
 **Poland**
 
@@ -25,15 +26,13 @@ _Wroclaw_ - [Anti-semitic attack on Ukrainian Restaurant](http://wroclawuncut.co
 
 _Katowice_ - [Italian arrival really Iranian](https://polandin.com/41368753/iranians-italian-disguise-rumbled) - Polandin
 
-
-
 **International**
 
 [Six Poles included in Forbes "30 under 30 to Watch"  European List](https://kafkadesk.org/2019/02/19/six-poles-nominated-in-forbes-30-under-30-europe-list-2019/) - KafkaDesk 
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
