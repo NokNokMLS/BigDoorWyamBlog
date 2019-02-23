@@ -32,7 +32,7 @@ _Katowice_ - [Italian arrival really Iranian](https://polandin.com/41368753/iran
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
@@ -49,6 +49,8 @@ _Katowice_ - [Italian arrival really Iranian](https://polandin.com/41368753/iran
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
 <div class="sharethis-inline-share-buttons"></div>
+
+
 
 Have a great Sunday!
 
