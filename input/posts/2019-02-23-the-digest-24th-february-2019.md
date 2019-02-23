@@ -8,7 +8,7 @@ Tags:
   - The Digest
   - News
 ---
-**Signs of Spring/ Warsaw - Gay & Gay is OK/ Krakow - Copernicus/ Gdansk - Toppling Totems/ Wroclaw - Bad Smak Attack/ Katowice - Iranian Italian/ 30 under 30,Rental agreements and more....**
+**Signs of Spring/ Warsaw - Gay & Gay is OK/ Krakow - Copernicus/ Gdansk - Toppling Totems/ Wroclaw - Bad Smak Attack/ Katowice - Iranian Italian/ 30 under 30, Rental agreements and more....**
 
 **Poland**
 
@@ -40,11 +40,11 @@ _Katowice_ - [Italian arrival really Iranian](https://polandin.com/41368753/iran
 
 **Odds & Ends**
 
-[Self-funded student movie wins in Hollywood](https://polandin.com/41340361/polish-film-selffunded-by-highschool-student-wins-in-hollywood) - Polandin Video
+[Communist era map of Warsaw drawn  ideologically](https://www.thefirstnews.com/article/fascinating-commie-map-of-postwar-warsaw-shows-paranoid-officials-heavily-censoring-the-landscape-4814) - TheFirstNews
 
 **The Krakcast Podcast** (Sponsored by BigDoor24.pl
 
-**SPECIAL - **[**Polish Rental Agreements - 5 things you need to know**](https://bigdoor24.pl/blog/)
+**SPECIAL** - [**Polish Rental Agreements - 5 things you need to know**](https://bigdoor24.pl/blog/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
