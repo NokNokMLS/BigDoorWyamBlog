@@ -42,7 +42,9 @@ _Katowice_ - [Italian arrival really Iranian](https://polandin.com/41368753/iran
 
 [Communist era map of Warsaw drawn  ideologically](https://www.thefirstnews.com/article/fascinating-commie-map-of-postwar-warsaw-shows-paranoid-officials-heavily-censoring-the-landscape-4814) - TheFirstNews
 
-**The Krakcast Podcast** (Sponsored by BigDoor24.pl
+**Podcast**
+
+[For the Spanish speakers out there here is a Polish based podcast in your language.](https://anchor.fm/desdepolonia)
 
 **SPECIAL** - [**Polish Rental Agreements - 5 things you need to know**](https://bigdoor24.pl/blog/)
 
