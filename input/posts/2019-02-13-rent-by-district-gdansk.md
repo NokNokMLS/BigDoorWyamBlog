@@ -2,7 +2,7 @@
 Title: Rent by District Q1 2019 - Gdansk
 Author: Team BigDoor24
 Lead: Are you a Goldilocks?
-Published: '2019-02-13T13:29:05+01:00'
+Published: '2019-02-26T23:29:00+01:00'
 Image: /assets/Images/are-you-paying-too-much-rent-gdansk_.png
 Tags:
   - Statistics
