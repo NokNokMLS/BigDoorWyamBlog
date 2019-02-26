@@ -54,7 +54,7 @@ _<div class="sharethis-inline-share-buttons"></div>_
 
 # 
 
-![null](/assets/Images/we-pay.png)
+!(/assets/Images/we-pay.png)
 
 **About BigDoor24.pl -  A new free service that matches Expats with Property Professionals who speak their language.**
 
