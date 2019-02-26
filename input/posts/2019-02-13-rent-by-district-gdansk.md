@@ -38,9 +38,9 @@ The availability is similar to other cities with approximately 4 times more apar
 
 (Source - BigDoor24 ,Morizon, Otodom, Olx & Gratka)
 
-**Future Articles -** 
+**Current & Future Articles - **
 
-\- Example of Polish apartment lease, in English
+\- [5 Things you need to know about Polish Rental Agreements](https://bigdoor24.pl/blog/posts/2019-02-16-polish-rental-agreement-5-things-you-need-to-know.html)
 
 \- Best District to Buy
 
