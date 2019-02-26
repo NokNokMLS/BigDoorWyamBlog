@@ -38,7 +38,7 @@ The availability is similar to other cities with approximately 4 times more apar
 
 (Source - BigDoor24 ,Morizon, Otodom, Olx & Gratka)
 
-**Current & Future Articles - **
+**Current & Future Articles**
 
 \- [5 Things you need to know about Polish Rental Agreements](https://bigdoor24.pl/blog/posts/2019-02-16-polish-rental-agreement-5-things-you-need-to-know.html)
 
@@ -51,7 +51,6 @@ You can hear an episode on Polish property on the recent KrakCast Podcast [here]
 If any of the above interests you or you simply wish to _support us Follow/Like & Share now._
 
 _<div class="sharethis-inline-share-buttons"></div>_
-
 
 **About BigDoor24.pl -  A new free service that matches Expats with Property Professionals who speak their language.**
 
