@@ -52,9 +52,6 @@ If any of the above interests you or you simply wish to _support us Follow/Like 
 
 _<div class="sharethis-inline-share-buttons"></div>_
 
-# 
-
-!(/assets/Images/we-pay.png)
 
 **About BigDoor24.pl -  A new free service that matches Expats with Property Professionals who speak their language.**
 
