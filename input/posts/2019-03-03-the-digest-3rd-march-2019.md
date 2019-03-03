@@ -44,7 +44,7 @@ _Katowice_ - [Not Shooting the Messenger - "Nazi" Cameraman in the clear](https:
 
 **Podcast**
 
-**Krakcast - **[What to know about renting in Poland](https://www.krakcast.pl/e/krakcast-interview-john-naughton-2/)
+Krakcast - [What to know about renting in Poland](https://www.krakcast.pl/e/krakcast-interview-john-naughton-2/)
 
 **SPECIAL** - [**Polish Rental Agreements - 5 things you need to know**](https://bigdoor24.pl/blog/)
 
