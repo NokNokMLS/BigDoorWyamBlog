@@ -6,6 +6,7 @@ Published: '2019-03-03T07:47:22+01:00'
 Image: /assets/Images/digest-march3.png
 Tags:
   - News
+  - The Digest
 ---
 **Poaching Nurses / Warsaw - Doughnut Journey/ Krakow - Arresting Amps/ Gdansk - Trupa Trupa Trumps/ Wroclaw - Best Start up City/ Katowice - "Nazi" Cameraman in the Clear/ Jewish Revival and more....**
 
