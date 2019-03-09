@@ -20,7 +20,7 @@ _Warsaw_ -  [Gov't to introduce new streaming Tax](http://wroclawuncut.com/2019/
 
 _Krakow_ - [ Children's Hospital Deaths](https://krakow.onet.pl/uniwersytecki-szpital-dzieciecy-lekarze-narazili-zdrowie-i-zycie-jest-przelom-w/8sy7jxs) - Onet (in Polish but worth a translated read)
 
-_Gdansk_ - [Murdered Mayor Deputy elected in landslide](http://thenews.pl/1/9/Artykul/409147,Deputy-chosen-to-succeed-murdered-Polish-mayor) - TheNews
+_Gdansk_ - [Murdered Mayor's Deputy elected in landslide](http://thenews.pl/1/9/Artykul/409147,Deputy-chosen-to-succeed-murdered-Polish-mayor) - TheNews
 
 _Wroclaw_ - [City Mayor receives Death Threat](http://wroclawuncut.com/2019/03/06/wroclaws-president-receives-death-threat/) - WroclawUncut
 
