@@ -7,17 +7,17 @@ Tags:
   - News
   - The Digest
 ---
-**Poaching Nurses / Warsaw - Doughnut Journey/ Krakow - Arresting Amps/ Gdansk - Trupa Trupa Trumps/ Wroclaw - Best Start up City/ Katowice - "Nazi" Cameraman in the Clear/ Jewish Revival and more....**
+**Vaulting Women's Equality/ Warsaw - Tube Tax/ Krakow - Children Hospital Deaths/ Gdansk - Long Live the Mayor/ Wroclaw - Death Threats/ Poznan - Sadist Stopped/ Jewish Pogrom exhumation and more....**
 
 **Poland**
 
-[Pole Vault**\- Polish women leap to 8th place in World Employment Equality standings**](https://www.thefirstnews.com/article/girl-power-polish-women-soar-to-8th-place-in-global-employment-ranking-5020)** **- TheFirstNews
+[Pole Vault- Polish women leap to 8th place in World Employment Equality standings](https://www.thefirstnews.com/article/girl-power-polish-women-soar-to-8th-place-in-global-employment-ranking-5020) - TheFirstNews
 
 **Local**
 
 _Warsaw_ -  [Gov't to introduce new streaming Tax](http://wroclawuncut.com/2019/03/06/pis-set-to-introduce-streaming-tax-to-fund-new-policies/) - WroclawUncut
 
-_Krakow_ - [ Childrens Hospital Deaths](https://krakow.onet.pl/uniwersytecki-szpital-dzieciecy-lekarze-narazili-zdrowie-i-zycie-jest-przelom-w/8sy7jxs) - Onet (in Polish but worth a translated read)
+_Krakow_ - [ Children's Hospital Deaths](https://krakow.onet.pl/uniwersytecki-szpital-dzieciecy-lekarze-narazili-zdrowie-i-zycie-jest-przelom-w/8sy7jxs) - Onet (in Polish but worth a translated read)
 
 _Gdansk_ - [Murdered Mayor Deputy elected in landslide](http://thenews.pl/1/9/Artykul/409147,Deputy-chosen-to-succeed-murdered-Polish-mayor) - TheNews
 
@@ -25,7 +25,7 @@ _Wroclaw_ - [City Mayor receives Death Threat](http://wroclawuncut.com/2019/03/0
 
 _Poznan_ - [Sadist Businessman arrested](https://www.tvn24.pl/tvn24-news-in-english,157,m/police-headhunters-caught-a-sadistic-businessman-who-terrorised-employees,914056.html) - TVN Video
 
-Bialystok - [Jewish Pogrom exhumation considered](https://apnews.com/c9a9bdfb84494a88b5bdde19d2b389ad) - AP
+_Bialystok_ - [Jewish Pogrom exhumation considered](https://apnews.com/c9a9bdfb84494a88b5bdde19d2b389ad) - AP
 
 **International**
 
@@ -33,7 +33,7 @@ Bialystok - [Jewish Pogrom exhumation considered](https://apnews.com/c9a9bdfb844
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
