@@ -30,7 +30,7 @@ _Bialystok_ - [Jewish Pogrom exhumation considered](https://apnews.com/c9a9bdfb8
 
 **International**
 
-[Far-Right Parties set top double Polish EU representation](https://www.dw.com/en/far-right-parties-poised-to-double-seats-in-eu-parliament-poll/a-47832850) - DW 
+[Far-Right Parties set to double Polish EU representation](https://www.dw.com/en/far-right-parties-poised-to-double-seats-in-eu-parliament-poll/a-47832850) - DW 
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
