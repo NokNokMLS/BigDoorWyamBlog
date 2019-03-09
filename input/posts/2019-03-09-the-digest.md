@@ -52,6 +52,8 @@ Krakcast - [Working & Living in Poland - what you need to know](https://www.krak
 
 <div class="sharethis-inline-share-buttons"></div>
 
+\-
+
 Have a great Sunday!
 
 Team BigDoor24
