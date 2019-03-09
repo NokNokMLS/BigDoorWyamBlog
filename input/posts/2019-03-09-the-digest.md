@@ -1,13 +1,14 @@
 ---
-Title: The Digest
-Author: Team Big|Door24
-Lead: Your Polish News Roundup
+Title: The Digest - March 10th 2019
+Author: Team BigDoor24
+Lead: Your Weekly Polish News Roundup - Today the shops are ... CLOSED
 Published: '2019-03-09T21:09:01+01:00'
+Image: /assets/Images/digest-march10th.jpg
 Tags:
   - News
   - The Digest
 ---
-**Vaulting Women's Equality/ Warsaw - Tube Tax/ Krakow - Children Hospital Deaths/ Gdansk - Long Live the Mayor/ Wroclaw - Death Threats/ Poznan - Sadist Stopped/ Jewish Pogrom exhumation and more....**
+**Women's Equality Jumps/ Warsaw - Tube Tax/ Krakow - Children Hospital Deaths/ Gdansk - Long Live the Mayor/ Wroclaw - Death Threats/ Poznan - Sadist Stopped/ Jewish Pogrom exhumation and more....**
 
 **Poland**
 
