@@ -34,7 +34,7 @@ _Bialystok_ - [Jewish Pogrom exhumation considered](https://apnews.com/c9a9bdfb8
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
@@ -42,11 +42,11 @@ _Bialystok_ - [Jewish Pogrom exhumation considered](https://apnews.com/c9a9bdfb8
 
 **Odds & Ends**
 
-[Pole in UK charged with terrorist offences](https://www.theguardian.com/uk-news/2019/mar/09/man-charged-with-leeds-terror-offences-appears-in-court?CMP=Share_AndroidApp_Zoho_Mail)**\- **The Guardian
+[Pole in UK charged with terrorist offences](https://www.theguardian.com/uk-news/2019/mar/09/man-charged-with-leeds-terror-offences-appears-in-court?CMP=Share_AndroidApp_Zoho_Mail) **\- **The Guardian
 
 **Podcast**
 
-Krakcast - [Working & Living in Poland .. what you need to know](https://www.krakcast.pl/e/krakcast-interview-%E2%80%93-aneta-on-immigration/)
+Krakcast - [Working & Living in Poland - what you need to know](https://www.krakcast.pl/e/krakcast-interview-%E2%80%93-aneta-on-immigration/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
