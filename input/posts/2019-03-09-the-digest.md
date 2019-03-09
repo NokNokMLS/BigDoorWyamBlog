@@ -1,13 +1,15 @@
 ---
 Title: The Digest - March 10th 2019
 Author: Team BigDoor24
-Lead: Your Weekly Polish News Roundup - Today the shops are ... CLOSED
+Lead: Your Weekly Polish News Roundup
 Published: '2019-03-09T21:09:01+01:00'
 Image: /assets/Images/digest-march10th.jpg
 Tags:
   - News
   - The Digest
 ---
+Today the Shops are CLOSED
+
 **Women's Equality Jumps/ Warsaw - Tube Tax/ Krakow - Children's Hospital Deaths/ Gdansk - Long Live the Mayor/ Wroclaw - Death Threats/ Poznan - Sadist Stopped/ Jewish Pogrom exhumation and more....**
 
 **Poland**
