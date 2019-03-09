@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-**Women's Equality Jumps/ Warsaw - Tube Tax/ Krakow - Children Hospital Deaths/ Gdansk - Long Live the Mayor/ Wroclaw - Death Threats/ Poznan - Sadist Stopped/ Jewish Pogrom exhumation and more....**
+**Women's Equality Jumps/ Warsaw - Tube Tax/ Krakow - Children's Hospital Deaths/ Gdansk - Long Live the Mayor/ Wroclaw - Death Threats/ Poznan - Sadist Stopped/ Jewish Pogrom exhumation and more....**
 
 **Poland**
 
