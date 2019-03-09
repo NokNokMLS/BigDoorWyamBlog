@@ -12,7 +12,7 @@ Tags:
 
 **Poland**
 
-[Pole Vault- Polish women leap to 8th place in World Employment Equality standings](https://www.thefirstnews.com/article/girl-power-polish-women-soar-to-8th-place-in-global-employment-ranking-5020) - TheFirstNews
+[Pole Vault - Polish women leap to 8th place in World Employment Equality standings](https://www.thefirstnews.com/article/girl-power-polish-women-soar-to-8th-place-in-global-employment-ranking-5020) - TheFirstNews
 
 **Local**
 
