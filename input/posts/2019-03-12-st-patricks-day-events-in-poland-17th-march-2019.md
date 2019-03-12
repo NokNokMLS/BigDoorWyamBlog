@@ -32,9 +32,9 @@ _Mar. 17th_ - Irish Folk World Concert - Polish Celtic Bands let loose [here](ht
 
 _Mar. 17th_ - Carrantuohill, a Polish band named after an Irish religious pilgrimage site, play [here](https://www.carrantuohill.pl/koncerty/).
 
-[**Did you know ?**](https://bigdoor24.pl/)
+[Did you know ?](https://bigdoor24.pl/)
 
-[**BigDoor24.pl pays you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we pay them) - register now for your personal referral code.**](https://bigdoor24.pl/)
+[BigDoor24.pl pays you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we pay them) - register now for your personal referral code.](https://bigdoor24.pl/)
 
 **Krakow**
 
