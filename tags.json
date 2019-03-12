@@ -15,11 +15,6 @@
     "Weight": 12
   },
   {
-    "Tag": "Buy",
-    "Url": "/tags/Buy.html",
-    "Weight": 6
-  },
-  {
     "Tag": "Where I Live",
     "Url": "/tags/Where-I-Live.html",
     "Weight": 6
@@ -35,13 +30,18 @@
     "Weight": 6
   },
   {
-    "Tag": "Rent",
-    "Url": "/tags/Rent.html",
-    "Weight": 5
+    "Tag": "Buy",
+    "Url": "/tags/Buy.html",
+    "Weight": 6
   },
   {
     "Tag": "Sell",
     "Url": "/tags/Sell.html",
+    "Weight": 5
+  },
+  {
+    "Tag": "Rent",
+    "Url": "/tags/Rent.html",
     "Weight": 5
   },
   {
@@ -60,31 +60,6 @@
     "Weight": 2
   },
   {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Szczecin",
     "Url": "/tags/Szczecin.html",
     "Weight": 1
@@ -95,23 +70,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
     "Weight": 1
   },
   {
@@ -120,8 +80,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
     "Weight": 1
   },
   {
@@ -130,8 +90,48 @@
     "Weight": 1
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Olsztyn",
     "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 1
   }
 ]
