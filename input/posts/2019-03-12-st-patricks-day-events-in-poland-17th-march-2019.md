@@ -8,7 +8,7 @@ Tags:
   - General Information
   - News
 ---
-The Irish call it Paddy's Day, the Americans, Saint Patty's Day, and the Poles, Festiwal sw. Patryka but the celebration by Irish communities around the world for St. Patrick's Day is only getting bigger.
+The Irish call it Paddy's Day, the Americans, Saint Patty's Day, and the Poles, Festiwal sw. Patryka as the celebrations by Irish communities around the world for St. Patrick's Day only gets bigger.
 
 In recognition of it's popularity (and at the insistence of the Irish members of Team BigDoor24) we are moving away from our regular updates and articles on Polish property and mortgage information to list just some of the events for the coming weekend.
 
