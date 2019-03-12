@@ -32,9 +32,11 @@ _Mar. 17th_ - Irish Folk World Concert - Polish Celtic Bands let loose [here](ht
 
 _Mar. 17th_ - Carrantuohill, a Polish band named after an Irish religious pilgrimage site, play [here](https://www.carrantuohill.pl/koncerty/).
 
-[Did you know ?](https://bigdoor24.pl/)
+[Did you know ?
+](https://bigdoor24.pl/)
 
-[BigDoor24.pl pays you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we pay them) - register now for your personal referral code.](https://bigdoor24.pl/)
+[
+BigDoor24.pl pays you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we pay them) - register now for your personal referral code.](https://bigdoor24.pl/)
 
 **Krakow**
 
@@ -50,7 +52,7 @@ _Mar. 14th_ - Start the celebrations early with Celtic Fusion [here](https://gum
 
 **Gdansk**
 
-_Mar. 15th _- For those of you who just want a taste of the culture, the Medical School is having an Irish Day with lots to see[ here](https://gumed.edu.pl/54310.html).
+_Mar. 15th_ - For those of you who just want a taste of the culture, the Medical School is having an Irish Day with lots to see[ here](https://gumed.edu.pl/54310.html).
 
 _All Weekend_ - Trebraruna are a Scottish/Irish Dance and Music troupe which will be celebrating the week [here](http://trebraruna.pl/).
 
