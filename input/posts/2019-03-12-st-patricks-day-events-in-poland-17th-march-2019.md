@@ -32,7 +32,7 @@ _Mar. 17th_ - Irish Folk World Concert - Polish Celtic Bands let loose [here](ht
 
 _Mar. 17th_ - Carrantuohill, a Polish band named an Irish religious pilgrimage site, play [here](https://www.carrantuohill.pl/koncerty/).
 
-![](/assets/Images/we-pay-you-advert.png)
+![null](/assets/Images/jpg-version-we-pay-you-when-you-use-bigdoor24.pl.jpg)
 
 **Krakow**
 
