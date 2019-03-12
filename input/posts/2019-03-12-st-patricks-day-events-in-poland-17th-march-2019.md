@@ -3,6 +3,7 @@ Title: St. Patricks Day Events in Poland  - 17th March 2019
 Author: Team BigDoor24
 Lead: You don't have to be Irish to have a Party
 Published: '2019-03-12T14:01:34+01:00'
+Image: /assets/Images/green-beer.jpg
 Tags:
   - General Information
   - News
@@ -11,7 +12,9 @@ The Irish call it Paddy's Day, the Americans, Saint Patty's Day, and the Poles, 
 
 In recognition of it's popularity (and at the insistence of the Irish members of Team BigDoor24) we are moving away from our regular updates and articles on Polish property and mortgage information to list just some of the events for the coming weekend.
 
-Additionally, in tune with Global celebrations of not so much being Irish as just " having the craic" ( having fun) , various prominent Polish landmarks will be lit up in green. Apologies to those involved in the many other events we have not included but there is just too much going on ! 
+Additionally, in tune with Global celebrations of not so much being Irish as just " having the craic" ( having fun) , various prominent Polish landmarks will be lit up in green.
+
+Apologies to those involved in the many other events we have not included but there is just too much going on ! 
 
 **Warsaw**
 
@@ -19,9 +22,7 @@ Additionally, in tune with Global celebrations of not so much being Irish as jus
 
 For details see [here](http://irishball.pl/).
 
-**Mar. 17th** - Fell the Reel is an evening of Irish Dancing and Music 
-
-More details [here](https://www.oko.com.pl/calendar/992-17-marca-niedziela-godz-20-30-feel-the-reel-dzien-sw-patryka-w-oko).
+**Mar. 17th** - Fell the Reel is an evening of Irish Dancing and Music [here](https://www.oko.com.pl/calendar/992-17-marca-niedziela-godz-20-30-feel-the-reel-dzien-sw-patryka-w-oko).
 
 **Lodz**
 
@@ -31,13 +32,15 @@ More details [here](https://www.oko.com.pl/calendar/992-17-marca-niedziela-godz-
 
 **Mar. 17th** - Carrantuohill, a Polish band named an Irish religious pilgrimage site, play [here](https://www.carrantuohill.pl/koncerty/).
 
+![](/assets/Images/we-pay-you-advert.png)
+
 **Krakow**
 
-**All weekend** - Duffy Irish Bar - who cares whats scheduled, it's Irish owned and managed so you won't get a better feel for how the day should be celebrated.
+**All weekend** - Duffys Irish Bar - who cares whats scheduled, it's Irish owned and managed so you won't get a better feel for how the day should be celebrated.
 
-Details [here](https://www.facebook.com/DUFFYSIRISHBAR/)
+Check them out [here](https://www.facebook.com/DUFFYSIRISHBAR/)
 
-Mar. 17th - An Irish Dance extravaganza in the NCK [here](https://nck.krakow.pl/wind-dancer-spektakl-tanca-irlandzkiego-eriu-sheeban/).
+**Mar. 17th** - An Irish Dance extravaganza in the NCK [here](https://nck.krakow.pl/wind-dancer-spektakl-tanca-irlandzkiego-eriu-sheeban/).
 
 **Poznan**
 
@@ -51,4 +54,8 @@ Details [here](https://gumed.edu.pl/54310.html)
 
 **All Weekend** - Trebraruna are a Scottish/Irish Dance and Music troupe which will be celebrating the week [here](http://trebraruna.pl/).
 
-<https://youtu.be/kVeUPnF4ZWM>
+To celebrate, The Irish Tourism Board have released a video you can see [here](https://youtu.be/kVeUPnF4ZWM)
+
+Have a great time everyone and don't forget to Like and Follow us on Facebook for regular updates on Property & Mortgage Tips in Poland.
+
+Slán go fóill (Goodbye for now)
