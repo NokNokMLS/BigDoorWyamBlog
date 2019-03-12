@@ -48,7 +48,7 @@ _Mar. 14th_ - Start the celebrations early with Celtic Fusion [here](https://gum
 
 **Gdansk**
 
-_Mar. 15th_** **- For those of you who just want a taste of the culture, the Medical School is having an Irish Day with lots to see[ here](https://gumed.edu.pl/54310.html).
+_Mar. 15th _- For those of you who just want a taste of the culture, the Medical School is having an Irish Day with lots to see[ here](https://gumed.edu.pl/54310.html).
 
 _All Weekend_ - Trebraruna are a Scottish/Irish Dance and Music troupe which will be celebrating the week [here](http://trebraruna.pl/).
 
