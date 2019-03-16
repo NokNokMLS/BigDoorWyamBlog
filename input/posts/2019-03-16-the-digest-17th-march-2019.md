@@ -56,6 +56,6 @@ Krakcast - [On St. Patrick's Day ... Listen to what Irish  business is doing in 
 
 \-
 
-Have a great Sunday & Happy St. PAtricks Day .. where ever you are from!
+Have a great Sunday & Happy St. Patricks Day .. where ever you are from!
 
 Team BigDoor24
