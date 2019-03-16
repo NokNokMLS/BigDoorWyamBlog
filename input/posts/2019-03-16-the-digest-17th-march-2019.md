@@ -12,7 +12,7 @@ Today the Shops are CLOSED
 
 **Nazi Art/ LGBT Base Booster - Warsaw/ En Garde - Krakow/ Statue Scrapped - Gdansk/ Stupid Stabbing - Wroclaw/ Praying for Parking - Lodz/ Poland in Nato/ Gay = Nazi - Sport/ Jew Spotting/ Irish Business in Poland - Krakcast**
 
-**Editors Note** - A special word from BD24 to all of our Human friends out there, particularly our Australian & New Zealand (of every faith or none) readers on the cowardly attack in Christchurch. We cannot control events but we can control our response. To our inhuman "friends" we say .. "Git F\*\*ked !"_
+**Editors Note** - A special word from BD24 to all of our Human friends out there, particularly our Australian & New Zealand (of every faith or none) readers on the cowardly attack in Christchurch. We cannot control events but we can control our response. To our inhuman "friends" we say .. "Git F\*\*ked !"
 
 **Poland**
 
