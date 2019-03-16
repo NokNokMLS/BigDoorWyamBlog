@@ -3,6 +3,7 @@ Title: The Digest - 17th March 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: '2019-03-16T21:06:40+01:00'
+Image: /assets/Images/thedigest-mar17th.jpg
 Tags:
   - News
   - The Digest
