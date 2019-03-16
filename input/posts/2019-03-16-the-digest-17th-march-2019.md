@@ -12,7 +12,7 @@ Today the Shops are CLOSED
 
 **Nazi Art/ LGBT Base Booster - Warsaw/ En Garde - Krakow/ Statue Scrapped - Gdansk/ Stupid Stabbing - Wroclaw/ Praying for Parking - Lodz/ Poland in Nato/ Gay = Nazi - Sport/ Jew Spotting/ Irish Business in Poland - Krakcast**
 
-**Editors Note - **_A special word from BD24 to all of our Human friends out there, particularly our Australian & New Zealand (of every faith or none) readers on the cowardly attack in Christchurch. We cannot control events but we can control our response. To our inhuman "friends" we say .. "Git F&$ked !"_
+**Editors Note** - A special word from BD24 to all of our Human friends out there, particularly our Australian & New Zealand (of every faith or none) readers on the cowardly attack in Christchurch. We cannot control events but we can control our response. To our inhuman "friends" we say .. "Git F&$ked !"_
 
 **Poland**
 
@@ -36,7 +36,7 @@ _Lodz_ - [Praying for Parking](https://www.tvn24.pl/tvn24-news-in-english,157,m/
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
