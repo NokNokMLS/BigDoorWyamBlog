@@ -34,7 +34,7 @@ _Lodz_ - [Praying for Parking](https://www.tvn24.pl/tvn24-news-in-english,157,m/
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
@@ -54,6 +54,6 @@ Krakcast - [On St. Patrick's Day ... Listen to what Irish  business is doing in 
 
 \-
 
-Have a great Sunday!
+Have a great Sunday & Happy St. PAtricks Day .. where ever you are from!
 
 Team BigDoor24
