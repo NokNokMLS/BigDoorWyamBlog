@@ -29,7 +29,7 @@ _Poznan_ - [Groundbreaking Robot medical operation](https://www.tvn24.pl/tvn24-n
 
 **International**
 
-[The Ukrainian Brain drain, why Ukraiians are in Poland](https://www.nbcnews.com/news/world/brain-drain-devastating-ukraine-n976936) - NBC News
+[The Ukrainian Brain drain, Why Ukraiians are in Poland](https://www.nbcnews.com/news/world/brain-drain-devastating-ukraine-n976936) - NBC News
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
