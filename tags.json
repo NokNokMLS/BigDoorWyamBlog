@@ -15,8 +15,8 @@
     "Weight": 12
   },
   {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 6
   },
   {
@@ -25,23 +25,23 @@
     "Weight": 6
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
-    "Weight": 6
-  },
-  {
     "Tag": "Buy",
     "Url": "/tags/Buy.html",
     "Weight": 6
   },
   {
-    "Tag": "Sell",
-    "Url": "/tags/Sell.html",
-    "Weight": 5
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
+    "Weight": 6
   },
   {
     "Tag": "Rent",
     "Url": "/tags/Rent.html",
+    "Weight": 5
+  },
+  {
+    "Tag": "Sell",
+    "Url": "/tags/Sell.html",
     "Weight": 5
   },
   {
@@ -50,13 +50,13 @@
     "Weight": 3
   },
   {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
     "Weight": 2
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
     "Weight": 2
   },
   {
@@ -65,23 +65,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
     "Weight": 1
   },
   {
@@ -90,13 +75,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
     "Weight": 1
   },
   {
@@ -105,23 +85,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Home Loan",
     "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
     "Weight": 1
   },
   {
@@ -132,6 +117,21 @@
   {
     "Tag": "Bydgoszcz",
     "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
     "Weight": 1
   }
 ]
