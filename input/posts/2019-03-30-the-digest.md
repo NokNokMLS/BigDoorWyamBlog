@@ -7,13 +7,13 @@ Tags:
   - NEWS
   - The Digest
 ---
-Today the Shops are CLOSED
+Today the Shops are OPEN
 
 \|**European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winining / Polish Video Games/ Krakcast rubbish and more....**
 
 **Poland**
 
-[Bringing Poland back to Europe](https://www.theguardian.com/commentisfree/2019/mar/20/poland-opposition-europe-macron-eu?CMP=Share_AndroidApp_Email)** **- The Guardian
+[Bringing Poland back to Europe](https://www.theguardian.com/commentisfree/2019/mar/20/poland-opposition-europe-macron-eu?CMP=Share_AndroidApp_Email)\*\* \*\*- The Guardian
 
 **Local**
 
@@ -33,7 +33,7 @@ _Poznan_ - [Groundbreaking Robot medical operation](https://www.tvn24.pl/tvn24-n
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
