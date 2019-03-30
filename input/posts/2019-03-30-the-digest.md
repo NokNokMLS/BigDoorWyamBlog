@@ -9,7 +9,7 @@ Tags:
 ---
 Today the Shops are OPEN
 
-\|**European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winining / Polish Video Games/ Krakcast rubbish and more....**
+**European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winining / Polish Video Games/ Krakcast rubbish and more....**
 
 **Poland**
 
