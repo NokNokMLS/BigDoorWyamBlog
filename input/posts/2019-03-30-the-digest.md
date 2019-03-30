@@ -13,7 +13,7 @@ Today the Shops are OPEN
 
 **Poland**
 
-[Bringing Poland back to Europe](https://www.theguardian.com/commentisfree/2019/mar/20/poland-opposition-europe-macron-eu?CMP=Share_AndroidApp_Email)\*\* \*\*- The Guardian
+[Bringing Poland back to Europe](https://www.theguardian.com/commentisfree/2019/mar/20/poland-opposition-europe-macron-eu?CMP=Share_AndroidApp_Email) - The Guardian
 
 **Local**
 
