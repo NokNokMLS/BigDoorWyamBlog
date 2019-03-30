@@ -45,7 +45,7 @@ _Poznan_ - [Groundbreaking Robot medical operation](https://www.tvn24.pl/tvn24-n
 
 **Podcast**
 
-Krakcast - [The guys are just talking rubbish ..... and strangely ... it's important](https://www.krakcast.pl/e/krakcast-news-1553794529/)
+Krakcast - [The guys are just talking rubbish, and strangely ... it's important](https://www.krakcast.pl/e/krakcast-news-1553794529/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
