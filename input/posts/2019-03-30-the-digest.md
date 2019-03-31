@@ -1,17 +1,20 @@
 ---
-Title: 'The Digest '
+Title: The Digest - 31st March 2019
 Author: Team BigDoor24
 Lead: Your Polish Weekly News Roundup
 Published: '2019-03-30T20:24:43+01:00'
+Image: /assets/Images/brexitdigest.jpg
 Tags:
   - NEWS
   - The Digest
 ---
 Today the Shops are OPEN
 
-**European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winining / Polish Video Games/ Krakcast rubbish and more....**
+**Brexit Effect on Poland/ European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winining / Polish Video Games/ Krakcast rubbish and more....**
 
 **Poland**
+
+[Brexit impact on Poland, Migration & Economy](https://www.aljazeera.com/indepth/features/view-poland-brexit-impact-migration-economy-190207131551916.html) - Al Jazeera
 
 [Bringing Poland back to Europe](https://www.theguardian.com/commentisfree/2019/mar/20/poland-opposition-europe-macron-eu?CMP=Share_AndroidApp_Email) - The Guardian
 
@@ -41,7 +44,7 @@ _Poznan_ - [Groundbreaking Robot medical operation](https://www.tvn24.pl/tvn24-n
 
 **Odds & Ends**
 
-[**Women of Mafia 2 .....Polish women **](https://www.theguardian.com/film/2019/mar/01/kobiety-mafii-2-women-of-mafia-2-review-patryk-vega?CMP=Share_AndroidApp_Zoho_Mail)**\- **The Guardian
+[Women of Mafia 2 .....Polish women](https://www.theguardian.com/film/2019/mar/01/kobiety-mafii-2-women-of-mafia-2-review-patryk-vega?CMP=Share_AndroidApp_Zoho_Mail) - The Guardian
 
 **Podcast**
 
