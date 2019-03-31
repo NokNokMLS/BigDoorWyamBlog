@@ -10,7 +10,7 @@ Tags:
 ---
 Today the Shops are OPEN
 
-**Brexit Effect on Poland/ European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winining / Polish Video Games/ Krakcast rubbish and more....**
+**Brexit Effect on Poland/ European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winning / Polish Video Games/ Krakcast rubbish and more....**
 
 **Poland**
 
@@ -36,7 +36,7 @@ _Poznan_ - [Groundbreaking Robot medical operation](https://www.tvn24.pl/tvn24-n
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
