@@ -5,7 +5,7 @@ Lead: Your Polish Weekly News Roundup
 Published: '2019-03-30T20:24:43+01:00'
 Image: /assets/Images/brexitdigest.jpg
 Tags:
-  - NEWS
+  - News
   - The Digest
 ---
 Today the Shops are OPEN
