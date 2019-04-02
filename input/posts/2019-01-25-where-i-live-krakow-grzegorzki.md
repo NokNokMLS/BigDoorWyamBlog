@@ -23,8 +23,7 @@ Tags:
 
 **Apartment or House** Apartment
 
-**What attracted you to, and keeps you in, the district?
-**
+**What attracted you to, and keeps you in, the district?**
 
 I live on ul. Masarska in a development that now has 4 residential and one commercial building. This is the historic meat packing district of Krakow but is much more famous these days for the modern Galeria Kazimierz and its easy access to Rondo Grzegorzecka one of the cities main public transport arteries.
 
