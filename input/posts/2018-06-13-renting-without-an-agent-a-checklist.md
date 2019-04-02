@@ -8,6 +8,7 @@ Tags:
   - Rent
   - General Information
   - Let
+  - Polish Mortgage
 ---
 When renting a property through an agent you will normally pay a fee equivalent to one months rent ( or less if using BigDoor24 ).so you may decide you would like to avoid paying anything. 
 
