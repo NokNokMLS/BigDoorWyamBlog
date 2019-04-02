@@ -1,7 +1,7 @@
 ---
 Title: When & How to apply for a Home Loan in Poland
 Author: Team BigDoor24
-Lead: 'When to apply, How to apply, What to consider'
+Lead: 'When to apply, How to apply, What to consider - Polish Mortgages'
 Published: '2019-01-25T08:59:25+01:00'
 Image: /assets/Images/chicken-egg.jpg
 Tags:
