@@ -14,9 +14,9 @@ Tags:
 ---
 **Tip 1 . It costs nothing to apply so do it early**
 
-You are looking to buy a property but will require a home loan. Well, before you even start looking the first thing you should do is to find out how much you can borrow. Seems obvious but lots of people leave this too late and find themselves rushing with applications at the last moment.
+You are looking to buy a property but will require a mortgage. Well, before you even start looking the first thing you should do is to find out how much you can borrow. Seems obvious but lots of people leave this too late and find themselves rushing with applications at the last moment.
 
-**Tip 2 - You don't need a hard Home Loan offer but you should have a ballpark idea before you begin**
+**Tip 2 - You don't need a hard Mortgage offer but you should have a ballpark idea before you begin**
 
 It can all be a little chicken and egg as the bank will not confirm how much until they know about the property and of course you don't know which property until you know how much you can borrow.
 
@@ -38,10 +38,10 @@ When budgeting, be sure to include the valuation and arrangement fees that can b
 
 **Tip 6 - Not using BigDoor24 can actually cost you money !**
 
-And don't forget, by requesting contact with an Advisor through BigDoor24.pl, you will receive cashback once your loan is confirmed, (i.e **zl. 200 per zl. 100k borrowed**).
+And don't forget, by requesting contact with an Advisor through BigDoor24.pl, you will receive cashback once your Polish mortgage is activated, (i.e **zl. 200 per zl. 100k borrowed**).
 
-Additionally, by simply registering with BigDoor24.pl, you will receive a personal referral code. Every time you refer us you to a successful applicant you will get a **zl. 250 thank you.**
+Additionally, by simply registering with BigDoor24.pl, you will receive a personal referral code. Every time you refer us you to a successful applicant you will get a **zl. 250 Thank you voucher.**
 
-**_This is not an offer you will get by going direct._**
+_**For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook **_[_**here**_](https://www.facebook.com/bigdoor24/)_**.**_
 
 Happy Hunting !
