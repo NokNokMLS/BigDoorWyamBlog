@@ -9,6 +9,7 @@ Tags:
   - Sell
   - Investment
   - General Information
+  - Polish Mortgage
 ---
 Case Study
 
