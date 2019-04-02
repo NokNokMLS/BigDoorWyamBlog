@@ -10,6 +10,7 @@ Tags:
   - Buy
   - Sell
   - General Information
+  - Polish Mortgage
 ---
 **Tip 1 . It costs nothing to apply so do it early**
 
