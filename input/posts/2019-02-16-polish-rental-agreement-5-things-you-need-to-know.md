@@ -8,6 +8,7 @@ Tags:
   - General Information
   - Rent
   - Let
+  - Polish Mortgage
 ---
 Not knowing some basic things about a Rental Agreement is just a gamble.
 
