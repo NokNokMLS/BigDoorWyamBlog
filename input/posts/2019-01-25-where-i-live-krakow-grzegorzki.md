@@ -3,7 +3,7 @@ Title: 'Where I Live, Krakow, Grzegorzki'
 Author: Team BigDoor24
 Lead: 'Grzegorzki, Krakow'
 Published: '2019-01-25T09:21:19+01:00'
-Image: /assets/Images/galeria-kaz.jpg
+Image: /assets/Images/whereilivegrzegorzki.jpg
 Tags:
   - Where I Live
   - Krakow
