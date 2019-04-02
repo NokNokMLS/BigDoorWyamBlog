@@ -11,6 +11,7 @@ Tags:
   - Sell
   - Rent
   - Let
+  - Polish Mortgage
 ---
 If you are in Poland for the weekend it is unlikely you will spend enough to make any real difference to how you buy your Zloty but for anyone staying a little longer, it's worth figuring out the most efficient way of changing your currency.
 
