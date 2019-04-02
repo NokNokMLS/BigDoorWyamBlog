@@ -9,6 +9,7 @@ Tags:
   - Sell
   - Investment
   - General Information
+  - Polish Mortgage
 ---
 Whether buying or selling, it's a good idea (and required if getting a home loan) to get a good independent valuation. And strangely, not all valuers are created equally.
 
