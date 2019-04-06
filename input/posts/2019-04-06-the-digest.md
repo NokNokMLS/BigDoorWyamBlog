@@ -7,6 +7,7 @@ Image: /assets/Images/kazimierz_pułaski.png
 Tags:
   - News
   - The Digest
+  - Polish Mortgage Offer
 ---
 Today the Shops are CLOSED
 
