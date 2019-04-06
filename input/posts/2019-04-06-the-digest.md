@@ -10,7 +10,7 @@ Tags:
 ---
 Today the Shops are CLOSED
 
-**Brexit Effect on Poland/ European Poland/ USA Poland collaboration - Warsaw/ Good Food Guide - Krakow/ Big Ships - Gdansk / BBQ Surprise - Wroclaw/ Dr. Robot - Poznan/ Ukrainian Hope/ Women Winning / Polish Video Games/ Krakcast rubbish and more....**
+**Hero may be Heroine/ Polish Courts in the Dock - Warsaw/ Mankini Men in Manacles - Krakow/ MEVO Slow puncture - Gdansk/ Mugging Punters - Wroclaw/ Tri State Talent/ 15 Medals/ Burning Books/ Forbes speaks and more....**
 
 **Poland**
 
@@ -32,7 +32,7 @@ _Wroclaw_ - [Man faces 3 year prison term for mugging prostitute punters ](http:
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
