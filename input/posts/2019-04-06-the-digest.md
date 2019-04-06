@@ -3,7 +3,7 @@ Title: The Digest
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Round-up
 Published: '2019-04-06T20:37:28+02:00'
-Image: ''
+Image: /assets/Images/kazimierz_pułaski.png
 Tags:
   - News
   - The Digest
