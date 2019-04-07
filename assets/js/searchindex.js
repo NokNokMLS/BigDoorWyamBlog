@@ -10,15 +10,15 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Dave Car Rental",
-            content:"additional search tags",
-            description:"Best Dave Car Rental Krakow Bronowice",
-            tags:'Kraków Bronowice Car Car'
+            title:"John Hair Salon",
+            content:"Hair Salon",
+            description:"best John Hair Salon Krakow Centrum",
+            tags:'Krakow Centrum Hair Hair'
         },
         {
-            url:'/services/daves-car-rental',
-            title:"Dave's Car Rental",
-            description:"The Best Dave's Car Rental in Krakow, Bronowice"
+            url:'/services/johns-hair-salon',
+            title:"John's Hair Salon",
+            description:"The best John's Hair Salon in Krakow Centrum"
         }
     );
     a(
@@ -38,6 +38,20 @@ var searchModule = function() {
     a(
         {
             id:2,
+            title:"Dave Car Rental",
+            content:"additional search tags",
+            description:"Best Dave Car Rental Krakow Bronowice",
+            tags:'Kraków Bronowice Car Car'
+        },
+        {
+            url:'/services/daves-car-rental',
+            title:"Dave's Car Rental",
+            description:"The Best Dave's Car Rental in Krakow, Bronowice"
+        }
+    );
+    a(
+        {
+            id:3,
             title:"Mark Car Rental",
             content:"Car Rental",
             description:"Best Mark Car Rental Krakow Kazimierz",
@@ -47,20 +61,6 @@ var searchModule = function() {
             url:'/services/marks-car-rental',
             title:"Mark's Car Rental",
             description:"The Best Mark's Car Rental in Krakow, Kazimierz"
-        }
-    );
-    a(
-        {
-            id:3,
-            title:"John Hair Salon",
-            content:"Hair Salon",
-            description:"best John Hair Salon Krakow Centrum",
-            tags:'Krakow Centrum Hair Hair'
-        },
-        {
-            url:'/services/johns-hair-salon',
-            title:"John's Hair Salon",
-            description:"The best John's Hair Salon in Krakow Centrum"
         }
     );
     var idx = lunr(function() {
