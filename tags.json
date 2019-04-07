@@ -2,12 +2,12 @@
   {
     "Tag": "News",
     "Url": "/BigDoorWyamBlog/tags/News.html",
-    "Weight": 26
+    "Weight": 27
   },
   {
     "Tag": "The Digest",
     "Url": "/BigDoorWyamBlog/tags/The-Digest.html",
-    "Weight": 22
+    "Weight": 23
   },
   {
     "Tag": "General Information",
@@ -40,13 +40,13 @@
     "Weight": 6
   },
   {
-    "Tag": "Sell",
-    "Url": "/BigDoorWyamBlog/tags/Sell.html",
+    "Tag": "Rent",
+    "Url": "/BigDoorWyamBlog/tags/Rent.html",
     "Weight": 5
   },
   {
-    "Tag": "Rent",
-    "Url": "/BigDoorWyamBlog/tags/Rent.html",
+    "Tag": "Sell",
+    "Url": "/BigDoorWyamBlog/tags/Sell.html",
     "Weight": 5
   },
   {
@@ -80,8 +80,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/BigDoorWyamBlog/tags/Opole.html",
+    "Tag": "Olsztyn",
+    "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
     "Weight": 1
   },
   {
@@ -95,8 +95,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Poland Rent",
-    "Url": "/BigDoorWyamBlog/tags/Poland-Rent.html",
+    "Tag": "Poland Mortgage",
+    "Url": "/BigDoorWyamBlog/tags/Poland-Mortgage.html",
     "Weight": 1
   },
   {
@@ -105,8 +105,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
+    "Tag": "Lublin",
+    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -125,8 +125,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Poland Mortgage",
-    "Url": "/BigDoorWyamBlog/tags/Poland-Mortgage.html",
+    "Tag": "Polish Mortgage Offer",
+    "Url": "/BigDoorWyamBlog/tags/Polish-Mortgage-Offer.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Rent",
+    "Url": "/BigDoorWyamBlog/tags/Poland-Rent.html",
     "Weight": 1
   },
   {
@@ -135,8 +140,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
+    "Tag": "Opole",
+    "Url": "/BigDoorWyamBlog/tags/Opole.html",
     "Weight": 1
   },
   {
