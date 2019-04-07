@@ -5,9 +5,7 @@ Lead: Your Weekly Polish News Round-up
 Published: '2019-04-06T20:37:28+02:00'
 Image: ''
 Tags:
-  - News
-  - The Digest
-  - Polish Mortgage Offer
+  - test
 ---
 Today the Shops are CLOSED
 
