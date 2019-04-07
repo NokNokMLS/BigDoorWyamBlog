@@ -33,7 +33,7 @@ _Wroclaw_ - [Man faces 3 year prison term for mugging prostitute punters ](http:
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
@@ -50,8 +50,6 @@ Krakcast - [Forbes Magazine sits down with the lads](https://www.krakcast.pl/e/k
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
 <div class="sharethis-inline-share-buttons"></div>
-
-\-
 
 Have a great Sunday!
 
