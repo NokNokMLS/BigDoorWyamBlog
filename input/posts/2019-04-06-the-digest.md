@@ -5,7 +5,9 @@ Lead: Your Weekly Polish News Round-up
 Published: '2019-04-06T20:37:28+02:00'
 Image: /assets/Images/are-you-paying-too-much-rent-gdansk_.png
 Tags:
-  - test
+  - News
+  - The Digest
+  - Polish Mortgage Offer
 ---
 Today the Shops are CLOSED
 
