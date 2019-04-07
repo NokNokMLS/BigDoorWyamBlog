@@ -3,7 +3,7 @@ Title: The Digest - 7th April 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Round-up
 Published: '2019-04-06T20:37:28+02:00'
-Image: /assets/Images/pulaski-digest.png
+Image: ''
 Tags:
   - News
   - The Digest
