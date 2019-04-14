@@ -273,13 +273,13 @@ s.setAttribute('data-timestamp', +new Date());
                     <a role="button" href="/BigDoorWyamBlog/tags/News.html" class="btn btn-default btn-sm"> News (28)</a>
                     <a role="button" href="/BigDoorWyamBlog/tags/The-Digest.html" class="btn btn-default btn-sm"> The Digest (24)</a>
                     <a role="button" href="/BigDoorWyamBlog/tags/General-Information.html" class="btn btn-default btn-sm"> General Information (12)</a>
-                    <a role="button" href="/BigDoorWyamBlog/tags/Polish-Mortgage.html" class="btn btn-default btn-sm"> Polish Mortgage (6)</a>
-                    <a role="button" href="/BigDoorWyamBlog/tags/Where-I-Live.html" class="btn btn-default btn-sm"> Where I Live (6)</a>
                     <a role="button" href="/BigDoorWyamBlog/tags/Investment.html" class="btn btn-default btn-sm"> Investment (6)</a>
+                    <a role="button" href="/BigDoorWyamBlog/tags/Where-I-Live.html" class="btn btn-default btn-sm"> Where I Live (6)</a>
                     <a role="button" href="/BigDoorWyamBlog/tags/Buy.html" class="btn btn-default btn-sm"> Buy (6)</a>
+                    <a role="button" href="/BigDoorWyamBlog/tags/Polish-Mortgage.html" class="btn btn-default btn-sm"> Polish Mortgage (6)</a>
                     <a role="button" href="/BigDoorWyamBlog/tags/Krakow.html" class="btn btn-default btn-sm"> Krakow (6)</a>
-                    <a role="button" href="/BigDoorWyamBlog/tags/Sell.html" class="btn btn-default btn-sm"> Sell (5)</a>
                     <a role="button" href="/BigDoorWyamBlog/tags/Rent.html" class="btn btn-default btn-sm"> Rent (5)</a>
+                    <a role="button" href="/BigDoorWyamBlog/tags/Sell.html" class="btn btn-default btn-sm"> Sell (5)</a>
             </div>
             <ul class="pager">
                 <li class="next">
@@ -410,13 +410,13 @@ s.setAttribute('data-timestamp', +new Date());
                 <li><a href="/BigDoorWyamBlog/tags/News.html" class="btn btn-tag">News</a></li>
                 <li><a href="/BigDoorWyamBlog/tags/The-Digest.html" class="btn btn-tag">The Digest</a></li>
                 <li><a href="/BigDoorWyamBlog/tags/General-Information.html" class="btn btn-tag">General Information</a></li>
-                <li><a href="/BigDoorWyamBlog/tags/Polish-Mortgage.html" class="btn btn-tag">Polish Mortgage</a></li>
-                <li><a href="/BigDoorWyamBlog/tags/Where-I-Live.html" class="btn btn-tag">Where I Live</a></li>
                 <li><a href="/BigDoorWyamBlog/tags/Investment.html" class="btn btn-tag">Investment</a></li>
+                <li><a href="/BigDoorWyamBlog/tags/Where-I-Live.html" class="btn btn-tag">Where I Live</a></li>
                 <li><a href="/BigDoorWyamBlog/tags/Buy.html" class="btn btn-tag">Buy</a></li>
+                <li><a href="/BigDoorWyamBlog/tags/Polish-Mortgage.html" class="btn btn-tag">Polish Mortgage</a></li>
                 <li><a href="/BigDoorWyamBlog/tags/Krakow.html" class="btn btn-tag">Krakow</a></li>
-                <li><a href="/BigDoorWyamBlog/tags/Sell.html" class="btn btn-tag">Sell</a></li>
                 <li><a href="/BigDoorWyamBlog/tags/Rent.html" class="btn btn-tag">Rent</a></li>
+                <li><a href="/BigDoorWyamBlog/tags/Sell.html" class="btn btn-tag">Sell</a></li>
                         </ul>
                     </div>
                 </div>
@@ -491,6 +491,24 @@ s.setAttribute('data-timestamp', +new Date());
     <!-- Java script-->
     <script src="/BigDoorWyamBlog/assets/js/core.min.js"></script>
     <script src="/BigDoorWyamBlog/assets/js/script.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        if(window.location.host.includes('bigdoor24')){
+        $(".feedback").on("click", function (evt) {
+          var webe = $('#webklipper-publisher-widget-container-content');
+          if (webe[0] !== null && typeof (webe[0]) !== 'undefined') {
+            evt.preventDefault();
+          }
+        });
+        }
+      });
+    </script>
+    <script id="_webengage_script_tag" type="text/javascript">
+    if(window.location.host.includes('bigdoor24')){
+        var webengage; !function (w, e, b, n, g) { function o(e, t) { e[t[t.length - 1]] = function () { r.__queue.push([t.join("."), arguments]) } } var i, s, r = w[b], z = " ", l = "init options track screen onReady".split(z), a = "feedback survey notification".split(z), c = "options render clear abort".split(z), p = "Open Close Submit Complete View Click".split(z), u = "identify login logout setAttribute".split(z); if (!r || !r.__v) { for (w[b] = r = { __queue: [], __v: "6.0", user: {} }, i = 0; i < l.length; i++)o(r, [l[i]]); for (i = 0; i < a.length; i++) { for (r[a[i]] = {}, s = 0; s < c.length; s++)o(r[a[i]], [a[i], c[s]]); for (s = 0; s < p.length; s++)o(r[a[i]], [a[i], "on" + p[s]]) } for (i = 0; i < u.length; i++)o(r.user, ["user", u[i]]); setTimeout(function () { var f = e.createElement("script"), d = e.getElementById("_webengage_script_tag"); f.type = "text/javascript", f.async = !0, f.src = ("https:" == e.location.protocol ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/webengage-min-v-6.0.js", d.parentNode.insertBefore(f, d) }) } }(window, document, "webengage");
+        webengage.init("82617c0c");
+    }
+    </script>
                 <script>hljs.initHighlightingOnLoad();</script>
         </body>
 </html>
