@@ -12,7 +12,7 @@ Today the Shops are OPEN
 
 **Teachers Strike/ Warsaw - Harry Potter Games/ Krakow - Tram Inflation/ Poznan - Death Verdict Due/ Gdansk - Cancer Diamond Development/ Wroclaw - Strip Club Suspicion/International - Anti- Gay Votes, NetFlix, Stag Parties and more....**
 
-[**If you like The Digest please Support and Like us on FB, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
+[**If you enjoy The Digest please support and Like us on FaceBook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
 <div class="sharethis-inline-share-buttons"></div>
 
@@ -28,7 +28,7 @@ _Warsaw_ - [ Harry Potter flies in to Warsaw](https://www.thefirstnews.com/artic
 
 _Krakow_ - [Public Transport costs to rise](http://www.krakowpost.com/20133/2019/03/public-transport-ticket-prices-to-increase) - Krakow Post
 
-Poznan - [Verdict expected in Ewa Tylman death case](https://www.tvn24.pl/tvn24-news-in-english,157,m/on-17-april-the-court-will-pass-the-verdict-in-ewa-tylman-s-death-case,925961.html) - TVN Video
+_Poznan_ - [Verdict expected in Ewa Tylman death case](https://www.tvn24.pl/tvn24-news-in-english,157,m/on-17-april-the-court-will-pass-the-verdict-in-ewa-tylman-s-death-case,925961.html) - TVN Video
 
 _Gdansk_ - [New Diamond technique developed in Gdansk for Cancer detection](https://polandin.com/42195189/diamond-origami-to-help-detect-cancer-faster) - PolandIn Video
 
@@ -40,11 +40,11 @@ _Wroclaw_ - [Man drowns after infamous strip club visit...was he drugged](http:/
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
-[ ](http://www.thenews.pl/1/5/Artykul/414222,Poland-eyeing-15-medals-at-2020-Olympics-says-official)Tennis - [Pole advances to Qtr Final in Swiss WTA open](http://www.thenews.pl/1/5/Artykul/415623,Tennis-Poland%E2%80%99s-Swiatek-into-quarterfinal-at-Lugano) - thenews
+_Tennis_ - [Pole advances to Qtr Final in Swiss WTA open](http://www.thenews.pl/1/5/Artykul/415623,Tennis-Poland%E2%80%99s-Swiatek-into-quarterfinal-at-Lugano) - thenews
 
 **Odds & Ends**
 
@@ -52,7 +52,7 @@ _Wroclaw_ - [Man drowns after infamous strip club visit...was he drugged](http:/
 
 **Podcast**
 
-Krakcast - [Stag Party Snags](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-stag-groups/)
+_Krakcast_ - [Stag Party Snags](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-stag-groups/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
