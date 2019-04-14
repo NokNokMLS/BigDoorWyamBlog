@@ -8,9 +8,15 @@ Tags:
   - The Digest
   - News
 ---
-Today the Shops are CLOSED
+Today the Shops are OPEN
 
-**Hero may be Heroine/ Polish Courts in the Dock - Warsaw/ Mankini Men in Manacles - Krakow/ MEVO Slow puncture - Gdansk/ Mugging Punters - Wroclaw/ Tri State Talent/ 15 Medals/ Burning Books/ Forbes speaks and more....**
+**Teachers Strike/ Warsaw - Harry Potter Games/ Krakow - Tram Inflation/ Poznan - Death Verdict Due/ Gdansk - Cancer Diamond Development/ Wroclaw - Strip Club Suspicion/International - Anti- Gay Votes, NetFlix, Stag Parties and more....**
+
+[**If you like The Digest please Support and Like us on FB, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
+
+<div class="sharethis-inline-share-buttons"></div>
+
+
 
 **Poland**
 
