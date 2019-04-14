@@ -12,7 +12,7 @@ Today the Shops are OPEN
 
 **Teachers Strike/ Warsaw - Harry Potter Games/ Krakow - Tram Inflation/ Poznan - Death Verdict Due/ Gdansk - Cancer Diamond Development/ Wroclaw - Strip Club Suspicion/International - Anti- Gay Votes, NetFlix, Stag Parties and more....**
 
-[**If you enjoy The Digest please support and Like us on FaceBook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
+[**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
 <div class="sharethis-inline-share-buttons"></div>
 
@@ -30,13 +30,13 @@ _Krakow_ - [Public Transport costs to rise](http://www.krakowpost.com/20133/2019
 
 _Poznan_ - [Verdict expected in Ewa Tylman death case](https://www.tvn24.pl/tvn24-news-in-english,157,m/on-17-april-the-court-will-pass-the-verdict-in-ewa-tylman-s-death-case,925961.html) - TVN Video
 
-_Gdansk_ - [New Diamond technique developed in Gdansk for Cancer detection](https://polandin.com/42195189/diamond-origami-to-help-detect-cancer-faster) - PolandIn Video
+_Gdansk_ - [New Diamond technique developed to improve Cancer detection](https://polandin.com/42195189/diamond-origami-to-help-detect-cancer-faster) - PolandIn Video
 
-_Wroclaw_ - [Man drowns after infamous strip club visit...was he drugged](http://wroclawuncut.com/2019/04/10/infamous-strip-club-implicated-in-tragic-death-of-dariusz-goral/) ? - WroclawUncut
+_Wroclaw_ - [Man drowns after infamous strip club visit...was he drugged](http://wroclawuncut.com/2019/04/10/infamous-strip-club-implicated-in-tragic-death-of-dariusz-goral/)? - WroclawUncut
 
 **International**
 
-[Populists target gay people in hope for electoral success](https://www.nytimes.com/2019/04/07/world/europe/poland-gay-rights.html) - New York Times
+[Polish Populists target gay people in hope for electoral success](https://www.nytimes.com/2019/04/07/world/europe/poland-gay-rights.html) - New York Times
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
