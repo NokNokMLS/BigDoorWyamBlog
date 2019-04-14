@@ -15,8 +15,8 @@
     "Weight": 12
   },
   {
-    "Tag": "Buy",
-    "Url": "/tags/Buy.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 6
   },
   {
@@ -25,13 +25,13 @@
     "Weight": 6
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
+    "Tag": "Buy",
+    "Url": "/tags/Buy.html",
     "Weight": 6
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 6
   },
   {
@@ -40,13 +40,13 @@
     "Weight": 6
   },
   {
-    "Tag": "Rent",
-    "Url": "/tags/Rent.html",
+    "Tag": "Sell",
+    "Url": "/tags/Sell.html",
     "Weight": 5
   },
   {
-    "Tag": "Sell",
-    "Url": "/tags/Sell.html",
+    "Tag": "Rent",
+    "Url": "/tags/Rent.html",
     "Weight": 5
   },
   {
@@ -65,18 +65,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
+    "Tag": "Polish Mortgage Offer",
+    "Url": "/tags/Polish-Mortgage-Offer.html",
     "Weight": 1
   },
   {
@@ -90,18 +80,23 @@
     "Weight": 1
   },
   {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Lodz",
     "Url": "/tags/Lodz.html",
     "Weight": 1
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
     "Weight": 1
   },
   {
-    "Tag": "Poland Mortgage",
-    "Url": "/tags/Poland-Mortgage.html",
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -115,16 +110,6 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Lublin",
     "Url": "/tags/Lublin.html",
     "Weight": 1
@@ -135,8 +120,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Polish Mortgage Offer",
-    "Url": "/tags/Polish-Mortgage-Offer.html",
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
     "Weight": 1
   },
   {
@@ -145,13 +130,28 @@
     "Weight": 1
   },
   {
+    "Tag": "Poland Mortgage",
+    "Url": "/tags/Poland-Mortgage.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Szczecin",
     "Url": "/tags/Szczecin.html",
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   }
 ]
