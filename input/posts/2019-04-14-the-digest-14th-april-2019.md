@@ -14,37 +14,39 @@ Today the Shops are CLOSED
 
 **Poland**
 
-[Teachers strike hits the roof](https://www.bloomberg.com/news/articles/2019-04-12/populist-economic-policy-hits-limits-in-polish-teacher-strike) - Bloomberg
+[Teachers strike hits the economic roof](https://www.bloomberg.com/news/articles/2019-04-12/populist-economic-policy-hits-limits-in-polish-teacher-strike) - Bloomberg
 
 **Local**
 
-_Warsaw_ - [EU takes legal action on Polish Courts](https://edition.cnn.com/2019/04/03/europe/eu-poland-judges-intl/index.html) - CNN
+_Warsaw_ - [ Harry Potter flies in to Warsaw](https://www.thefirstnews.com/article/harry-potter-fans-descend-on-warsaw-to-play-quidditch-in-european-quidditch-cup-5553) - TheFirstNews
 
-_Krakow_ - [Men wearing Mankinis may be arrested](https://nypost.com/2019/04/04/male-tourists-in-poland-may-face-arrest-for-wearing-mankinis/) - New York Post
+_Krakow_ - [Public Transport costs to rise](http://www.krakowpost.com/20133/2019/03/public-transport-ticket-prices-to-increase) - Krakow Post
 
-_Gdansk_ - [Small MEVO delay](https://tricitynews.pl/a-technical-break-in-mevo-service/) - TriCityNews
+Poznan - [Verdict expected in Ewa Tylman death case](https://www.tvn24.pl/tvn24-news-in-english,157,m/on-17-april-the-court-will-pass-the-verdict-in-ewa-tylman-s-death-case,925961.html) - TVN Video
 
-_Wroclaw_ - [Man drowns after infamous strip club visit...was he drugged](http://wroclawuncut.com/2019/04/03/man-faces-imprisonment-for-mugging-prospective-prostitute-clients/) ? - WroclawUncut
+_Gdansk_ - [New Diamond technique developed in Gdansk for Cancer detection](https://polandin.com/42195189/diamond-origami-to-help-detect-cancer-faster) - PolandIn Video
+
+_Wroclaw_ - [Man drowns after infamous strip club visit...was he drugged](http://wroclawuncut.com/2019/04/10/infamous-strip-club-implicated-in-tragic-death-of-dariusz-goral/) ? - WroclawUncut
 
 **International**
 
-[UK, Nigeria & Poland in tussle over young soccer playing brother & sister](https://www.thefirstnews.com/article/football-associations-involved-in-three-way-scrap-for-talented-polish-nigerian-footballing-siblings-5472) - FirstNews
+[Populists target gay people in hope for electoral success](https://www.nytimes.com/2019/04/07/world/europe/poland-gay-rights.html) - New York Times
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
-[Poland targets 15 medals in 2020 Olympics ](http://www.thenews.pl/1/5/Artykul/414222,Poland-eyeing-15-medals-at-2020-Olympics-says-official)- thenews
+[ ](http://www.thenews.pl/1/5/Artykul/414222,Poland-eyeing-15-medals-at-2020-Olympics-says-official)Tennis - [Pole advances to Qtr Final in Swiss WTA open](http://www.thenews.pl/1/5/Artykul/415623,Tennis-Poland%E2%80%99s-Swiatek-into-quarterfinal-at-Lugano) - thenews
 
 **Odds & Ends**
 
-[Polish Priest Burns Books ...BigDeal?](https://www.tvn24.pl/tvn24-news-in-english,157,m/book-burning-priest-from-gdansk-apologised-and-got-a-ticket,924614.html) - TVN Video
+[NetFlix begins filming New Show - The Witcher - in Poland](https://kafkadesk.org/2019/04/11/the-witcher-netflix-series-starts-shooting-in-poland/) - KafkaDesk
 
 **Podcast**
 
-Krakcast - [Forbes Magazine sits down with the lads](https://www.krakcast.pl/e/krakcast-interview-%E2%80%93-jo-harper/)
+Krakcast - [Stag Party Snags](https://www.krakcast.pl/e/krakcast-discussion-%E2%80%93-stag-groups/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
