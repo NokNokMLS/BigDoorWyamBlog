@@ -7,6 +7,7 @@ Image: /assets/Images/fake-news.jpg
 Tags:
   - General Information
   - Rent
+  - Polish Mortgage
 ---
 OK so the headline was fake ...ish. 
 
@@ -18,7 +19,11 @@ Additionally, you may be required to actually call to each utility office and **
 
 Before even viewing a property we would suggest you **check with the owner**/agent the expect full monthly price. The obviously cant guarantee the price of utilities but they should be able to give you a good idea. 
 
-_**Things to consider -**_  
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
+**_Things to consider -_**  
 
 **Gas is cheape**r than electric and many adverts will define this as it can be an important decision factor for locals when renting.
 
