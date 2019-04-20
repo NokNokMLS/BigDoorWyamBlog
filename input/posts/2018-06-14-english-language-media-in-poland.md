@@ -14,17 +14,37 @@ Just a few news sources we recommend for the English speakers amongst us.
 
 **National**
 
+BigDoor24.pl publishes a weekly update of Polish News as [The Digest](https://bigdoor24.pl/blog/tags/the-digest.html), available every Sunday at 10 a.m. .. follow us on Facebook to stay up to date.
+
 <http://thenews.pl>
 
 <https://www.inyourpocket.com/poland>
 
 [http://poland-today.pl](https://www.inyourpocket.com/poland)
 
+https://notesfrompoland.com/
+
+https://www.thefirstnews.com/
+
+https://poland-today.pl/
+
+_**Video**_
+
+https://www.tvn24.pl/tvn24-news-in-english,157,m
+
+https://polandin.com/
+
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
 **Warsaw**
 
 <http://www.warsawvoice.pl>
 
 <http://wbj.pl>
+
+http://www.warsawinsider.pl/
 
 **Krakow**
 
@@ -39,3 +59,7 @@ Just a few news sources we recommend for the English speakers amongst us.
 **Lodz**
 
 <http://lodzpost.com>
+
+**Gdansk**
+
+https://tricitynews.pl/
