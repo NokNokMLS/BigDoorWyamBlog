@@ -26,6 +26,10 @@ You should be aware that this will severely limit the number of properties avail
 
 It is likely that the owner may not speak your language so it would be best to bring a Polish friend or hire a translator while you are negotiating the terms. The additional costs will include electricity, water etc ( called Media ) and building management fees. 
 
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
 **Time to sign**
 
 Your agreement will probably be in Polish only and it is a legal document so again , bring a friend or hire a translator. You may also want the Landlord to accompany you to the city registration office to record that you are living there,
