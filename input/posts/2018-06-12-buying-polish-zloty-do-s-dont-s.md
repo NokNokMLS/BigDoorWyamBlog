@@ -15,7 +15,7 @@ Tags:
 ---
 If you are in Poland for the weekend it is unlikely you will spend enough to make any real difference to how you buy your Zloty but for anyone staying a little longer, it's worth figuring out the most efficient way of changing your currency.
 
-**_It's all about the spread_**
+_**It's all about the spread**_
 
 The spread is the difference between what Zloty sells and buys for. For example - EUR/ PLN 4.20 - 4.30 means that the exchange will sell you 4.20 PLN for every 1 Euro and buy your PLN for 1 euro for every PLN 4.30 exchanged.
 
@@ -25,25 +25,25 @@ _It is for this reason that it is safe to say that you should never exchange mon
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-**_Kantor_**
+_**Kantor**_
 
 Kantors are littered throughout all Polish cities and they are by far and away the best place to exchange your cash. You should expect a price of 4.25 - 4.30, again using the above example, and sometimes as good as 4.27 - 4.29.
 
 **_Online_ **
 
-When you want to transfer money from home it may be best to use one of the dedicated FX platforms like RKantor.com which tends to be quite competitive. 
+When you want to transfer money from home it may be best to use one of the dedicated FX platforms like [RKantor.com](https://www.rkantor.com/) which tends to be quite competitive. 
 
-_**Ask a local**_
+**_Ask a local_**
 
 Because many Poles have their home loans in non-Zloty currencies they are very aware of the best places to exchange their money. It may be best to ask them which particular local Kantors tend to consistently give the best rates.
 
-**_The_** _**Polish Zloty**_
+_**The**_ **_Polish Zloty_**
 
-It's a well managed and fairly stable currency so you shouldn't expect any large swings. The best advice might be to just change your money when you need to rather than waiting for a better price unless you require a substantial amount changed.
+It's a well managed and fairly stable currency so you shouldn't expect any large swings. The best advice might be to just change your money when you need to rather than waiting for a better price unless you require a substantial amount changed. If you do require a larger amount changed or you are planning a Polish Mortgage in a currency other than Zloty, speak to your bank (make sure they are giving you a good rate, not always applicable) or use an online service like [RKantor.com ](https://www.rkantor.com/)
 
-_**ATM**_
+**_ATM_**
 
 Unless you are desperate but really .. just don't. The rate of exchange , particularly at the Euro ATM's are close to criminal.
 
