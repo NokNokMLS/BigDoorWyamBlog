@@ -33,13 +33,17 @@ It is unlikely that you will get a valuation on every house you view but knowing
 
 If you are unhappy with the valuation feel free to argue. The reports are pretty detailed but there may be some overlooked aspects that you can point out.
 
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
 **Cost**
 
 Costs of valuations can vary wildly depending on the property etc so it is worth shopping around. Obviously the ones that are accepted by all banks are more expensive but at the same time, may save you money down the line.
 
 **Where to find them**
 
-The best place is through your Home Loan Advisor rather than a real estate agent. The valuation is to get a homeloan and the mortgage adviser wants you to get one so they should recommend the most suitable professional for your needs. 
+The best place is through your Home Loan Advisor rather than a real estate agent. The valuation is to get a mortgage and the mortgage adviser wants you to get one so they should recommend the most suitable professional for your needs. 
 
 Don't forget that through a BigDoor24.pl referred Home Loan Advisor you will receive cash back which could cover the costs of any valuation professional you hire.
 
