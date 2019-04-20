@@ -30,11 +30,10 @@ Do not sign anything until  all ancillary costs - management fees, electricity, 
 
 How the protocol is agreed at the end of the rental period should also be made clear in the agreement.
 
-[Did you know?
-](https://bigdoor24.pl/)
+[**Did you know?
+**](https://bigdoor24.pl/)
 
-[
-BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - in addition to the zl. 200 per zl. 100,000 borrowed we send them - simply register now for your personal referral code.](https://bigdoor24.pl/)
+[**BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - in addition to the zl. 200 per zl. 100,000 borrowed we send them - simply register now for your personal referral code.**](https://bigdoor24.pl/)
 
 **Damage, Deposit & Disputes**
 
