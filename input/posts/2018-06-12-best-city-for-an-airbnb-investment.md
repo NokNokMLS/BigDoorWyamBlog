@@ -8,6 +8,7 @@ Tags:
   - Buy
   - Investment
   - General Information
+  - Polish Mortgage
 ---
 Everyone is doing it so why can't I?
 
