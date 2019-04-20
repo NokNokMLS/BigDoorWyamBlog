@@ -12,16 +12,21 @@
   {
     "Tag": "General Information",
     "Url": "/BigDoorWyamBlog/tags/General-Information.html",
-    "Weight": 12
+    "Weight": 13
   },
   {
     "Tag": "Polish Mortgage",
     "Url": "/BigDoorWyamBlog/tags/Polish-Mortgage.html",
-    "Weight": 8
+    "Weight": 9
   },
   {
     "Tag": "Buy",
     "Url": "/BigDoorWyamBlog/tags/Buy.html",
+    "Weight": 7
+  },
+  {
+    "Tag": "Investment",
+    "Url": "/BigDoorWyamBlog/tags/Investment.html",
     "Weight": 6
   },
   {
@@ -30,23 +35,18 @@
     "Weight": 6
   },
   {
-    "Tag": "Investment",
-    "Url": "/BigDoorWyamBlog/tags/Investment.html",
-    "Weight": 6
-  },
-  {
     "Tag": "Where I Live",
     "Url": "/BigDoorWyamBlog/tags/Where-I-Live.html",
     "Weight": 6
   },
   {
-    "Tag": "Sell",
-    "Url": "/BigDoorWyamBlog/tags/Sell.html",
+    "Tag": "Rent",
+    "Url": "/BigDoorWyamBlog/tags/Rent.html",
     "Weight": 5
   },
   {
-    "Tag": "Rent",
-    "Url": "/BigDoorWyamBlog/tags/Rent.html",
+    "Tag": "Sell",
+    "Url": "/BigDoorWyamBlog/tags/Sell.html",
     "Weight": 5
   },
   {
@@ -55,28 +55,18 @@
     "Weight": 3
   },
   {
-    "Tag": "Gdansk",
-    "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Statistics",
     "Url": "/BigDoorWyamBlog/tags/Statistics.html",
     "Weight": 2
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
-    "Weight": 1
+    "Tag": "Gdansk",
+    "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
+    "Weight": 2
   },
   {
-    "Tag": "NEWS",
-    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/BigDoorWyamBlog/tags/Torun.html",
+    "Tag": "Olsztyn",
+    "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
     "Weight": 1
   },
   {
@@ -90,23 +80,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bydgoszcz",
-    "Url": "/BigDoorWyamBlog/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Polish Mortgage Offer",
-    "Url": "/BigDoorWyamBlog/tags/Polish-Mortgage-Offer.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poland Rent",
-    "Url": "/BigDoorWyamBlog/tags/Poland-Rent.html",
+    "Tag": "Lublin",
+    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -115,8 +90,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
+    "Tag": "Torun",
+    "Url": "/BigDoorWyamBlog/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Mortgage Offer",
+    "Url": "/BigDoorWyamBlog/tags/Polish-Mortgage-Offer.html",
     "Weight": 1
   },
   {
@@ -130,8 +115,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Poland Mortgage",
-    "Url": "/BigDoorWyamBlog/tags/Poland-Mortgage.html",
+    "Tag": "NEWS",
+    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -140,13 +125,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
+    "Tag": "Bydgoszcz",
+    "Url": "/BigDoorWyamBlog/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Mortgage",
+    "Url": "/BigDoorWyamBlog/tags/Poland-Mortgage.html",
     "Weight": 1
   },
   {
     "Tag": "Katowice",
     "Url": "/BigDoorWyamBlog/tags/Katowice.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Rent",
+    "Url": "/BigDoorWyamBlog/tags/Poland-Rent.html",
     "Weight": 1
   },
   {
