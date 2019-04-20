@@ -14,6 +14,8 @@ Just a few news sources we recommend for the English speakers amongst us.
 
 **National**
 
+BigDoor24.pl publishes a weekly update of Polish News as [The Digest](https://bigdoor24.pl/blog/tags/the-digest.html), available every Sunday at 10 a.m. .. follow us on Facebook to stay up to date.
+
 <http://thenews.pl>
 
 <https://www.inyourpocket.com/poland>
@@ -39,3 +41,7 @@ Just a few news sources we recommend for the English speakers amongst us.
 **Lodz**
 
 <http://lodzpost.com>
+
+**Gdansk**
+
+https://tricitynews.pl/
