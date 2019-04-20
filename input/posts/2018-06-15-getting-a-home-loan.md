@@ -28,6 +28,10 @@ It's a long time since relationships between a bank and their customer had any i
 
 At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft, I know, but there you go.
 
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
 **Tip 4 - Use a qualified professional Advisor - they're free and can only help**
 
 This makes it even more important that you employ the services of a qualified independent Credit Advisor.  They earn commission from the bank so there is no charge to you for their work. A good Advisor should be able to assess your situation quickly and give you good guidance on how much you can expect to borrow. Additionally they will also be aware of which banks would be more interested in lending to you, thus increasing your chances of success.
@@ -42,6 +46,6 @@ And don't forget, by requesting contact with an Advisor through BigDoor24.pl, yo
 
 Additionally, by simply registering with BigDoor24.pl, you will receive a personal referral code. Every time you refer us you to a successful applicant you will get a **zl. 250 Thank you voucher.**
 
-_**For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook **_[_**here**_](https://www.facebook.com/bigdoor24/)_**.**_
+**_For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook _**[**_here_**](https://www.facebook.com/bigdoor24/)**_._**
 
 Happy Hunting !
