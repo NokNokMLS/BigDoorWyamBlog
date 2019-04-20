@@ -23,6 +23,10 @@ Firstly, it is an accepted truth of the market that most buyers prefer to buy ne
 
 But there has already been a lot of development in Poland in the last twenty years and from our view, properties in the secondary market show some real value opportunities.
 
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
 Bizarrely, houses, fully furnished with a planted garden are offered for less than similar properties that require extra time and money before moving in. We believe this will change, maybe not next year, but soon, as more and more high standard secondary properties come on the market and people simply don't have the time required anymore to manage fit-outs etc.
 
 So whether investing or buying a home, keep a keen eye out for properties in the secondary market, you may not have a lot of competition right now.
