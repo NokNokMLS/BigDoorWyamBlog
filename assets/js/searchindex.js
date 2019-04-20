@@ -10,20 +10,6 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Food shop Bronowice",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
-        },
-        {
-            url:'/services/a-food-shop-in-bronowice',
-            title:"A Food shop in Bronowice",
-            description:"Polish food shop with pierogi"
-        }
-    );
-    a(
-        {
-            id:1,
             title:"John Hair Salon",
             content:"Hair Salon",
             description:"best John Hair Salon Krakow Centrum",
@@ -33,6 +19,20 @@ var searchModule = function() {
             url:'/services/johns-hair-salon',
             title:"John's Hair Salon",
             description:"The best John's Hair Salon in Krakow Centrum"
+        }
+    );
+    a(
+        {
+            id:1,
+            title:"Mark Car Rental",
+            content:"Car Rental",
+            description:"Best Mark Car Rental Krakow Kazimierz",
+            tags:'Krakow Kazimierz Car Car'
+        },
+        {
+            url:'/services/marks-car-rental',
+            title:"Mark's Car Rental",
+            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
     a(
@@ -52,15 +52,15 @@ var searchModule = function() {
     a(
         {
             id:3,
-            title:"Mark Car Rental",
-            content:"Car Rental",
-            description:"Best Mark Car Rental Krakow Kazimierz",
-            tags:'Krakow Kazimierz Car Car'
+            title:"Food shop Bronowice",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
         },
         {
-            url:'/services/marks-car-rental',
-            title:"Mark's Car Rental",
-            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+            url:'/services/a-food-shop-in-bronowice',
+            title:"A Food shop in Bronowice",
+            description:"Polish food shop with pierogi"
         }
     );
     var idx = lunr(function() {
