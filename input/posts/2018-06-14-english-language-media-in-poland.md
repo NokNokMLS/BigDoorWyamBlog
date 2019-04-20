@@ -28,7 +28,7 @@ https://www.thefirstnews.com/
 
 https://poland-today.pl/
 
-_**Video**_
+**_Video_**
 
 https://www.tvn24.pl/tvn24-news-in-english,157,m
 
@@ -36,7 +36,7 @@ https://polandin.com/
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Warsaw**
 
@@ -63,3 +63,7 @@ http://www.warsawinsider.pl/
 **Gdansk**
 
 https://tricitynews.pl/
+
+**Culture**
+
+Culture.pl
