@@ -22,11 +22,25 @@ BigDoor24.pl publishes a weekly update of Polish News as [The Digest](https://bi
 
 [http://poland-today.pl](https://www.inyourpocket.com/poland)
 
+https://notesfrompoland.com/
+
+https://www.thefirstnews.com/
+
+https://poland-today.pl/
+
+**_Video_**
+
+https://www.tvn24.pl/tvn24-news-in-english,157,m
+
+https://polandin.com/
+
 **Warsaw**
 
 <http://www.warsawvoice.pl>
 
 <http://wbj.pl>
+
+http://www.warsawinsider.pl/
 
 **Krakow**
 
