@@ -3,14 +3,14 @@ Title: The Digest  - 28th April
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: '2019-04-28T07:45:04+02:00'
-Image: /assets/Images/digest28th.jpg
+Image: /assets/Images/digest28.jpg
 Tags:
   - News
   - The Digest
 ---
-Today the Shops are CLOSED
+Today the Shops are OPEN
 
-**F£$k you, Pay Me! / Warsaw - Projecting the Past/ Krakow - Wisla Krakow in the Box/ Poznan - Murder Acquittal/ Gdansk - NATO Docks/ Wroclaw - What's Happinin'/ International - Tesla in Poland?/ Wrestling Medals, The Mathematics of Easter & Passover, Easter Special and more....**
+**Strike Suspended/ Warsaw - Future Film/ Krakow - Pesky Pigeons/ Poznan - Pyrkon Festival/ Gdansk - Cruise Season/ Wroclaw - Sport of Kings/ International - Beating Bigotry/ Polish Yankees, Wet Weekend, Blok Party and more....**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -34,7 +34,7 @@ _Wroclaw_ - [Horse Racing returns in May](http://wroclawuncut.com/2019/04/23/hor
 
 **International**
 
-[Easter Effigy Beating condemned by Polish Church](https://www.apnews.com/2499a84a203e4960b9a64cc049cf5b26)**\- **AP News
+[Easter Effigy Beating condemned by Polish Church](https://www.apnews.com/2499a84a203e4960b9a64cc049cf5b26) **\- **AP News
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
@@ -58,6 +58,6 @@ _Krakcast_ - [Bloks & More](https://www.krakcast.pl/e/krakcast-%E2%80%93-news-15
 
 \-
 
-Have a great Sunday/ Easter / Passover!
+Have a great Sunday
 
 Team BigDoor24
