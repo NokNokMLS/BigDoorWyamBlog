@@ -38,11 +38,11 @@ _Wroclaw_ - [Horse Racing returns in May](http://wroclawuncut.com/2019/04/23/hor
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
-[Wrestling Medals](http://www.thenews.pl/1/5/Artykul/415863,Three-medals-for-Polish-wrestlers-in-Bucharest) - thenews
+[Yankee Stadium Polish Night](http://thenews.pl/1/5/Artykul/417285,Polish-Night-at-Yankee-Stadium-in-New-York) - thenews
 
 **Odds & Ends**
 
@@ -50,7 +50,7 @@ _Wroclaw_ - [Horse Racing returns in May](http://wroclawuncut.com/2019/04/23/hor
 
 **Podcast**
 
-_Krakcast_ - [The Easter Special](https://www.krakcast.pl/e/krakcast-%E2%80%93-easter-special/)
+_Krakcast_ - [Bloks & More](https://www.krakcast.pl/e/krakcast-%E2%80%93-news-1555931757/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
