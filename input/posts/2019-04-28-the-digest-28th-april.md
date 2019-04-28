@@ -34,7 +34,7 @@ _Wroclaw_ - [Horse Racing returns in May](http://wroclawuncut.com/2019/04/23/hor
 
 **International**
 
-[Easter Effigy Beating condemned by Polish Church](https://www.apnews.com/2499a84a203e4960b9a64cc049cf5b26) **\- **AP News
+[Easter Effigy Beating condemned by Polish Church](https://www.apnews.com/2499a84a203e4960b9a64cc049cf5b26) - AP News
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
