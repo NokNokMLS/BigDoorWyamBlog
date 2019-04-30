@@ -20,6 +20,8 @@ Tags:
   - Rzeszow
   - Szczecin
   - Torun
+  - Wroclaw
+  - Warsaw
 ---
 Can you help your fellow expats (and promote your business/interests for free) ?
 
