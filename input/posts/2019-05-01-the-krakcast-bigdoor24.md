@@ -9,7 +9,7 @@ Tags:
   - Rent
   - Buy
   - Sell
-  - Polish Mortgages
+  - Polish Mortgage
   - Podcast
   - Let
 ---
