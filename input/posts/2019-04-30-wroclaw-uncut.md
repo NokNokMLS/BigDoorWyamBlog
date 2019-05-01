@@ -13,9 +13,9 @@ Tags:
   - Let
   - Wroclaw Uncut
 ---
-In partnership with Wroclaw Uncut, The premier English language Wroclaw magazine, BigDoor will be publishing exclusive Wroclaw centered articles on property and life and living in Wroclaw.
+In partnership with Wroclaw Uncut, The premier English language Wroclaw magazine, BigDoor24 will be publishing exclusive Wroclaw centered articles on property, life and living in Wroclaw.
 
-We will add to the series here every time we publish on a new topic.
+We will add to this series here every time we publish on a new topic.
 
 [5 Things to know about the wroclaw property scene. - 25th April](http://wroclawuncut.com/2019/03/25/5-useful-things-to-know-about-property-in-wroclaw-poland/)
 
