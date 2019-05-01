@@ -25,11 +25,6 @@
     "Weight": 8
   },
   {
-    "Tag": "Sell",
-    "Url": "/BigDoorWyamBlog/tags/Sell.html",
-    "Weight": 6
-  },
-  {
     "Tag": "Rent",
     "Url": "/BigDoorWyamBlog/tags/Rent.html",
     "Weight": 6
@@ -50,13 +45,18 @@
     "Weight": 6
   },
   {
+    "Tag": "Sell",
+    "Url": "/BigDoorWyamBlog/tags/Sell.html",
+    "Weight": 6
+  },
+  {
     "Tag": "Let",
     "Url": "/BigDoorWyamBlog/tags/Let.html",
     "Weight": 4
   },
   {
-    "Tag": "Statistics",
-    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
+    "Tag": "Wroclaw",
+    "Url": "/BigDoorWyamBlog/tags/Wroclaw.html",
     "Weight": 2
   },
   {
@@ -65,18 +65,18 @@
     "Weight": 2
   },
   {
-    "Tag": "Wroclaw",
-    "Url": "/BigDoorWyamBlog/tags/Wroclaw.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Gdansk",
     "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
     "Weight": 2
   },
   {
-    "Tag": "Katowice",
-    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
+    "Tag": "Statistics",
+    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -90,13 +90,23 @@
     "Weight": 1
   },
   {
-    "Tag": "Poland Rent",
-    "Url": "/BigDoorWyamBlog/tags/Poland-Rent.html",
+    "Tag": "Lublin",
+    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Tag": "Lodz",
+    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/BigDoorWyamBlog/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poznan",
+    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
     "Weight": 1
   },
   {
@@ -105,8 +115,23 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
+    "Tag": "Polish Mortgage Offer",
+    "Url": "/BigDoorWyamBlog/tags/Polish-Mortgage-Offer.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Mortgage",
+    "Url": "/BigDoorWyamBlog/tags/Poland-Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Rent",
+    "Url": "/BigDoorWyamBlog/tags/Poland-Rent.html",
     "Weight": 1
   },
   {
@@ -115,8 +140,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
+    "Tag": "Katowice",
+    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
     "Weight": 1
   },
   {
@@ -137,31 +162,6 @@
   {
     "Tag": "Olsztyn",
     "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poland Mortgage",
-    "Url": "/BigDoorWyamBlog/tags/Poland-Mortgage.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Polish Mortgage Offer",
-    "Url": "/BigDoorWyamBlog/tags/Polish-Mortgage-Offer.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/BigDoorWyamBlog/tags/Opole.html",
     "Weight": 1
   }
 ]
