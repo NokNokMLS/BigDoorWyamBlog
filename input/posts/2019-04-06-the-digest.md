@@ -7,7 +7,7 @@ Image: /assets/Images/pulaski-digest.png
 Tags:
   - News
   - The Digest
-  - Polish Mortgage Offer
+  - Polish Mortgage
 ---
 Today the Shops are CLOSED
 
