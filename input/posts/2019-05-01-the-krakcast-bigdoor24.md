@@ -18,3 +18,11 @@ In partnership with The Krakcast podcast, a popular and growing Krakow based pod
 [The Krakow Property Market. ](https://www.krakcast.pl/e/krakcast-interview-john-naughton/) - Jan 25th 2019
 
 [Renting an Apartment in Krakow, What you need to know](https://www.krakcast.pl/e/krakcast-interview-john-naughton-2/)  - Feb 28th 2019
+
+[**If you enjoy our Blog articles please support and Like us on Facebook and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
+
+<div class="sharethis-inline-share-buttons"></div>
+
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
