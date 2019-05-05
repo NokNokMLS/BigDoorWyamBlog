@@ -10,7 +10,7 @@ Tags:
 ---
 Today the Shops are CLOSED
 
-**Strike Suspended/ Warsaw - Future Film/ Krakow - Pesky Pigeons/ Poznan - Pyrkon Festival/ Gdansk - Cruise Season/ Wroclaw - Sport of Kings/ International - Beating Bigotry/ Polish Yankees, Wet Weekend, Blok Party and more....**
+**Communion Porn/ Warsaw - Oil Reserves/ Krakow - Cinema Fest/ Katowice - Nazi Law Clerk/ Gdansk - Cup Thriller/ Wroclaw - Growing a World Record/ International - Dep. PM & Berxit/ Running _for_ the Law, Banana Drama, May Weekend and more....**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -26,9 +26,9 @@ _Warsaw_ -  [Tapping the Oil Reserve](https://www.reuters.com/article/us-russia-
 
 _Krakow_ -   [Cinema Festival](https://www.tvn24.pl/tvn24-news-in-english,157,m/12th-international-festival-of-independent-cinema-in-cracow,932541.html) - TVN (Video)
 
-_Poznan_ - - PolandIn (Video)
+_Katowice_ -[ Law Clerk Nazi](https://www.tvn24.pl/wideo/z-anteny/lawyer-who-hanged-pictures-of-politicians-on-gallows-was-advising-hitler-s-birthday-organizers,1840842.html?playlist_id=29505) - TVN (Video)
 
-_Gdansk_ -   - TriCityNews
+_Gdansk_ -   [Late goal secures Cup](https://tricitynews.pl/a-late-goal-gives-lechia-gdansk-the-polish-cup/) - TriCityNews
 
 _Wroclaw_ -  [Growing a World Record](http://wroclawuncut.com/2019/04/23/wroclaw-to-help-break-polands-mass-tree-planting-record/) - WroclawUncut
 
@@ -38,7 +38,7 @@ _Wroclaw_ -  [Growing a World Record](http://wroclawuncut.com/2019/04/23/wroclaw
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport**
 
@@ -50,7 +50,7 @@ _Wroclaw_ -  [Growing a World Record](http://wroclawuncut.com/2019/04/23/wroclaw
 
 **Podcast**
 
-_Krakcast_ - [Bloks & More](https://www.krakcast.pl/e/krakcast-%E2%80%93-news-1555931757/)
+_Krakcast_ - [May Holidays](https://www.krakcast.pl/e/kakcast-discussion-%E2%80%93-may-holidays/) 
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
