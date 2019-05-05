@@ -10,7 +10,7 @@ Tags:
 ---
 Today the Shops are CLOSED
 
-**Communion Porn/ Warsaw - Oil Reserves/ Krakow - Cinema Fest/ Katowice - Nazi Law Clerk/ Gdansk - Cup Thriller/ Wroclaw - Growing a World Record/ International - Dep. PM & Berxit/ Running _for_ the Law, Banana Drama, May Weekend and more....**
+**Communion Porn/ Warsaw - Oil Reserves/ Krakow - Cinema Fest/ Katowice - Nazi Law Clerk/ Gdansk - Cup Thriller/ Wroclaw - Growing a World Record/ International - Dep. PM & Brexit/ Running _for_ the Law, Banana Drama, May Weekend and more....**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -18,7 +18,7 @@ Today the Shops are CLOSED
 
 **Poland**
 
-[Holy Cow! this is what they are asking 9 year old's about for Communion](http://streetwise.pl/2019/05/02/here-is-a-list-of-sins-prepared-for-9-year-olds-before-communion-you-will-be-amazed/) - StreetWise
+[Holy Cow! This is what they are asking 9 year old's about for Communion](http://streetwise.pl/2019/05/02/here-is-a-list-of-sins-prepared-for-9-year-olds-before-communion-you-will-be-amazed/) - StreetWise
 
 **Local**
 
