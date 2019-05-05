@@ -30,23 +30,23 @@
     "Weight": 7
   },
   {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
-    "Weight": 7
-  },
-  {
     "Tag": "Rent",
     "Url": "/tags/Rent.html",
     "Weight": 7
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
-    "Weight": 6
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
+    "Weight": 7
   },
   {
     "Tag": "Where I Live",
     "Url": "/tags/Where-I-Live.html",
+    "Weight": 6
+  },
+  {
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 6
   },
   {
@@ -60,8 +60,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Warsaw",
-    "Url": "/tags/Warsaw.html",
+    "Tag": "Wroclaw",
+    "Url": "/tags/Wroclaw.html",
     "Weight": 2
   },
   {
@@ -70,24 +70,9 @@
     "Weight": 2
   },
   {
-    "Tag": "Wroclaw",
-    "Url": "/tags/Wroclaw.html",
+    "Tag": "Warsaw",
+    "Url": "/tags/Warsaw.html",
     "Weight": 2
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poland Mortgage",
-    "Url": "/tags/Poland-Mortgage.html",
-    "Weight": 1
   },
   {
     "Tag": "Rzeszow",
@@ -95,33 +80,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Wroclaw Uncut",
     "Url": "/tags/Wroclaw-Uncut.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -135,8 +95,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Poland Rent",
-    "Url": "/tags/Poland-Rent.html",
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -150,18 +120,48 @@
     "Weight": 1
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Bialystok",
     "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Mortgage",
+    "Url": "/tags/Poland-Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Poland Rent",
+    "Url": "/tags/Poland-Rent.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
     "Weight": 1
   }
 ]
