@@ -1,5 +1,5 @@
 ---
-Title: The Digest - May 5th
+Title: The Digest - May 5th 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: '2019-05-05T07:12:40+02:00'
@@ -38,7 +38,7 @@ _Wroclaw_ -  [Growing a World Record](http://wroclawuncut.com/2019/04/23/wroclaw
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport**
 
