@@ -42,7 +42,7 @@ _Wroclaw_ -  [Growing a World Record](http://wroclawuncut.com/2019/04/23/wroclaw
 
 **Sport**
 
-[Running_ for_ the law](http://www.thenews.pl/1/5/Artykul/418574,Thousands-of-runners-honour-historic-Polish-constitution) - thenews
+[Running for the law](http://www.thenews.pl/1/5/Artykul/418574,Thousands-of-runners-honour-historic-Polish-constitution) - thenews
 
 **Odds & Ends**
 
