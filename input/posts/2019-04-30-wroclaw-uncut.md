@@ -14,6 +14,7 @@ Tags:
   - Wroclaw Uncut
   - Warsaw
   - Krakow
+  - Airbnb
 ---
 In partnership with Wroclaw Uncut, The premier English language Wroclaw magazine, BigDoor24 will be publishing exclusive Wroclaw centered articles on renting, buying , letting or selling property in Wroclaw.
 
