@@ -27,7 +27,7 @@ Tags:
 
 Everything you need in one place. From restaurants, through shops to public transportation which allows to travel smoothly around Tricity.
 
-5 minutes from the beach works perfect as well ;)
+5 minutes from the beach works perfect as well ;)
 
 **Any negatives?**
 
@@ -39,10 +39,10 @@ Living, working, relaxing, love the area in every aspect of life. I'm close to w
 
 **What's your best tip for people looking to buy/rent/get a mortgage?**
 
-Lots of research and go to a Credit Advisor early in the process
+Lots of research and go to a Credit Advisor early in the process.
 
-**_Other useful links_**
+[Follow Jakub and TriCity News on Facebook here.](https://www.facebook.com/tricitynewspl/)
 
-[**_Read more about Gdynia_**](https://en.wikipedia.org/wiki/Gdynia)
+_**Other useful links**_
 
-[Follow Jakub and TriCity News on Facebook](https://www.facebook.com/tricitynewspl/)
+[_**Read more about Gdynia**_](https://en.wikipedia.org/wiki/Gdynia)
