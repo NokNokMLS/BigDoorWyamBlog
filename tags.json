@@ -30,8 +30,8 @@
     "Weight": 8
   },
   {
-    "Tag": "Rent",
-    "Url": "/tags/Rent.html",
+    "Tag": "Where I Live",
+    "Url": "/tags/Where-I-Live.html",
     "Weight": 7
   },
   {
@@ -40,8 +40,8 @@
     "Weight": 7
   },
   {
-    "Tag": "Where I Live",
-    "Url": "/tags/Where-I-Live.html",
+    "Tag": "Rent",
+    "Url": "/tags/Rent.html",
     "Weight": 7
   },
   {
@@ -75,38 +75,13 @@
     "Weight": 2
   },
   {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
+    "Tag": "Poland Mortgage",
+    "Url": "/tags/Poland-Mortgage.html",
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -120,18 +95,23 @@
     "Weight": 1
   },
   {
-    "Tag": "Gdynia",
-    "Url": "/tags/Gdynia.html",
+    "Tag": "Poland Rent",
+    "Url": "/tags/Poland-Rent.html",
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -140,18 +120,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Poland Mortgage",
-    "Url": "/tags/Poland-Mortgage.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poland Rent",
-    "Url": "/tags/Poland-Rent.html",
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -160,8 +135,33 @@
     "Weight": 1
   },
   {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Gdynia",
+    "Url": "/tags/Gdynia.html",
     "Weight": 1
   },
   {
@@ -170,8 +170,8 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
     "Weight": 1
   }
 ]
