@@ -9,6 +9,8 @@ Tags:
   - Gdansk
   - Gdynia
 ---
+https://unsplash.com/@czarotg?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge
+
 **Name** Jakub W.
 
 **Nationality** Polish
@@ -39,10 +41,10 @@ Living, working, relaxing, love the area in every aspect of life. I'm close to w
 
 **What's your best tip for people looking to buy/rent/get a mortgage?**
 
-Lots of research and go to a Credit Advisor early in the process.
-
-[Follow Jakub and TriCity News on Facebook here.](https://www.facebook.com/tricitynewspl/)
+Lots of research and go to a Credit Advisor early in the process
 
 _**Other useful links**_
 
 [_**Read more about Gdynia**_](https://en.wikipedia.org/wiki/Gdynia)
+
+[Follow Jakub and TriCity News on Facebook](https://www.facebook.com/tricitynewspl/)
