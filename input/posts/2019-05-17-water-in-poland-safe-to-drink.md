@@ -8,7 +8,7 @@ Tags:
   - News
   - General Information
 ---
-With the onset of summer,(whenever it arrives!) and the recent publication of the [UN Global assessment report](https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report), we at BigDoor24 thought a lot about what we could do, in our own little way, to stop or slow down the findings of this report.
+With the onset of summer, (whenever it arrives!) and the recent publication of the [UN Global assessment report](https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report), we at BigDoor24 thought a lot about what we could do, in our own little way, to stop or slow down the findings of this report.
 
 Running around a city Rynek screaming "We are all f$*ked!" seemed unlikely to change minds and anyway, it's been too cold recently to do this effectively ( i.e. naked). So we settled on Water, or more particularly, plastic water bottles and the myth that Polish Tap water was in some way not safe to drink.
 
@@ -18,10 +18,18 @@ These varying opinions can lead to nervousness and confusion leading people to j
 
 So we checked with the experts.
 
-Polish Water regularly and continuously meets and exceeds EU regulated  water safety tests.  Different authorities run the drinking water system in different cities and in some cases, the water can taste differently from city to city and indeed from district to district but nearly all ( 90%) satisfies all EU health requirements.The other 10% is very very close to requirements. Source [The Borgen Project](https://borgenproject.org/reports-water-quality-in-poland/) (2017)
+According to EU reports, Polish Water regularly and continuously meets and exceeds EU regulated water safety tests.  Different authorities run the drinking water system in different cities and in some cases, the water can taste differently from city to city and indeed from district to district but nearly all ( 90%) satisfies all EU health requirements.The other 10% is very very close to requirements. 
 
 "There is a lot of concern about drinking tap water among Poles. However, as research shows, these concerns are unjustified."
 
 [Lidia Kloss - Institute of Econimics, Szczecin](file:///C:/Users/johng/Downloads/UFJ_2014_3_3_4%20(1).pdf) (2014)
 
-"Most travelers do not need to take special food or water precautions beyond what they normally do.... " Centre for Disease Control ( U.S. Government
+"Most travellers do not need to take special food or water precautions beyond what they normally do.... " [Centre for Disease Control (U.S. Government)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland?s_cid=ncezid-dgmq-travel-single-001)
+
+However, in Poland and many other countries, more than 25 percent of bottled water is just treated tap water. Bottled water is often nothing more than expensive tap water run through a filter, something that can be done in any home for a much smaller cost than buying bottled water - [The Borgen Project](https://borgenproject.org/reports-water-quality-in-poland/) - (2017)
+
+That last post from the NGO The Borgen Project is especially pertinent and for those with niggling worries, using a water filter should assuage any fears.
+
+So how does this help with the whole " end of the world " thing? 
+
+Simple really, stop buying expensive bottled water, whose marketing have reinforced the myth of dangerous tap water and reduce the all of those plastic bottles that pile up all over Polish rubbish dumps. When in a large city restaurant, order tap water with confidence and smugly and disdainfully smile at those around you with bottled water as you make a small but important step to save the world.
