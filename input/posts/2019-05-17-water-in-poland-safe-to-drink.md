@@ -28,7 +28,7 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 "However, in Poland and many other countries, more than 25 percent of bottled water is just treated tap water. Bottled water is often nothing more than expensive tap water run through a filter, something that can be done in any home for a much smaller cost than buying bottled water" - [The Borgen Project](https://borgenproject.org/reports-water-quality-in-poland/) - (2017)
 
-That last post from the NGO, The Borgen Project, is especially pertinent and for those with niggling worries, using a water filter should assuage any fears.
+That last extract from the Borgen Project, is especially pertinent and for those with niggling worries, using a water filter should assuage any fears.
 
 **So how does this help with the whole "End of the world" thing? **
 
