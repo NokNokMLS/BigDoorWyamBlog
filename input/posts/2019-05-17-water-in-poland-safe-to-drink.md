@@ -1,7 +1,7 @@
 ---
 Title: Water in Poland - Safe to drink?
 Author: Team BigDoor24
-Lead: Get the (f)low down on Polish Tap Water
+Lead: Get the (f)Low Down on Polish Tap Water
 Published: '2019-05-17T11:22:50+02:00'
 Image: /assets/Images/polishwater.jpg
 Tags:
