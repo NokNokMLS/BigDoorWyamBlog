@@ -40,4 +40,6 @@ Happy Sipping!
 
 The BigDoor24 Team
 
-**About BigDoor24.pl - A free online service that matches Expats with Property experts who speak their language, locking in discounts and providing users with  Polish Mortgage cash-backs  - For more information and details on our referral payment programme go to our **[**homepage**](https://bigdoor24.pl/)** and like us on **[**Facebook**](https://www.facebook.com/bigdoor24/)
+**About BigDoor24.pl** - A free service that matches Expats with Property experts who speak your language, with Polish Mortgage cash-backs, commission discounts and more  - see our [HOMEPAGE](https://bigdoor24.pl/) for further info and like us now on [Facebook](https://www.facebook.com/bigdoor24/)
+
+Register [here](https://bigdoor24.pl/) for your personal referral code - **receive zl. 250** for referring a successful mortgage applicant
