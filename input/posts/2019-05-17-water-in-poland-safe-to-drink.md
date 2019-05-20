@@ -8,7 +8,7 @@ Tags:
   - News
   - General Information
 ---
-With the onset of summer, (whenever it arrives!) and the recent publication of the [UN Global assessment report](https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report), we at BigDoor24 thought a lot about what we could do, in our own little way, to stop or slow down the findings of this report.
+With the onset of summer, (whenever it arrives!) and the recent publication of the [UN Global assessment report](https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report), we at [BigDoor24.pl](https://bigdoor24.pl/) thought a lot about what we could do, in our own little way, to stop or slow down the findings of this report.
 
 Running around a city Rynek screaming "We are all f$*ked!" seemed unlikely to change minds and anyway, it's been too cold recently to do this effectively (i.e. naked). So we settled on Water, or more particularly, plastic water bottles and the myth that Polish Tap water was in some way not safe to drink.
 
@@ -18,11 +18,11 @@ These varying opinions can engender nervousness and confusion leading people to 
 
 **So we checked with the experts.**
 
-According to EU reports, Polish Water regularly and continuously meets and exceeds EU regulated water safety tests.  Different authorities run the drinking water system in different cities and in some cases, the water can taste differently from city to city and indeed from district to district but nearly all ( 90%) satisfies all EU health requirements.The other 10% is very very close to requirements. 
+According to EU reports, Polish Water regularly and continuously meets and exceeds EU regulated water safety tests.  Different authorities run the drinking water system in different cities and in some cases, the water can taste differently from city to city and indeed from district to district but nearly all ( 90%) satisfies all EU health requirements.The other 10% is very very close to requirements. (Full reports are in the links).
 
 "There is a lot of concern about drinking tap water among Poles. However, as research shows, these concerns are unjustified."
 
-[Lidia Kloss - Institute of Econimics, Szczecin](file:///C:/Users/johng/Downloads/UFJ_2014_3_3_4%20(1).pdf) (2014)
+[Lidia Kloss - Institute of Economics, Szczecin](file:///C:/Users/johng/Downloads/UFJ_2014_3_3_4%20(1).pdf) (2014)
 
 "Most travellers do not need to take special food or water precautions beyond what they normally do.... " [Centre for Disease Control (U.S. Government)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland?s_cid=ncezid-dgmq-travel-single-001)
 
@@ -40,6 +40,6 @@ Happy Sipping!
 
 The BigDoor24 Team
 
-**About BigDoor24.pl** - A free service that matches Expats with Property experts who speak your language, with Polish Mortgage cash-backs, commission discounts and more  - see our [HOMEPAGE](https://bigdoor24.pl/) for further info and like us now on [Facebook](https://www.facebook.com/bigdoor24/)
+**About BigDoor24.pl - Just Easier **- A free service that matches Expats with Property experts who speak your language, with Polish Mortgage cash-backs, commission discounts and more  - see our [HOMEPAGE](https://bigdoor24.pl/) for further info and like us now on [Facebook](https://www.facebook.com/bigdoor24/)
 
 Register [here](https://bigdoor24.pl/) for your personal referral code and **receive zl. 250** for every successful mortgage applicant referred. ( t&c apply)
