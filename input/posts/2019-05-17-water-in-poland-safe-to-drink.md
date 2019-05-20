@@ -28,10 +28,18 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 "However, in Poland and many other countries, more than 25 percent of bottled water is just treated tap water. Bottled water is often nothing more than expensive tap water run through a filter, something that can be done in any home for a much smaller cost than buying bottled water" - [The Borgen Project](https://borgenproject.org/reports-water-quality-in-poland/) - (2017)
 
-That last extract from the Borgen Project, is especially pertinent and for those with niggling worries, using a water filter should assuage any fears.
+That last extract, from the Borgen Project, is especially pertinent and for those with niggling worries, using a water filter should assuage any fears.
 
 **So how does this help with the whole "End of the world" thing? **
 
 Simple really, stop buying expensive bottled water, whose marketing have reinforced the myth of dangerous tap water and reduce the all of those plastic bottles that pile up all over Polish rubbish dumps. When in a large city restaurant, order tap water with confidence and smugly and disdainfully smile at those around you with bottled water as you make a small but important step to save the world.
 
 Additionally, so you don't feel lonely in your smugness, share this post to all of your friends and Polish Facebook groups, at the very least it may move the conversation on.
+
+Happy Sipping,
+
+The BigDoor24 Team
+
+
+
+**About BigDoor24.pl - A free online service that matches Expats with Property experts who speak their language, locking in discounts and providing users with  Polish Mortgage cashbacks  - For more information and details on our referral payment programme go to our homepage **[**BigDoor24.pl**](https://bigdoor24.pl/)** and like us on **[**Facebook**](https://www.facebook.com/bigdoor24/)
