@@ -14,11 +14,11 @@ Running around a city Rynek screaming "We are all f$*ked!" seemed unlikely to ch
 
 Simple google searches threw up lots of conflicting opinions from both tourists and local Poles. There is an understandable history in Poland of not trusting the drinking water system and in fact, up to now, restaurant staff would look at you askance if you happened to ask for a glass of tap water, some expecting you not to be alive to pay your bill once imbibed.
 
-These varying opinions can engender nervousness and confusion leading people to just avoid drinking tap water altogether. At BigDoor24 however, certainly not a happy clappy hippy bunch, we don't believe opinions are facts, which is why our kids don't have measles (or autism) and we know right or left wing populism and truth-telling don't even live in the same city.  
+These varying opinions can engender nervousness and confusion leading people to just avoid drinking tap water altogether. At BigDoor24 however, certainly not a happy clappy hippy bunch, we don't believe opinions are facts, which is why our kids don't have measles and we know homeopathy is the new snake oil.  
 
 **So we checked with the experts.**
 
-According to EU reports, Polish Water regularly and continuously meets and exceeds EU regulated water safety tests.  Different authorities run the drinking water system in different cities and in some cases, the water can taste differently from city to city and indeed from district to district but nearly all ( 90%) satisfies all EU health requirements. The other 10% is very very close to requirements. 
+According to EU reports, Polish Water regularly and continuously meets and exceeds EU regulated water safety tests.  Different authorities run the drinking water system in different cities and in some cases, the water can taste differently from city to city and indeed from district to district but nearly all ( 90%) satisfies all EU health requirements.The other 10% is very very close to requirements. 
 
 "There is a lot of concern about drinking tap water among Poles. However, as research shows, these concerns are unjustified."
 
@@ -32,7 +32,7 @@ That last extract, from the Borgen Project, is especially pertinent and for thos
 
 **So how does this help with the whole "End of the World" thing? **
 
-Simple really, stop buying expensive bottled water, whose marketing has reinforced the myth of dangerous tap water and reduce all of those plastic bottles that pile up all over Polish rubbish dumps. When in a large city restaurant, order tap water with confidence and smugly and disdainfully smile at those around you with bottled water as you make a small but important step to save the world.
+Simple really, stop buying expensive bottled water, whose marketing have reinforced the myth of dangerous tap water and reduce the all of those plastic bottles that pile up all over Polish rubbish dumps. When in a large city restaurant, order tap water with confidence and smugly and disdainfully smile at those around you with bottled water as you make a small but important step to save the world.
 
 Additionally, so you don't feel lonely in your smugness, share this post to all of your friends and Polish Facebook groups, at the very least it may move the conversation on.
 
@@ -40,4 +40,4 @@ Happy Sipping,
 
 The BigDoor24 Team
 
-**About BigDoor24.pl - A free online service that matches Expats with Property experts who speak their language, locking in discounts and providing users with  Polish Mortgage cash-backs  - For more information and details on our referral payment programme go to our homepage **[**BigDoor24.pl**](https://bigdoor24.pl/)** and like us on **[**Facebook**](https://www.facebook.com/bigdoor24/)
+**About BigDoor24.pl - A free online service that matches Expats with Property experts who speak their language, locking in discounts and providing users with  Polish Mortgage cashbacks  - For more information and details on our referral payment programme go to our homepage **[**BigDoor24.pl**](https://bigdoor24.pl/)** and like us on **[**Facebook**](https://www.facebook.com/bigdoor24/)
