@@ -30,14 +30,14 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 That last extract, from the Borgen Project, is especially pertinent and for those with niggling worries, using a water filter should assuage any fears.
 
-**So how does this help with the whole "End of the World" thing? **
+**So how does this help with the whole "End of the World" thing?**
 
-Simple really, stop buying expensive bottled water, whose marketing have reinforced the myth of dangerous tap water and reduce the all of those plastic bottles that pile up all over Polish rubbish dumps. When in a large city restaurant, order tap water with confidence and smugly and disdainfully smile at those around you with bottled water as you make a small but important step to save the world.
+Simple really - stop buying expensive bottled water, whose marketing of has reinforced the myth of dangerous tap water. By doing so you will reduce the number of the many plastic bottles that pile up in Polish rubbish dumps every day. Additionally, when in a large city restaurant, order tap water with smug confidence and disdainfully smile at those around you as you make a small but important step to save the world.
 
-Additionally, so you don't feel lonely in your smugness, share this post to all of your friends and Polish Facebook groups, at the very least it may move the conversation on.
+If you would prefer not to feel lonely in your smugness, share this post to all of your friends and Polish Facebook groups, moving the conversation on one bottle at a time.
 
-Happy Sipping,
+Happy Sipping!
 
 The BigDoor24 Team
 
-**About BigDoor24.pl - A free online service that matches Expats with Property experts who speak their language, locking in discounts and providing users with  Polish Mortgage cashbacks  - For more information and details on our referral payment programme go to our homepage **[**BigDoor24.pl**](https://bigdoor24.pl/)** and like us on **[**Facebook**](https://www.facebook.com/bigdoor24/)
+**About BigDoor24.pl - A free online service that matches Expats with Property experts who speak their language, locking in discounts and providing users with  Polish Mortgage cash-backs  - For more information and details on our referral payment programme go to our **[**homepage**](https://bigdoor24.pl/)** and like us on **[**Facebook**](https://www.facebook.com/bigdoor24/)
