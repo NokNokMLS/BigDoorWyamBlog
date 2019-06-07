@@ -1,11 +1,13 @@
 ---
 title: Top Property Search sites in Poland - Ranked
 Author: Team BigDoor24
-Lead: The best site for Renting
+Lead: Renting & Letting - Who Does What Best
 Published: '2019-06-06T13:52:38+02:00'
 Image: /assets/Images/proper-portal.jpg
 Tags:
   - Rent
+  - General Information
+  - Let
 ---
 Top Polish Property search sites
 
@@ -83,13 +85,15 @@ There are plenty of groups on Facebook where you can find agency and private off
 
 The following charts are a breakdown f each portals offers and how many of these offers are private (non-agency).
 
+[**Did you know ?**](https://bigdoor24.pl/)
 
+[**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**](https://bigdoor24.pl/)
 
+![](/assets/Images/portal-charts.png)
 
+**So which to choose?**
 
-So which to choose?
-
-Each has different strengths and weaknesses and it really depends on what you are looking for. There is no indication of the language skills of the advertisers so be prepared to be disappointed if you don't receive any response to your queries.
+Each has different strengths and weaknesses and it really depends on what you are looking for. A private apartment offer? OLX looks best, A house? Morizon has more offers. Probably best to mix and match and take advantage of the different tools they offer. There is no indication of the language skills of the advertisers so be prepared to be disappointed if you don't receive any response to your queries, ( or just use us, [BigDoor24.pl- Just Easier](https://bigdoor24.pl/))
 
 Next in the series – Best portals for Buying / Selling
 
