@@ -9,11 +9,11 @@ Tags:
   - General Information
   - Let
 ---
-**Top Polish Property Search sites**
+**They are not all the same...**
 
 In a country as large as Poland there are obviously a number of different property portals . Understanding how they operate and indeed, who advertises on them will help you find the very best property to buy or rent. 
 
-We begin this series with Renting, apartments & houses on a national basis. In later articles we will cover buying and also look at the best in terms of your city
+We begin this series with Renting, apartments & houses on a national basis. In later articles we will cover buying/selling and also look at the best in terms of your city
 
 Let's start with the numbers. The charts below detail the number of offers on one day, with the portion of offers provided by Private owners (non-agency) for apartments and houses.
 
