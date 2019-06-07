@@ -17,9 +17,11 @@ We begin this series with Renting, apartments & houses on a national basis. In l
 
 Let's start with the numbers. The charts below detail the number of offers on one day, with the portion of offers provided by Private owners (non-agency) for apartments and houses.
 
+
 ![](/assets/Images/aptportalnational.png)
 
 ![](/assets/Images/houseportalnational.png)
+
 
 [**OLX**](https://www.olx.pl/)
 
@@ -85,7 +87,7 @@ _User experience_ - Once the main property portal, now it's just a sad shadow of
 
 **Score 1/5**
 
-**Honourable Mention - **[**Facebook**](https://www.facebook.com/bigdoor24/)
+Honourable Mention - [**Facebook**](https://www.facebook.com/bigdoor24/)
 
 There are plenty of groups on Facebook where you can find agency and private offers. There is a feeling that these offers tend to be more expensive than the market as they target expats who are assumed to have higher budgets but we can't substantiate this. It's a good resource but don't ignore the portals.
 
