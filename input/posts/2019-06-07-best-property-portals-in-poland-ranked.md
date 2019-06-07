@@ -35,7 +35,7 @@ Multi Lingual - No
 
 Blog Articles - No
 
-_User experience_ – Jumpy search filters in line with it's basic, "do all" layout . Again, limited but effective map functionality with no comparative pricing.
+_User experience_ – Jumpy search filters in line with it's basic, "do all" layout . Again, limited but effective map functionality with no comparative pricing
 
 **Score 3/5
 **
