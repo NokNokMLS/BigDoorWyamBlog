@@ -53,7 +53,7 @@ _User experience _– By far the best designed site of the pack. Very well laid 
 [**Did you know ?
 **](https://bigdoor24.pl/)
 
-[**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**](https://bigdoor24.pl/)
+[**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we pay them) - register now for your personal referral code.**](https://bigdoor24.pl/)
 
 [**Otodom**](https://www.otodom.pl/)
 
