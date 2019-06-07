@@ -3,7 +3,7 @@ title: Top Property Search sites in Poland - Ranked
 Author: Team BigDoor24
 Lead: Renting & Letting - Who Does What Best
 Published: '2019-06-06T13:52:38+02:00'
-Image: /assets/Images/proper-portal.jpg
+Image: /assets/Images/proper-portal123.jpg
 Tags:
   - Rent
   - General Information
@@ -17,7 +17,7 @@ We begin this series with Renting, apartments & houses on a national basis. In l
 
 Let's start with the numbers. The charts below detail the number of offers on one day, with the portion of offers provided by Private owners (non-agency) for apartments and houses.
 
-![portal charts](../assets/Images/portal-charts.png)
+![null](/assets/Images/portal-charts.png)
 
 [**OLX**](https://www.olx.pl/)
 
@@ -50,7 +50,8 @@ _User experience _– By far the best designed site of the pack. Very well laid 
 
 **Score 4.5/5**
 
-[**Did you know?**](https://bigdoor24.pl/)
+[**Did you know ?
+**](https://bigdoor24.pl/)
 
 [**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we pay them) - register now for your personal referral code.**](https://bigdoor24.pl/)
 
