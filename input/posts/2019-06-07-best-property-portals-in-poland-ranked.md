@@ -95,7 +95,7 @@ Each has different strengths and weaknesses and it really depends on what you ar
 
 There is no indication of the language skills of the advertisers so be prepared to be disappointed if you don't receive any response to your queries, (or just use us, [BigDoor24.pl- Just Easier](https://bigdoor24.pl/))
 
-Next in the series – [Best Property Search Portals for Buying/ Selling](https://www.facebook.com/bigdoor24/)
+Next in the series – [Best Property Search Portals for Buying/ Selling - National](https://www.facebook.com/bigdoor24/)
 
 Happy Hunting
 
