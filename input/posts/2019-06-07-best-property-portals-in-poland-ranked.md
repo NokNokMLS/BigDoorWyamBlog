@@ -17,15 +17,13 @@ We begin this series with Renting, apartments & houses on a national basis. In l
 
 Let's start with the numbers. The charts below detail the number of offers on one day, with the portion of offers provided by Private owners (non-agency) for apartments and houses.
 
+![null](/assets/Images/aptportalnational.png)
 
-![](/assets/Images/aptportalnational.png)
-
-![](/assets/Images/houseportalnational.png)
-
+![null](/assets/Images/houseportalnational.png)
 
 [**OLX**](https://www.olx.pl/)
 
-Multi Lingual - No
+Multilingual - No
 
 Blog Articles - No
 
@@ -35,7 +33,7 @@ _User experience_ – well laid out but may be confusing using google translate 
 
 [**Gumtree**](https://www.gumtree.pl/)
 
-Multi Lingual - No
+Multilingual - No
 
 Blog Articles - No
 
@@ -45,7 +43,7 @@ _User experience_ – Jumpy search filters in line with it's basic, "do all" lay
 
 [**Morizon**](https://www.morizon.pl/)
 
-Multi Lingual - No
+Multilingual - No
 
 Blog Articles - Yes
 
@@ -59,7 +57,7 @@ _User Experience_ - By far the best designed site of the pack. Very well laid ou
 
 [**Otodom**](https://www.otodom.pl/)
 
-Multi Lingual - No
+Multilingual - No
 
 Blog Articles - Yes
 
@@ -69,7 +67,7 @@ _User experience_ – Very high standard as a dedicated property portal. With ex
 
 [**Nieruchomosci Online**](https://www.nieruchomosci-online.pl/)
 
-Multi Lingual - No
+Multilingual - No
 
 Blog Articles - Yes
 
@@ -79,7 +77,7 @@ _User experience_ – Very well laid out and simple with less text and more icon
 
 [**Gratka**](https://gratka.pl/)
 
-Multi Lingual - No
+Multilingual - No
 
 Blog Articles - Yes
 
