@@ -1,7 +1,7 @@
 ---
-title: Best property portals in Poland- ranked
+title: Top Property Search sites in Poland - Ranked
 Author: Team BigDoor24
-Lead: The best site for \renting
+Lead: The best site for Renting
 Published: '2019-06-06T13:52:38+02:00'
 Image: /assets/Images/proper-portal.jpg
 Tags:
@@ -15,11 +15,11 @@ In a country as large as Poland there are obviously a number of different proper
 
 
 
-Advertising fees and geeography all play a part in where properties are shown so it may be worth checking out more than one portal depending on your requirements.
+Advertising fees and geography all play a part in where properties are shown so it may be worth checking out more than one portal depending on your requirements.
 
 
 
-We wil start this series with renting only and using national statistics. In later articles we will cover buying and also look at the best in terms of your city. - Like us now on facebook to avoid missing out.
+We will begin this series with renting only and using national statistics. In later articles we will cover buying and also look at the best in terms of your city. - Like us now on facebook to avoid missing out.
 
 
 
@@ -31,7 +31,7 @@ OLX
 
 
 
-			Nbr. Of Offers		Private
+			Nbr. Of Offers		Private offers
 
 \    (without agent) %
 
@@ -95,7 +95,7 @@ Blog Articles		Yes
 
 
 
-User experience – By far the best designed site of the pack.Very well laid out and easy yet detailed filter options. Once a property is chosen the resulting page also shows similar offers to the side and helpful blog articles below. The main advantage is the display on a map of all offers, allowing users to see local ameneties in addition to available properties. Score 4.5/5
+User experience – By far the best designed site of the pack.Very well laid out and easy yet detailed filter options. Once a property is chosen the resulting page also shows similar offers to the side and helpful blog articles below. The main advantage is the display on a map of all offers, allowing users to see local amenities in addition to available properties. Score 4.5/5
 
 
 
@@ -199,8 +199,8 @@ Happy Hunting
 
 Team BigDoor24
 
+# 
 
-
-
+# 
 
 About Bigdoor24.pl – A new free service for Expats, matching users with property professionals who speak their language. We also offer pre-negotiated commission discounts and Mortgage Cashbacks. Independent of any Real Estate Agency our only loyalty is to you.
