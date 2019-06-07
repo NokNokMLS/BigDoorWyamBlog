@@ -97,7 +97,9 @@ The following charts are a breakdown f each portals offers and how many of these
 
 [**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**](https://bigdoor24.pl/)
 
-![null](/assets/Images/portal-charts.png)
+
+
+![](/assets/Images/portal-charts.png)
 
 **So which to choose?
 **Each has different strengths and weaknesses and it really depends on what you are looking for. A private apartment offer? OLX looks best, A house? Morizon has more offers. Probably best to mix and match and take advantage of the different tools they offer.
