@@ -7,200 +7,98 @@ Image: /assets/Images/proper-portal.jpg
 Tags:
   - Rent
 ---
-Top property search sites in Poland
+Top Polish Property search sites
 
+In a country as large as Poland there are obviously a number of different property portals . Understanding how they operate and indeed, who advertises on them will help you find the very best property to buy or rent. 
 
+We begin this series with Renting, apartments & houses on a national basis. In later articles we will cover buying and also look at the best in terms of your city.
 
-In a country as large as Poland there are obviously a number of different property portals . Understanding how they operate and indeed, who advertises on them will help you find the very best property to buy or rent. 
+The charts at the end detail the number and breakdown of the offers
 
+[**OLX**](https://www.olx.pl/)
 
+Multi Lingual		No
 
-Advertising fees and geography all play a part in where properties are shown so it may be worth checking out more than one portal depending on your requirements.
+Blog Articles		No
 
+_User experience_ – well laid out but may be confusing using google translate to identify the filter options.The search filter is average and the map functionality is very basic. There are no comparison tools but the KM radius search could be handy. 
 
+**Score 3/5**
 
-We will begin this series with renting only and using national statistics. In later articles we will cover buying and also look at the best in terms of your city. - Like us now on facebook to avoid missing out.
-
-
-
-
-
-
-
-OLX
-
-
-
-			Nbr. Of Offers		Private offers
-
-\    (without agent) %
-
-
-
-Apartment		32,000			75 %
-
-House			2,021			77 %
+[**Gumtree**](https://www.gumtree.pl/)
 
 Multi Lingual		No
 
 Blog Articles		No
 
+_User experience_ – Jumpy search filters in line with it's basic, "do all" layout . Again, limited but effective map functionality with no comparative pricing.
 
+**Score 3/5**
 
-User experience – well laid out but may be confusing using google translate to identify the filter options.The search filter is average and the map functionality is very basic. There are no comparison tools but the KM radius search could be handy. Score 3/5
-
-
-
-Gumtree
-
-
-
-			Nbr. Of Offers		Private
-
-\    (without agent) %
-
-
-
-Apartment		29,000			23 %
-
-House			3055			11 %
-
-Multi Lingual		No
-
-Blog Articles		No
-
-
-
-User experience – Jumpy search filters in line with it's basic, do all layout . Again, limited but effective map functionality with no comparative pricing. Score 3/5
-
-
-
-Morizon
-
-
-
-			Nbr. Of Offers		Private
-
-\    (without agent) %
-
-
-
-Apartment		26,500			1 %
-
-House			5,000			0.5 %
+[**Morizon**](https://www.morizon.pl/)
 
 Multi Lingual		No
 
 Blog Articles		Yes
 
+_User experience _– By far the best designed site of the pack. Very well laid out and easy yet detailed filter options. Once a property is chosen the resulting page also shows similar offers to the side and helpful blog articles below. The main advantage is the map display of all offers, allowing users to see local amenities in addition to available properties.
 
-
-User experience – By far the best designed site of the pack.Very well laid out and easy yet detailed filter options. Once a property is chosen the resulting page also shows similar offers to the side and helpful blog articles below. The main advantage is the display on a map of all offers, allowing users to see local amenities in addition to available properties. Score 4.5/5
-
-
-
-Otodom
+**Score 4.5/5**
 
 
 
-			Nbr. Of Offers		Private
-
-\    (without agent) %
-
-
-
-Apartment		24,000			16 %
-
-House			3,250			8 %
+[**Otodom**](https://www.otodom.pl/)
 
 Multi Lingual		No
 
 Blog Articles		Yes
 
+_User experience_ – Very high standard as a dedicated property portal. With excellent map functionality it also includes trend graphs and comparative pricing guides. There are a bit too many irrelevant ads displayed but good content in the blog articles.
 
+**Score 4/5**
 
-User experience – Very high standard as a dedicated property portal. With excellent map functionality it also includes trend graphs and comnparative pricing guides. There are a bit too many irrelevant ads displayed but good content in the blog articles. Score 4/5
-
-
-
-Nieruchomosci Online
-
-
-
-			Nbr. Of Offers		Private
-
-\    (without agent) %
-
-
-
-Apartment		21,500			2 %
-
-House			440			34 %
+[**Nieruchomosci Online**](https://www.nieruchomosci-online.pl/)
 
 Multi Lingual		No
 
 Blog Articles		Yes
 
+_User experience_ – Very well laid out and simple with less text and more icons providing a concise property description. Lots of good articles too but no comparative pricing or multi property maps.
 
+**Score 3.5/5**
 
-User experience – Very well laid out and simple with less text and more icons providing a concise property description. Lots of good articles too but no comparative pricing or multi property maps. 3.5/5
-
-
-
-Gratka
-
-
-
-			Nbr. Of Offers		Private
-
-\    (without agent) %
-
-
-
-Apartment		20,000			n/a
-
-House			3815			n/a
+[**Gratka**](https://gratka.pl/)
 
 Multi Lingual		No
 
 Blog Articles		Yes
 
+_User experience_ - Once the main property portal, now it's just a sad shadow of it's competition. We could list the stupid pathway and things it doesn't do but why bother. Just bad.
+
+**Score 1/5**
+
+Notable mention - [**Facebook**](https://www.facebook.com/bigdoor24/)
+
+There are plenty of groups on Facebook where you can find agency and private offers. There is a feeling that these offers tend to be more expensive than the market as they target expats who are assumed to have higher budgets but we can't substantiate this. It's a good resource but don't ignore the portals.
+
+The following charts are a breakdown f each portals offers and how many of these offers are private (non-agency).
 
 
-Once the main property portal, now it's just a sad shadow of it's competition. We could list the stupid pathway and things it doesn't do but why bother. Just bad. Score 1/5
 
 
 
-Facebook
-
-
-
-There are plenty of groups on Facebook where you can find agency and non agency offers. There is a feeling that these offers tend to be more expensive than the market as they target expats who are assumed to have higher budgets but we can't substatiate this. It's a good resource but don't ignore the portals.
-
-
-
-So which to choose?
-
-
+So which to choose?
 
 Each has different strengths and weaknesses and it really depends on what you are looking for. There is no indication of the language skills of the advertisers so be prepared to be disappointed if you don't receive any response to your queries.
 
-
-
-Next in the series – Best portals for Buying / Selling
-
-
-
-
+Next in the series – Best portals for Buying / Selling
 
 Happy Hunting
 
+Team BigDoor24
 
 
-Team BigDoor24
 
-# 
+About Bigdoor24.pl – A new free service for Expats, matching users with property professionals who speak their language. We also offer pre-negotiated commission discounts and Mortgage Cashbacks.
 
-# 
-
-About Bigdoor24.pl – A new free service for Expats, matching users with property professionals who speak their language. We also offer pre-negotiated commission discounts and Mortgage Cashbacks. Independent of any Real Estate Agency our only loyalty is to you.
+ Independent of any Real Estate Agency our only loyalty is to you.
