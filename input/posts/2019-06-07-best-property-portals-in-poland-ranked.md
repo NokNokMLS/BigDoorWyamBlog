@@ -9,16 +9,17 @@ Tags:
   - General Information
   - Let
 ---
-Top Polish Property search sites
+**Top Polish Property Search sites**
 
 In a country as large as Poland there are obviously a number of different property portals . Understanding how they operate and indeed, who advertises on them will help you find the very best property to buy or rent. 
 
-We begin this series with Renting, apartments & houses on a national basis. In later articles we will cover buying and also look at the best in terms of your city.
+We begin this series with Renting, apartments & houses on a national basis. In later articles we will cover buying and also look at the best in terms of your city
 
-The charts at the end detail the number and breakdown of the offers
+Let's start with the numbers. The charts below detail the number of offers on one day, with the portion of offers provided by Private owners (non-agency) for apartments and houses.
 
-[**OLX**
-](https://www.olx.pl/)
+![null](/assets/Images/portal-charts.png)
+
+[**OLX**](https://www.olx.pl/)
 
 Multi Lingual - No
 
@@ -28,8 +29,7 @@ _User experience_ – well laid out but may be confusing using google translate 
 
 **Score 3/5**
 
-\*\*
-**[**Gumtree\*\*](https://www.gumtree.pl/)
+[**Gumtree**](https://www.gumtree.pl/)
 
 Multi Lingual - No
 
@@ -40,8 +40,7 @@ _User experience_ – Jumpy search filters in line with it's basic, "do all" lay
 **Score 3/5
 **
 
-[**Morizon
-**](https://www.morizon.pl/)
+[**Morizon**](https://www.morizon.pl/)
 
 Multi Lingual - No
 
@@ -51,8 +50,12 @@ _User experience _– By far the best designed site of the pack. Very well laid 
 
 **Score 4.5/5**
 
-[**Otodom
-**](https://www.otodom.pl/)
+[**Did you know ?
+**](https://bigdoor24.pl/)
+
+[**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**](https://bigdoor24.pl/)
+
+[**Otodom**](https://www.otodom.pl/)
 
 Multi Lingual - No
 
@@ -90,19 +93,9 @@ Notable mention - [**Facebook
 
 There are plenty of groups on Facebook where you can find agency and private offers. There is a feeling that these offers tend to be more expensive than the market as they target expats who are assumed to have higher budgets but we can't substantiate this. It's a good resource but don't ignore the portals.
 
-The following charts are a breakdown f each portals offers and how many of these offers are private (non-agency).
+**Which to choose?**
 
-[**Did you know ?
-**](https://bigdoor24.pl/)
-
-[**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**](https://bigdoor24.pl/)
-
-
-
-![](/assets/Images/portal-charts.png)
-
-**So which to choose?
-**Each has different strengths and weaknesses and it really depends on what you are looking for. A private apartment offer? OLX looks best, A house? Morizon has more offers. Probably best to mix and match and take advantage of the different tools they offer.
+Each has different strengths and weaknesses and it really depends on what you are looking for. A private apartment offer? OLX looks best, A house? Morizon has more offers. Probably best to mix and match and take advantage of the different tools they offer.
 
 There is no indication of the language skills of the advertisers so be prepared to be disappointed if you don't receive any response to your queries, ( or just use us, [BigDoor24.pl- Just Easier](https://bigdoor24.pl/))
 
@@ -112,6 +105,6 @@ Happy Hunting
 
 Team BigDoor24
 
-About Bigdoor24.pl – A new free service for Expats, matching users with property professionals who speak their language. We also offer pre-negotiated commission discounts and Mortgage Cashbacks.
+**About Bigdoor24.pl – A new free service for Expats, matching users with property professionals who speak their language. Polish Mortgage Cash-backs and commission discounts are also part of the package.**
 
- Independent of any Real Estate Agency our only loyalty is to you.
+**Independent of any Real Estate Agency our only loyalty is to you.**
