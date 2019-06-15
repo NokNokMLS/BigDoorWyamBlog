@@ -52,14 +52,14 @@ var searchModule = function() {
     a(
         {
             id:3,
-            title:"Mark Car Rental",
+            title:"new title",
             content:"Car Rental",
             description:"Best Mark Car Rental Krakow Kazimierz",
             tags:'Krakow Kazimierz Car Car'
         },
         {
             url:'/BigDoorWyamBlog/services/marks-car-rental',
-            title:"Mark's Car Rental",
+            title:"new title",
             description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
