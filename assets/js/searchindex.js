@@ -38,14 +38,14 @@ var searchModule = function() {
     a(
         {
             id:2,
-            title:"Dave Car Rental",
+            title:"",
             content:"additional search tags",
             description:"Best Dave Car Rental Krakow Bronowice",
             tags:'Kraków Bronowice Car Car'
         },
         {
             url:'/BigDoorWyamBlog/services/daves-car-rental',
-            title:"Dave's Car Rental",
+            title:"a",
             description:"The Best Dave's Car Rental in Krakow, Bronowice"
         }
     );
