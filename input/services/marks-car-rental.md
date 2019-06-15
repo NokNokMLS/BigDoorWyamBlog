@@ -1,5 +1,5 @@
 ---
-Title: Mark's Car Rental
+title: new title
 Author: Team BigDoor24
 Lead: 'The Best Mark''s Car Rental in Krakow, Kazimierz'
 Published: '2018-06-11T17:51:20+02:00'
@@ -18,4 +18,4 @@ some more words to not search
 buy
 sell
 oscypek
-test
+test 
