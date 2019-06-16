@@ -1,5 +1,5 @@
 ---
-title: 'Top Property Search sites in Poland - Ranked -  # 2'
+Title: 'Top Property Search sites in Poland - Ranked -  # 2'
 Author: Team BigDoor24
 Lead: Buying & Selling - Who Does What Best
 Published: '2019-06-07T21:52:26+02:00'
