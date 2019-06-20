@@ -1,5 +1,5 @@
 ---
-Title: A Food shop in Bronowice
+title: Polish food shop with pierogi
 Author: mark
 Lead: Polish food shop with pierogi
 Published: '2018-06-20T13:29:14+02:00'
