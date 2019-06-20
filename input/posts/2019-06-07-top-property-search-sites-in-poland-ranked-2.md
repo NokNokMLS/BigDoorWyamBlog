@@ -1,5 +1,5 @@
 ---
-title: 'Top Property Search sites in Poland - Ranked -  # 2'
+Title: 'Top Property Search sites in Poland - Ranked -  # 2'
 Author: Team BigDoor24
 Lead: Buying & Selling - Who Does What Best
 Published: '2019-06-07T21:52:26+02:00'
@@ -18,13 +18,9 @@ We begin with the numbers and the charts below show how many offers and by whom 
 
 Be aware that if you do spot a property you are interested in, you can use any broker to arrange a viewing ( i.e. one who speaks your language as found on bigdoor24.pl) so feel free to browse to your hearts content.
 
-![](/assets/Images/aptsalenational.png)
+![](../assets/Images/aptsalenational.png)
 
-
-
-![](/assets/Images/housesalenportalnational.png)
-
-
+![](../assets/Images/housesalenportalnational.png)
 
 [**OLX**](https://www.olx.pl/)
 
