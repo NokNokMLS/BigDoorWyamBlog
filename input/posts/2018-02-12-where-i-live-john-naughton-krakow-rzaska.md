@@ -10,7 +10,7 @@ Tags:
   - Poland Rent
   - Poland Mortgage
 ---
-**Name** John N..
+**Name** John N..  
 
 **Nationality** Irish
 
