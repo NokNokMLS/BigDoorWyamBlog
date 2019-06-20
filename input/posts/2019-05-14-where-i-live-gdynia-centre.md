@@ -2,7 +2,7 @@
 Title: Where I Live - Gdynia Centre
 Author: Team BigDoor24
 Lead: Where I Live - Jakub W.
-Published: 2020-05-14T15:20:00.000Z
+Published: 2019-05-14T15:20:00.000Z
 Image: /assets/Images/gdynia.jpg
 Tags:
   - Where I Live
