@@ -1,5 +1,5 @@
 ---
-title: Top Property Search sites in Poland - Ranked
+Title: Top Property Search sites in Poland - Ranked
 Author: Team BigDoor24
 Lead: Renting & Letting - Who Does What Best
 Published: '2019-06-06T13:52:38+02:00'
