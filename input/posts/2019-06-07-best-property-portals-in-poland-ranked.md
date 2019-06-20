@@ -17,9 +17,9 @@ We begin this series with Renting, apartments & houses on a national basis. In l
 
 Let's start with the numbers. The charts below detail the number of offers on one day, with the portion of offers provided by Private owners (non-agency) for apartments and houses.
 
-![](../assets/Images/aptportalnational.png)
+![](../assets/Images/aptportalnational.png){.img-fluid .img-responsive}
 
-![](../assets/Images/houseportalnational.png)
+![](../assets/Images/houseportalnational.png){.img-fluid .img-responsive}
 
 [**OLX**](https://www.olx.pl/)
 
