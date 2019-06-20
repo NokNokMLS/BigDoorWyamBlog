@@ -2,13 +2,15 @@
 Title: Where I Live - Gdynia Centre
 Author: Team BigDoor24
 Lead: Where I Live - Jakub W.
-Published: '2019-05-14T17:20:14+02:00'
+Published: 2020-05-14T15:20:00.000Z
 Image: /assets/Images/gdynia.jpg
 Tags:
   - Where I Live
   - Gdansk
   - Gdynia
 ---
+https://unsplash.com/@czarotg?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge
+
 **Name** Jakub W.
 
 **Nationality** Polish
@@ -39,10 +41,10 @@ Living, working, relaxing, love the area in every aspect of life. I'm close to w
 
 **What's your best tip for people looking to buy/rent/get a mortgage?**
 
-Lots of research and go to a Credit Advisor early in the process.
-
-[Follow Jakub and TriCity News on Facebook here.](https://www.facebook.com/tricitynewspl/)
+Lots of research and go to a Credit Advisor early in the process
 
 _**Other useful links**_
 
 [_**Read more about Gdynia**_](https://en.wikipedia.org/wiki/Gdynia)
+
+[Follow Jakub and TriCity News on Facebook](https://www.facebook.com/tricitynewspl/)
