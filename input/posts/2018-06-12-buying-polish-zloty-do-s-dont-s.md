@@ -3,7 +3,7 @@ Title: Buying or Selling Polish Zloty - do's & dont's
 Author: Team BigDoor24
 Lead: 'It''s all about the spread, ''bout the spread, ''bout the spread'
 Published: '2018-12-13T16:42:51+01:00'
-Image: /assets/Images/fx-pic.jpg
+Image: /../assets/Images/fxworldmap.jpg
 Tags:
   - General Information
   - Investment
