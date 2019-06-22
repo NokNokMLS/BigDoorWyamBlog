@@ -10,7 +10,7 @@ Tags:
 ---
 **_Today the Shops are CLOSED_**
 
-**Jesus Wept - The Documentary Everyone is Talking About/ Warsaw - A Trillion Zloty/ Krakow - Pride March Gallery/ Lodz - Love Triangle Murder Trial/ Katowice - Big Business Conference/  Wroclaw - Meatheads Strike Vegan bar/ International - Ambassador Spat/ Sport - Pole Heads WADA, DocPlanner raises $80 mio, Fashion Bombs and more....**
+**Poland vetoes Clean Air/ Warsaw - Ghetto Fight/ Krakow - AOC for Auschwitz?/ Lodz - First Festival/ Tri-City - Summer Solstice/ Wroclaw - Scare'dy Cats/ Human Rights Threats / More Sport/ Soviet Drunk Tank and more...**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -24,7 +24,7 @@ Tags:
 
 _Warsaw_  - [Warsaw Ghetto Museum Concerns](https://www.theguardian.com/world/2019/jun/22/warsaw-ghetto-museum-holocaust-historians-divided?CMP=Share_AndroidApp_Zoho_Mail) - TheGuardian
 
-_Krakow_  -[Auschwitz Survivor invites AOC to visit after her remarks spark anger](https://www.timesofisrael.com/survivor-invites-ocasio-cortez-to-tour-auschwitz-with-him/) - TimesofIsreal
+_Krakow_  - [Auschwitz Survivor invites AOC to visit after her remarks spark anger](https://www.timesofisrael.com/survivor-invites-ocasio-cortez-to-tour-auschwitz-with-him/) - TimesofIsreal
 
 _Lodz_ - [First Jewish Festival](http://thejewishvoice.com/2019/06/19/lodz-poland-hosts-its-first-ever-jewish-festival/)  - JewishVoice
 
