@@ -3,7 +3,7 @@ Title: The Digest - 22nd June 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-06-22T17:24:25.153Z
-Image: /../assets/Images/digest-june-22-pic.jpg
+Image: /../assets/Images/alexandria-ocasio-cortez-wide-eyes-768x432.jpg
 Tags:
   - News
   - The Digest
@@ -53,12 +53,6 @@ _Krakcast_ - [Krakow Gamers](https://www.krakcast.pl/e/krakcast-interview-%e2%80
 **Extra -** 
 
 [Check out the new FB Group What's Up in Poland for stories from some of the best English language sites in .... ahhmmm Poland, of course](https://www.facebook.com/groups/1722906371076192/)
-
-[Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
-
-<div class="sharethis-inline-share-buttons"></div>
-
-\-
 
 Have a great Sunday
 
