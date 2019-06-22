@@ -10,7 +10,7 @@ Tags:
 ---
 **_Today the Shops are CLOSED_**
 
-**Poland vetoes Clean Air/ Warsaw - Ghetto Fight/ Krakow - AOC for Auschwitz?/ Lodz - First Festival/ Tri-City - Summer Solstice/ Wroclaw - Scare'dy Cats/ Human Rights Threats / More Sport/ Soviet Drunk Tank and more...**
+**Poland vetoes Clean Air/ Warsaw - Ghetto Fight/ Krakow - AOC for Auschwitz?/ Lodz - First Festival/ Tri-City - Summer Solstice/ Wroclaw - Scare'dy Cats/ Human Rights Threats / More Sport/ Soviet Drunk Tank and more...( and check out What's Up in Poland FB Group)**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -52,7 +52,7 @@ _Krakcast_ - [Krakow Gamers](https://www.krakcast.pl/e/krakcast-interview-%e2%80
 
 **Extra -** 
 
-[Check out the new FB Group What's Up in Poland for stories from some of the best English language sites in .... ahhmmm Poland, of course](https://www.facebook.com/groups/1722906371076192/)
+[Check out the new FB Group - What's Up in Poland - for stories from some of the best English language sites in .... ahhmmm Poland, of course](https://www.facebook.com/groups/1722906371076192/)
 
 Have a great Sunday
 
