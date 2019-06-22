@@ -3,7 +3,7 @@ Title: The Digest - 22nd June 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-06-22T17:24:25.153Z
-Image: /../assets/Images/alexandria-ocasio-cortez-wide-eyes-768x432.jpg
+Image: /../assets/Images/aocdigest.png
 Tags:
   - News
   - The Digest
