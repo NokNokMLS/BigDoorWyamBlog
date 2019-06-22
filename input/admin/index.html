@@ -25,12 +25,12 @@
       title: match[4],
     },
   toBlock: ({ alt, image, title }) =>
-    `![${alt || ''}](${image != null ? image.substring(1) : ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
+    `![${alt || ''}](${image != null ? image.substring(1) : ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''}){.img-fluid .img-responsive}`,
   // eslint-disable-next-line react/display-name
   toPreview: ({ alt, image, title }, getAsset) => (
-    `<img src=${getAsset(image) || ''} alt=${alt || ''} title=${title || ''} />`
+    `<img src=${getAsset(image) || ''} alt=${alt || ''} title=${title || ''} {.img-fluid .img-responsive}/>`
   ),
-  pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
+  pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\){\.img-fluid \.img-responsive}$/,
   fields: [
     {
       label: 'Image',
