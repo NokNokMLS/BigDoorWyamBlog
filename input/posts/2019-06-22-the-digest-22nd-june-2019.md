@@ -40,7 +40,7 @@ _Wroclaw_ - [Firework Display near Zoo](http://wroclawuncut.com/2019/06/21/contr
 
 [**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-Sport -
+Sport - [Poles do more](http://thenews.pl/1/5/Artykul/425719,Poles-do-more-sports-study) - thenews
 
 **Odds & Ends**
 
@@ -48,7 +48,7 @@ Sport -
 
 **Podcast**
 
-_Krakcast_ - [Fashion Bombs](https://www.krakcast.pl/e/krakcast-%E2%80%93-news-1557516416/)
+_Krakcast_ - [Krakow Gamers](https://www.krakcast.pl/e/krakcast-interview-%e2%80%93-computer-games/)
 
 [Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
 
