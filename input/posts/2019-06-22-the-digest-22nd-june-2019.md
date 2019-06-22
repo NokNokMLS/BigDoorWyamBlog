@@ -3,11 +3,12 @@ Title: The Digest - 22nd June 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-06-22T17:24:25.153Z
+Image: /../assets/Images/digest-june-22-pic.jpg
 Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
 **Jesus Wept - The Documentary Everyone is Talking About/ Warsaw - A Trillion Zloty/ Krakow - Pride March Gallery/ Lodz - Love Triangle Murder Trial/ Katowice - Big Business Conference/  Wroclaw - Meatheads Strike Vegan bar/ International - Ambassador Spat/ Sport - Pole Heads WADA, DocPlanner raises $80 mio, Fashion Bombs and more....**
 
@@ -17,33 +18,33 @@ _**Today the Shops are CLOSED**_
 
 **Poland**
 
-[Horrifying Documentary on Polish Catholic Church Child Abuse - With English Subtitles  - The Guardian/ YouTube (Text & Video)](https://www.theguardian.com/world/2019/may/17/poland-jail-terms-child-abuse-church-documentary?CMP=Share_AndroidApp_Email)
+[Poland vetoes EU 2050 De-Carbonisation plan....of course!](https://www.forbes.com/sites/davekeating/2019/06/20/eu-decarbonisation-plan-for-2050-collapses-after-polish-veto/#4ab8092930b2) - Forbes
 
 **Local**
 
-_Warsaw_  - [A Trillion Zl. in 15 years from E.U.](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-s-business-news-from-poland-in-english,936308.html) - TVN (Video)
+_Warsaw_  - [Warsaw Ghetto Museum Concerns](https://www.theguardian.com/world/2019/jun/22/warsaw-ghetto-museum-holocaust-historians-divided?CMP=Share_AndroidApp_Zoho_Mail) - TheGuardian
 
-_Krakow_  - [Pride Marches Proudly - Picture Gallery of yesterdays march](http://krakow.eska.pl/poznaj-miasto/marsz-rownosci-18-05-2019-w-krakowie-zobacz-podsumowanie-wideo-galerie-zdjec-z-marszu-rownosci-2019-w-krakowie/16216/1) - EskaInfo
+_Krakow_  -[Auschwitz Survivor invites AOC to visit after her remarks spark anger](https://www.timesofisrael.com/survivor-invites-ocasio-cortez-to-tour-auschwitz-with-him/) - TimesofIsreal
 
-_Lodz_ - [Love Triangle Murder Trial ](https://www.tvn24.pl/tvn24-news-in-english,157,m/two-lovers-accused-of-murdering-woman-s-husband-stand-trial,935307.html)- TVN (Video)
+_Lodz_ - [First Jewish Festival](http://thejewishvoice.com/2019/06/19/lodz-poland-hosts-its-first-ever-jewish-festival/)  - JewishVoice
 
-Katowice - [International Business Conference Debates ](http://thenews.pl/1/12/Artykul/419788,Intl-business-conference-in-Poland%E2%80%99s-Katowice) -  TheNews
+_TriCity_ - [Summer Solstice in TriCity](https://tricitynews.pl/how-to-spend-the-midsummer-weekend-in-tricity/) - TriCityNews
 
-_Wroclaw_ - [Vegan Bar Vandalised by Meat Heads](http://wroclawuncut.com/2019/05/17/vegan-bar-in-nadodrze-wrecked-by-vandals/) - WroclawUncut
+_Wroclaw_ - [Firework Display near Zoo](http://wroclawuncut.com/2019/06/21/controversial-fireworks-display-to-go-ahead-next-saturday/) - WroclawUncut
 
 **International**
 
-[Polish Ambassador to Israel spat upon](https://www.thefirstnews.com/article/polands-ambassador-attacked-on-streets-of-tel-aviv-5912) - TheFirstNews
+[Growing Threat to Human Rights in Poland - Polish Ombudsman](https://nypost.com/2019/06/19/threats-to-human-rights-rising-in-poland-official-warns/) - NewYorkPost
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-Sport - [Pole to head World Anti Doping Agency](https://www.insidethegames.biz/articles/1079379/david-owen-it-would-be-a-mistake-to-underestimate-wadas-new-man-witold-banka) - Inside the Games
+Sport -
 
 **Odds & Ends**
 
-[DocPlanner raises $80 million in Funding round](https://tech.eu/brief/polish-founded-healthcare-platform-docplanner-raises-e80-million/) - Tech.eu
+[Soviet Era Drunk Tank](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-drunk-man-detained-after-driving-a-tank-through-town,944865.html) - TVN Video
 
 **Podcast**
 
