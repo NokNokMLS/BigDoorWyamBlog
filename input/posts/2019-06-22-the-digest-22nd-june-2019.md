@@ -1,0 +1,60 @@
+---
+Title: The Digest - 22nd June 2019
+Author: Team BigDoor24
+Lead: Your Weekly Polish News Roundup
+Published: 2019-06-22T17:24:25.153Z
+Tags:
+  - News
+  - The Digest
+---
+_**Today the Shops are CLOSED**_
+
+**Jesus Wept - The Documentary Everyone is Talking About/ Warsaw - A Trillion Zloty/ Krakow - Pride March Gallery/ Lodz - Love Triangle Murder Trial/ Katowice - Big Business Conference/  Wroclaw - Meatheads Strike Vegan bar/ International - Ambassador Spat/ Sport - Pole Heads WADA, DocPlanner raises $80 mio, Fashion Bombs and more....**
+
+[**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
+
+<div class="sharethis-inline-share-buttons"></div>
+
+**Poland**
+
+[Horrifying Documentary on Polish Catholic Church Child Abuse - With English Subtitles  - The Guardian/ YouTube (Text & Video)](https://www.theguardian.com/world/2019/may/17/poland-jail-terms-child-abuse-church-documentary?CMP=Share_AndroidApp_Email)
+
+**Local**
+
+_Warsaw_  - [A Trillion Zl. in 15 years from E.U.](https://www.tvn24.pl/tvn24-news-in-english,157,m/tvn24-s-business-news-from-poland-in-english,936308.html) - TVN (Video)
+
+_Krakow_  - [Pride Marches Proudly - Picture Gallery of yesterdays march](http://krakow.eska.pl/poznaj-miasto/marsz-rownosci-18-05-2019-w-krakowie-zobacz-podsumowanie-wideo-galerie-zdjec-z-marszu-rownosci-2019-w-krakowie/16216/1) - EskaInfo
+
+_Lodz_ - [Love Triangle Murder Trial ](https://www.tvn24.pl/tvn24-news-in-english,157,m/two-lovers-accused-of-murdering-woman-s-husband-stand-trial,935307.html)- TVN (Video)
+
+Katowice - [International Business Conference Debates ](http://thenews.pl/1/12/Artykul/419788,Intl-business-conference-in-Poland%E2%80%99s-Katowice) -  TheNews
+
+_Wroclaw_ - [Vegan Bar Vandalised by Meat Heads](http://wroclawuncut.com/2019/05/17/vegan-bar-in-nadodrze-wrecked-by-vandals/) - WroclawUncut
+
+**International**
+
+[Polish Ambassador to Israel spat upon](https://www.thefirstnews.com/article/polands-ambassador-attacked-on-streets-of-tel-aviv-5912) - TheFirstNews
+
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
+Sport - [Pole to head World Anti Doping Agency](https://www.insidethegames.biz/articles/1079379/david-owen-it-would-be-a-mistake-to-underestimate-wadas-new-man-witold-banka) - Inside the Games
+
+**Odds & Ends**
+
+[DocPlanner raises $80 million in Funding round](https://tech.eu/brief/polish-founded-healthcare-platform-docplanner-raises-e80-million/) - Tech.eu
+
+**Podcast**
+
+_Krakcast_ - [Fashion Bombs](https://www.krakcast.pl/e/krakcast-%E2%80%93-news-1557516416/)
+
+[Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)
+
+<div class="sharethis-inline-share-buttons"></div>
+
+\-
+
+Have a great Sunday
+
+Team BigDoor24
