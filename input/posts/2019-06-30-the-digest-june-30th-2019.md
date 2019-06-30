@@ -7,7 +7,7 @@ Tags:
   - The Digest
   - General Information
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are OPEN_**
 
 **Poland vetoes Clean Air/ Warsaw - Ghetto Fight/ Krakow - AOC for Auschwitz?/ Lodz - First Festival/ Tri-City - Summer Solstice/ Wroclaw - Scare'dy Cats/ Human Rights Threats / More Sport/ Soviet Drunk Tank and more...( and check out What's Up in Poland FB Group)**
 
@@ -17,37 +17,37 @@ _**Today the Shops are CLOSED**_
 
 **Poland**
 
-[Poland vetoes EU 2050 De-Carbonisation plan....of course!](https://www.forbes.com/sites/davekeating/2019/06/20/eu-decarbonisation-plan-for-2050-collapses-after-polish-veto/#4ab8092930b2) - Forbes
+[It's hot, hot and getting hotter ](http://thenews.pl/1/9/Artykul/427278,Meteorologists-warn-of-heatwave-in-Poland-)- TheNews.pl
 
 **Local**
 
-_Warsaw_  - [Warsaw Ghetto Museum Concerns](https://www.theguardian.com/world/2019/jun/22/warsaw-ghetto-museum-holocaust-historians-divided?CMP=Share_AndroidApp_Zoho_Mail) - TheGuardian
+_Warsaw_  - [IKEA risks boycott for Anti-Anti-LGBTQ action](https://www.bloomberg.com/news/articles/2019-06-28/ikea-risks-boycott-in-poland-after-wading-into-gay-rights-debate) - Bloomberg
 
-_Krakow_  - [Auschwitz Survivor invites AOC to visit after her remarks spark anger](https://www.timesofisrael.com/survivor-invites-ocasio-cortez-to-tour-auschwitz-with-him/) - TimesofIsreal
+_Krakow_  - [2023 European Games coming to Krakow](http://www.krakowpost.com/21572/2019/06/krakow-to-host-2023-european-games) - KrakowPost
 
-_Lodz_ - [First Jewish Festival](http://thejewishvoice.com/2019/06/19/lodz-poland-hosts-its-first-ever-jewish-festival/)  - JewishVoice
+_Poznan_ - [Baltic Body Mystery](https://www.thefirstnews.com/article/corpse-found-on-wwii-ship-wreck-could-be-poznan-diver-who-disappeared-7-years-ago-6537) - FirstNews 
 
-_TriCity_ - [Summer Solstice in TriCity](https://tricitynews.pl/how-to-spend-the-midsummer-weekend-in-tricity/) - TriCityNews
+_TriCity_ - [Two boys drown in sea tragedy](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-two-teenage-boys-drowned-in-the-sea-in-gdansk,948438.html) - TVN Video
 
-_Wroclaw_ - [Firework Display near Zoo](http://wroclawuncut.com/2019/06/21/controversial-fireworks-display-to-go-ahead-next-saturday/) - WroclawUncut
+_Wroclaw_ - [Tram Changes](http://wroclawuncut.com/2019/06/19/major-public-transport-route-changes-coming-on-saturday/) - WroclawUncut
 
 **International**
 
-[Growing Threat to Human Rights in Poland - Polish Ombudsman](https://nypost.com/2019/06/19/threats-to-human-rights-rising-in-poland-official-warns/) - NewYorkPost
+[Poland's growing economy goes unreported](https://www.euronews.com/2019/06/25/how-poland-s-golden-age-of-economic-growth-is-going-unreported-view) - EuroNews
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-**Sport** - [Poles do more](http://thenews.pl/1/5/Artykul/425719,Poles-do-more-sports-study) - thenews
+**Sport** - [Volleyball success ](https://polandin.com/43275228/volleyball-poland-within-arms-reach-of-final-six)- PolandIn
 
 **Odds & Ends**
 
-[Soviet Era Drunk Tank](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-drunk-man-detained-after-driving-a-tank-through-town,944865.html) - TVN Video
+[Review of Kurier movie](https://www.theguardian.com/film/2019/jun/26/kurier-review-wladyslaw-pasikowski-philippe-tlokinski) - TheGuardian
 
 **Podcast**
 
-_Krakcast_ - [Krakow Gamers](https://www.krakcast.pl/e/krakcast-interview-%e2%80%93-computer-games/)
+_Krakcast_ - [US Soldiers in Poland](https://www.krakcast.pl/e/krakcast-chat-%e2%80%93-us-bases-in-poland/)
 
 **Extra -** 
 
