@@ -3,7 +3,7 @@ Title: The Digest -  June 30th 2019
 Author: Team Bigdoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-06-30T06:47:20.749Z
-Image: /../assets/Images/thedigestjune30.jpg
+Image: /assets/Images/thedigestjune30.jpg
 Tags:
   - The Digest
   - News
