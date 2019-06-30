@@ -9,7 +9,7 @@ Tags:
 ---
 **_Today the Shops are OPEN_**
 
-**Poland vetoes Clean Air/ Warsaw - Ghetto Fight/ Krakow - AOC for Auschwitz?/ Lodz - First Festival/ Tri-City - Summer Solstice/ Wroclaw - Scare'dy Cats/ Human Rights Threats / More Sport/ Soviet Drunk Tank and more...( and check out What's Up in Poland FB Group)**
+**"I saw a little man in an orange robe burst into flames" It's getting hotter people !!/ Warsaw - IKEA LGBTQ/ Krakow - Euro Games Win/ Poznan - Baltic Body Mystery/ Tri-City - Swimming Tragedies/ Wroclaw - Traming it/ The Quiet Economy/ Volleyball progress/ Kurier movie review, some thoughts on US soldiers in Poland and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -21,7 +21,7 @@ Tags:
 
 **Local**
 
-_Warsaw_  - [IKEA risks boycott for Anti-Anti-LGBTQ action](https://www.bloomberg.com/news/articles/2019-06-28/ikea-risks-boycott-in-poland-after-wading-into-gay-rights-debate) - Bloomberg
+_Warsaw_ - [IKEA risks boycott for Anti-Anti-LGBTQ action](https://www.bloomberg.com/news/articles/2019-06-28/ikea-risks-boycott-in-poland-after-wading-into-gay-rights-debate) - Bloomberg
 
 _Krakow_  - [2023 European Games coming to Krakow](http://www.krakowpost.com/21572/2019/06/krakow-to-host-2023-european-games) - KrakowPost
 
