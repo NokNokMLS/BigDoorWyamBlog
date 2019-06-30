@@ -10,20 +10,6 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Polish food shop pierogi",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
-        },
-        {
-            url:'/services/a-food-shop-in-bronowice',
-            title:"Polish food shop with pierogi",
-            description:"Polish food shop with pierogi"
-        }
-    );
-    a(
-        {
-            id:1,
             title:"John Hair Salon",
             content:"Hair Salon",
             description:"best John Hair Salon Krakow Centrum",
@@ -37,7 +23,7 @@ var searchModule = function() {
     );
     a(
         {
-            id:2,
+            id:1,
             title:"",
             content:"additional search tags",
             description:"Best Dave Car Rental Krakow Bronowice",
@@ -51,7 +37,7 @@ var searchModule = function() {
     );
     a(
         {
-            id:3,
+            id:2,
             title:"new title",
             content:"Car Rental",
             description:"Best Mark Car Rental Krakow Kazimierz",
@@ -61,6 +47,20 @@ var searchModule = function() {
             url:'/services/marks-car-rental',
             title:"new title",
             description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+        }
+    );
+    a(
+        {
+            id:3,
+            title:"Polish food shop pierogi",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
+        },
+        {
+            url:'/services/a-food-shop-in-bronowice',
+            title:"Polish food shop with pierogi",
+            description:"Polish food shop with pierogi"
         }
     );
     var idx = lunr(function() {
