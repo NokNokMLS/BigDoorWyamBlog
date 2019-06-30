@@ -3,13 +3,14 @@ Title: The Digest -  June 30th 2019
 Author: Team Bigdoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-06-30T06:47:20.749Z
+Image: /../assets/Images/thedigestjune30.jpg
 Tags:
   - The Digest
   - General Information
 ---
 **_Today the Shops are OPEN_**
 
-**"I saw a little man in an orange robe burst into flames" It's getting hotter people !!/ Warsaw - IKEA LGBTQ/ Krakow - Euro Games Win/ Poznan - Baltic Body Mystery/ Tri-City - Swimming Tragedies/ Wroclaw - Traming it/ The Quiet Economy/ Volleyball progress/ Kurier movie review, some thoughts on US soldiers in Poland and more**
+**"I saw a little man in an orange robe burst into flames" -  It's getting hotter people !!/ Warsaw - IKEA LGBTQ/ Krakow - Euro Games Win/ Poznan - Baltic Body Mystery/ Tri-City - Swimming Tragedies/ Wroclaw - Traming it/ The Quiet Economy/ Volleyball progress/ Kurier movie review, some thoughts on US soldiers in Poland and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -49,9 +50,7 @@ _Wroclaw_ - [Tram Changes](http://wroclawuncut.com/2019/06/19/major-public-trans
 
 _Krakcast_ - [US Soldiers in Poland](https://www.krakcast.pl/e/krakcast-chat-%e2%80%93-us-bases-in-poland/)
 
-**Extra -** 
 
-[Check out the new FB Group - What's Up in Poland - for stories from some of the best English language sites in .... ahhmmm Poland, of course](https://www.facebook.com/groups/1722906371076192/)
 
 Have a great Sunday
 
