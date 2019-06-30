@@ -6,7 +6,7 @@ Published: 2019-06-30T06:47:20.749Z
 Image: /../assets/Images/thedigestjune30.jpg
 Tags:
   - The Digest
-  - General Information
+  - News
 ---
 **_Today the Shops are OPEN_**
 
