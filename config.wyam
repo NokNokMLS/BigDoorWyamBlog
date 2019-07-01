@@ -23,7 +23,8 @@ Pipelines.Add("Images",
   ReadFiles("assets/images/*")
     .Where(x => new[] { ".jpg", ".jpeg", ".gif", ".png"}.Contains(x.Path.Extension)),
   Image()
-    .Resize(886, null)
+    .Resize(886, null, SixLabors.ImageSharp.Processing.Transforms.AnchorPositionMode.Center
+    , SixLabors.ImageSharp.Processing.Transforms.ResizeMode.Pad)
     .And()
     .Resize(400, null).SetSuffix("-thumb"),
   WriteFiles("*")
