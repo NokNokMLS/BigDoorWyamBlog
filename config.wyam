@@ -1,5 +1,6 @@
-#n -p Wyam.Markdown
-#n -p Wyam.Yaml
+#n Wyam.Markdown
+#n Wyam.Yaml
+#n -p Wyam.Images
 #n Wyam.SearchIndex
 
 #theme CleanBlog
@@ -17,6 +18,16 @@ Settings[Keys.LinksUseHttps] = true;
 
 //Pipelines[Blog.Tags].InsertAfter("Populate",
 //  new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));
+
+Pipelines.Add("Images",
+  ReadFiles("assets/images/*")
+    .Where(x => new[] { ".jpg", ".jpeg", ".gif", ".png"}.Contains(x.Path.Extension)),
+  Image()
+    .Resize(886, null, 3, 4)
+    .And()
+    .Resize(400, null).SetSuffix("-thumb"),
+  WriteFiles("*")
+);
 
 public FilePath GetValidFilePath(FilePath filePath)
 {
