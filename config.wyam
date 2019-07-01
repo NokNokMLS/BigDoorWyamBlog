@@ -23,7 +23,7 @@ Pipelines.Add("Images",
   ReadFiles("assets/images/*")
     .Where(x => new[] { ".jpg", ".jpeg", ".gif", ".png"}.Contains(x.Path.Extension)),
   Image()
-    .Resize(886, null, 3, 4)
+    .Resize(886, null)
     .And()
     .Resize(400, null).SetSuffix("-thumb"),
   WriteFiles("*")
