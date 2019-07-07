@@ -3,13 +3,14 @@ Title: The Digest  - 7th July 2019
 Author: Team BigDoor24
 Lead: Your Polish Weekly News Roundup
 Published: 2019-07-07T07:00:52.719Z
+Image: /../assets/Images/digestjuly7.jpg
 Tags:
   - News
   - The Digest
 ---
 **_Today the Shops are CLOSED_**
 
-**"I saw a little man in an orange robe burst into flames" -  It's getting hotter people !!/ Warsaw - IKEA LGBTQ/ Krakow - Euro Games Win/ Poznan - Baltic Body Mystery/ Tri-City - Swimming Tragedies/ Wroclaw - Traming it/ The Quiet Economy/ Volleyball progress/ Kurier movie review, some thoughts on US soldiers in Poland and more**
+**UnTaxing the young/ Warsaw - Soundwalking/ Krakow - Synagogue Scuffles/ Katowice - Gas deaths/ Tri-City - Air Show/ Wroclaw - The Good Kind of Raceism/ The New Cold War/ Sport - Anyone for Tennis?/Duda Dresses, Ride for the Living and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
