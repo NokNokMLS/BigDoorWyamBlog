@@ -5,9 +5,17 @@
     {
         string lead = post.String(BlogKeys.Lead);
 
+        string thumbImage = string.Empty;
         string Image  = post.String("Image");
-        string ImageUrl = Context.GetLink(Image);
-        string thumbImage = Image.Insert(Image.LastIndexOf('.'), "-w400-thumb");
+        if(!string.IsNullOrWhiteSpace(Image))
+        {
+            if(Image.StartsWith("/.."))
+            {
+                Image = Image.Substring(1);
+            }
+            string ImageUrl = Context.GetLink(Image);
+            thumbImage = Image.Insert(Image.LastIndexOf('.'), "-w400-thumb");
+        }
         var Tags = post.Get<string[]>(BlogKeys.Tags);
    
         <div class="post-list">
