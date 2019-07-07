@@ -4,22 +4,55 @@
 	<title>BigDoor24 Blog</title>
 	<link rel="self" href="https://bigdoor24.pl/" />
 	<rights>2019</rights>
-	<updated>2019-07-01T21:05:11Z</updated>
+	<updated>2019-07-07T09:40:23Z</updated>
 	<subtitle>Welcome!</subtitle>
 	<entry>
-		<id>https://bigdoor24.pl/posts/2019-07-01-test.html</id>
-		<title>test</title>
+		<id>https://bigdoor24.pl/posts/2019-07-07-test3.html</id>
+		<title>test3</title>
 		<author>
 			<name>mark</name>
 		</author>
-		<link href="https://bigdoor24.pl/posts/2019-07-01-test.html" />
-		<link rel="enclosure" type="image" href="https://bigdoor24.pl/assets/Images/bd24-digest-photo.jpg" />
-		<updated>2019-07-01T20:59:02Z</updated>
-		<content>&lt;h1 id="test-test"&gt;test test&lt;/h1&gt;
-&lt;p&gt;&lt;img src="../assets/Images/aptportalnational.png" class="img-fluid img-responsive" alt="olx" title="graph" /&gt;&lt;/p&gt;
-&lt;p&gt;test more&lt;/p&gt;
+		<link href="https://bigdoor24.pl/posts/2019-07-07-test3.html" />
+		<link rel="enclosure" type="image" href="https://bigdoor24.pl/assets/Images/airbnb.jpg" />
+		<updated>2019-07-07T09:22:42Z</updated>
+		<content>&lt;p&gt;&lt;img src="../assets/Images/airbnb.jpg" class="img-fluid img-responsive" alt="" /&gt;&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;&lt;img src="../assets/Images/aptportalnational.png" class="img-fluid img-responsive" alt="olx" title="graph"&gt;&lt;/p&gt;</summary>
+		<summary>&lt;p&gt;&lt;img src="../assets/Images/airbnb.jpg" class="img-fluid img-responsive" alt=""&gt;&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>https://bigdoor24.pl/posts/2019-07-07-the-digest-7th-july-2019.html</id>
+		<title>The Digest  - 7th July 2019</title>
+		<author>
+			<name>Team BigDoor24</name>
+		</author>
+		<link href="https://bigdoor24.pl/posts/2019-07-07-the-digest-7th-july-2019.html" />
+		<link rel="enclosure" type="image" href="https://bigdoor24.pl/assets/Images/digestjuly7.jpg" />
+		<updated>2019-07-07T07:00:52Z</updated>
+		<content>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today the Shops are CLOSED&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UnTaxing the young/ Warsaw - Soundwalking/ Krakow - Synagogue Scuffles/ Katowice - Gas deaths/ Tri-City - Air Show/ Wroclaw - The Good Kind of Raceism/ The New Cold War/ Sport - Anyone for Tennis?/Duda Dresses, Ride for the Living and more&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/bigdoor24/"&gt;&lt;strong&gt;If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class="sharethis-inline-share-buttons"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Poland&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ft.com/content/58908dee-9da8-11e9-b8ce-8b459ed04726"&gt;Big Tax breaks planned for younger Poles&lt;/a&gt; - Financial Times&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Local&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Warsaw&lt;/em&gt; -  &lt;a href="https://www.thefirstnews.com/article/new-app-uses-the-sounds-of-the-past-to-guide-people-through-warsaws-lost-heart-6650"&gt;Soundwalking in the Capital&lt;/a&gt; - FirstNews&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Krakow&lt;/em&gt;  -  &lt;a href="https://www.jpost.com/Diaspora/Jewish-protesters-in-Krakow-slam-leadership-community-is-for-all-594531"&gt;Scuffles at the synagogue&lt;/a&gt; - JPost&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Katowice&lt;/em&gt; - &lt;a href="https://newsbeezer.com/polandeng/bytom-gas-explosion-in-the-tenement-the-president-of-the-city-declared-mourning/"&gt;Gas explosion kills mother and kids&lt;/a&gt; - Newsbeezer&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TriCity&lt;/em&gt; -  &lt;a href="https://tricitynews.pl/event/gdynia-aerobaltic-2019-air-show/"&gt;Air Show coming soon&lt;/a&gt; - TriCityNews&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Wroclaw&lt;/em&gt; - &lt;a href="http://wroclawuncut.com/2019/07/02/raceism-fast-furious-drift-wroclaw/"&gt;Raceism, the good kind&lt;/a&gt; - WroclawUncut&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;International&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.reuters.com/article/us-huawei-poland-spying-special-report/special-report-how-poland-became-a-front-in-the-cold-war-between-u-s-and-china-idUSKCN1TX1B5"&gt;Poland's place in the new cold war&lt;/a&gt; - Reuters&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://bigdoor24.pl/"&gt;&lt;strong&gt;Did you know ?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://bigdoor24.pl/"&gt;&lt;strong&gt;&lt;em&gt;BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sport&lt;/strong&gt; - &lt;a href="http://thenews.pl/1/5/Artykul/428026,Wimbledon-Poland%E2%80%99s-Linette-makes-3rd-round"&gt;A Polish Wimbledon&lt;/a&gt; - TheNews&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Odds &amp;amp; Ends&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.independent.ie/style/fashion/style-talk/caitlin-mcbride-why-polands-first-lady-agata-duda-should-be-added-to-your-mustfollow-style-list-38265253.html"&gt;First Lady Duda &amp;amp; fashion &lt;/a&gt;- The Independent&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Podcast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Krakcast&lt;/em&gt; - &lt;a href="https://www.krakcast.pl/e/krakcast-interview-%e2%80%93-robert-desmond/"&gt;Ride for the living&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Have a great Sunday&lt;/p&gt;
+&lt;p&gt;Team BigDoor24&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Today the Shops are CLOSED&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<id>https://bigdoor24.pl/posts/2019-06-30-the-digest-june-30th-2019.html</id>
@@ -707,41 +740,5 @@ BigDoor24.pl pays you a zl. 250 retail voucher for every successful Credit Appli
 &lt;p&gt;Team BigDoor24&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Today the Shops are CLOSED&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<id>https://bigdoor24.pl/posts/2019-03-03-the-digest-3rd-march-2019.html</id>
-		<title>The Digest 3rd March 2019</title>
-		<author>
-			<name>Team BigDoor24</name>
-		</author>
-		<link href="https://bigdoor24.pl/posts/2019-03-03-the-digest-3rd-march-2019.html" />
-		<link rel="enclosure" type="image" href="https://bigdoor24.pl/assets/Images/digest-march3.png" />
-		<updated>2019-03-03T06:47:22Z</updated>
-		<content>&lt;p&gt;&lt;strong&gt;Poaching Nurses / Warsaw - Doughnut Journey/ Krakow - Arresting Amps/ Gdansk - Trupa Trupa Trumps/ Wroclaw - Best Start up City/ Katowice - &amp;quot;Nazi&amp;quot; Cameraman in the Clear/ Jewish Revival and more....&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Poland&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.theguardian.com/world/2019/feb/28/better-weather-better-pay-german-hospital-looks-to-lure-uks-polish-nurses?CMP=Share_AndroidApp_Email"&gt;Poaching Nurses&lt;/a&gt; - The Guardian&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Local&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Warsaw&lt;/em&gt; - &lt;a href="http://www.warsawinsider.pl/hole-in-one/"&gt;Selling Doughnuts and more&lt;/a&gt; - Warsaw Insider&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Krakow&lt;/em&gt; - &lt;a href="http://www.krakowpost.com/20075/2019/02/should-street-musicians-be-allowed-to-use-amps-krakow-decides"&gt;Arresting Amps&lt;/a&gt; - KrakowPost&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Gdansk&lt;/em&gt; - &lt;a href="https://www.thefirstnews.com/article/super-trupa-trupa-gdansk-band-sign-to-nirvana-label-sub-pop-but-fame-is-the-last-thing-on-their-minds-4893"&gt;Trupa Trupa Trumps&lt;/a&gt; - TheFirstNews&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Wroclaw&lt;/em&gt; - &lt;a href="http://wroclawuncut.com/2019/02/22/report-finds-wroclaw-has-polands-best-startup-growth-potential/"&gt;Best City for Start up Growth Potential&lt;/a&gt; - WroclawUncut&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Katowice&lt;/em&gt; - &lt;a href="https://www.tvn24.pl/tvn24-news-in-english,157,m/prosecutor-discontinued-inquiry-into-tvn-s-camera-operator-piotr-wacowski,913626.html"&gt;Not Shooting the Messenger - &amp;quot;Nazi&amp;quot; Cameraman in the clear&lt;/a&gt; - TVN Video&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;International&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://time.com/5534494/poland-jews-rebirth-anti-semitism/"&gt;Polish Jews - a Revival&lt;/a&gt; - Time Magazine&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://bigdoor24.pl/"&gt;&lt;strong&gt;Did you know ?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://bigdoor24.pl/"&gt;&lt;strong&gt;&lt;em&gt;BigDoor24.pl sends you a zl. 250 retail voucher for every successful Credit Applicant referred - (in addition to what we send them) - register now for your personal referral code.&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sport&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://polandin.com/41570719/athletics-poles-the-best-in-mens-pole-vault-and-womens-60-metres"&gt;Poles strike gold in Glasgow&lt;/a&gt; - Polandin Video&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Odds &amp;amp; Ends&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thefirstnews.com/article/time-snap-new-book-shows-100-years-of-polish-history-through-the-eyes-of-photographers-4952"&gt;100 Years of Polish History through the lens&lt;/a&gt; - TheFirstNews&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Podcast&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Krakcast - &lt;a href="https://www.krakcast.pl/e/krakcast-interview-john-naughton-2/"&gt;What to know about renting in Poland&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SPECIAL&lt;/strong&gt; - &lt;a href="https://bigdoor24.pl/blog/"&gt;&lt;strong&gt;Polish Rental Agreements - 5 things you need to know&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.facebook.com/bigdoor24/"&gt;Support and Like us on FB for your regular Digest, posted every Sunday at 10 am and share to your favourite FB groups now.&lt;/a&gt;&lt;/p&gt;
-&lt;div class="sharethis-inline-share-buttons"&gt;&lt;/div&gt;
-&lt;p&gt;Have a great Sunday!&lt;/p&gt;
-&lt;p&gt;Team BigDoor24&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;&lt;strong&gt;Poaching Nurses / Warsaw - Doughnut Journey/ Krakow - Arresting Amps/ Gdansk - Trupa Trupa Trumps/ Wroclaw - Best Start up City/ Katowice - "Nazi" Cameraman in the Clear/ Jewish Revival and more....&lt;/strong&gt;&lt;/p&gt;</summary>
 	</entry>
 </feed>
