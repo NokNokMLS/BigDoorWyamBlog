@@ -3,7 +3,7 @@ Title: The Digest  - 7th July 2019
 Author: Team BigDoor24
 Lead: Your Polish Weekly News Roundup
 Published: 2019-07-07T07:00:52.719Z
-Image: /../assets/Images/digestjuly7.jpg
+Image: /assets/Images/digestjuly7.jpg
 Tags:
   - News
   - The Digest
