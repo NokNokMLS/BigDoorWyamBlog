@@ -4,9 +4,10 @@ Author: Team BigDoor24
 Lead: Your Polish Weekly News Roundup
 Published: 2019-07-07T07:00:52.719Z
 Tags:
-  - News. The Digest
+  - News
+  - The Digest
 ---
-_**Today the Shops are OPEN**_
+**_Today the Shops are CLOSED_**
 
 **"I saw a little man in an orange robe burst into flames" -  It's getting hotter people !!/ Warsaw - IKEA LGBTQ/ Krakow - Euro Games Win/ Poznan - Baltic Body Mystery/ Tri-City - Swimming Tragedies/ Wroclaw - Traming it/ The Quiet Economy/ Volleyball progress/ Kurier movie review, some thoughts on US soldiers in Poland and more**
 
@@ -16,37 +17,37 @@ _**Today the Shops are OPEN**_
 
 **Poland**
 
-[It's hot, hot and getting hotter ](http://thenews.pl/1/9/Artykul/427278,Meteorologists-warn-of-heatwave-in-Poland-)- TheNews.pl
+[Big Tax breaks planned for younger Poles](https://www.ft.com/content/58908dee-9da8-11e9-b8ce-8b459ed04726) - Financial Times
 
 **Local**
 
-_Warsaw_ - [IKEA risks boycott for Anti-Anti-LGBTQ action](https://www.bloomberg.com/news/articles/2019-06-28/ikea-risks-boycott-in-poland-after-wading-into-gay-rights-debate) - Bloomberg
+_Warsaw_ -  [Soundwalking in the Capital](https://www.thefirstnews.com/article/new-app-uses-the-sounds-of-the-past-to-guide-people-through-warsaws-lost-heart-6650) - FirstNews
 
-_Krakow_  - [2023 European Games coming to Krakow](http://www.krakowpost.com/21572/2019/06/krakow-to-host-2023-european-games) - KrakowPost
+_Krakow_  -  [Scuffles at the synagogue](https://www.jpost.com/Diaspora/Jewish-protesters-in-Krakow-slam-leadership-community-is-for-all-594531) - JPost
 
-_Poznan_ - [Baltic Body Mystery](https://www.thefirstnews.com/article/corpse-found-on-wwii-ship-wreck-could-be-poznan-diver-who-disappeared-7-years-ago-6537) - FirstNews 
+_Katowice_ - [Gas explosion kills mother and kids](https://newsbeezer.com/polandeng/bytom-gas-explosion-in-the-tenement-the-president-of-the-city-declared-mourning/) - Newsbeezer 
 
-_TriCity_ - [Two boys drown in sea tragedy](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-two-teenage-boys-drowned-in-the-sea-in-gdansk,948438.html) - TVN Video
+_TriCity_ -  [Air Show coming soon](https://tricitynews.pl/event/gdynia-aerobaltic-2019-air-show/) - TriCityNews
 
-_Wroclaw_ - [Tram Changes](http://wroclawuncut.com/2019/06/19/major-public-transport-route-changes-coming-on-saturday/) - WroclawUncut
+_Wroclaw_ - [Raceism, the good kind](http://wroclawuncut.com/2019/07/02/raceism-fast-furious-drift-wroclaw/) - WroclawUncut
 
 **International**
 
-[Poland's growing economy goes unreported](https://www.euronews.com/2019/06/25/how-poland-s-golden-age-of-economic-growth-is-going-unreported-view) - EuroNews
+ [Poland's place in the new cold war](https://www.reuters.com/article/us-huawei-poland-spying-special-report/special-report-how-poland-became-a-front-in-the-cold-war-between-u-s-and-china-idUSKCN1TX1B5) - Reuters
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-**Sport** - [Volleyball success ](https://polandin.com/43275228/volleyball-poland-within-arms-reach-of-final-six)- PolandIn
+**Sport** - [A Polish Wimbledon](http://thenews.pl/1/5/Artykul/428026,Wimbledon-Poland%E2%80%99s-Linette-makes-3rd-round) - TheNews
 
 **Odds & Ends**
 
-[Review of Kurier movie](https://www.theguardian.com/film/2019/jun/26/kurier-review-wladyslaw-pasikowski-philippe-tlokinski) - TheGuardian
+ [First Lady Duda & fashion ](https://www.independent.ie/style/fashion/style-talk/caitlin-mcbride-why-polands-first-lady-agata-duda-should-be-added-to-your-mustfollow-style-list-38265253.html)- The Independent
 
 **Podcast**
 
-_Krakcast_ - [US Soldiers in Poland](https://www.krakcast.pl/e/krakcast-chat-%e2%80%93-us-bases-in-poland/)
+_Krakcast_ - [Ride for the living](https://www.krakcast.pl/e/krakcast-interview-%e2%80%93-robert-desmond/)
 
 Have a great Sunday
 
