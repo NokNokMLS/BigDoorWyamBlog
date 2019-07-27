@@ -10,7 +10,7 @@ Tags:
 ---
 **_Today the Shops are OPEN_**
 
-**UnTaxing the young/ Warsaw - Soundwalking/ Krakow - Synagogue Scuffles/ Katowice - Gas deaths/ Tri-City - Air Show/ Wroclaw - The Good Kind of Raceism/ The New Cold War/ Sport - Anyone for Tennis?/Duda Dresses, Ride for the Living and more**
+**Zl. 2.8 Billion Ball Rolling/  Warsaw - People's Rights Wronged/ Krakow - Hero Time Again/ Lodz - Hotel Homage/ Tri-City - Bungee Bungle/ Wroclaw - Tossers Attack/ Poland Vs. EU (again)/ Sport - Polonia Games/ Electric Solutions and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -40,7 +40,7 @@ _Wroclaw_ - [Saps attack](http://wroclawuncut.com/2019/07/26/wroclawian-attacked
 
 [**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-**Sport** - - TheNews
+**Sport** - [Polonia Games kick off ](https://www.polskieradio.pl/395/7790/Artykul/2347175,World-Summer-Polonia-Games-open-in-Poland)- TheNews
 
 **Odds & Ends**
 
