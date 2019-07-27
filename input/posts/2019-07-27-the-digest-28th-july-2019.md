@@ -3,11 +3,12 @@ Title: The Digest - 28th July 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-07-27T18:32:46.272Z
+Image: /../assets/Images/digest28july.jpg
 Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are OPEN_**
 
 **UnTaxing the young/ Warsaw - Soundwalking/ Krakow - Synagogue Scuffles/ Katowice - Gas deaths/ Tri-City - Air Show/ Wroclaw - The Good Kind of Raceism/ The New Cold War/ Sport - Anyone for Tennis?/Duda Dresses, Ride for the Living and more**
 
@@ -37,7 +38,7 @@ _Wroclaw_ - [Saps attack](http://wroclawuncut.com/2019/07/26/wroclawian-attacked
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 **Sport** - - TheNews
 
