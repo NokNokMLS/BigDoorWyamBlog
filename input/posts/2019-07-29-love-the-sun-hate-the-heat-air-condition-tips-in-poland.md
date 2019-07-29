@@ -3,7 +3,7 @@ Title: 'Love the Sun, Hate the Heat - Air Condition Tips in Poland'
 Author: Team BigDoor24
 Lead: How to be cooler
 Published: 2019-07-29T12:50:31.311Z
-Image: /../assets/Images/aircondition.jpg
+Image: /assets/Images/aircondition.jpg
 Tags:
   - General Information
   - Rent
