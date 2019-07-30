@@ -1,9 +1,9 @@
 ---
-Title: 'Love the Sun, Hate the Heat - Air Condition Tips in Poland'
+Title: 'Love the Sun, Hate the Heat - Air Conditioner Tips in Poland'
 Author: Team BigDoor24
 Lead: Be Cool
 Published: 2019-07-29T12:50:31.311Z
-Image: /assets/Images/aircondition.jpg
+Image: /../assets/Images/aircondition.jpg
 Tags:
   - General Information
   - Rent
@@ -18,13 +18,13 @@ If, however, you are planning to rent in the near future, are currently renting 
 
 **Wall Mounted Air-Conditioners**
 
-_**Old Tenement Buildings**_
+**_Old Tenement Buildings_**
 
 Due to the high ceilings and thick walls they tend to be substantially naturally cooler in the summer. The downside is that in winter, control of the heating may be out of your hands as the central heating is controlled by committee. Additionally, heating costs can also be higher in these buildings.
 
 While it is possible to install new inbuilt wall mounted air conditioners you will need to check with the building committee to see what is allowed, legal and prohibited as some properties may have historical listings that could hamper any installation.
 
-New Apartments
+_**New Apartments**_
 
 As an owner you should generally have no problem to install aircon but again, check your community regulations to make sure there is no issue.
 
@@ -43,11 +43,11 @@ Did you know ?
 
 [BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.](https://bigdoor24.pl/)
 
-_**Portable Air Conditioners**_
+**_Portable Air Conditioners_**
 
 If you are happy to just go for a portable that you can move from room to room, or indeed a big electric fan, then there are lots to choose from in Leroy Merlin, Auchan, Media markt etc. Or you could check out allegro.pl for second hand options.
 
-As for the types to go for ... google it :-)
+As for the types of Air Conditioners to go for ... that's what google is for :-)
 
 Keep cool!
 
