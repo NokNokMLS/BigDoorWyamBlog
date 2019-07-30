@@ -37,7 +37,11 @@
 
     @if(!string.IsNullOrWhiteSpace(Image))
     {
-        string ImageUrl = Context.GetLink(Image.Replace("/..", ".."));
+        if(Image.StartsWith("/.."))
+        {
+            Image = Image.Substring(3);
+        }
+        string ImageUrl = Context.GetLink(Image);
         string thumbImage = ImageUrl.Insert(ImageUrl.LastIndexOf('.'), "-w886");
         <img src="@thumbImage" width="886" height="520" alt="" class="offset-top-20 img-responsive">
     }

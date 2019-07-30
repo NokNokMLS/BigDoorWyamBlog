@@ -15,6 +15,7 @@ Settings[Keys.LinkHideExtensions] = false;
 Settings[BlogKeys.ArchiveExcerpts] = true;
 Settings[Keys.LinksUseHttps] = true;
 // Add any pipeline customizations here
+//wyam -w -p -s LinkRoot="/blog" -o blog --virtual-dir blog
 
 //Pipelines[Blog.Tags].InsertAfter("Populate",
 //  new Meta(Keys.RelativeFilePath, (doc, ctx) => GetValidFilePath(doc.FilePath(Keys.RelativeFilePath))));

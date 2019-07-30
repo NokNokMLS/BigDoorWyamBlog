@@ -3,7 +3,7 @@ Title: The Digest - 28th July 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-07-27T18:32:46.272Z
-Image: /assets/Images/digest28july.jpg
+Image: /../assets/Images/digest28july.jpg
 Tags:
   - News
   - The Digest

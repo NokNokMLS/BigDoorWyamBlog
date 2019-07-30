@@ -11,7 +11,7 @@
         {
             if(Image.StartsWith("/.."))
             {
-                Image = Image.Substring(1);
+                Image = Image.Substring(3);
             }
             string ImageUrl = Context.GetLink(Image);
             thumbImage = Image.Insert(Image.LastIndexOf('.'), "-w400-thumb");
