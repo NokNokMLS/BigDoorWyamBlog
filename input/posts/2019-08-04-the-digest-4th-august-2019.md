@@ -1,7 +1,7 @@
 ---
 Title: The Digest - 4th August 2019
 Author: Team BigDoor24
-Lead: Your Weekly Polish News Roundup
+Lead: Your Weekly Polish News Round-up
 Published: 2019-08-04T06:30:24.121Z
 Image: /../assets/Images/digest-4th2019.jpg
 Tags:
