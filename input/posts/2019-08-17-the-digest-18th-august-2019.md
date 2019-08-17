@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
 **Tackling the Banks/  Warsaw - Remembering/ Krakow - Rainbow Plague Piffle/ Lodz - Eco Lead/ Tri-City - Siren Call/ Poznan - New Museum/ Wroclaw - Speedway soon/ Poland shaped by Tyrants/ Sport - Polonia Tour/Flocking Foreigners and more**
 
@@ -40,17 +40,17 @@ _Wroclaw_ -  [Bus Lane Bikers](http://wroclawuncut.com/2019/08/14/city-allow-mot
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport** - [Team Title Triumph](https://www.iaaf.org/news/report/poland-wins-2019-european-team-championships) - iaaf
 
 **Odds & Ends**
 
-\- StreetWise
+[Ukrainian Wins Polish Language Competition](https://www.kyivpost.com/ukraine-politics/radio-poland-ukrainian-wins-international-polish-language-competition.html) - Kyiv Post
 
 **Podcast**
 
-_Krakcast_ - [It's holiday time so they are still playing the hits](https://www.krakcast.pl/)
+_Krakcast_ - [Scooters](https://www.krakcast.pl/e/krakcast-news-1565714165/)
 
 Have a great Sunday
 
