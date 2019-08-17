@@ -10,7 +10,7 @@ Tags:
 ---
 _**Today the Shops are CLOSED**_
 
-**Tackling the Banks/  Warsaw - Remembering/ Krakow - Rainbow Plague Piffle/ Lodz - Eco Lead/ Tri-City - Siren Call/ Poznan - New Museum/ Wroclaw - Speedway soon/ Poland shaped by Tyrants/ Sport - Polonia Tour/Flocking Foreigners and more**
+**Blow Reform/  Warsaw - Craft Beer/ Krakow - Steel Fire/ Lodz - Liver Buster/ Tri-City - Teutonic Knights/ Poznan - Malta Modify/ Wroclaw - Bus Lane Bikers/ Rights Commissioner Speaks/ Sport - Team Triumphs/Fluent Foreigners and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -22,15 +22,15 @@ _**Today the Shops are CLOSED**_
 
 **Local**
 
-_Warsaw_ -   [Craft Beer City](https://edition.cnn.com/travel/article/best-beer-cities/index.html) - CNN Travel
+_Warsaw_ -  [Craft Beer City](https://edition.cnn.com/travel/article/best-beer-cities/index.html) - CNN Travel
 
-_Krakow_  -   [Steel Fire](https://www.reuters.com/article/us-poland-arcelormittal-sa/fire-at-arcelormittal-steel-plant-in-poland-extinguished-idUSKCN1V5238) - Reuters
+_Krakow_  -  [Steel Fire](https://www.reuters.com/article/us-poland-arcelormittal-sa/fire-at-arcelormittal-steel-plant-in-poland-extinguished-idUSKCN1V5238) - Reuters
 
-_Lodz -_   [Liver disease busting drug developed](https://www.thefirstnews.com/article/lodz-firm-produces-fat-busting-drug-which-could-save-450-million-globally-from-liver-disease-6740) - First News
+_Lodz -_  [Liver disease busting drug developed](https://www.thefirstnews.com/article/lodz-firm-produces-fat-busting-drug-which-could-save-450-million-globally-from-liver-disease-6740) - First News
 
-_TriCity_ -  [Teutonic Knights](https://tricitynews.pl/teutonic-knights-invite-for-a-tea-krzyzakon-2019/)  - TriCityNews
+_TriCity_ - [Teutonic Knights](https://tricitynews.pl/teutonic-knights-invite-for-a-tea-krzyzakon-2019/)  - TriCityNews
 
-_Poznan_ -  [Galeria Malta Revamp](https://wbj.pl/poznans-galeria-malta-being-revamped/post/124179) - WBJ
+_Poznan_ - [Galeria Malta Revamp](https://wbj.pl/poznans-galeria-malta-being-revamped/post/124179) - WBJ
 
 _Wroclaw_ -  [Bus Lane Bikers](http://wroclawuncut.com/2019/08/14/city-allow-motorcyclists-to-use-bus-lanes/) - WroclawUncut
 
@@ -42,7 +42,7 @@ _Wroclaw_ -  [Bus Lane Bikers](http://wroclawuncut.com/2019/08/14/city-allow-mot
 
 [_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
-**Sport** - [Team Title Triumph](https://www.iaaf.org/news/report/poland-wins-2019-european-team-championships) - iaaf
+**Sport** - [Team Title Triumph](https://www.iaaf.org/news/report/poland-wins-2019-european-team-championships) - iaaf.org
 
 **Odds & Ends**
 
