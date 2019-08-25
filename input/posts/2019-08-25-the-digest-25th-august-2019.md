@@ -21,15 +21,11 @@ _**Today the Shops are CLOSED**_
 
 **Local**
 
-_Warsaw_ -  - CNN Travel
+_Warsaw_ -  [Legia Warsaw vs. Rangers](https://www.theguardian.com/football/2019/aug/22/europa-league-roundup-celtic-aik-rangers-legia-warsaw-linfield-qarabag)- Guardian
 
-_Krakow_  -  - Reuters
+_Krakow_  -  [10 Russians detained](https://tass.com/society/1072134) - Tass
 
-_Lodz -_   - First News
-
-_TriCity_ - - TriCityNews
-
-_Poznan_ -  - WBJ
+_TriCity_ - [Street racing](https://tricitynews.pl/event/verva-street-racing-2019-in-gdynia/) - TriCityNews
 
 _Wroclaw_ -  [Res. Permit Avalanche](http://wroclawuncut.com/2019/08/20/report-confirms-polish-authorities-cant-cope-with-immigration-influx/) - WroclawUncut
 
@@ -41,15 +37,15 @@ _Wroclaw_ -  [Res. Permit Avalanche](http://wroclawuncut.com/2019/08/20/report-c
 
 [_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
-**Sport** - [Team Title Triumph](https://www.iaaf.org/news/report/poland-wins-2019-european-team-championships) - iaaf.org
+**Sport** - [Aussie Rules in Poland](https://www.polskieradio.pl/395/7790/Artykul/2356897,Polands-Australian-Footy-team-gears-up-for-unusual-friendly) - thenews
 
 **Odds & Ends**
 
-[Ukrainian Wins Polish Language Competition](https://www.kyivpost.com/ukraine-politics/radio-poland-ukrainian-wins-international-polish-language-competition.html) - Kyiv Post
+[Female Drug Gang Leader hunted by Interpol](https://www.tvn24.pl/tvn24-news-in-english,157,m/magdalena-kralka-polish-suspect-is-wanted-by-interpol,963014.html) - TVN Video
 
 **Podcast**
 
-_Krakcast_ - [Scooters](https://www.krakcast.pl/e/krakcast-news-1565714165/)
+_Krakcast_ - [The Rant](https://www.krakcast.pl/e/krakcast-rant-snacks/)
 
 Have a great Sunday
 
