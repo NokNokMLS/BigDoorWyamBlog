@@ -3,6 +3,7 @@ Title: The Digest - 25th August 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Round-up
 Published: 2019-08-25T06:58:48.113Z
+Image: /../assets/Images/digest-25-august.jpg
 Tags:
   - News
   - The Digest
