@@ -7,7 +7,7 @@ Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+_**Today the Shops are OPEN**_
 
 **Blow Reform/  Warsaw - Craft Beer/ Krakow - Steel Fire/ Lodz - Liver Buster/ Tri-City - Teutonic Knights/ Poznan - Malta Modify/ Wroclaw - Bus Lane Bikers/ Rights Commissioner Speaks/ Sport - Team Triumphs/Fluent Foreigners and more**
 
