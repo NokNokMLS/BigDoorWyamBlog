@@ -10,6 +10,20 @@ var searchModule = function() {
     a(
         {
             id:0,
+            title:"ab",
+            content:"additional search tags",
+            description:"Best Dave Car Rental Krakow Bronowice",
+            tags:'Kraków Bronowice Car Car'
+        },
+        {
+            url:'/BigDoorWyamBlog/services/daves-car-rental',
+            title:"ab",
+            description:"The Best Dave's Car Rental in Krakow, Bronowice"
+        }
+    );
+    a(
+        {
+            id:1,
             title:"Polish food shop pierogi",
             content:"pierogi",
             description:"Polish food shop pierogi",
@@ -23,7 +37,7 @@ var searchModule = function() {
     );
     a(
         {
-            id:1,
+            id:2,
             title:"John Hair Salon",
             content:"Hair Salon",
             description:"best John Hair Salon Krakow Centrum",
@@ -37,7 +51,7 @@ var searchModule = function() {
     );
     a(
         {
-            id:2,
+            id:3,
             title:"new title",
             content:"Car Rental",
             description:"Best Mark Car Rental Krakow Kazimierz",
@@ -47,20 +61,6 @@ var searchModule = function() {
             url:'/BigDoorWyamBlog/services/marks-car-rental',
             title:"new title",
             description:"The Best Mark's Car Rental in Krakow, Kazimierz"
-        }
-    );
-    a(
-        {
-            id:3,
-            title:"ab",
-            content:"additional search tags",
-            description:"Best Dave Car Rental Krakow Bronowice",
-            tags:'Kraków Bronowice Car Car'
-        },
-        {
-            url:'/BigDoorWyamBlog/services/daves-car-rental',
-            title:"ab",
-            description:"The Best Dave's Car Rental in Krakow, Bronowice"
         }
     );
     var idx = lunr(function() {
