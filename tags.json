@@ -2,7 +2,7 @@
   {
     "Tag": "News",
     "Url": "/tags/News.html",
-    "Weight": 32
+    "Weight": 33
   },
   {
     "Tag": "The Digest",
@@ -12,7 +12,7 @@
   {
     "Tag": "General Information",
     "Url": "/tags/General-Information.html",
-    "Weight": 17
+    "Weight": 18
   },
   {
     "Tag": "Polish Mortgage",
@@ -35,19 +35,14 @@
     "Weight": 10
   },
   {
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
+    "Weight": 9
+  },
+  {
     "Tag": "Let",
     "Url": "/tags/Let.html",
     "Weight": 8
-  },
-  {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
-    "Weight": 8
-  },
-  {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
-    "Weight": 6
   },
   {
     "Tag": "Where I Live",
@@ -55,9 +50,29 @@
     "Weight": 6
   },
   {
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
+    "Weight": 6
+  },
+  {
     "Tag": "Warsaw",
     "Url": "/tags/Warsaw.html",
+    "Weight": 4
+  },
+  {
+    "Tag": "Wroclaw",
+    "Url": "/tags/Wroclaw.html",
     "Weight": 3
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
+    "Weight": 2
   },
   {
     "Tag": "Statistics",
@@ -65,8 +80,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Wroclaw",
-    "Url": "/tags/Wroclaw.html",
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
     "Weight": 2
   },
   {
@@ -75,8 +90,23 @@
     "Weight": 2
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Mortgage",
     "Url": "/tags/Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
@@ -90,68 +120,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Kielce",
     "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -162,6 +137,36 @@
   {
     "Tag": "Home Loan",
     "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
     "Weight": 1
   }
 ]
