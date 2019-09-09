@@ -25,9 +25,13 @@ Keep in mind, when [compared to other EU countries](https://ec.europa.eu/eurosta
 
 
 
+Common sense should be enough to keep your valuables safe and unless something of particular value is taken, reporting the issue to the police may add to your headache but of course, whatever makes you feel safer.
 
+Additionally, if you are a renter, you should definitely inform your landlord and don't be hesitant to demand better security should you feel it's necessary.
 
+Stay safe,
 
+Team BigDoor24
 
 [_**Did you know ?**_](https://bigdoor24.pl)
 
