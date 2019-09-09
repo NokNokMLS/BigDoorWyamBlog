@@ -16,6 +16,10 @@ Tags:
   - Tri-City
   - Szczecin
   - Bydgoszcz
+  - Rent
+  - Let
+  - Buy
+  - Polish Mortgage
 ---
 The official numbers are out from the [National Map of Security Risks](https://policja.maps.arcgis.com/apps/MapSeries/index.html?appid=b5fc08aaa8a54296b418383584313263) detailing amongst others, the number of reported burglaries by Vovoidship for the period January to June 2019.
 
@@ -25,7 +29,9 @@ Keep in mind, when [compared to other EU countries](https://ec.europa.eu/eurosta
 
 
 
-Common sense should be enough to keep your valuables safe and unless something of particular value is taken, reporting the issue to the police may add to your headache but of course, whatever makes you feel safer.
+Common sense should be enough to keep your valuables safe and unless something of particular value is taken, reporting the issue to the Police may add to your headache but of course, whatever makes you feel safer.
+
+If you do call the Police ( 997), remember to preface it with the city code ( i.e .22 997 for Warsaw)
 
 Additionally, if you are a renter, you should definitely inform your landlord and don't be hesitant to demand better security should you feel it's necessary.
 
