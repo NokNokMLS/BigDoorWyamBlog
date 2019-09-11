@@ -8,7 +8,7 @@ Tags:
 ---
 The current government announced plans this week to [double the minimum wage in Poland in the next 4 years](https://www.bloomberg.com/news/articles/2019-09-09/poland-s-plan-to-skyrocket-minimum-wages-heralds-economic-shift), should they be re-elected. What effect will this have on future Polish property prices?
 
-Arguments about the validity and effect of minimum wages are notoriously under researched and there effect on property even more so. We can't definitively say what the future will bring but we can suggest particular areas to watch out for.
+Arguments about the validity and effect of minimum wages are notoriously under researched and the effect on property even more so. We can't definitively say what the future will bring but we can suggest particular areas to watch out for.
 
 **More cash, more splash**
 
@@ -26,4 +26,4 @@ One of the largest arguments made against minimum wages is the effect on employm
 
 The BigDoor24 Team view
 
-It is
+It is a big gamble and the strength of the economy probably gives them confidence of it's positive effects but assuming it actually happens we would suggest that generally it should be Property Positive and in fact, even this approach is an indication of a wider vision, good or bad, of the future of the Polish economy.
