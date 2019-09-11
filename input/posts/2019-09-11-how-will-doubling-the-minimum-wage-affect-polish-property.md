@@ -11,17 +11,17 @@ Tags:
   - Buy
   - Sell
 ---
-The Government announced plans this week to [double the Polish minimum wage over the next 4 years](https://www.bloomberg.com/news/articles/2019-09-09/poland-s-plan-to-skyrocket-minimum-wages-heralds-economic-shift), should they be re-elected. What effect will this have on future Polish property prices?
+The Government announced plans this week to [double the Polish minimum wage over the next 4 years](https://www.bloomberg.com/news/articles/2019-09-09/poland-s-plan-to-skyrocket-minimum-wages-heralds-economic-shift) (Bloomberg), should they be re-elected. What effect will this have on future Polish property prices?
 
 Arguments about the validity and effect of minimum wages are notoriously under researched and the effect on property even more so. We can't definitively say what the future will bring but we can suggest particular areas to watch out for.
 
 **More cash, more splash**
 
-All things being equal - supply , demand, economic growth and employment levels - any increase in disposable income will automatically lead to an increase in property prices and rents demanded. Added to the fact that Poland already has lower than EU average levels of mortgages, in a bubble we would see Polish property growth to seriously move up in the next 4 years and beyond.
+All things being equal - supply , demand, economic growth and employment levels - any increase in disposable income will automatically lead to an increase in property prices and rents demanded. Added to the fact that Poland already has lower than EU average levels of mortgages, a singular view should see Polish property growth to seriously move up in the next 4 years and beyond.
 
 **Inflation**
 
-Any increase in disposable income in the general population normally leads to an increase in inflation. Central banks don't like too much inflation which may lead to an increase in polish mortgage interest rates, dampening peoples ability to spend. Any increase in the cost of borrowing would generally have a negative effect on property. If the low levels of polish mortgages continue this may not have as large an effect as normal. 
+Any increase in disposable income in the general population normally leads to an increase in inflation. Central banks don't like too much inflation which may lead to an increase in polish mortgage interest rates, dampening peoples ability to spend. Any increase in the cost of borrowing would generally have a negative effect on property. If the low levels of polish mortgages continue this may not have as large an effect as it might. 
 
 Over time, property is considered a good hedge (safeguard) against rising inflation so an investor may be happy to ride out any slowdowns.
 
@@ -38,8 +38,6 @@ We believe increasing polish mortgage levels will have a much more upward effect
 But hey, don't take our word for it and do your own research, it's a choppy world out there!
 
 Team BigDoor24
-
-
 
 **Did you know?**
 
