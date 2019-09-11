@@ -24,6 +24,10 @@ Over time, property is considered a good hedge (safeguard) against rising inflat
 
 One of the largest arguments made against minimum wages is the effect on employment. The claim is made that by making staff more expensive, employers will hire less and this will also lead to a drop in new businesses opening. The nuance here is that it really depends on what the minimum wage is. There is no doubt that a doubling of the current rate would have a dramatic effect and should it lead to large scale unemployment then a serious drop in property values would be expected.
 
-The BigDoor24 Team view
+**The BigDoor24 Team view**
 
 It is a big gamble and the strength of the economy probably gives them confidence of it's positive effects but assuming it actually happens we would suggest that generally it should be Property Positive and in fact, even this approach is an indication of a wider vision, good or bad, of the future of the Polish economy.
+
+We believe increasing polish mortgage levels will have a much more serious effect on rising prices than minimum wages and we don't see any reason for a serious slowdown in the near future.
+
+But hey, don't take our word for it and do your own research, it's a choppy world out there!
