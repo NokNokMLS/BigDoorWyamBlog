@@ -7,9 +7,12 @@ Image: /../assets/Images/double-wage.jpg
 Tags:
   - General Information
   - Polish Mortgage
-  - Investing
+  - Investment
   - Buy
   - Sell
+  - Rent
+  - Let
+  - News
 ---
 The Government announced plans this week to [double the Polish minimum wage over the next 4 years](https://www.bloomberg.com/news/articles/2019-09-09/poland-s-plan-to-skyrocket-minimum-wages-heralds-economic-shift) (Bloomberg), should they be re-elected. What effect will this have on future Polish property prices?
 
