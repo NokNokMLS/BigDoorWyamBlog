@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are OPEN**_
+_**Today the Shops are CLOSED**_
 
 **Tatra Tragedy/  Warsaw - Legia v Rangers/ Krakow - Russian Rumble/Tri-City - Street Racing/ Wroclaw - Residency Permit Problems/ Indian Visit/ Sport - Aussie Rules/Interpol Hunt and more**
 
