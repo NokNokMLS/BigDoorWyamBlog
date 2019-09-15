@@ -10,7 +10,7 @@ Tags:
 ---
 _**Today the Shops are CLOSED**_
 
-**Tatra Tragedy/  Warsaw - Legia v Rangers/ Krakow - Russian Rumble/Tri-City - Street Racing/ Wroclaw - Residency Permit Problems/ Indian Visit/ Sport - Aussie Rules/Interpol Hunt and more**
+**Greenpeace in Gdansk/  Warsaw - Minimum Wage Increase/ Krakow - Date Rape Drug Detection/Tri-City - Model U.N./ Wroclaw - E Scooter Tragedy/ Polish Planet/ Apex in Krakow/ Anne Frank in US/ Opening days of WW2 Podcast and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
