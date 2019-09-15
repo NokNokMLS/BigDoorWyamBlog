@@ -1,5 +1,5 @@
 ---
-Title: The Digest  - 14th September 2019
+Title: The Digest  - 15th September 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-09-14T19:32:56.960Z
