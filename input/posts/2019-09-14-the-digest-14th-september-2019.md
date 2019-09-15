@@ -46,7 +46,7 @@ _Wroclaw_ -  [E-Scootet Tragedy](http://wroclawuncut.com/2019/09/13/tragedy-as-2
 
 **Podcast**
 
-__[_Brilliant Podcast on the first days of WW2 in Poland_](https://play.acast.com/s/dansnowshistoryhit/70edd6ca-66c0-45b4-8aef-76c96b6c52c0) _\- BBC_
+[First days of WW2 Invasion of Poland](https://play.acast.com/s/dansnowshistoryhit/70edd6ca-66c0-45b4-8aef-76c96b6c52c0) - BBC
 
 Have a great Sunday
 
