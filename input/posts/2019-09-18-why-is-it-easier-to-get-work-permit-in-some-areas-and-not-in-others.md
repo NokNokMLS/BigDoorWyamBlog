@@ -14,13 +14,13 @@ According to a recent [money.pl article](https://www.money.pl/gospodarka/ukrainc
 
 The article explains how businesses and intermediaries are targeting those provinces that are responding quicker to applications by setting up registered businesses in each area and when they locate a more efficient service, moving all of their applications there. 
 
-While the law is concerned about the location of the business making the application , they are not concerned about where in Poland the actual work is carried out. Combined with on the ground research (calling the local government agencies and enquiring about application backlogs etc. ) these businesses move applications to their conclusion as quickly as possible but they do report they understand the reason for the delays.
+While the law is concerned about the location of the business making the application , they are not concerned about where in Poland the actual work is carried out. Combined with on the ground research (calling the local government agencies and enquiring about application backlogs etc. ) these businesses move applications to their conclusion as quickly as possible. This will not solve all of the delay issues and recent legislation changes do not seem to have been effective.
 
-[_**Did you know?**_
+[**_Did you know?_**
 ](https://bigdoor24.pl/)
 
 [
-_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_
+**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**
 ](https://bigdoor24.pl/)
 
 The average wait time is supposed to be 30 days but is now closer to 90 with many application refusals being contested through the court system. An average department worker receives 1,900 per month and staffing levels are low and getting lower. 
@@ -31,6 +31,6 @@ So next time you or a friend needs to apply for a work permit, make sure to enqu
 
 Team BigDoor24.pl
 
-[**_About BigDoor24.pl_**](https://bigdoor24.pl/)
+[_**About BigDoor24.pl**_](https://bigdoor24.pl/)
 
-[**_Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing commission discounts & paying you CashBack on successful Polish mortgage applications._**](https://bigdoor24.pl/)
+[_**Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing commission discounts & paying you CashBack on successful Polish mortgage applications.**_](https://bigdoor24.pl/)
