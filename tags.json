@@ -2,7 +2,7 @@
   {
     "Tag": "News",
     "Url": "/tags/News.html",
-    "Weight": 36
+    "Weight": 37
   },
   {
     "Tag": "The Digest",
@@ -12,7 +12,7 @@
   {
     "Tag": "General Information",
     "Url": "/tags/General-Information.html",
-    "Weight": 20
+    "Weight": 21
   },
   {
     "Tag": "Polish Mortgage",
@@ -75,13 +75,18 @@
     "Weight": 2
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
     "Weight": 2
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
     "Weight": 2
   },
   {
@@ -95,38 +100,13 @@
     "Weight": 2
   },
   {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Opole",
     "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Tri-City",
-    "Url": "/tags/Tri-City.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -145,8 +125,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Mortgage",
-    "Url": "/tags/Mortgage.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -155,18 +140,33 @@
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
     "Weight": 1
   },
   {
     "Tag": "Work Permit",
     "Url": "/tags/Work-Permit.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Mortgage",
+    "Url": "/tags/Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   },
   {
