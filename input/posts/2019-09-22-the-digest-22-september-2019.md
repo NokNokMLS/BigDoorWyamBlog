@@ -8,9 +8,9 @@ Tags:
   - News
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
-**Socialism Up/ Warsaw - |Financial Rating/ Poznan - Taxi Driver Superstar/ Krakow - SmogStep/Tri-City - FilmFest/ Wroclaw - Brexit Briefing/ Invading Questions - Russia vs Poland/ Ergo Run/ Film Feest Fracas/ Opening days of WW2 Podcast (again) and more**
+**Socialism Up/ Warsaw - Financial Rating/ Poznan - Taxi Driver Superstar/ Krakow - SmogStep/Tri-City - FilmFest/ Wroclaw - Brexit Briefing/ Invading Questions - Russia vs Poland/ Ergo Run/ Film Fest Fracas/ Opening days of WW2 Podcast (again) and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -38,7 +38,7 @@ _Wroclaw_ -  [Brexit Briefing](http://wroclawuncut.com/2019/09/20/british-embass
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport** -  [Ergo Ru](https://tricitynews.pl/event/the-color-run-at-ergo-arena/)n - TriCity News
 
