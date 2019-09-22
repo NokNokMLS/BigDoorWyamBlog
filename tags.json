@@ -2,12 +2,12 @@
   {
     "Tag": "News",
     "Url": "/BigDoorWyamBlog/tags/News.html",
-    "Weight": 35
+    "Weight": 36
   },
   {
     "Tag": "The Digest",
     "Url": "/BigDoorWyamBlog/tags/The-Digest.html",
-    "Weight": 27
+    "Weight": 28
   },
   {
     "Tag": "General Information",
@@ -65,18 +65,8 @@
     "Weight": 3
   },
   {
-    "Tag": "Katowice",
-    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Statistics",
-    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
+    "Tag": "Lodz",
+    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
     "Weight": 2
   },
   {
@@ -85,8 +75,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Gdansk",
-    "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
+    "Tag": "Poznan",
+    "Url": "/BigDoorWyamBlog/tags/Poznan.html",
     "Weight": 2
   },
   {
@@ -95,9 +85,44 @@
     "Weight": 2
   },
   {
-    "Tag": "Lodz",
-    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
+    "Tag": "Katowice",
+    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
     "Weight": 2
+  },
+  {
+    "Tag": "Gdansk",
+    "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Statistics",
+    "Url": "/BigDoorWyamBlog/tags/Statistics.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/BigDoorWyamBlog/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/BigDoorWyamBlog/tags/Airbnb.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/BigDoorWyamBlog/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Weight": 1
   },
   {
     "Tag": "Rzeszow",
@@ -105,8 +130,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/BigDoorWyamBlog/tags/Opole.html",
+    "Tag": "Lublin",
+    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/BigDoorWyamBlog/tags/Podcast.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Work Permit",
+    "Url": "/BigDoorWyamBlog/tags/Work-Permit.html",
     "Weight": 1
   },
   {
@@ -120,48 +155,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/BigDoorWyamBlog/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
     "Tag": "NEWS",
     "Url": "/BigDoorWyamBlog/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Work Permit",
-    "Url": "/BigDoorWyamBlog/tags/Work-Permit.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/BigDoorWyamBlog/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Mortgage",
-    "Url": "/BigDoorWyamBlog/tags/Mortgage.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/BigDoorWyamBlog/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Podcast",
-    "Url": "/BigDoorWyamBlog/tags/Podcast.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/BigDoorWyamBlog/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -170,8 +165,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/BigDoorWyamBlog/tags/Airbnb.html",
+    "Tag": "Mortgage",
+    "Url": "/BigDoorWyamBlog/tags/Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/BigDoorWyamBlog/tags/Torun.html",
     "Weight": 1
   }
 ]
