@@ -24,12 +24,16 @@ As the Rugby World Cup begins in Tokyo this week we thought we would list some p
 
 **Wroclaw** - Look in at  [Winners](http://thewinnerspub.pl/) which opens at 12.00 p.m. so at least you can catch the last games of the day.
 
+**Katowice** - Monopol Hotel has been mentioned as a possible venue but nothing confirmed.
+
 Our research made pretty clear that there is not a lot of places making any serious effort to show the games. If you know for a fact there is a rugby friendly bar out there please let us know and we will add it to the list.
 
 Have a Great 'Rucking Tournament
 
 Team BigDoor24
 
-[About BigDoor24.pl](https://bigdoor24.pl)
+[About BigDoor24.pl
+](https://bigdoor24.pl)
 
-[Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing commission discounts & paying you CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a CashBack. Register for details.](https://bigdoor24.pl)
+[
+Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing commission discounts & paying you CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a CashBack. Register for details.](https://bigdoor24.pl)
