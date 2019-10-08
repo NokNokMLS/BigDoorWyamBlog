@@ -65,6 +65,11 @@
     "Weight": 3
   },
   {
+    "Tag": "Katowice",
+    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Gdansk",
     "Url": "/BigDoorWyamBlog/tags/Gdansk.html",
     "Weight": 2
@@ -75,8 +80,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/BigDoorWyamBlog/tags/Szczecin.html",
+    "Tag": "Lodz",
+    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
     "Weight": 2
   },
   {
@@ -85,13 +90,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Katowice",
-    "Url": "/BigDoorWyamBlog/tags/Katowice.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Lodz",
-    "Url": "/BigDoorWyamBlog/tags/Lodz.html",
+    "Tag": "Szczecin",
+    "Url": "/BigDoorWyamBlog/tags/Szczecin.html",
     "Weight": 2
   },
   {
@@ -105,18 +105,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/BigDoorWyamBlog/tags/Wroclaw-Uncut.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Mortgage",
-    "Url": "/BigDoorWyamBlog/tags/Mortgage.html",
+    "Tag": "NEWS",
+    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -125,18 +115,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/BigDoorWyamBlog/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/BigDoorWyamBlog/tags/Rzeszow.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/BigDoorWyamBlog/tags/Bialystok.html",
+    "Tag": "Wroclaw Uncut",
+    "Url": "/BigDoorWyamBlog/tags/Wroclaw-Uncut.html",
     "Weight": 1
   },
   {
@@ -145,18 +125,8 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/BigDoorWyamBlog/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Olsztyn",
     "Url": "/BigDoorWyamBlog/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Tri-City",
-    "Url": "/BigDoorWyamBlog/tags/Tri-City.html",
     "Weight": 1
   },
   {
@@ -165,13 +135,43 @@
     "Weight": 1
   },
   {
-    "Tag": "Podcast",
-    "Url": "/BigDoorWyamBlog/tags/Podcast.html",
+    "Tag": "Rzeszow",
+    "Url": "/BigDoorWyamBlog/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Tri-City",
+    "Url": "/BigDoorWyamBlog/tags/Tri-City.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/BigDoorWyamBlog/tags/Home-Loan.html",
     "Weight": 1
   },
   {
     "Tag": "Kielce",
     "Url": "/BigDoorWyamBlog/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Mortgage",
+    "Url": "/BigDoorWyamBlog/tags/Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/BigDoorWyamBlog/tags/Airbnb.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Bialystok",
+    "Url": "/BigDoorWyamBlog/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/BigDoorWyamBlog/tags/Podcast.html",
     "Weight": 1
   }
 ]
