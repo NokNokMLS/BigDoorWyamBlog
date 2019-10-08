@@ -24,6 +24,10 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 [Lidia Kloss - Institute of Economics, Szczecin](file:///C:/Users/johng/Downloads/UFJ_2014_3_3_4%20(1).pdf) (2014)
 
+[**Did you know ?**](https://bigdoor24.pl/)
+
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+
 "Most travellers do not need to take special food or water precautions beyond what they normally do.... " [Centre for Disease Control (U.S. Government)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland?s_cid=ncezid-dgmq-travel-single-001)
 
 "However, in Poland and many other countries, more than 25 percent of bottled water is just treated tap water. Bottled water is often nothing more than expensive tap water run through a filter, something that can be done in any home for a much smaller cost than buying bottled water" - [The Borgen Project](https://borgenproject.org/reports-water-quality-in-poland/) - (2017)
@@ -40,6 +44,4 @@ Happy Sipping!
 
 The BigDoor24 Team
 
-**About BigDoor24.pl - Just Easier** - [A free service matching Expats with Property experts who speak your language, offering Polish Mortgage Cash-Backs, Commission discounts and more  - see our HOMEPAGE for further info.](https://bigdoor24.pl/)
-
-Register [here](https://bigdoor24.pl/) for your personal referral code and **receive zl. 250** for every successful mortgage applicant referred. ( t&c apply)
+**About BigDoor24.pl - Just Easier** - [A new free service matching Expats in Poland with Property experts who speak your language, offering Polish Mortgage Cash-Backs, Commission Discounts and more  - see our HOMEPAGE for further info.](https://bigdoor24.pl/)
