@@ -1,5 +1,5 @@
 ---
-Title: Why is it easier to get a Work Permit in some provinces more than others?
+Title: Work Permit - Why are some Polish provinces easier than others?
 Author: Team BigDoor24
 Lead: 'The process is the same, the time taken is not'
 Published: 2019-09-18T09:06:14.469Z
