@@ -3,13 +3,14 @@ Title: The Digest  - 13th October 2019
 Author: Team BigDoor24
 Lead: Your Weekly Polish News Roundup
 Published: 2019-10-13T07:13:24.514Z
+Image: /../assets/Images/thedigest13oct.jpg
 Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
-**Swiss Time/ Warsaw - Visa Free/ Katowice - Mine Injuries/Krakow - Killer Air/Tri-City - MotorCross/ Wroclaw - Nazi Trains/ Faith in Poland/ Volley Ball Loss/ Clever Car/ Tesco Fishing and more**
+**Nobel Winner/ Warsaw - Heroin Heist/ Rzeszow - Congress590/ Krakow - Scottish Connection/Tri-City - Museum Review/ Wroclaw - Attacking Equality/ Human Trafficking in Poland/ Lewandowski Triple/ Election Fever/ Economist Radio Podcast Polish Elections and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -21,33 +22,33 @@ _**Today the Shops are CLOSED**_
 
 **Local**
 
-_Warsaw_ - [Poles to join U.S. Waiver Programme](https://www.tvn24.pl/tvn24-news-in-english,157,m/daniel-fried-former-u-s-ambassador-talks-on-visa-waiver-for-poland,974868.html) - TVN (Video)
+_Warsaw_ - [Heroin Heist ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)- TVN
 
-_Katowice_ - [Mine Injuries](https://www.euronews.com/2019/10/03/earthquake-injures-17-inside-polish-coal-mine) - EuroNews
+_Rzeszow -_ [Congress590 Kick Off](https://www.thefirstnews.com/article/congress-590-kicks-off-in-rzeszow-7974) - FirstNews
 
-_Krakow_  - [Micro-plastics in the Air](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-microplastics-discovered-in-the-air-in-krakow,974287.html) - TVN (Video)
+_Krakow_  - [The Scottish Connection](http://www.krakowpost.com/21780/2019/09/krakow-and-edinburgh-renew-their-partnership) - KrakowPost
 
-_TriCity_ -  [Euro MotorCross ](http://www.automobilsport.com/race-categories--24,198548,Gdansk-is-ready-for-action-as-Europes-best-riders-gather-for-Motocross-of-European-Nations,news.htm)- AutoMobileSport
+_TriCity_ -  [Museum Review](https://www.eurekalert.org/pub_releases/2019-10/dg-mot100919.php) - Eurekalert
 
-_Wroclaw_ -  [Nazi Trains](http://wroclawuncut.com/2019/10/01/swastikas-hang-at-dworzec-glowny-for-filming-of-historical-movie/) - WroclawUncut 
+_Wroclaw_ -  [Equality Attacked](http://wroclawuncut.com/2019/10/08/man-who-tried-to-attack-equality-march-is-detained-on-terror-charges/) - WroclawUncut 
 
 **International**
 
-[Faith in Poland](https://www.theguardian.com/world/2019/oct/05/family-faith-flag-catholic-religious-right-battle-polands-soul?CMP=Share_AndroidApp_Zoho_Mail) - The Guardian
+[Human Trafficking in Poland](https://www.tvn24.pl/tvn24-news-in-english,157,m/filipino-drivers-exploited-by-human-traffickers-report-by-superwizjer-tvn,972621.html) - TVN (Video)
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-**Sport** -  [VolleyBall Loss](https://www.polskieradio.pl/395/7790/Artykul/2377927,Poland-beaten-by-America-in-Volleyball-World-Cup) - TheNews
+**Sport** - [Lewandowski Hat Trick](https://www.polskieradio.pl/395/7790/Artykul/2381731,Football-Poland-beat-Latvia-after-Lewandowski-hattrick)  - TheNews
 
 **Odds & Ends**
 
-[Lost your Passport? Buy a Car ](https://www.gloucestershirelive.co.uk/news/uk-world-news/stag-party-loses-passport-trip-3393462)- Gloucestershire Live
+[Yeah yeah , we know who is going to win ... Election Review](https://www.npr.org/2019/10/12/768537341/as-an-election-nears-in-poland-church-and-state-are-a-popular-combination?t=1570952359023) - NPR
 
 **Podcast**
 
-[Fishing in Tescos's](https://www.krakcast.pl/e/krakcast-%e2%80%93-news-1569938770/) - KrakCast
+[A Crucial Election](https://www.economist.com/podcasts/2019/10/11/questions-of-judicial-independence-and-rule-of-law-are-pretty-abstract-to-most-polands-crucial-election) - TheEconomist Podcast
 
 Have a great Sunday
 
