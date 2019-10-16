@@ -8,6 +8,12 @@ Tags:
   - News
   - General Information
 ---
+[**New to Poland? Like us on Facebook now to get regular updates on living and working in Poland as an Expat**](https://www.facebook.com/bigdoor24/)
+
+<div class="sharethis-inline-share-buttons"></div>
+
+
+
 With the onset of summer, (whenever it arrives!) and the recent publication of the [UN Global assessment report](https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report), we at [BigDoor24.pl](https://bigdoor24.pl/) thought a lot about what we could do, in our own little way, to stop or slow down the findings of this report.
 
 Running around a city Rynek screaming "We are all f$*ked!" seemed unlikely to change minds and anyway, it's been too cold recently to do this effectively (i.e. naked). So we settled on Water, or more particularly, plastic water bottles and the myth that Polish Tap water was in some way not safe to drink.
@@ -26,7 +32,7 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 "Most travellers do not need to take special food or water precautions beyond what they normally do.... " [Centre for Disease Control (U.S. Government)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland?s_cid=ncezid-dgmq-travel-single-001)
 
