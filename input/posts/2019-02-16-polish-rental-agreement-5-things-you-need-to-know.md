@@ -12,6 +12,10 @@ Tags:
 ---
 Not knowing some basic things about a Rental Agreement is just a gamble.
 
+[**New to Poland? Like us on Facebook now to get valuable updates on living and working in Poland as an Expat**](https://www.facebook.com/bigdoor24/)
+
+<div class="sharethis-inline-share-buttons"></div>
+
 Let's start with the important point that rental contracts are civil rather than state agreements and so what is in them will determine how smoothly they operate and how they end. Therefore, it's very important that before you sign you know what's in the contract, what's not  .. and what should be. 
 
 The vast majority of contracts are incident free, but for Expats , there is the extra obvious language concern. Our suggestions below are for those who do not engage a property broker to help them.  We would note that it may be possible, even though you have located a property yourself, to engage the services of an agent to help you with the final contract signing for a nominal sum (maybe zl. 100 or zl. 200 - certainly less than a full commission) 
@@ -44,7 +48,7 @@ All communication, however small, should be made between both parties in written
 
 **\- About BigDoor24.pl**
 
-**We are a new free online service that matches Expats with property professionals that speak their language, providing cashback on home loans, in-built discounts and more. If you would like to support our service please **[**like our page on FB**](https://www.facebook.com/bigdoor24/)** now.**
+**We are a new free online service that matches Expats with property professionals that speak their language, providing cashback on home loans, in-built discounts and more. If you would like to support our service please** [**like our page on FB**](https://www.facebook.com/bigdoor24/) **now.**
 
 Please note that the above article is opinion only and so for legal issues covering any contract you should engage qualified professionals in your area.
 
