@@ -29,7 +29,7 @@ Having assigned an agent lets now see what they should do for you.
 
 **Time is Money**
 
-If you have decided to sell your property then we assume that you would like to sell it immediately. The speed at which you sell it will be determined to a large extent in the price you list at. Advertise to sell at zl. 1 and it is likely you will have a contract by the end of the day. Overvalue the property and your property will soon become stale and give the impression that nobody is interested and there may be something wrong with the property.
+If you have decided to sell your property then we assume that you would like to sell it immediately. The speed at which you sell it will be determined to a large extent by the price you list at. Advertise to sell at zl. 1 and it is likely you will have a contract by the end of the day. Overvalue the property and your property will soon become stale and give the impression that nobody is interested and there may be something wrong with the property.
 
 The agent should be able to give you a proper guide as to exactly how much you should expect to sell for, how much to advertise it for and this in itself may save you money in either a higher price and/or a quicker sale. When choosing an agent, ask them about other similar properties they have sold in your area to gauge their level of expertise.
 
