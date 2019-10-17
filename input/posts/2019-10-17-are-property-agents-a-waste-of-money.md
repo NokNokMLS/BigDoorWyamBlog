@@ -10,7 +10,6 @@ Tags:
   - Sell
   - Let
   - Polish Mortgage
-  - ''
 ---
 In a recent Bloomberg article claiming that [German and American property agents were ripping off their clients](https://www.bloomberg.com/opinion/articles/2019-10-11/real-estate-agents-don-t-deserve-6) in high fees and low service we decided it was time to look at what Polish property Agents do, don't do and where does your commission go.
 
