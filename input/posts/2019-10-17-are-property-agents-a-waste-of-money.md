@@ -61,7 +61,7 @@ Try to structure the commission to reflect the effort. Let's imagine you are sel
 
 **Help the buyer, help yourself.**
 
-If a buyer needs a Polish Mortgage they will need an official valuation report fro their bank. It may be a good idea for you to commission this report yourself. You can show this to any buyer during negotiations if they wont reach your price and even sell the report to them to use in their mortgage application. The cost can be anything from zl. 500 upwards and make sure the valuer you choose is approved by all banks rather than just a few of them.
+If a buyer needs a Polish Mortgage they will need an official valuation report from their bank. It may be a good idea for you to commission this report yourself. You can show this to any buyer during negotiations if they wont reach your price and even sell the report to them to use in their mortgage application. The cost can be anything from zl. 500 upwards and make sure the valuer you choose is approved by all banks rather than just a few of them.
 
 And don't forget, by referring a successful Polish Mortgage applicant to us, BigDoor24.pl, you get zl. 250 and they get zl. 200 for every zl. 100,000 they borrow. [Register](https://bigdoor24.pl/) for more details and [Like us now on Facebook](https://www.facebook.com/bigdoor24/) for regular articles on working and living in Poland.
 
