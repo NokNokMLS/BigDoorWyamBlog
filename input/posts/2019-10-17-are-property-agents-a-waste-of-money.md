@@ -1,5 +1,5 @@
 ---
-Title: Are Property Agents a Waste of Money?
+Title: Are Polish Property Agents a Waste of Money?
 Author: Team BigDoor24
 Lead: Series - 1/4 - Selling your Property
 Published: 2019-10-17T11:55:16.053Z
@@ -47,7 +47,7 @@ By hiring an agent you also provide some level of trust in the buyer as it would
 
 **Is this worth 3 % of a sale price?** 
 
-Assuming you are selling fro zl. 500,000 that is zl. 15,000 + VAT  ( zl. 18,450 gross). That's a lot and if you add in the fact that the buyer may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
+Assuming you are selling for zl. 500,000 that is zl. 15,000 + VAT  ( zl. 18,450 gross). That's a lot and if you add in the fact that the buyer may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
 
 The answer really lies in your level of confidence in selling your own property, your access to the advertising portals, ability to correctly value your own property in a constantly moving market and the legal requirements and paperwork 
 
@@ -63,7 +63,7 @@ Try to structure the commission to reflect the effort. Let's imagine you are sel
 
 If a buyer needs a Polish Mortgage they will need an official valuation report from their bank. It may be a good idea for you to commission this report yourself. You can show this to any buyer during negotiations if they wont reach your price and even sell the report to them to use in their mortgage application. The cost can be anything from zl. 500 upwards and make sure the valuer you choose is approved by all banks rather than just a few of them.
 
-And don't forget, by referring a successful Polish Mortgage applicant to us, BigDoor24.pl, you get zl. 250 and they get zl. 200 for every zl. 100,000 they borrow. [Register](https://bigdoor24.pl/) for more details and [Like us now on Facebook](https://www.facebook.com/bigdoor24/) for regular articles on working and living in Poland.
+**Don't forget**, by referring a successful Polish Mortgage applicant to us, BigDoor24.pl, you get zl. 250 and they get zl. 200 for every zl. 100,000 they borrow. [Register](https://bigdoor24.pl/) for more details and [Like us now on Facebook](https://www.facebook.com/bigdoor24/) for regular articles on working and living in Poland.
 
 The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make.
 
