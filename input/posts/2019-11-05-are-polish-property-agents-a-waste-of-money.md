@@ -24,7 +24,7 @@ In the second of our series we will look at
 
 There are essentially two types of properties. New developments and second hand properties. 
 
-Straight of the bat we would suggest that you should NOT pay commission on buying a new Development. Developers sell the apartments themselves and also use agents, whom they pay a commission to. Agents know that buyers can go directly to a Developer so they do not normally charge a commission. It is for this reason that you should definitely use an agent. You get all the benefit of their wisdom and expertise, along with legal potholes without any extra charge.
+Straight off the bat we would suggest that you should NOT pay commission on buying a new Development. Developers sell the apartments themselves and also use agents, whom they pay a commission to. Agents know that buyers can go directly to a Developer so they do not normally charge a commission. It is for this reason that you should definitely use an agent. You get all the benefit of their wisdom and expertise, along with legal potholes without any extra charge.
 
 **How can a Polish property agent help you ?**
 
