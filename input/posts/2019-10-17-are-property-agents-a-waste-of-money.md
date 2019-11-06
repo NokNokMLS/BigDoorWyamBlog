@@ -69,4 +69,4 @@ The value of a property agent can be quite a subjective decision but hopefully t
 
 Happy Selling
 
-Team BIgDoor24
+Team BigDoor24
