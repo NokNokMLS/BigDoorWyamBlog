@@ -35,11 +35,11 @@ When buying any property it is certainly worth having someone who knows the proc
 
 A good agent can ensure that you find the property you want, or at least a good selection based on your requirements. They will arrange property visits, negotiate the price, check the ownership in the courts on the day of signing any agreement, arrange the notary and translator and any valuers/ engineers you need to feel comfortable moving forward. If they are representing both sides then be aware that an agent is primarily trying to get the deal closed at the highest price, in that order. 
 
-One way of ensuring that you are not paying too much is to get an official valuation done. Even if you are not getting a polish mortgage it may still be worthwhile. For added security, consider a small mortgage. This ensures the bank will check all of the elements of the purchase too. If the bank wont lend you money because of the price of the property then maybe you should consider walking away too.
+One way of ensuring that you are not paying too much is to get an official valuation done. Even if you are not getting a Polish mortgage it may still be worthwhile. For added security, consider a small mortgage. This ensures the bank will check all of the elements of the purchase too. If the bank wont lend you money because of the price of the property then maybe you should consider walking away too.
 
 **Is this worth 3 % of a purchase price?** 
 
-Assuming you are buying for zl. 500,000 commission will be zl. 15,000 + VAT  ( zl. 18,450 gross (Less if you go through BigDoor24.pl). That's a lot and if you add in the fact that the seller may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
+Assuming you are buying for zl. 500,000 commission will be zl. 15,000 + VAT  (zl. 18,450 gross) (Less if you go through BigDoor24.pl). That's a lot and if you add in the fact that the seller may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
 
 The answer really lies in your level of confidence in buying your own property, your access to the property professionals ( lawyers, notaries, valuers etc.) and good access to information on pricing and negotiating skills.
 
@@ -49,11 +49,11 @@ Absolutely.
 
 Property brokers know generally how long the process of buying each type of property is going to take. If it's a second hand apartment that is relatively new then the process will be easier than a farmhouse in the countryside beside agricultural land.
 
-But they want the same fee. Assuming you are pretty clear about what it is you want to buy then it is worth having a conversation with the agent at the beginning and once you have outlined your requirements, ask for a fixed fee that reflects the work involved. A good agent will say no if you go to low but a bad one may not and you will end up with nothing so don't try and lowball too much. One tactic may be to ask them to suggest a fee that they would be comfortable with. You may be surprised how low they may go. Just engage with one agent rather than lots of them and tell them that you are doing this. This again can help keep the fee lower and result in a successful process.
+But they want the same fee. Assuming you are pretty clear about what it is you want to buy then it is worth having a conversation with the agent at the beginning and once you have outlined your requirements, ask for a fixed fee that reflects the work involved. A good agent will say no if you go to low but a bad one may not and you will end up with nothing so don't try and low-ball too much. One tactic may be to ask them to suggest a fee that they would be comfortable with. You may be surprised how low they may go. Just engage with one agent rather than lots of them and tell them that they are exclusive. This again can help keep the fee lower and result in a successful process.
 
 **Help the Seller, help yourself.**
 
-Try to find out through your agent why the seller is selling. If time is a factor this may help you in negotiations. Make an affort to get to know the seller a bit as they are more likely to accommodate someone they like than a complete stranger. Enquire what the seller wants to do with the fixtures and furniture and ask as many stupid questions as you can think of as there may not be time later for renegotiation. Polish sellers regularly take the curtain fittings, plugs or mirrors with them when selling unless already agreed for so do not assume anything when negotiating.
+Try to find out through your agent why the seller is selling. If time is a factor this may help you in negotiations. Make an effort to get to know the seller a bit as they are more likely to accommodate someone they like rather than a complete stranger. Enquire what the seller wants to do with the fixtures and furniture and ask as many stupid questions as you can think of as there may not be time later for re-negotiation. Polish sellers regularly take the curtain fittings, plugs or mirrors with them when selling unless already agreed to so do not assume anything when negotiating.
 
 And don't forget, by referring a successful Polish Mortgage applicant to us, BigDoor24.pl, you get zl. 250 and they get zl. 200 for every zl. 100,000 they borrow. [Register](https://bigdoor24.pl/) for more details and [Like us now on Facebook](https://www.facebook.com/bigdoor24/) for regular articles on working and living in Poland.
 
