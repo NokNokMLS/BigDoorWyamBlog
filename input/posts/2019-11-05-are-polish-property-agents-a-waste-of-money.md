@@ -27,29 +27,21 @@ There are essentially two types of properties. New developments and second hand 
 
 Straight off the bat we would suggest that you should NOT pay commission on buying a new Development. Developers sell the apartments themselves and also use agents, whom they pay a commission to. Agents know that buyers can go directly to a Developer so they do not normally charge a commission. It is for this reason that you should definitely use an agent. You get all the benefit of their wisdom and expertise, along with legal potholes without any extra charge.
 
+For second hand properties, things get a bit more complicated. There is paperwork from the courts, valuation reports, building reports (a broken chimney is not always obvious etc.). If you are well connected you may be able to get your lawyer to do the paperwork but on an hourly rate this can sometimes add up. We would suggest that you definitely get either a lawyer or a property agent to help you but agree a fixed fee beforehand.
+
 **How can a Polish property agent help you ?**
 
-If you have decided to sell your property then we assume that you would like to sell it immediately. The speed at which you sell it will be determined to a large extent by the price you list at. Advertise to sell at zl. 1 and it is likely you will have a contract by the end of the day. Overvalue the property and your property will soon become stale and give the impression that nobody is interested and there may be something wrong with the property.
+When buying any property it is certainly worth having someone who knows the process to help. Agents in Poland are allowed to represent and collect fees from both buyers and sellers of a property. This, we would suggest can easily lead to conflict of interest. 
 
-The agent should be able to give you a proper guide as to exactly how much you should expect to sell for, how much to advertise it for and this in itself may save you money in either a higher price and/or a quicker sale. When choosing an agent, ask them about other similar properties they have sold in your area to gauge their level of expertise.
+A good agent can ensure that you find the property you want, or at least a good selection based on your requirements. They will arrange property visits, negotiate the price, check the ownership in the courts on the day of signing any agreement, arrange the notary and translator and any valuers/ engineers you need to feel comfortable moving forward. If they are representing both sides then be aware that an agent is primarily trying to get the deal closed at the highest price, in that order. 
 
-Once agreed, the agent will check the court records to confirm your ownership and exact measurements as it is their responsibility to ensure that what is being offered is a proper and correct description. 
+One way of ensuring that you are not paying too much is to get an official valuation done. Even if you are not getting a polish mortgage it may still be worthwhile. For added security, consider a small mortgage. This ensures the bank will check all of the elements of the purchase too. If the bank wont lend you money because of the price of the property then maybe you should consider walking away too.
 
-Some agents will take pictures only but others may organise video, 3D rendering and compose and publish the adverts on all major property portals. They may also push the property internally to clients of the agency who are looking to buy. Agents pay for the advertising themselves. They may also provide a "For Sale" Banner for display.
+**Is this worth 3 % of a purchase price?** 
 
-Once they receive some interest they will arrange viewings and attempt to open up negotiations for a sale. Bad agents just let buyers walk away without finding out why, good agents will always know.  The proper management of this process is crucial as the more feedback you get the better you should be able to tailor your offer and manage the final negotiations. For example, if everyone mentions the noisy dog next door, expect this to be brought up in any final negotiations on price.
+Assuming you are buying for zl. 500,000 commission will be zl. 15,000 + VAT  ( zl. 18,450 gross (Less if you go through BigDoor24.pl). That's a lot and if you add in the fact that the seller may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
 
-Upon completion of the negotiations, the agent will arrange the Notary appointment for both the preliminary and final agreement signings. The buyer may or may not be a direct client of the agent and in a lot of cases may be from a different agency.
-
-Once the agreement is signed the agent should then manage the hand over of keys , checking utility levels etc..
-
-By hiring an agent you also provide some level of trust in the buyer as it would be assumed that they have a legal obligation to ensure the property is transferred properly etc. This may add an un-quantifiable amount to the eventual sale price.
-
-**Is this worth 3 % of a sale price?** 
-
-Assuming you are selling fro zl. 500,000 that is zl. 15,000 + VAT  ( zl. 18,450 gross). That's a lot and if you add in the fact that the buyer may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
-
-The answer really lies in your level of confidence in selling your own property, your access to the advertising portals, ability to correctly value your own property in a constantly moving market and the legal requirements and paperwork 
+The answer really lies in your level of confidence in buying your own property, your access to the property professionals ( lawyers, notaries, valuers etc.) and good access to information on pricing and negotiating skills.
 
 **Can you negotiate?**
 
