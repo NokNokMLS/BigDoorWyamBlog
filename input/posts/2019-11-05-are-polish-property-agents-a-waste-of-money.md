@@ -3,7 +3,7 @@ Title: Are Polish Property Agents a Waste of Money
 Author: Team BigDoor24
 Lead: Series 2/4 - Buying a Property
 Published: 2019-11-05T11:35:25.192Z
-Image: /../assets/Images/agent-selling-tips.jpg
+Image: /../assets/Images/property-agents-buying.jpg
 Tags:
   - Buy
   - Let
@@ -47,18 +47,18 @@ The answer really lies in your level of confidence in buying your own property, 
 
 Absolutely.
 
-To increase your sales price and the number of possible buyers try to demand that the agent does not charge a buyer any commission. This is actually easier than you would think to do as the agency market is quite competitive and a good agent will let you do this.
+Property brokers know generally how long the process of buying each type of property is going to take. If it's a second hand apartment that is relatively new then the process will be easier than a farmhouse in the countryside beside agricultural land.
 
-Try to structure the commission to reflect the effort. Let's imagine you are selling a property worth around zl. 500,000. Well it is likely any fool could sell it for zl. 400,000 so why pay commission on that? Every extra zl. 10,000 an agent gets for you is only worth zl. 300 for them so they wont really care if they get zl. 500,000 or zl. 510,000 .. but you will.Try to structure the commission so you get the optimum amount.
+But they want the same fee. Assuming you are pretty clear about what it is you want to buy then it is worth having a conversation with the agent at the beginning and once you have outlined your requirements, ask for a fixed fee that reflects the work involved. A good agent will say no if you go to low but a bad one may not and you will end up with nothing so don't try and lowball too much. One tactic may be to ask them to suggest a fee that they would be comfortable with. You may be surprised how low they may go. Just engage with one agent rather than lots of them and tell them that you are doing this. This again can help keep the fee lower and result in a successful process.
 
-**Help the buyer, help yourself.**
+**Help the Seller, help yourself.**
 
-If a buyer needs a Polish Mortgage they will need an official valuation report from their bank. It may be a good idea for you to commission this report yourself. You can show this to any buyer during negotiations if they wont reach your price and even sell the report to them to use in their mortgage application. The cost can be anything from zl. 500 upwards and make sure the valuer you choose is approved by all banks rather than just a few of them.
+Try to find out through your agent why the seller is selling. If time is a factor this may help you in negotiations. Make an affort to get to know the seller a bit as they are more likely to accommodate someone they like than a complete stranger. Enquire what the seller wants to do with the fixtures and furniture and ask as many stupid questions as you can think of as there may not be time later for renegotiation. Polish sellers regularly take the curtain fittings, plugs or mirrors with them when selling unless already agreed for so do not assume anything when negotiating.
 
 And don't forget, by referring a successful Polish Mortgage applicant to us, BigDoor24.pl, you get zl. 250 and they get zl. 200 for every zl. 100,000 they borrow. [Register](https://bigdoor24.pl/) for more details and [Like us now on Facebook](https://www.facebook.com/bigdoor24/) for regular articles on working and living in Poland.
 
-The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make.
+The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make. We have lots more articles in our [Blog section](https://bigdoor24.pl/blog/) that may also help in your adventure.
 
-Happy Selling
+Happy Buying
 
 Team BIgDoor24
