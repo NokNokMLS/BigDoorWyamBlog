@@ -10,7 +10,7 @@ Tags:
 ---
 **_Today the Shops are CLOSED_**
 
-**Nobel Winner/ Warsaw - Heroin Heist/ Rzeszow - Congress590/ Krakow - Scottish Connection/Tri-City - Museum Review/ Wroclaw - Attacking Equality/ Human Trafficking in Poland/ Lewandowski Triple/ Election Fever/ Economist Radio Podcast Polish Elections and more**
+**Polish Nationhood/ Warsaw - New Traffic Cop Powers/ Poznan - Easy Tiger/ Krakow - Bagatella Sex Abuse/Tri-City - $3 Billion for Port/ Wroclaw - Strip Club Death/ Islamophobia in Poland/ Polish WADA Head/ TikTok Teen/ Versailles Treaty Podcast and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -24,7 +24,7 @@ Tags:
 
 _Warsaw_ -[ ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)[New Police Traffic Powers](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-police-has-more-powers-when-conducting-road-stops,984018.html) - TVN (Video)
 
-_Poznan -_ [Starving Tigers recover in Poznan Zoo](https://www.dailymail.co.uk/news/article-7667931/Starving-tigers-covered-excrement-tiny-cages-lorry-recovering-Polish-zoo.html) - Daily Mail
+_Poznan -_ [Starving Tigers Recover in Poznan Zoo](https://www.dailymail.co.uk/news/article-7667931/Starving-tigers-covered-excrement-tiny-cages-lorry-recovering-Polish-zoo.html) - Daily Mail
 
 _Krakow_  - [Bagatela Sexual Harassment](https://www.tvn24.pl/tvn24-news-in-english,157,m/inquiry-into-bagatela-theatre-sexual-abuse-scandal-director-on-leave,983828.html)  - TVN (Video)
 
