@@ -1,5 +1,5 @@
 ---
-Title: Are Polish Property Agents a Waste of Money?
+Title: Are Polish Property Agents a Waste of Money? - Selling
 Author: Team BigDoor24
 Lead: Series - 1/4 - Selling your Property
 Published: 2019-10-17T11:55:16.053Z
