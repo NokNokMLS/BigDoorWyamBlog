@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
 **Nobel Winner/ Warsaw - Heroin Heist/ Rzeszow - Congress590/ Krakow - Scottish Connection/Tri-City - Museum Review/ Wroclaw - Attacking Equality/ Human Trafficking in Poland/ Lewandowski Triple/ Election Fever/ Economist Radio Podcast Polish Elections and more**
 
@@ -18,37 +18,37 @@ _**Today the Shops are CLOSED**_
 
 **National**
 
-[Nobel Poland](https://www.theguardian.com/books/2019/oct/10/olga-tokarczuk-the-dreadlocked-feminist-winner-the-nobel-needed?CMP=Share_AndroidApp_Zoho_Mail) - Guardian
+[How Poland became a Nation after WW1](https://www.thefirstnews.com/article/how-poland-became-a-nation-again-after-wwi) - FirstNews
 
 **Local**
 
-_Warsaw_ - [Heroin Heist ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)- TVN
+_Warsaw_ -[ ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)[New Police Traffic Powers](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-police-has-more-powers-when-conducting-road-stops,984018.html) - TVN (Video)
 
-_Rzeszow -_ [Congress590 Kick Off](https://www.thefirstnews.com/article/congress-590-kicks-off-in-rzeszow-7974) - FirstNews
+_Poznan -_ [Starving Tigers recover in Poznan Zoo](https://www.dailymail.co.uk/news/article-7667931/Starving-tigers-covered-excrement-tiny-cages-lorry-recovering-Polish-zoo.html) - Daily Mail
 
-_Krakow_  - [The Scottish Connection](http://www.krakowpost.com/21780/2019/09/krakow-and-edinburgh-renew-their-partnership) - KrakowPost
+_Krakow_  - [Bagatela Sexual Harassment](https://www.tvn24.pl/tvn24-news-in-english,157,m/inquiry-into-bagatela-theatre-sexual-abuse-scandal-director-on-leave,983828.html)  - TVN (Video)
 
-_TriCity_ -  [Museum Review](https://www.eurekalert.org/pub_releases/2019-10/dg-mot100919.php) - Eurekalert
+_TriCity_ -  [$3 Billion Dollar Port Expansion](https://www.maritime-executive.com/article/port-of-gdansk-outlines-3-billion-expansion-plan) - Maritime Executive
 
-_Wroclaw_ -  [Equality Attacked](http://wroclawuncut.com/2019/10/08/man-who-tried-to-attack-equality-march-is-detained-on-terror-charges/) - WroclawUncut 
+_Wroclaw_ -  [Strip Club Death](http://wroclawuncut.com/2019/11/04/strip-club-death-easter-turkish-wroclaw/) - WroclawUncut 
 
 **International**
 
-[Human Trafficking in Poland](https://www.tvn24.pl/tvn24-news-in-english,157,m/filipino-drivers-exploited-by-human-traffickers-report-by-superwizjer-tvn,972621.html) - TVN (Video)
+[Islamophobia in Poland](https://www.youtube.com/watch?v=asGHu2NzvbI) - Al Jazeera (Video)
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
-**Sport** - [Lewandowski Hat Trick](https://www.polskieradio.pl/395/7790/Artykul/2381731,Football-Poland-beat-Latvia-after-Lewandowski-hattrick)  - TheNews
+**Sport** - [Pole Heads WADA](https://www.polskieradio.pl/395/7991/Artykul/2399469,Polish-sports-minister-confirmed-as-new-chief-of-WADA) - TheNews
 
 **Odds & Ends**
 
-[Yeah yeah , we know who is going to win ... Election Review](https://www.npr.org/2019/10/12/768537341/as-an-election-nears-in-poland-church-and-state-are-a-popular-combination?t=1570952359023) - NPR
+[Poznan Teen named Global Transition Queen on TikTok](https://www.thefirstnews.com/article/poznan-teen-crowned-transition-queen-after-racking-up-over-85-million-worldwide-followers-on-tik-tok-app-8503) - FirstNews
 
 **Podcast**
 
-[A Crucial Election](https://www.economist.com/podcasts/2019/10/11/questions-of-judicial-independence-and-rule-of-law-are-pretty-abstract-to-most-polands-crucial-election) - TheEconomist Podcast
+[Versailles Treaty History](https://www.bbc.co.uk/programmes/m000678w) - BBC
 
 Have a great Sunday
 
