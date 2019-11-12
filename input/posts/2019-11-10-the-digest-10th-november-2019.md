@@ -8,7 +8,9 @@ Tags:
   - News
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
+
+_The above picture is how the Polish Nation was drawn up after the Versailles Conference post WW1_
 
 **Polish Nationhood/ Warsaw - New Traffic Cop Powers/ Poznan - Easy Tiger/ Krakow - Bagatella Sex Abuse/Tri-City - $3 Billion for Port/ Wroclaw - Strip Club Death/ Islamophobia in Poland/ Polish WADA Head/ TikTok Teen/ Versailles Treaty Podcast and more**
 
@@ -38,7 +40,7 @@ _Wroclaw_ -  [Strip Club Death](http://wroclawuncut.com/2019/11/04/strip-club-de
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport** - [Pole Heads WADA](https://www.polskieradio.pl/395/7991/Artykul/2399469,Polish-sports-minister-confirmed-as-new-chief-of-WADA) - TheNews
 
