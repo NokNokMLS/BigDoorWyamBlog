@@ -65,13 +65,8 @@
     "Weight": 3
   },
   {
-    "Tag": "Bydgoszcz",
-    "Url": "/tags/Bydgoszcz.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
     "Weight": 2
   },
   {
@@ -95,18 +90,23 @@
     "Weight": 2
   },
   {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
     "Weight": 2
   },
   {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
+    "Tag": "Bydgoszcz",
+    "Url": "/tags/Bydgoszcz.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
-    "Tag": "Tri-City",
-    "Url": "/tags/Tri-City.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -115,13 +115,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
     "Weight": 1
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
     "Weight": 1
   },
   {
@@ -130,23 +130,38 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Opole",
     "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -157,21 +172,6 @@
   {
     "Tag": "Airbnb",
     "Url": "/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
     "Weight": 1
   }
 ]
