@@ -8,7 +8,7 @@ Tags:
   - News
   - General Information
 ---
-[**New to Poland? Like us on Facebook now to get regular updates on living and working in Poland as an Expat**](https://www.facebook.com/bigdoor24/)
+[**New to Poland? Like us now on Facebook to get regular updates on living and working in Poland as an Expat**](https://www.facebook.com/bigdoor24/)
 
 <div class="sharethis-inline-share-buttons"></div>
 
@@ -30,7 +30,7 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
 
 "Most travellers do not need to take special food or water precautions beyond what they normally do.... " [Centre for Disease Control (U.S. Government)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland?s_cid=ncezid-dgmq-travel-single-001)
 
@@ -48,4 +48,6 @@ Happy Sipping!
 
 The BigDoor24 Team
 
-**About BigDoor24.pl - Just Easier** - [A new free service matching Expats in Poland with Property experts who speak your language, offering Polish Mortgage Cash-Backs, Commission Discounts and more  - see our HOMEPAGE for further info.](https://bigdoor24.pl/)
+_**About BigDoor24.pl**_
+
+[Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing Commission Discounts & Paying You CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a Zl. 200 for every Zl. 100k borrowed. Register now for details.](https://bigdoor24.pl/)
