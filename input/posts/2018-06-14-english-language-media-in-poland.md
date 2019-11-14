@@ -10,7 +10,7 @@ Tags:
 ---
 Just a few news sources we recommend for the English speakers amongst us. 
 
-(Note - If you believe we have missed some, please let us now and we'll be happy to update)
+(Note - If you believe we have missed some, please let us now and we'll be happy to update & remember to[ Like us now on Facebook](https://www.facebook.com/bigdoor24/) to see all our articles on living in Poland)
 
 **National**
 
@@ -28,7 +28,7 @@ https://www.thefirstnews.com/
 
 https://poland-today.pl/
 
-**_Video_**
+_**Video**_
 
 https://www.tvn24.pl/tvn24-news-in-english,157,m
 
@@ -36,7 +36,7 @@ https://polandin.com/
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Warsaw**
 
@@ -67,3 +67,7 @@ https://tricitynews.pl/
 **Culture**
 
 Culture.pl
+
+_**About BigDoor24.pl**_
+
+[Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing Commission Discounts & Paying You CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a Zl. 200 for every Zl. 100k borrowed. Register now for details.](https://bigdoor24.pl/)
