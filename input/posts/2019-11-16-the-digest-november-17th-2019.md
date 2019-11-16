@@ -7,9 +7,9 @@ Image: /../assets/Images/digest-17th-november-2019.jpg
 Tags:
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
-**Sex-Ed Skirmish/ Warsaw - New Metro/ Poznan - Wife Killer is a Serial Killer?/ Krakow - Airport Soars/Tri-City - SOS Homeless Bus Rides Again/ Wroclaw - Far Right Daddy/ Katowice - Girl Hit Twice/ Netflix Nazi's/ Lewandowski & Life/ Polish Russian War Games/ US Visa's and more**
+**Sex-Ed Skirmish/ Warsaw - New Metro/ Poznan - Wife Killer is a Serial Killer?/ Krakow - Airport Soars/ Tri-City - SOS Homeless Bus Rides Again/ Wroclaw - Far Right Daddy/ Katowice - Girl Hit Twice/ Netflix Nazi's/ Lewandowski & Life/ Polish Russian War Games/ US Visa's and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -37,7 +37,7 @@ _Katowice_ - [Young Girl Hit Twice on Crossing](https://www.tvn24.pl/tvn24-news-
 
 [Netflix Nazi's](https://www.theguardian.com/tv-and-radio/2019/nov/15/netflix-to-amend-holocaust-documentary-after-complaints-from-polish-government) - Guardian
 
-![](./assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](/assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **Sport** - [Lewandowski Secrets of Success](https://www.tvn24.pl/tvn24-news-in-english,157,m/robert-lewandowski-talks-on-his-top-form-and-new-family-member,985472.html) - TVN (Video)
 
