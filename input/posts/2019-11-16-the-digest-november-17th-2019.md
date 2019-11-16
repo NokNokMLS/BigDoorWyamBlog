@@ -7,11 +7,11 @@ Image: /../assets/Images/digest-17th-november-2019.jpg
 Tags:
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
 _The above picture is how the Polish Nation was drawn up after the Versailles Conference post WW1_
 
-**Polish Nationhood/ Warsaw - New Traffic Cop Powers/ Poznan - Easy Tiger/ Krakow - Bagatella Sex Abuse/Tri-City - $3 Billion for Port/ Wroclaw - Strip Club Death/ Islamophobia in Poland/ Polish WADA Head/ TikTok Teen/ Versailles Treaty Podcast and more**
+**Sex-Ed Skirmish/ Warsaw - New Metro/ Poznan - Wife Killer is a Serial Killer?/ Krakow - Airport Soars/Tri-City - SOS Homeless Bus Rides Again/ Wroclaw - Far Right Daddy/ Katowice - Girl Hit Twice/ Netflix Nazi's/ Lewandowski & Life/ Polish Russian War Games/ US Visa's and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -39,7 +39,7 @@ _Katowice_ - [Young Girl Hit Twice on Crossing](https://www.tvn24.pl/tvn24-news-
 
 [Netflix Nazi's](https://www.theguardian.com/tv-and-radio/2019/nov/15/netflix-to-amend-holocaust-documentary-after-complaints-from-polish-government) - Guardian
 
-![](/assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **Sport** - [Lewandowski Secrets of Success](https://www.tvn24.pl/tvn24-news-in-english,157,m/robert-lewandowski-talks-on-his-top-form-and-new-family-member,985472.html) - TVN (Video)
 
@@ -58,4 +58,4 @@ Team BigDoor24
 **About BigDoor24.pl**
 
 [
-**Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing commission discounts & paying you CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a CashBack. Register for details.**](https://bigdoor24.pl/)
+**Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.**](https://bigdoor24.pl/)
