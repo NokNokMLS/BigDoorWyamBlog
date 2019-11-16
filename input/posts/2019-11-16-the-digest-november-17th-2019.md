@@ -11,7 +11,7 @@ _**Today the Shops are CLOSED**_
 
 _The above picture is how the Polish Nation was drawn up after the Versailles Conference post WW1_
 
-**Polish Nationhood/ Warsaw - New Traffic Cop Powers/ Poznan - Easy Tiger/ Krakow - Bagatella Sex Abuse/Tri-City - $3 Billion for Port/ Wroclaw - Strip Club Death/ Islamophobia in Poland/ Polish WADA Head/ TikTok Teen/ Versailles Treaty Podcast and more**
+**Sex-Ed Skirmish/ Warsaw - New Metro/ Poznan - Wife Killer is a Serial Killer?/ Krakow - Airport Soars/Tri-City - SOS Homeless Bus Rides Again/ Wroclaw - Far Right Daddy/ Katowice - Girl Hit Twice/ Netflix Nazi's/ Lewandowski & Life/ Polish Russian War Games/ US Visa's and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -37,23 +37,19 @@ _Katowice_ - [Young Girl Hit Twice on Crossing](https://www.tvn24.pl/tvn24-news-
 
 **International**
 
-[Islamophobia in Poland](https://www.youtube.com/watch?v=asGHu2NzvbI) - Al Jazeera (Video)
+[Netflix Nazi's](https://www.theguardian.com/tv-and-radio/2019/nov/15/netflix-to-amend-holocaust-documentary-after-complaints-from-polish-government) - Guardian
 
-![](./assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
-[**Did you know ?**](https://bigdoor24.pl/)
-
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
-
-**Sport** - [Pole Heads WADA](https://www.polskieradio.pl/395/7991/Artykul/2399469,Polish-sports-minister-confirmed-as-new-chief-of-WADA) - TheNews
+**Sport** - [Lewandowski Secrets of Success](https://www.tvn24.pl/tvn24-news-in-english,157,m/robert-lewandowski-talks-on-his-top-form-and-new-family-member,985472.html) - TVN (Video)
 
 **Odds & Ends**
 
-[Poznan Teen named Global Transition Queen on TikTok](https://www.thefirstnews.com/article/poznan-teen-crowned-transition-queen-after-racking-up-over-85-million-worldwide-followers-on-tik-tok-app-8503) - FirstNews
+[A Polish Russian War - Who Would Win?](https://nationalinterest.org/blog/buzz/how-poland-would-stop-russian-invasion-could-warsaw-win-96816) - NationalInterest 
 
 **Podcast**
 
-[Versailles Treaty History](https://www.bbc.co.uk/programmes/m000678w) - BBC
+[US Visas for Poles](https://www.krakcast.pl/e/krakcast-discussion-%e2%80%93-us-visas/) - KrakCast
 
 Have a great Sunday
 
@@ -62,4 +58,4 @@ Team BigDoor24
 **About BigDoor24.pl**
 
 [
-**Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing commission discounts & paying you CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a CashBack. Register for details.**](https://bigdoor24.pl/)
+**Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.**](https://bigdoor24.pl/)
