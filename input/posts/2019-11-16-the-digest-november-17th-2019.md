@@ -7,7 +7,7 @@ Image: /../assets/Images/digest-17th-november-2019.jpg
 Tags:
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
 _The above picture is how the Polish Nation was drawn up after the Versailles Conference post WW1_
 
@@ -19,29 +19,31 @@ _The above picture is how the Polish Nation was drawn up after the Versailles Co
 
 **National**
 
-[How Poland became a Nation after WW1](https://www.thefirstnews.com/article/how-poland-became-a-nation-again-after-wwi) - FirstNews
+[Sex-Ed in Polish Schools after proposed law? EU says No! No! No!](https://www.euronews.com/2019/11/14/the-brief-meps-vote-to-condemn-poland-s-anti-sex-education-bill) - EuroNews
 
 **Local**
 
-_Warsaw_ -[ ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)[New Police Traffic Powers](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-police-has-more-powers-when-conducting-road-stops,984018.html) - TVN (Video)
+_Warsaw_ -[ ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)[New Metro Line Planned](https://www.railtech.com/policy/2019/01/30/warsaw-will-develop-new-metro-line/?gdpr=accept) - RailTech
 
-_Poznan -_ [Starving Tigers Recover in Poznan Zoo](https://www.dailymail.co.uk/news/article-7667931/Starving-tigers-covered-excrement-tiny-cages-lorry-recovering-Polish-zoo.html) - Daily Mail
+_Poznan -_ [Wife Killer Killed 5 More says Court](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-man-accused-of-causing-deadly-explosion-stands-trial,985841.html) - TVN (Video)
 
-_Krakow_  - [Bagatela Sexual Harassment](https://www.tvn24.pl/tvn24-news-in-english,157,m/inquiry-into-bagatela-theatre-sexual-abuse-scandal-director-on-leave,983828.html)  - TVN (Video)
+_Krakow_  - [Airport Records](http://www.krakowpost.com/21919/2019/10/krakow-airport-sees-record-7-million-flyers)  - KrakowPost
 
-_TriCity_ -  [$3 Billion Dollar Port Expansion](https://www.maritime-executive.com/article/port-of-gdansk-outlines-3-billion-expansion-plan) - Maritime Executive
+_TriCity_ -  [SOS Homeless Bus Returns](https://www.themayor.eu/en/sos-for-homelessness-bus-runs-on-the-street-of-gdansk-in-winter) - TheMayorEU
 
-_Wroclaw_ -  [Strip Club Death](http://wroclawuncut.com/2019/11/04/strip-club-death-easter-turkish-wroclaw/) - WroclawUncut 
+_Wroclaw_ -  [Far-Right Daddy](http://wroclawuncut.com/2019/11/15/social-services-nationalist-son-at-risk/) -WroclawUncut 
+
+_Katowice_ - [Young Girl Hit Twice on Crossing](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-teenage-girl-hit-by-two-cars-at-a-crosswalk,985838.html#autoplay) - TVN (Video) 
 
 **International**
 
 [Islamophobia in Poland](https://www.youtube.com/watch?v=asGHu2NzvbI) - Al Jazeera (Video)
 
-![](../assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](./assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 **Sport** - [Pole Heads WADA](https://www.polskieradio.pl/395/7991/Artykul/2399469,Polish-sports-minister-confirmed-as-new-chief-of-WADA) - TheNews
 
