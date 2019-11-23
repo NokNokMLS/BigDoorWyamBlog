@@ -10,7 +10,7 @@ Tags:
 ---
 **_Today the Shops are CLOSED_**
 
-**Sex-Ed Skirmish/ Warsaw - New Metro/ Poznan - Wife Killer is a Serial Killer?/ Krakow - Airport Soars/ Tri-City - SOS Homeless Bus Rides Again/ Wroclaw - Far Right Daddy/ Katowice - Girl Hit Twice/ Netflix Nazi's/ Lewandowski & Life/ Polish Russian War Games/ US Visa's and more**
+**35,000 Asians/ Warsaw - New Nuclear/ Lodz - Restitution Realty/ Krakow - New Hospital/ Tri-City - Beach to Beach/ Wroclaw - Firing Range Fire/ Berlin Brexit Bump/ Ski Jump/ Small Acorns/ Sunday Bloody Sunday and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -38,7 +38,7 @@ _Wroclaw_ - [Fire at Firing range](https://wroclawuncut.com/2019/11/18/shooting-
 
 ![](/assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
-**Sport** - Skiers Jump to 3rd - PolandIn
+**Sport** - [Skiers Jump to 3rd](https://polandin.com/45468769/poles-3rd-in-competition-inaugurating-fis-ski-jumping-world-cup) - PolandIn
 
 **Odds & Ends**
 
