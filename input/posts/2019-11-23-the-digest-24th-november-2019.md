@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
 **Sex-Ed Skirmish/ Warsaw - New Metro/ Poznan - Wife Killer is a Serial Killer?/ Krakow - Airport Soars/ Tri-City - SOS Homeless Bus Rides Again/ Wroclaw - Far Right Daddy/ Katowice - Girl Hit Twice/ Netflix Nazi's/ Lewandowski & Life/ Polish Russian War Games/ US Visa's and more**
 
@@ -18,37 +18,35 @@ _**Today the Shops are CLOSED**_
 
 **National**
 
-[Sex-Ed in Polish Schools after proposed law? EU says No! No! No!](https://www.euronews.com/2019/11/14/the-brief-meps-vote-to-condemn-poland-s-anti-sex-education-bill) - EuroNews
+[35,000 Asians](https://www.polskieradio.pl/395/7785/Artykul/2388979,Polish-firms-employing-more-Asians-amid-labour-shortage-experts) - PolskieRadio
 
 **Local**
 
-_Warsaw_ -[ ](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-customs-intercept-8-5-kilo-of-heroin-at-warsaw-chopin-airport,976416.html)[New Metro Line Planned](https://www.railtech.com/policy/2019/01/30/warsaw-will-develop-new-metro-line/?gdpr=accept) - RailTech
+_Warsaw_ - [New Nuclear](https://www.bloomberg.com/news/articles/2019-11-18/poland-moves-ahead-with-60-billion-nuclear-power-project) - Bloomberg
 
-_Poznan -_ [Wife Killer Killed 5 More says Court](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-man-accused-of-causing-deadly-explosion-stands-trial,985841.html) - TVN (Video)
+_Lodz -_ [Restitution Realty](https://www.jpost.com/Diaspora/Holocaust-Restitution-battles-608466) - Jerusalem Post
 
-_Krakow_  - [Airport Records](http://www.krakowpost.com/21919/2019/10/krakow-airport-sees-record-7-million-flyers)  - KrakowPost
+_Krakow_  -  [New Hospital](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-200-patients-move-to-a-brand-new-hospital-in-cracow,986489.html) - TVN (Video)
 
-_TriCity_ -  [SOS Homeless Bus Returns](https://www.themayor.eu/en/sos-for-homelessness-bus-runs-on-the-street-of-gdansk-in-winter) - TheMayorEU
+_TriCity_ -  [Gdansk to Croatia Route Announced](https://seenews.com/news/ryanair-to-launch-summer-service-to-croatias-zadar-from-polands-gdansk-in-2020-676707) - Seenews
 
-_Wroclaw_ -  [Far-Right Daddy](http://wroclawuncut.com/2019/11/15/social-services-nationalist-son-at-risk/) -WroclawUncut 
-
-_Katowice_ - [Young Girl Hit Twice on Crossing](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-teenage-girl-hit-by-two-cars-at-a-crosswalk,985838.html#autoplay) - TVN (Video) 
+_Wroclaw_ - [Fire at Firing range](https://wroclawuncut.com/2019/11/18/shooting-range-fire-investigation/)  - WroclawUncut 
 
 **International**
 
-[Netflix Nazi's](https://www.theguardian.com/tv-and-radio/2019/nov/15/netflix-to-amend-holocaust-documentary-after-complaints-from-polish-government) - Guardian
+[Brexit Berlin Bonus](https://www.aljazeera.com/ajimpact/polish-workers-abandoning-brexit-britain-favour-germany-191120185949954.html) - Al Jazeera
 
-![](./assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](/assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
-**Sport** - [Lewandowski Secrets of Success](https://www.tvn24.pl/tvn24-news-in-english,157,m/robert-lewandowski-talks-on-his-top-form-and-new-family-member,985472.html) - TVN (Video)
+**Sport** - Skiers Jump to 3rd - PolandIn
 
 **Odds & Ends**
 
-[A Polish Russian War - Who Would Win?](https://nationalinterest.org/blog/buzz/how-poland-would-stop-russian-invasion-could-warsaw-win-96816) - NationalInterest 
+[From Small Acorns... ](https://www.thefirstnews.com/article/all-things-great-and-small-polands-tiniest-cafe-is-showing-what-big-dreams-are-made-of-8829)- FirstNews
 
 **Podcast**
 
-[US Visas for Poles](https://www.krakcast.pl/e/krakcast-discussion-%e2%80%93-us-visas/) - KrakCast
+[Sunday Bloody Sunday](https://www.krakcast.pl/e/krakcast-discussion-%e2%80%93-sunday-shopping/) - KrakCast
 
 Have a great Sunday
 
