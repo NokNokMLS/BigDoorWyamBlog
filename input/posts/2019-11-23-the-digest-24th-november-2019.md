@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are OPEN_**
 
 **35,000 Asians/ Warsaw - New Nuclear/ Lodz - Restitution Realty/ Krakow - New Hospital/ Tri-City - Beach to Beach/ Wroclaw - Firing Range Fire/ Berlin Brexit Bump/ Ski Jump/ Small Acorns/ Sunday Bloody Sunday and more**
 
