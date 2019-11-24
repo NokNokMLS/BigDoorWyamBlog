@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
 **35,000 Asians/ Warsaw - New Nuclear/ Lodz - Restitution Realty/ Krakow - New Hospital/ Tri-City - Beach to Beach/ Wroclaw - Firing Range Fire/ Berlin Brexit Bump/ Ski Jump/ Small Acorns/ Sunday Bloody Sunday and more**
 
@@ -35,8 +35,6 @@ _Wroclaw_ - [Fire at Firing range](https://wroclawuncut.com/2019/11/18/shooting-
 **International**
 
 [Brexit Berlin Bonus](https://www.aljazeera.com/ajimpact/polish-workers-abandoning-brexit-britain-favour-germany-191120185949954.html) - Al Jazeera
-
-![](/assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **Sport** - [Skiers Jump to 3rd](https://polandin.com/45468769/poles-3rd-in-competition-inaugurating-fis-ski-jumping-world-cup) - PolandIn
 
