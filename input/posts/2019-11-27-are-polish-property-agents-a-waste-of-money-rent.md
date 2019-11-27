@@ -12,7 +12,9 @@ Tags:
   - Let
   - Polish Mortgage
 ---
-Following from our initial article in the series, [Are Polish Property Agents a Waste of Money/ Selling](https://bigdoor24.pl/blog/posts/2019-10-17-are-property-agents-a-waste-of-money.html) & [Buying](https://bigdoor24.pl/blog/posts/2019-11-05-are-polish-property-agents-a-waste-of-money.html) we now look at Renting.
+Further to our initial articles in the series, [Are Polish Property Agents a Waste of Money/ Selling](https://bigdoor24.pl/blog/posts/2019-10-17-are-property-agents-a-waste-of-money.html) & [Buying](https://bigdoor24.pl/blog/posts/2019-11-05-are-polish-property-agents-a-waste-of-money.html) we now look at Renting.
+
+**Introduction**
 
 In a recent Bloomberg article claiming that [German and American property agents were ripping off their clients](https://www.bloomberg.com/opinion/articles/2019-10-11/real-estate-agents-don-t-deserve-6) in high fees and low service we decided it was time to look at what Polish property Agents do, don't do and where does your commission go.
 
@@ -24,13 +26,23 @@ In the third of our series we will look at
 
 **Renting a Property**
 
-There are essentially two types of properties. New developments and second hand properties. 
-
-Straight off the bat we would suggest that you should NOT pay commission on buying a new Development. Developers sell the apartments themselves and also use agents, whom they pay a commission to. Agents know that buyers can go directly to a Developer so they do not normally charge a commission. It is for this reason that you should definitely use an agent. You get all the benefit of their wisdom and expertise, along with legal potholes without any extra charge.
-
-For second hand properties, things get a bit more complicated. There is paperwork from the courts, valuation reports, building reports (a broken chimney is not always obvious etc.). If you are well connected you may be able to get your lawyer to do the paperwork but on an hourly rate this can sometimes add up. We would suggest that you definitely get either a lawyer or a property agent to help you but agree a fixed fee beforehand.
+The first question is where are the properties advertised. See our previous article series on [the best property online portals in Poland](https://bigdoor24.pl/blog/posts/2019-06-07-best-property-portals-in-poland-ranked.html) for more details on where to look. This article is concerned with what to look for and why.
 
 **How can a Polish property agent help you ?**
+
+When renting a property in a new city or one that you are not totally familiar with it can be both daunting and intimidating.  You want to find a place that is safe and convenient and not get ripped off in the process with excessive fees or indeed the rent level itself.
+
+You can look at the offers on the property portals that are direct and do not include any agency mediation. In many cases, dealing with the landlord directly can be perfectly safe and effective but as with life, there are no guarantees. If you have a Polish friend then we would suggest that this is the way to go as they will be able to provide you with both local information and language assistance. The only real downside to this approach is that the majority of properties are not offered directly so you will be limiting your choice. 
+
+
+
+
+
+
+
+
+
+
 
 When buying any property it is certainly worth having someone who knows the process to help. Agents in Poland are allowed to represent and collect fees from both buyers and sellers of a property. This, we would suggest can easily lead to conflict of interest. 
 
