@@ -38,17 +38,17 @@ You can look at the offers on the property portals that are direct and do not in
 
 **Using an Agent**
 
-If you do decide to use an polish property agent then essentially you are hiring a friend with benefits. Assuming you use BigDoor24.pl to find an agent that speaks your language, removing this barrier as an issue, you can then get a the help of a professional who has access to all the landlords in the city and provide you with proper advice on the location and type of apartment that suits your needs and budget. They will also be responsible for the rental contract and you can query any part you want reassurance on.
+If you do decide to use a Polish property agent then essentially you are hiring a friend with benefits. Assuming you use BigDoor24.pl to find an agent that speaks your language, removing this barrier as an issue, you can then get a the help of a professional who has access to all the landlords in the city and provide you with proper advice on the location and type of apartment that suits your needs and budget. They will also be responsible for the rental contract and you can query any part you want reassurance on.
 
 Agents should also be helpful in just advising you about the general requirements (where to buy a kettle, tram etc ).
 
-There is no obstacle to speaking with lots of agents and settling on the one who best suits your needs i.e. honest, hard working and matches your requirements.
+There is no obstacle to speaking with lots of agents and settling on the one who best suits your needs i.e. honest, hard working and LISTENS (not all do!) to your requirements.
 
 **Can you negotiate the fee?**
 
 Absolutely.
 
-There is more demand these days for properties to rent than there are properties available so you are not in the strongest position. However, depending on your budget you should definitely try to negotiate. Agents referred to you by BigDoor24 already have to give you a 25 % discount but if you are renting something for zl. 5000 per month you may be able to get more off.
+There is more demand these days for properties to rent than there are properties available so you are not in the strongest position. However, depending on your budget, you should definitely try to negotiate. Agents referred to you by BigDoor24 already have to give you a 25 % discount but if you are renting something for zl. 5000 per month you may be able to get more off.
 
 Also, be aware that if the property is exclusive to the agent then it is likely they are already being paid by the landlord. This may give you more room to negotiate. 
 
