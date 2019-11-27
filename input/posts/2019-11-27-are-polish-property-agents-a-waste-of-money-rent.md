@@ -3,6 +3,7 @@ Title: Are Polish Property Agents a Waste of Money - Rent
 Author: Team BigDoor24
 Lead: Series 3/4 - Renting
 Published: 2019-11-27T08:46:45.931Z
+Image: /../assets/Images/waste-agent-rent.jpg
 Tags:
   - Rent
   - Buy
