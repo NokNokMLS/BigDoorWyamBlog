@@ -56,7 +56,7 @@ It is best to negotiate when you have chosen a property rather than at the first
 
 **The Rental Contract**
 
-Please review the article [**Polish Rental Agreement - 5 things you need to know**](https://bigdoor24.pl/blog/posts/2019-02-16-polish-rental-agreement-5-things-you-need-to-know.html) ****for more information on what to expect.
+Please review the article [**Polish Rental Agreement - 5 things you need to know**](https://bigdoor24.pl/blog/posts/2019-02-16-polish-rental-agreement-5-things-you-need-to-know.html) for more information on what to expect.
 
 The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make. We have lots more articles in our [Blog section](https://bigdoor24.pl/blog/) that may also help in your adventure.
 
@@ -66,4 +66,5 @@ Team BIgDoor24
 
 **About BigDoor24.pl**
 
-[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.](https://bigdoor24.pl/)
+[
+Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.](https://bigdoor24.pl/)
