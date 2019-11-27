@@ -58,7 +58,7 @@ It is best to negotiate when you have chosen a property rather than at the first
 
 Please review the article [**Polish Rental Agreement - 5 things you need to know**](https://bigdoor24.pl/blog/posts/2019-02-16-polish-rental-agreement-5-things-you-need-to-know.html) for more information on what to expect.
 
-The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make. We have lots more articles in our [Blog section](https://bigdoor24.pl/blog/) that may also help in your adventure.
+The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make. We have lots more articles in our [Blog section](https://bigdoor24.pl/blog/) that may also help in your adventure or just [like us now](https://www.facebook.com/bigdoor24/) on FB to stay up to date.
 
 Happy Renting,
 
