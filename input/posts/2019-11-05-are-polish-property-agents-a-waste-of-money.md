@@ -62,3 +62,7 @@ The value of a property agent can be quite a subjective decision but hopefully t
 Happy Buying
 
 Team BIgDoor24
+
+**About BigDoor24.pl**
+
+[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.](https://bigdoor24.pl/)
