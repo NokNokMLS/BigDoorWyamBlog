@@ -26,52 +26,44 @@ In the third of our series we will look at
 
 **Renting a Property**
 
-The first question is where are the properties advertised. See our previous article series on [the best property online portals in Poland](https://bigdoor24.pl/blog/posts/2019-06-07-best-property-portals-in-poland-ranked.html) for more details on where to look. This article is concerned with what to look for and why.
+The first issue is where are the properties advertised. See our previous article series on [the best property online portals in Poland](https://bigdoor24.pl/blog/posts/2019-06-07-best-property-portals-in-poland-ranked.html) for more details on where to look. This article is concerned with what to look for and why.
 
-**How can a Polish property agent help you ?**
+**What are the options?**
 
 When renting a property in a new city or one that you are not totally familiar with it can be both daunting and intimidating.  You want to find a place that is safe and convenient and not get ripped off in the process with excessive fees or indeed the rent level itself.
 
-You can look at the offers on the property portals that are direct and do not include any agency mediation. In many cases, dealing with the landlord directly can be perfectly safe and effective but as with life, there are no guarantees. If you have a Polish friend then we would suggest that this is the way to go as they will be able to provide you with both local information and language assistance. The only real downside to this approach is that the majority of properties are not offered directly so you will be limiting your choice. 
+**The Direct Approach**
 
+You can look at the offers on the property portals that are direct and do not include any agency mediation. In many cases, dealing with the landlord directly can be perfectly safe and effective but as with life, there are no guarantees. If you have a Polish friend then we would suggest that this is the way to go as they will be able to provide you with both local information and language assistance. The only real downside to this approach is that the majority of properties are not offered directly so you may be limiting your choice. 
 
+**Using an Agent**
 
+If you do decide to use an polish property agent then essentially you are hiring a friend with benefits. Assuming you use BigDoor24.pl to find an agent that speaks your language, removing this barrier as an issue, you can then get a the help of a professional who has access to all the landlords in the city and provide you with proper advice on the location and type of apartment that suits your needs and budget. They will also be responsible for the rental contract and you can query any part you want reassurance on.
 
+Agents should also be helpful in just advising you about the general requirements (where to buy a kettle, tram etc ).
 
+There is no obstacle to speaking with lots of agents and settling on the one who best suits your needs i.e. honest, hard working and matches your requirements.
 
-
-
-
-
-
-When buying any property it is certainly worth having someone who knows the process to help. Agents in Poland are allowed to represent and collect fees from both buyers and sellers of a property. This, we would suggest can easily lead to conflict of interest. 
-
-A good agent can ensure that you find the property you want, or at least a good selection based on your requirements. They will arrange property visits, negotiate the price, check the ownership in the courts on the day of signing any agreement, arrange the notary and translator and any valuers/ engineers you need to feel comfortable moving forward. If they are representing both sides then be aware that an agent is primarily trying to get the deal closed at the highest price, in that order. 
-
-One way of ensuring that you are not paying too much is to get an official valuation done. Even if you are not getting a Polish mortgage it may still be worthwhile. For added security, consider a small mortgage. This ensures the bank will check all of the elements of the purchase too. If the bank wont lend you money because of the price of the property then maybe you should consider walking away too.
-
-**Is this worth 3 % of a purchase price?** 
-
-Assuming you are buying for zl. 500,000 commission will be zl. 15,000 + VAT  (zl. 18,450 gross) (Less if you go through BigDoor24.pl). That's a lot and if you add in the fact that the seller may also be paying the same amount then that's almost 7.5 % in total of the available budget going to property agents.
-
-The answer really lies in your level of confidence in buying your own property, your access to the property professionals ( lawyers, notaries, valuers etc.) and good access to information on pricing and negotiating skills.
-
-**Can you negotiate?**
+**Can you negotiate the fee?**
 
 Absolutely.
 
-Property brokers know generally how long the process of buying each type of property is going to take. If it's a second hand apartment that is relatively new then the process will be easier than a farmhouse in the countryside beside agricultural land.
+There is more demand these days for properties to rent than there are properties available so you are not in the strongest position. However, depending on your budget you should definitely try to negotiate. Agents referred to you by BigDoor24 already have to give you a 25 % discount but if you are renting something for zl. 5000 per month you may be able to get more off.
 
-But they want the same fee. Assuming you are pretty clear about what it is you want to buy then it is worth having a conversation with the agent at the beginning and once you have outlined your requirements, ask for a fixed fee that reflects the work involved. A good agent will say no if you go to low but a bad one may not and you will end up with nothing so don't try and low-ball too much. One tactic may be to ask them to suggest a fee that they would be comfortable with. You may be surprised how low they may go. Just engage with one agent rather than lots of them and tell them that they are exclusive. This again can help keep the fee lower and result in a successful process.
+Also, be aware that if the property is exclusive to the agent then it is likely they are already being paid by the landlord. This may give you more room to negotiate. 
 
-**Help the Seller, help yourself.**
+It is best to negotiate when you have chosen a property rather than at the first meeting as a too early agreement may actually work against you. (i.e. The Agent doesn't bother working too hard for a lower commission).
 
-Try to find out through your agent why the seller is selling. If time is a factor this may help you in negotiations. Make an effort to get to know the seller a bit as they are more likely to accommodate someone they like rather than a complete stranger. Enquire what the seller wants to do with the fixtures and furniture and ask as many stupid questions as you can think of as there may not be time later for re-negotiation. Polish sellers regularly take the curtain fittings, plugs or mirrors with them when selling unless already agreed to so do not assume anything when negotiating.
+**The Rental Contract**
 
-And don't forget, by referring a successful Polish Mortgage applicant to us, BigDoor24.pl, you get zl. 250 and they get zl. 200 for every zl. 100,000 they borrow. [Register](https://bigdoor24.pl/) for more details and [Like us now on Facebook](https://www.facebook.com/bigdoor24/) for regular articles on working and living in Poland.
+Please review the article [**Polish Rental Agreement - 5 things you need to know**](https://bigdoor24.pl/blog/posts/2019-02-16-polish-rental-agreement-5-things-you-need-to-know.html) ****for more information on what to expect.
 
 The value of a property agent can be quite a subjective decision but hopefully the above will help you get the most from whatever decision you make. We have lots more articles in our [Blog section](https://bigdoor24.pl/blog/) that may also help in your adventure.
 
-Happy Buying
+Happy Renting,
 
 Team BIgDoor24
+
+**About BigDoor24.pl**
+
+[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.](https://bigdoor24.pl/)
