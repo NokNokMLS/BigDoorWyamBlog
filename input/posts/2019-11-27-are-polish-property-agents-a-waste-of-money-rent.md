@@ -11,7 +11,7 @@ Tags:
   - Let
   - Polish Mortgage
 ---
-Following from our initial article in the series, [Are Polish Property Agents a Waste of Money/ Selling](https://bigdoor24.pl/blog/posts/2019-10-17-are-property-agents-a-waste-of-money.html) we now look at Buying.
+Following from our initial article in the series, [Are Polish Property Agents a Waste of Money/ Selling](https://bigdoor24.pl/blog/posts/2019-10-17-are-property-agents-a-waste-of-money.html) & [Buying](https://bigdoor24.pl/blog/posts/2019-11-05-are-polish-property-agents-a-waste-of-money.html) we now look at Renting.
 
 In a recent Bloomberg article claiming that [German and American property agents were ripping off their clients](https://www.bloomberg.com/opinion/articles/2019-10-11/real-estate-agents-don-t-deserve-6) in high fees and low service we decided it was time to look at what Polish property Agents do, don't do and where does your commission go.
 
@@ -19,9 +19,9 @@ To begin, fees in Poland are different from other countries and a basic rule of 
 
 We would add another feature of the process is that any agent you contract to help can do a deal on your behalf with another agency agent and in most cases they just split the total commission when a deal is completed.
 
-In the second of our series we will look at
+In the third of our series we will look at
 
-**Buying your Property**
+**Renting a Property**
 
 There are essentially two types of properties. New developments and second hand properties. 
 
