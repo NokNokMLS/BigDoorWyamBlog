@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
 **December in Poland/ Warsaw- Capital Gold/ Poznan - The Poznan Dance/ Lodz - Tax Lottery/ Krakow - Climate March/ Tri-City - China Connection/ Wroclaw - Priest Punches Woman/ Biden Alibi/ Euro Qualified/ 6 Different Santa's/Up for Smokes and more**
 
@@ -33,6 +33,8 @@ _Krakow_  -  [Climate March](http://www.krakowpost.com/22055/2019/11/photos-krak
 _TriCity_ -  [China Connection](https://www.maritime-executive.com/article/euro-china-train-makes-inaugural-visit-to-port-of-gdansk) - Maritime - executive.com
 
 _Wroclaw_ - [Priest Punches Woman in Face](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-woman-supporting-sex-abuse-victims-hit-in-face-by-priest,989139.html) - TVN (Video) 
+
+![](../assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **International**
 
