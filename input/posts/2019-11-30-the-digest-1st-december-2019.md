@@ -8,7 +8,7 @@ Tags:
   - News
   - The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
 **35,000 Asians/ Warsaw - New Nuclear/ Lodz - Restitution Realty/ Krakow - New Hospital/ Tri-City - Beach to Beach/ Wroclaw - Firing Range Fire/ Berlin Brexit Bump/ Ski Jump/ Small Acorns/ Sunday Bloody Sunday and more**
 
@@ -18,33 +18,35 @@ _**Today the Shops are CLOSED**_
 
 **National**
 
-[35,000 Asians](https://www.polskieradio.pl/395/7785/Artykul/2388979,Polish-firms-employing-more-Asians-amid-labour-shortage-experts) - PolskieRadio
+[December Culture in Poland](http://kidsinthecity.pl/public-holidays-observances-in-poland-in-winter/) - Kids in the City
 
 **Local**
 
-_Warsaw_ - [New Nuclear](https://www.bloomberg.com/news/articles/2019-11-18/poland-moves-ahead-with-60-billion-nuclear-power-project) - Bloomberg
+_Warsaw_ - [Capital Gold](http://www.warsawvoice.pl/WVpage/pages/article.php/46756/news) - Warsaw Voice
 
-_Lodz -_ [Restitution Realty](https://www.jpost.com/Diaspora/Holocaust-Restitution-battles-608466) - Jerusalem Post
+_Poznan -_ [Can you do the Poznan Dance?](https://www.thefirstnews.com/article/football-dance-the-poznan-gets-own-entry-in-cambridge-dictionary-8979) - FirstNews
 
-_Krakow_  -  [New Hospital](https://www.tvn24.pl/tvn24-news-in-english,157,m/poland-200-patients-move-to-a-brand-new-hospital-in-cracow,986489.html) - TVN (Video)
+_Lodz -_  [Tax Lottery](https://www.themayor.eu/en/pay-your-taxes-and-lodz-will-give-you-the-chance-to-win-pln-100000) - MayorEU
 
-_TriCity_ -  [Gdansk to Croatia Route Announced](https://seenews.com/news/ryanair-to-launch-summer-service-to-croatias-zadar-from-polands-gdansk-in-2020-676707) - Seenews
+_Krakow_  -  [Climate March](http://www.krakowpost.com/22055/2019/11/photos-krakow-youth-climate-strike) - KrakowPost
 
-_Wroclaw_ - [Fire at Firing range](https://wroclawuncut.com/2019/11/18/shooting-range-fire-investigation/)  - WroclawUncut 
+_TriCity_ -  [China Connection](https://www.maritime-executive.com/article/euro-china-train-makes-inaugural-visit-to-port-of-gdansk) - Maritime - executive.com
+
+_Wroclaw_ - [Priest Punches Woman in Face](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-woman-supporting-sex-abuse-victims-hit-in-face-by-priest,989139.html) - TVN (Video) 
 
 **International**
 
-[Brexit Berlin Bonus](https://www.aljazeera.com/ajimpact/polish-workers-abandoning-brexit-britain-favour-germany-191120185949954.html) - Al Jazeera
+[EX Polish PM says Biden did nothing wrong](https://www.newsweek.com/ex-polish-president-burisma-board-suggests-hunter-biden-never-said-anything-about-his-father-1474728) - Newsweek
 
-**Sport** - [Skiers Jump to 3rd](https://polandin.com/45468769/poles-3rd-in-competition-inaugurating-fis-ski-jumping-world-cup) - PolandIn
+**Sport** - [Poland Qualifies for Euro's](https://www.polskieradio.pl/395/7790/Artykul/2407714,OFFSIDE-Poland-concludes-Euro-2020-qualifiers-with-victory) - The News
 
 **Odds & Ends**
 
-[From Small Acorns... ](https://www.thefirstnews.com/article/all-things-great-and-small-polands-tiniest-cafe-is-showing-what-big-dreams-are-made-of-8829)- FirstNews
+[Get ready for the 6th - Santa & more in Poland](https://culture.pl/en/article/6-different-santas-the-myths-maths-of-christmas-in-poland) - Culture.pl
 
 **Podcast**
 
-[Sunday Bloody Sunday](https://www.krakcast.pl/e/krakcast-discussion-%e2%80%93-sunday-shopping/) - KrakCast
+[Tax rises on basic necessities - Cigarettes & Alchohol ](https://www.krakcast.pl/e/krakcast-news-%e2%80%93-20191125/) - KrakCast
 
 Have a great Sunday
 
@@ -52,5 +54,4 @@ Team BigDoor24
 
 **About BigDoor24.pl**
 
-[
-**Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.**](https://bigdoor24.pl/)
+[**Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.**](https://bigdoor24.pl/)
