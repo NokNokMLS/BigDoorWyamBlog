@@ -10,7 +10,7 @@ Tags:
 ---
 **_Today the Shops are CLOSED_**
 
-**35,000 Asians/ Warsaw - New Nuclear/ Lodz - Restitution Realty/ Krakow - New Hospital/ Tri-City - Beach to Beach/ Wroclaw - Firing Range Fire/ Berlin Brexit Bump/ Ski Jump/ Small Acorns/ Sunday Bloody Sunday and more**
+**December in Poland/ Warsaw- Capital Gold/ Poznan - The Poznan Dance/ Lodz - Tax Lottery/ Krakow - Climate March/ Tri-City - China Connection/ Wroclaw - Priest Punches Woman/ Biden Alibi/ Euro Qualified/ 6 Different Santa's/Up for Smokes and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -42,7 +42,7 @@ _Wroclaw_ - [Priest Punches Woman in Face](https://www.tvn24.pl/tvn24-news-in-en
 
 **Odds & Ends**
 
-[Get ready for the 6th - Santa & more in Poland](https://culture.pl/en/article/6-different-santas-the-myths-maths-of-christmas-in-poland) - Culture.pl
+[6 Different Santas](https://culture.pl/en/article/6-different-santas-the-myths-maths-of-christmas-in-poland) - Culture.pl
 
 **Podcast**
 
@@ -54,4 +54,4 @@ Team BigDoor24
 
 **About BigDoor24.pl**
 
-[**Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.**](https://bigdoor24.pl/)
+[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed to successful mortgage applicants - see BigDoor24.pl for details.](https://bigdoor24.pl/)
