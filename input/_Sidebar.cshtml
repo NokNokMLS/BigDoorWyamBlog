@@ -36,7 +36,7 @@
                     <!-- Post-->
                     <div class="post-blog-thumbnail unit unit-sm-horizontal unit-md-vertical text-sm-left unit-lg-horizontal">
                         <div class="unit-left"><a href="@Context.GetLink(post)">
-                        <img src="@Context.GetLink(Image)" width="184" height="139" alt=""></a></div>
+                        <img src="@Context.GetLink(Image.TrimStart('/','.'))" width="184" height="139" alt=""></a></div>
                         <div class="unit-body">
                             <h6><a href="@Context.GetLink(post)" class="text-base text-bold">
                             @post.WithoutSettings.String(BlogKeys.Title)</a></h6>

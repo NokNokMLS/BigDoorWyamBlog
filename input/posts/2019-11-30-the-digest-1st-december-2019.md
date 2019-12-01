@@ -34,7 +34,7 @@ _TriCity_ -  [China Connection](https://www.maritime-executive.com/article/euro-
 
 _Wroclaw_ - [Priest Punches Woman in Face](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-woman-supporting-sex-abuse-victims-hit-in-face-by-priest,989139.html) - TVN (Video) 
 
-![](../assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](/assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **International**
 

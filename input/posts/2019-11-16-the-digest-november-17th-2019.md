@@ -37,7 +37,7 @@ _Katowice_ - [Young Girl Hit Twice on Crossing](https://www.tvn24.pl/tvn24-news-
 
 [Netflix Nazi's](https://www.theguardian.com/tv-and-radio/2019/nov/15/netflix-to-amend-holocaust-documentary-after-complaints-from-polish-government) - Guardian
 
-![](../assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **Sport** - [Lewandowski Secrets of Success](https://www.tvn24.pl/tvn24-news-in-english,157,m/robert-lewandowski-talks-on-his-top-form-and-new-family-member,985472.html) - TVN (Video)
 

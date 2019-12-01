@@ -20,7 +20,7 @@ install:
 
 build_script:
   # run once to generate output for gh-pages
-  - dotnet ..\Wyam\Wyam.dll -s LinkRoot="/BigDoorWyamBlog"
+  - dotnet ..\Wyam\Wyam.dll -s LinkRoot="/"
   - xcopy output ..\ghpages /Esy
   - ls output
   # run once to generate output for netlify
@@ -81,7 +81,7 @@ for:
     - ls ..\ghpages
     - xcopy ..\ghpages . /E
     # EDIT your domain name or remove if not using a custom domain
-    #- echo wyam.io > CNAME
+    - echo blog2.bigdoor24.pl > CNAME
     # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
     - git remote set-url origin https://github.com/NokNokMLS/BigDoorWyamBlog.git
     - git add -A
@@ -118,7 +118,7 @@ for:
     - ls ..\output
     - xcopy ..\output . /E
     # EDIT your domain name or remove if not using a custom domain
-    #- echo wyam.io > CNAME
+    - echo blog3.bigdoor24.pl > CNAME
     # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
     - git remote set-url origin https://github.com/NokNokMLS/BigDoorWyamBlog.git
     - git add -A
