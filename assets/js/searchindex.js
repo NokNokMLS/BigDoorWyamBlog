@@ -16,7 +16,7 @@ var searchModule = function() {
             tags:'Krakow Bronowice Food Food'
         },
         {
-            url:'/BigDoorWyamBlog/services/a-food-shop-in-bronowice',
+            url:'/services/a-food-shop-in-bronowice',
             title:"Polish food shop with pierogi",
             description:"Polish food shop with pierogi"
         }
@@ -30,7 +30,7 @@ var searchModule = function() {
             tags:'Krakow Centrum Hair Hair'
         },
         {
-            url:'/BigDoorWyamBlog/services/johns-hair-salon',
+            url:'/services/johns-hair-salon',
             title:"John's Hair Salon",
             description:"The best John's Hair Salon in Krakow Centrum"
         }
@@ -44,7 +44,7 @@ var searchModule = function() {
             tags:'Kraków Bronowice Car Car'
         },
         {
-            url:'/BigDoorWyamBlog/services/daves-car-rental',
+            url:'/services/daves-car-rental',
             title:"ab",
             description:"The Best Dave's Car Rental in Krakow, Bronowice"
         }
@@ -58,7 +58,7 @@ var searchModule = function() {
             tags:'Krakow Kazimierz Car Car'
         },
         {
-            url:'/BigDoorWyamBlog/services/marks-car-rental',
+            url:'/services/marks-car-rental',
             title:"new title",
             description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
