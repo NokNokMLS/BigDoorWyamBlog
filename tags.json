@@ -65,13 +65,18 @@
     "Weight": 3
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Lodz",
     "Url": "/tags/Lodz.html",
     "Weight": 2
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
     "Weight": 2
   },
   {
@@ -85,11 +90,6 @@
     "Weight": 2
   },
   {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Katowice",
     "Url": "/tags/Katowice.html",
     "Weight": 2
@@ -100,38 +100,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Tri-City",
-    "Url": "/tags/Tri-City.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Mortgage",
-    "Url": "/tags/Mortgage.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   },
   {
@@ -140,23 +110,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
@@ -165,8 +120,43 @@
     "Weight": 1
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
     "Weight": 1
   },
   {
@@ -175,8 +165,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Mortgage",
+    "Url": "/tags/Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   }
 ]
