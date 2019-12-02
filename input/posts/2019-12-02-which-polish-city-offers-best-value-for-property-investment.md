@@ -1,8 +1,9 @@
 ---
 Title: Which Polish City Offers Best Value for Property Investment
 Author: Team BigDoor24
-Lead: Local Salary vs Property Price Indicator
+Lead: Local Salary vs Property Price Assessment
 Published: 2019-12-02T10:07:09.341Z
+Image: /../assets/Images/salary-vs-m2.jpg
 Tags:
   - Polish Mortgage
   - Buy
@@ -45,4 +46,4 @@ Team BigDoor24
 
 **About BigDoor24.pl**
 
-[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see our site for details.](https://bigdoor24.pl/)
+[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see BigDoor24.pl for details.](https://bigdoor24.pl/)
