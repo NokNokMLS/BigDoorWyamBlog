@@ -30,13 +30,13 @@ CW Wealth Management recently reported in [CEO World Magazine](https://ceoworld.
 
 For property prices we have used the average price of 1 square meter as per the top three property portals in each city.
 
-![](./assets/Images/salary-m2.jpg){.img-fluid .img-responsive}
+![](/assets/Images/salary-m2.jpg){.img-fluid .img-responsive}
 
 Essentially the chart shows what percentage of your monthly salary it would take to buy 1 sqm of a new apartment development.
 
 From the chart we can see that while Rzeszow holds top spot Warsaw still, despite the higher relative prices, is worth looking at as an investment location.
 
-With demand continuing apace, salaries continuing to rise and the relatively low levels of mortgages in the polish property market we would expect these percentages to move even further north in the future if we look at this in isolation. Of course there are many other factors that should be used to influence your decision and we will cover those in future articles.
+With demand continuing apace, salaries continuing to rise and the relatively low levels of mortgages in the polish property market it is possible that these percentages could move even further north in the future if we look at them in isolation. Of course there are many other factors that should be used to influence your decision and we will cover those in future articles.
 
 And remember, if you do need polish mortgage advice, use BigDoor24 to find an advisor who speaks your language and we will pay you zl. 200 for every zl. 100,000 successfully borrowed.
 
