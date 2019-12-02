@@ -20,6 +20,8 @@ Tags:
   - Gdansk
   - Investment
 ---
+**Are you in the "right" City?**
+
 When deciding where to buy (or indeed if to sell) a property there are many ways to indicate where prices are heading and indeed the best city to find value in. For this article, we are going to look at salaries vs. price.  Whilst we would never suggest you look at only one statistic when deciding where to invest we believe it is a good starting point when looking for value in the Polish property market.
 
 First a couple of basic facts. Currently a Polish mortgage will cost you zl. 400 per zl. 100,000 borrowed (approx.) and the Banks don't want you borrowing more than you can afford to repay each month. This therefore puts a ceiling on how much a local worker can pay for a square meter(M2) of property.
@@ -28,9 +30,7 @@ CW Wealth Management recently reported in [CEO World Magazine](https://ceoworld.
 
 For property prices we have used the average price of 1 square meter as per the top three property portals in each city.
 
-![](../assets/Images/salary-m2.jpg){.img-fluid .img-responsive}
-
-
+![](./assets/Images/salary-m2.jpg){.img-fluid .img-responsive}
 
 Essentially the chart shows what percentage of your monthly salary it would take to buy 1 sqm of a new apartment development.
 
@@ -46,4 +46,5 @@ Team BigDoor24
 
 **About BigDoor24.pl**
 
-[Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see BigDoor24.pl for details.](https://bigdoor24.pl/)
+[
+Bigdoor24.pl is a new free service for Expats, finding Property Experts who speak your language & securing Commission Discounts. We pay zl. 200 per zl. 100,000 borrowed by successful mortgage applicants - see BigDoor24.pl for details.](https://bigdoor24.pl/)
