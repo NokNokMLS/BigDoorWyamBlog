@@ -65,16 +65,6 @@
     "Weight": 4
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 3
-  },
-  {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
-    "Weight": 3
-  },
-  {
     "Tag": "Poznan",
     "Url": "/tags/Poznan.html",
     "Weight": 3
@@ -85,6 +75,21 @@
     "Weight": 3
   },
   {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
+    "Weight": 3
+  },
+  {
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
+    "Weight": 3
+  },
+  {
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Statistics",
     "Url": "/tags/Statistics.html",
     "Weight": 2
@@ -92,11 +97,6 @@
   {
     "Tag": "Bydgoszcz",
     "Url": "/tags/Bydgoszcz.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
     "Weight": 2
   },
   {
@@ -110,23 +110,13 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Mortgage",
     "Url": "/tags/Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
@@ -135,8 +125,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -145,8 +135,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
     "Weight": 1
   },
   {
@@ -160,13 +155,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
     "Weight": 1
   },
   {
@@ -175,8 +165,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Tri-City",
-    "Url": "/tags/Tri-City.html",
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
     "Weight": 1
   }
 ]
