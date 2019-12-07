@@ -7,9 +7,9 @@ Image: /../assets/Images/digest-8thdecember.jpg
 Tags:
   - News. The Digest
 ---
-**_Today the Shops are CLOSED_**
+_**Today the Shops are CLOSED**_
 
-**December in Poland/ Warsaw- Capital Gold/ Poznan - The Poznan Dance/ Lodz - Tax Lottery/ Krakow - Climate March/ Tri-City - China Connection/ Wroclaw - Priest Punches Woman/ Biden Alibi/ Euro Qualified/ 6 Different Santa's/Up for Smokes and more**
+**Polish Education Adding up/ Warsaw - 50 year pay Gap/ Lodz - MMA Dates/ Krakow - Merkel Visits Auschwitz/ Tri-City - It All Began in Gdansk/ Wroclaw - NY Eve Lineup/ Coke Haul/ VolleyBall 2021/ Tusk shoots Trump?/ Black Fridays and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
@@ -17,37 +17,35 @@ Tags:
 
 **National**
 
-[December Culture in Poland](http://kidsinthecity.pl/public-holidays-observances-in-poland-in-winter/) - Kids in the City
+[Polish Education Adding up](https://notesfrompoland.com/2019/12/03/poland-among-top-european-countries-in-new-pisa-education-rankings/) - NotesfromPoland
 
 **Local**
 
-_Warsaw_ - [Capital Gold](http://www.warsawvoice.pl/WVpage/pages/article.php/46756/news) - Warsaw Voice
+_Warsaw_ - [50 years for EU pay equality in Poland](https://www.tvn24.pl/tvn24-news-in-english,157,m/business-news-from-poland-in-english-in-tvn24,990983.html) - TVN Video
 
-_Poznan -_ [Can you do the Poznan Dance?](https://www.thefirstnews.com/article/football-dance-the-poznan-gets-own-entry-in-cambridge-dictionary-8979) - FirstNews
+_Lodz -_ [MMA dates](https://www.mmafighting.com/2019/12/7/21000098/ksw-53-booked-for-march-21-in-lodz-with-mariusz-pudzianowski-roberto-soldic-set-for-action) - MMAfighting
 
-_Lodz -_  [Tax Lottery](https://www.themayor.eu/en/pay-your-taxes-and-lodz-will-give-you-the-chance-to-win-pln-100000) - MayorEU
+_Krakow_  -  [Merkel Visits Auschwitz](https://www.bbc.com/news/world-europe-50671663) - BBC
 
-_Krakow_  -  [Climate March](http://www.krakowpost.com/22055/2019/11/photos-krakow-youth-climate-strike) - KrakowPost
+_TriCity_ -  [It all began in Gdansk](https://news.err.ee/1000966/opinion-it-all-began-in-gdansk) - News.err
 
-_TriCity_ -  [China Connection](https://www.maritime-executive.com/article/euro-china-train-makes-inaugural-visit-to-port-of-gdansk) - Maritime - executive.com
+_Wroclaw_ - [NY Eve Party Lineup](https://wroclawuncut.com/2019/12/02/new-years-eve-concert-lineup-revealed/)  - WroclawUncut
 
-_Wroclaw_ - [Priest Punches Woman in Face](https://www.tvn24.pl/tvn24-news-in-english,157,m/polish-woman-supporting-sex-abuse-victims-hit-in-face-by-priest,989139.html) - TVN (Video) 
-
-![](assets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
+![](ssets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **International**
 
-[EX Polish PM says Biden did nothing wrong](https://www.newsweek.com/ex-polish-president-burisma-board-suggests-hunter-biden-never-said-anything-about-his-father-1474728) - Newsweek
+[Zl. 2 Billion Cocaine haul](https://www.reuters.com/article/us-poland-cocaine/polish-officials-seize-2-tonnes-of-cocaine-from-colombia-pm-idUSKBN1Y91OW) - Reuters
 
-**Sport** - [Poland Qualifies for Euro's](https://www.polskieradio.pl/395/7790/Artykul/2407714,OFFSIDE-Poland-concludes-Euro-2020-qualifiers-with-victory) - The News
+**Sport** - [Volleyball championships 2021](https://www.polskieradio.pl/395/7790/Artykul/2416678,Poland-to-jointly-host-European-Volleyball-Championships-2021) - TheNews
 
 **Odds & Ends**
 
-[6 Different Santas](https://culture.pl/en/article/6-different-santas-the-myths-maths-of-christmas-in-poland) - Culture.pl
+[Tusk Shoots Trump?](https://nypost.com/2019/12/05/polish-politician-makes-what-appears-to-be-gun-gesture-at-trumps-back/) - NYPost
 
 **Podcast**
 
-[Tax rises on basic necessities - Cigarettes & Alchohol ](https://www.krakcast.pl/e/krakcast-news-%e2%80%93-20191125/) - KrakCast
+[Black Friday Traditions in Poland](https://www.krakcast.pl/e/krakcast-news-%e2%80%93-20191130/)[ ](https://www.krakcast.pl/e/krakcast-news-%e2%80%93-20191125/) - KrakCast
 
 Have a great Sunday
 
