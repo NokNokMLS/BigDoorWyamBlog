@@ -7,7 +7,7 @@ Image: /../assets/Images/digest-8thdecember.jpg
 Tags:
   - News. The Digest
 ---
-_**Today the Shops are CLOSED**_
+**_Today the Shops are CLOSED_**
 
 **Polish Education Adding up/ Warsaw - 50 year pay Gap/ Lodz - MMA Dates/ Krakow - Merkel Visits Auschwitz/ Tri-City - It All Began in Gdansk/ Wroclaw - NY Eve Lineup/ Coke Haul/ VolleyBall 2021/ Tusk shoots Trump?/ Black Fridays and more**
 
@@ -30,8 +30,6 @@ _Krakow_  -  [Merkel Visits Auschwitz](https://www.bbc.com/news/world-europe-506
 _TriCity_ -  [It all began in Gdansk](https://news.err.ee/1000966/opinion-it-all-began-in-gdansk) - News.err
 
 _Wroclaw_ - [NY Eve Party Lineup](https://wroclawuncut.com/2019/12/02/new-years-eve-concert-lineup-revealed/)  - WroclawUncut
-
-![](ssets/Images/copy-of-we-pay-you-when-you-use-bigdoor24.pl-1-.png){.img-fluid .img-responsive}
 
 **International**
 
