@@ -8,9 +8,9 @@ Tags:
   - The Digest
   - News
 ---
-**_Today the Shops are OPEN_**
+_**Today the Shops are OPEN**_
 
-**PO residential Pick/ Warsaw - Pipe Chaos/ Poznan - Top Christmas Destination/ Krakow - US Vs Auschwitz/ Wroclaw - Prague Direct/ EU Climate Agreement Without Poland/ Pole for NFL?/ Abortion Initiative/ Tesco in Poland and more**
+**PO Presidential Pick/ Warsaw - Pipe Chaos/ Poznan - Top Christmas Destination/ Krakow - US Vs Auschwitz/ Wroclaw - Prague Direct/ EU Climate Agreement Without Poland/ Pole for NFL?/ Abortion Initiative/ Tesco in Poland and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
