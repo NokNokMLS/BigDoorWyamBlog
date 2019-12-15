@@ -7,7 +7,7 @@
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "bigdoor24.pl";
+Settings[Keys.Host] = "blog.bigdoor24.pl";
 Settings[BlogKeys.Title] = "BigDoor24 Blog";
 Settings[BlogKeys.Description] = "Welcome!";
 //Settings[Keys.LinkRoot] = "/blog";
