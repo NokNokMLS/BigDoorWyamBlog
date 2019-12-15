@@ -8,9 +8,9 @@ Tags:
   - The Digest
   - News
 ---
-_**Today the Shops are OPEN**_
+**_Today the Shops are OPEN_**
 
-**Polish Education Adding up/ Warsaw - 50 year pay Gap/ Lodz - MMA Dates/ Krakow - Merkel Visits Auschwitz/ Tri-City - It All Began in Gdansk/ Wroclaw - NY Eve Lineup/ Coke Haul/ VolleyBall 2021/ Tusk shoots Trump?/ Black Fridays and more**
+**PO residential Pick/ Warsaw - Pipe Chaos/ Poznan - Top Christmas Destination/ Krakow - US Vs Auschwitz/ Wroclaw - Prague Direct/ EU Climate Agreement Without Poland/ Pole for NFL?/ Abortion Initiative/ Tesco in Poland and more**
 
 [**If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.**](https://www.facebook.com/bigdoor24/)
 
