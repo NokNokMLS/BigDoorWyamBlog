@@ -28,9 +28,11 @@ According to EU reports, Polish Water regularly and continuously meets and excee
 
 [Lidia Kloss - Institute of Economics, Szczecin](file:///C:/Users/johng/Downloads/UFJ_2014_3_3_4%20(1).pdf) (2014)
 
+![](../assets/Images/expertsexpats-fb-advert.png){.img-fluid .img-responsive}
+
 [**Did you know ?**](https://bigdoor24.pl/)
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
 
 "Most travellers do not need to take special food or water precautions beyond what they normally do.... " [Centre for Disease Control (U.S. Government)](https://wwwnc.cdc.gov/travel/destinations/traveler/none/poland?s_cid=ncezid-dgmq-travel-single-001)
 
@@ -48,6 +50,7 @@ Happy Sipping!
 
 The BigDoor24 Team
 
-_**About BigDoor24.pl**_
+**_About BigDoor24.pl_**
 
-[Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing Commission Discounts & Paying You CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a Zl. 200 for every Zl. 100k borrowed. Register now for details.](https://bigdoor24.pl/)
+[
+Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing Commission Discounts & Paying You CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a Zl. 200 for every Zl. 100k borrowed. Register now for details.](https://bigdoor24.pl/)
