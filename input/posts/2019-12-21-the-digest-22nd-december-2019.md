@@ -9,7 +9,7 @@ Tags:
 ---
 ***Today the Shops are OPEN***
 
-**PO Presidential Pick/ Warsaw - Pipe Chaos/ Poznan - Top Christmas Destination/ Krakow - US Vs Auschwitz/ Wroclaw - Prague Direct/ EU Climate Agreement Without Poland/ Pole for NFL?/ Abortion Initiative/ Tesco in Poland and more**
+**PROTEST/ Warsaw - Christmas Cops/ Poznan - Lviv Direct/ Krakow - Museum Re-Opens/ Wroclaw - Pilgrim Posse/ PoleExit?/ Match Fixers/ Aggressive Inflation/ Faking It and more**
 
 **[If you enjoy The Digest please support and Like us on Facebook, posted every Sunday at 10 am and share to your favourite FB groups now.](https://www.facebook.com/bigdoor24/)**
 
