@@ -35,7 +35,7 @@ Tags:
 
 **Sport** - [Match Fixers](https://www.polskieradio.pl/395/7790/Artykul/2423146,Polish-football-exofficial-convicted-for-match-fixing)[](https://www.polskieradio.pl/395/7790/Artykul/2421456,Polish-football-player-to-compete-for-spot-in-NFL)- TheNews
 
-![](../assets/Images/expertsexpats-fb-advert.png){.img-fluid .img-responsive}
+![](./assets/Images/expertsexpats-fb-advert.png){.img-fluid .img-responsive}
 
 **Odds & Ends**
 
