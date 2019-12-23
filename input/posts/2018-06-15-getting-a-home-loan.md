@@ -12,11 +12,13 @@ Tags:
   - General Information
   - Polish Mortgage
 ---
+**6 Tips that may save you Zloty**
+
 Through our own experience and detailed interviews with numerous Polish Credit Advisors the following is our best tips when applying for a Polish mortgage. Some tips are obvious, some are less so, but all are important whether you are new to the country or a born and bred Pole.
 
 If you think we missed something or simply need more information please contact us and we will do our best to get you the best answers.
 
-**Tip 1 . It costs nothing to apply so do it early**
+**Tip 1 - It costs nothing to apply so do it early**
 
 You are looking to buy a property but will require a mortgage. Well, before you even start looking the first thing you should do is to find out how much you can borrow. Seems obvious but lots of people leave this too late and find themselves rushing with applications at the last moment.
 
@@ -32,9 +34,9 @@ It's a long time since relationships between a bank and their customer had any i
 
 At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft, I know, but there you go.
 
-[**Did you know ?**](https://bigdoor24.pl/)
+**[Did you know ?](https://bigdoor24.pl/)**
 
-[**_BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code._**](https://bigdoor24.pl/)
+***[BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.](https://bigdoor24.pl/)***
 
 **Tip 4 - Use a qualified professional Advisor - they're free and can only help**
 
@@ -52,10 +54,10 @@ When you request contact with an independent professional Credit Advisor through
 
 Every time you refer us you to a successful applicant you will get a **zl. 250 Thank you voucher.**  Simply register with BigDoor24.pl, and you will receive a personal referral code and further details.
 
-**For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook** [**here**](https://www.facebook.com/bigdoor24/)_**.**_
+**For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook** **[here](https://www.facebook.com/bigdoor24/)*.***
 
 Happy Hunting!
 
-_**About BigDoor24.pl**_
+***About BigDoor24.pl***
 
 [Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing Commission Discounts & Paying You CashBack on successful Polish mortgage applications. We pay zl. 250 for successful applicant referrals as well as paying the applicant a Zl. 200 for every Zl. 100k borrowed. Register now for details.](https://bigdoor24.pl/)
