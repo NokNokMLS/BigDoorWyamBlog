@@ -14,9 +14,9 @@ Tags:
 ---
 **6 Tips that may save you Zloty**
 
-Through our own experience and detailed interviews with numerous Polish Credit Advisors the following is our best tips when applying for a Polish mortgage. Some tips are obvious, some are less so, but all are important whether you are new to the country or a born and bred Pole.
+Through our own experience and detailed interviews with numerous Polish Credit Advisors the following are our best tips when applying for a Polish mortgage. Some tips are obvious, some less so, but all are important whether you are new to the country or a native Pole.
 
-If you think we missed something or simply need more information please contact us and we will do our best to get you the best answers.
+If you think we missed something or simply need more information please contact us and we will do our best to help you.
 
 **Tip 1 - It costs nothing to apply so do it early**
 
@@ -32,11 +32,11 @@ Obviously, signing a preliminary agreement with the seller and paying the non-re
 
 It's a long time since relationships between a bank and their customer had any importance and these days it is a simple numbers game so applying to every bank would seem to make more sense. But did you know that this can currently hurt your chances of  success?
 
-At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft, I know, but there you go.
+At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft, we know, but there you go.
 
 **[Did you know ?](https://bigdoor24.pl/)**
 
-***[BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.](https://bigdoor24.pl/)***
+[By using ***BigDoor24.pl to find a local Independent Credit Advisor who speaks your language  you will be eligible for zl. 200 for every zl. 100,000 successfully borrowed.( i.e. borrow zl.500,000 and qualify for zl. 1,000 rebate) This is in addition to guaranteed commission discounts and access to lots of helpful articles on Polish property and living in our blog.***](https://bigdoor24.pl/)
 
 **Tip 4 - Use a qualified professional Advisor - they're free and can only help**
 
