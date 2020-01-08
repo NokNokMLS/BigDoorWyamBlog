@@ -34,7 +34,7 @@ It's a long time since relationships between a bank and their customer had any i
 
 At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft, we know, but there you go.
 
-**[Did you know ?](https://bigdoor24.pl/)**
+**[Did you know?](https://bigdoor24.pl/)**
 
 [By using ***BigDoor24.pl to find a local Independent Credit Advisor who speaks your language  you will be eligible for zl. 200 for every zl. 100,000 successfully borrowed.( i.e. borrow zl.500,000 and qualify for zl. 1,000 rebate) This is in addition to guaranteed commission discounts and access to lots of helpful articles on Polish property and living in our blog.***](https://bigdoor24.pl/)
 
