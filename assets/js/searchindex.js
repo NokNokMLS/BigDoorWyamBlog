@@ -24,6 +24,20 @@ var searchModule = function() {
     a(
         {
             id:1,
+            title:"new title",
+            content:"Car Rental",
+            description:"Best Mark Car Rental Krakow Kazimierz",
+            tags:'Krakow Kazimierz Car Car'
+        },
+        {
+            url:'/services/marks-car-rental',
+            title:"new title",
+            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
+        }
+    );
+    a(
+        {
+            id:2,
             title:"Polish food shop pierogi",
             content:"pierogi",
             description:"Polish food shop pierogi",
@@ -37,7 +51,7 @@ var searchModule = function() {
     );
     a(
         {
-            id:2,
+            id:3,
             title:"John Hair Salon",
             content:"Hair Salon",
             description:"best John Hair Salon Krakow Centrum",
@@ -47,20 +61,6 @@ var searchModule = function() {
             url:'/services/johns-hair-salon',
             title:"John's Hair Salon",
             description:"The best John's Hair Salon in Krakow Centrum"
-        }
-    );
-    a(
-        {
-            id:3,
-            title:"new title",
-            content:"Car Rental",
-            description:"Best Mark Car Rental Krakow Kazimierz",
-            tags:'Krakow Kazimierz Car Car'
-        },
-        {
-            url:'/services/marks-car-rental',
-            title:"new title",
-            description:"The Best Mark's Car Rental in Krakow, Kazimierz"
         }
     );
     var idx = lunr(function() {
