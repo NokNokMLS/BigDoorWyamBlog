@@ -12,7 +12,7 @@ Tags:
   - General Information
   - Polish Mortgage
 ---
-**6 Tips that may save you Zloty**
+**6 Tips that may save you serious Zloty**
 
 Through our own experience and detailed interviews with numerous Polish Credit Advisors the following are our best tips when applying for a Polish mortgage. Some tips are obvious, some less so, but all are important whether you are new to the country or a native Pole.
 
