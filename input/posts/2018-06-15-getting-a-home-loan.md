@@ -1,5 +1,5 @@
 ---
-Title: When & How to apply for a Polish Mortgage - 6 Tips
+Title: When & How to apply for a Polish Mortgage - 6 Tipsx
 Author: Team BigDoor24
 Lead: 'When to apply, How to apply, What to consider - Polish Mortgages'
 Published: '2019-01-25T08:59:25+01:00'
