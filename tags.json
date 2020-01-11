@@ -65,6 +65,11 @@
     "Weight": 4
   },
   {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 3
+  },
+  {
     "Tag": "Poznan",
     "Url": "/tags/Poznan.html",
     "Weight": 3
@@ -80,16 +85,6 @@
     "Weight": 3
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
-    "Weight": 3
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Statistics",
     "Url": "/tags/Statistics.html",
     "Weight": 2
@@ -97,6 +92,11 @@
   {
     "Tag": "Szczecin",
     "Url": "/tags/Szczecin.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
     "Weight": 2
   },
   {
@@ -115,6 +115,21 @@
     "Weight": 1
   },
   {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Lublin",
     "Url": "/tags/Lublin.html",
     "Weight": 1
@@ -125,8 +140,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
     "Weight": 1
   },
   {
@@ -145,26 +165,6 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Olsztyn",
     "Url": "/tags/Olsztyn.html",
     "Weight": 1
@@ -175,8 +175,8 @@
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
