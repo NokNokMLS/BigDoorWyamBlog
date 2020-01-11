@@ -1,5 +1,5 @@
 ---
-Title: When & How to apply for a Polish Mortgage
+Title: When & How to apply for a Polish Mortgage - 6 Tips
 Author: Team BigDoor24
 Lead: 'When to apply, How to apply, What to consider - Polish Mortgages'
 Published: '2019-01-25T08:59:25+01:00'
@@ -12,7 +12,7 @@ Tags:
   - General Information
   - Polish Mortgage
 ---
-**6 Tips that may save you Zloty**
+**6 Tips that may save you serious Zloty**
 
 Through our own experience and detailed interviews with numerous Polish Credit Advisors the following are our best tips when applying for a Polish mortgage. Some tips are obvious, some less so, but all are important whether you are new to the country or a native Pole.
 
@@ -34,25 +34,25 @@ It's a long time since relationships between a bank and their customer had any i
 
 At present, the rating agency used by all banks will reduce your credit rating if you are seen to apply to more than three banks, Daft, we know, but there you go.
 
-**[Did you know ?](https://bigdoor24.pl/)**
-
-[By using ***BigDoor24.pl to find a local Independent Credit Advisor who speaks your language  you will be eligible for zl. 200 for every zl. 100,000 successfully borrowed.( i.e. borrow zl.500,000 and qualify for zl. 1,000 rebate) This is in addition to guaranteed commission discounts and access to lots of helpful articles on Polish property and living in our blog.***](https://bigdoor24.pl/)
-
 **Tip 4 - Use a qualified professional Advisor - they're free and can only help**
 
-This makes it even more important that you employ the services of a qualified independent Credit Advisor.  They earn commission from the bank so there is no charge to you for their work. A good Advisor should be able to assess your situation quickly and give you good guidance on how much you can expect to borrow. Additionally they will also be aware of which banks would be more interested in lending to you, thus increasing your chances of success.
+Tip 3 makes it even more important that you employ the services of a qualified independent Credit Advisor.  They earn commission from the bank so there is no charge to you for their work. A good Advisor should be able to assess your situation quickly and give you good guidance on how much you can expect to borrow. Additionally they will also be aware of which banks would be more interested in lending to you, thus increasing your chances of success.
 
 **Tip 5 - Be aware of the ancillary costs when budgeting**
 
-When budgeting, be sure to include the valuation and arrangement fees that can be anywhere between 1-3 % of the loan amount.
+When budgeting, be sure to include the valuation and arrangement fees that can be anywhere between 1-3 % of the loan amount. This is in addition to the actual costs of purchase. Both of these costs can be , of course, reduced by using Bigdoor24.pl.
 
-**Tip 6 - Not using BigDoor24 can actually cost you money !**
+**Tip 6 - Not using BigDoor24 can actually cost you money!**
 
-When you request contact with an independent professional Credit Advisor through BigDoor24.pl, you will receive cashback on a successful application . (**zl. 200 per zl. 100k borrowed**).
+When you request contact with an independent professional Credit Advisor through BigDoor24.pl, you will receive cashback on a successful application . (**zl. 200 per zl. 100k borrowed**). We have relationships with the largest Financial Advisory groups in Poland such as Expander, OpenFinance etc.. Additionally we also have built in **commission discounts** with HomeBroker and other national & local Real Estate agencies.
+
+ By not using BigDoor24.pl you will get ... ahmmm... 0 zl. [t&c's apply](https://bigdoor24.pl/home/terms) 
 
 **Help a friend, Help yourself**
 
-Every time you refer us you to a successful applicant you will get a **zl. 250 Thank you voucher.**  Simply register with BigDoor24.pl, and you will receive a personal referral code and further details.
+Do you know someone who is curious about getting a Polish mortgage?
+
+Every time you refer us you to a successful applicant you will get a **zl. 250 Thank you voucher for a retailer of your choice.**  Simply register with BigDoor24.pl, and you will receive a personal referral code and further details.
 
 **For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook** **[here](https://www.facebook.com/bigdoor24/)*.***
 
