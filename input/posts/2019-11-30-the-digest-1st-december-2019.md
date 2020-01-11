@@ -24,9 +24,9 @@ _**Today the Shops are CLOSED**_
 
 _Warsaw_ - [Capital Gold](http://www.warsawvoice.pl/WVpage/pages/article.php/46756/news) - Warsaw Voice
 
-_Poznan -_ [Can you do the Poznan Dance?](https://www.thefirstnews.com/article/football-dance-the-poznan-gets-own-entry-in-cambridge-dictionary-8979) - FirstNews
+_Poznan_ - [Can you do the Poznan Dance?](https://www.thefirstnews.com/article/football-dance-the-poznan-gets-own-entry-in-cambridge-dictionary-8979) - FirstNews
 
-_Lodz -_  [Tax Lottery](https://www.themayor.eu/en/pay-your-taxes-and-lodz-will-give-you-the-chance-to-win-pln-100000) - MayorEU
+_Lodz_ -  [Tax Lottery](https://www.themayor.eu/en/pay-your-taxes-and-lodz-will-give-you-the-chance-to-win-pln-100000) - MayorEU
 
 _Krakow_  -  [Climate March](http://www.krakowpost.com/22055/2019/11/photos-krakow-youth-climate-strike) - KrakowPost
 
