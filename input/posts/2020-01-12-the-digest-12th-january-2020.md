@@ -38,7 +38,7 @@ TriCity - [WOSP Finale Events ](https://tricitynews.pl/event/the-28th-grand-fina
 
 **Sport** - [ATP Success](https://www.polskieradio.pl/395/7790/Artykul/2432547,Tennis-Poland-beats-Austria-in-ATP-Cup) [](https://www.polskieradio.pl/395/7790/Artykul/2421456,Polish-football-player-to-compete-for-spot-in-NFL)- TheNews
 
-![](assets/Images/expertsexpats-fb-advert.png){.img-fluid .img-responsive}
+![](./assets/Images/expertsexpats-fb-advert.png){.img-fluid .img-responsive}
 
 **Odds & Ends**
 
