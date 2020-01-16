@@ -52,7 +52,7 @@ When you request contact with an independent professional Credit Advisor through
 
 Do you know someone who is curious about getting a Polish mortgage?
 
-Every time you refer us you to a successful applicant you will get a **zl. 250 Thank you voucher for a retailer of your choice.**  Simply register with BigDoor24.pl, and you will receive a personal referral code and further details.
+Every time you refer us to a successful applicant you will get a **zl. 250 Thank you voucher for a retailer of your choice.**  Simply register with BigDoor24.pl, and you will receive a personal referral code and further details.
 
 **For more information on Polish mortgages, Polish rentals & more don't forget to check our blog for updates or simply Like us now on facebook** **[here](https://www.facebook.com/bigdoor24/)*.***
 
