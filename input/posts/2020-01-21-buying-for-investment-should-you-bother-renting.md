@@ -1,5 +1,5 @@
 ---
-Title: Buying for Investment? Should you bother Renting it Out?
+Title: Buying for Investment? Should you Bother Renting it Out?
 Author: Team BigDoor24.pl
 Lead: The Argument for NOT Renting out a New Apartment
 Published: 2020-01-21T11:21:59.125Z
