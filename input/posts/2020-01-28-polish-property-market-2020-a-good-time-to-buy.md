@@ -39,7 +39,7 @@ The government recently announced a plan to double the minimum wage by 2024( [se
 
 **Low Unemployment**
 
-Employment stands at an historically low 5.1%. An economist will tell you that anything below 5 % is essentially zero unemployment. This is not always a good thing as it can put a real strain on growth if there not enough workers available for new businesses. However, as the government has issues a record number of work permits, outstripping Germany, we would consider this a good problem.
+Employment stands at an historically low 5.1%. An economist will tell you that anything below 5 % is essentially zero unemployment. This is not always a good thing as it can put a real strain on growth if there not enough workers available for new businesses. However, as the government has issued a record number of work permits, outstripping Germany, we would consider this a good problem.
 
 **Mortgage Growth**
 
