@@ -29,7 +29,7 @@ So your gross profit after 5 years will be 626,000 less your zl. 600,000 investm
 
 We would expect that a portion of this profit will have been eaten up in rental commissions, accountants and tax so after 5 years and a 20 % gain you are left with ... pretty much what you invested.
 
-**What if you hadn't fitted out the property?. What if you had bought more square metres?**
+**What if you hadn't fitted out the property? What if you had bought more square metres?**
 
  If you don't rent out your property and leave it empty your only real recurring cost will be your building administration fee. These can vary wildly and are usually added to the rent you charge your tenant so if you don't have a tenant you will need to pay this fee yourself. Lets assume its zl. 7 per sqm. per month. 
 
@@ -42,8 +42,6 @@ These are all of course average numbers and there is no guarantee the property w
 We would add that it is an all cash purchase. If you are using a mortgage to finance the purchase then the numbers obviously change along with your monthly cash requirements. And if we had zl. 600,000 we would buy three apartments and put a mortgage on each! .. but that's just us:-)
 
 Happy Hunting,
-
-
 
 Team BigDoor24.pl
 
