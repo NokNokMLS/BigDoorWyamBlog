@@ -35,6 +35,8 @@ We would expect that a portion of this profit will have been eaten up in rental 
 
 Going back to the original scenario, how about you buy 70 sqm instead of 60 sqm. This will cost you zl. 560,000. The administration fee will come in at zl. 29,400 for the 5 years so your total expense will be zl. 589,400. 
 
+**[Did you know? - BigDoor24.pl actually pays you CashBack when you find and use a Credit Advisor through our free service.  More Details here.](https://bigdoor24.pl/)**
+
 Now let's shoot ahead to 5 years with the 20% value increase. Your 70 sqm are now worth zl. 672,000 (70 x 9.6k) netting you a profit of zl. 82,600 with no deductions for commissions, bookkeeping etc., plus of course the zl. 10,600 you didn't spend.
 
 These are all of course average numbers and there is no guarantee the property will go up but it's certainly worth looking at when deciding how to buy your next investment.
