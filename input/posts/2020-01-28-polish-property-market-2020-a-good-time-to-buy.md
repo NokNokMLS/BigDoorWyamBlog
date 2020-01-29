@@ -10,6 +10,10 @@ Tags:
   - Polish Mortgage
   - Rent
   - General Information
+  - Brexit & Poland
+  - Let
+  - Polish Economy
+  - Polish Interest Rate
 ---
 What a year it's been for both the Polish economy generally and the Polish property market in particular. Growth in the number of new build properties, prices and mortgage approvals all exceeded official forecasts. Unemployment, despite increasing marginally in the last quarter remains at an historic low of 5.1 % and salaries have increased on average by 6% in 2019. 
 
@@ -41,13 +45,17 @@ The government recently announced a plan to double the minimum wage by 2024( [se
 
 Employment stands at an historically low 5.1%. An economist will tell you that anything below 5 % is essentially zero unemployment. This is not always a good thing as it can put a real strain on growth if there not enough workers available for new businesses. However, as the government has issued a record number of work permits, outstripping Germany, we would consider this a good problem.
 
-**Mortgage Growth**
+**Polish Mortgage Growth**
 
 Poland has a much lower level of mortgages than the EU average and the ratio of house prices to disposable income is again quite low by European standards (source Hypostat). This will change as mortgages become more accessible and attractive, resulting in higher prices in the longer term.
 
 **Salaries**
 
 With a shortage of workers comes a demand for higher wages. Coupled with the minimum wage hike plan we expect this to continue. Long term shortages will not be good but as already mentioned, we are not there yet.
+
+**Brexit**
+
+What to say. There are many reports of Polish nationals currently based in the UK making plans to return home as the Polish economy grows and the UK one ....shrinks? This will obviously increase demand but by how much it is hard to say.
 
 So overall we remain confident that the future looks bright for Polish property investment. In terms of what to buy and where, The [BigDoor24 Blog](https://blog.bigdoor24.pl/tags/investment) has lots of articles that may help. Please do plenty of research before buying and remember, the above represents our best opinions, not our promise.
 
