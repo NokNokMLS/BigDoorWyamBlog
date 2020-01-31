@@ -29,6 +29,8 @@ In 2020, property prices will go up. There, we said it. Not a very bold statemen
 
 **Why will Polish property continue to rise?**
 
+***[Did you know? BigDoor24.pl pays you zl. 200 per zl. 100,000 borrowed when you find an Advisor through BigDoor24.pl. ( With zl. 250 for a successful Applicant referral - register for your personal referral code)](https://bigdoor24.pl/)***
+
 **Land**
 
 In the short term, developers are reporting a shortage of suitable available land for development in all major cities. This will obviously reduce supply and with demand expected to remain steady or increase, prices will have to reflect the scarcity.
@@ -65,6 +67,4 @@ Team BigDoor24
 
 **About BigDoor24.pl**
 
-[Bigdoor24.pl is a new free service for Expats, finding Property Experts (Mortgage Advisors & Real Estate Agents) who speak your language & securing Commission Discounts.](https://bigdoor24.pl/)
-
-[Mortgage Cashback - We pay you zl. 200 per zl. 100,000 borrowed when you find an Advisor through BigDoor24.pl.](https://bigdoor24.pl/)
+[Bigdoor24.pl is a new free service for Expats, finding Property Experts (Mortgage Advisors & Real Estate Agents) who speak your language, securing Commission Discounts & paying you a Mortgage CashBack.](https://bigdoor24.pl/)
