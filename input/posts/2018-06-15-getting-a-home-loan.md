@@ -36,7 +36,7 @@ At present, the rating agency used by all banks will reduce your credit rating i
 
 **Tip 4 - Use a qualified professional Advisor - they're free and can only help**
 
-Tip 3 makes it even more important that you employ the services of a qualified independent Credit Advisor.  They earn commission from the bank so there is no charge to you for their work. A good Advisor should be able to assess your situation quickly and give you good guidance on how much you can expect to borrow. Additionally they will also be aware of which banks would be more interested in lending to you, thus increasing your chances of success.
+Tip 3 makes it even more important that you employ the services of a qualified independent Credit Advisor.  They earn commission from the bank so there is no charge to you for their work. A good Advisor should be able to assess your situation quickly and give you good guidance on how much you can expect to borrow. Additionally they will also be aware of which banks would be more interested in lending to you, thus increasing your chances of success. We would add, assume nothing. Bring a notepad with you for the meeting and ask every and all questions you can think of re documents required, timeframes, breakdown of costs/penalties etc..
 
 **Tip 5 - Be aware of the ancillary costs when budgeting**
 
