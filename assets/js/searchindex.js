@@ -10,15 +10,15 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"ab",
-            content:"additional search tags",
-            description:"Best Dave Car Rental Krakow Bronowice",
-            tags:'Kraków Bronowice Car Car'
+            title:"John Hair Salon",
+            content:"Hair Salon",
+            description:"best John Hair Salon Krakow Centrum",
+            tags:'Krakow Centrum Hair Hair'
         },
         {
-            url:'/services/daves-car-rental',
-            title:"ab",
-            description:"The Best Dave's Car Rental in Krakow, Bronowice"
+            url:'/services/johns-hair-salon',
+            title:"John's Hair Salon",
+            description:"The best John's Hair Salon in Krakow Centrum"
         }
     );
     a(
@@ -52,15 +52,15 @@ var searchModule = function() {
     a(
         {
             id:3,
-            title:"John Hair Salon",
-            content:"Hair Salon",
-            description:"best John Hair Salon Krakow Centrum",
-            tags:'Krakow Centrum Hair Hair'
+            title:"ab",
+            content:"additional search tags",
+            description:"Best Dave Car Rental Krakow Bronowice",
+            tags:'Kraków Bronowice Car Car'
         },
         {
-            url:'/services/johns-hair-salon',
-            title:"John's Hair Salon",
-            description:"The best John's Hair Salon in Krakow Centrum"
+            url:'/services/daves-car-rental',
+            title:"ab",
+            description:"The Best Dave's Car Rental in Krakow, Bronowice"
         }
     );
     var idx = lunr(function() {
