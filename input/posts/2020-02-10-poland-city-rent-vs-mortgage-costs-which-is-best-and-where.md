@@ -25,8 +25,4 @@ Despite, in some cases, double digit growth in property prices in Poland in the 
 
 Using information compiled from recent articles by [expander/rentier.io](https://www.expander.pl/raport-expandera-i-rentier-io-najem-mieszkan-iv-kw-2019/) and [money.pl](https://www.money.pl/gospodarka/ceny-mieszkan-w-polsce-rosna-lata-wyrzeczen-i-srednia-pensja-to-za-malo-6476836634400897a.html) we have compiled some graphs that may help in your decision to buy a polish property and/or get a Polish mortgage in 2020.
 
-
-
 To begin we look at apartment growth during 2019
-
-![]()
