@@ -21,8 +21,6 @@ Tags:
   - Wroclaw
   - Lodz
 ---
-
-
 Despite, in some cases, double digit growth in property prices in Poland in the last year, we examine whether renting or buying is a better option for your finances.
 
 Using information compiled from recent articles by [expander/rentier.io](https://www.expander.pl/raport-expandera-i-rentier-io-najem-mieszkan-iv-kw-2019/) and [money.pl](https://www.money.pl/gospodarka/ceny-mieszkan-w-polsce-rosna-lata-wyrzeczen-i-srednia-pensja-to-za-malo-6476836634400897a.html) we have compiled some graphs that may help in your decision to buy a Polish property and/or get a Polish mortgage in 2020.
@@ -43,13 +41,11 @@ So for example, Warsaw has an average rent that is 22% higher than the cost of a
 
 ![](../assets/Images/35sqm rent v mortgage graph.png)
 
-
-
 ## **50 m2 Apartment**
 
-
-
 ![](../assets/Images/50m2 rent v mortgage.png)
+
+***[Did you know? BigDoor24.pl pays you zl. 200 per zl. 100,000 borrowed when you find a Polish Mortgage Advisor through BigDoor24.pl. (With zl. 250 for a successful Applicant referral - register for your personal referral code)](https://bigdoor24.pl/)***
 
 ## 70 m2 Apartment
 
