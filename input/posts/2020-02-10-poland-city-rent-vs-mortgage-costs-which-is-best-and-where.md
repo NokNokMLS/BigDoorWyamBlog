@@ -27,7 +27,7 @@ Using information compiled from recent articles by [expander/rentier.io](https:/
 
 To begin we look at apartment growth by City during 2019
 
-![](../assets/Images/2019-Apartment-price-by-city-graph.png)
+![](../assets/Images/2019-Apartment-price-by-city-graph.png){.img-fluid .img-responsive}
 
 So there has been growth, but should we rent or buy?
 
@@ -39,17 +39,17 @@ So for example, Warsaw has an average rent that is 22% higher than the cost of a
 
 ## **35 m2 Apartment**
 
-![](../assets/Images/35sqm-rent-v-mortgage-graph.png)
+![](../assets/Images/35sqm-rent-v-mortgage-graph.png){.img-fluid .img-responsive}
 
 ## **50 m2 Apartment**
 
-![](../assets/Images/50m2-rent-v-mortgage.png)
+![](../assets/Images/50m2-rent-v-mortgage.png){.img-fluid .img-responsive}
 
 ***[Did you know? BigDoor24.pl pays you zl. 200 per zl. 100,000 borrowed when you find a Polish Mortgage Advisor through BigDoor24.pl. (With zl. 250 for a successful Applicant referral - register for your personal referral code)](https://bigdoor24.pl/)***
 
 ## 70 m2 Apartment
 
-![](../assets/Images/70m2-rent-v-mortgage.png)
+![](../assets/Images/70m2-rent-v-mortgage.png){.img-fluid .img-responsive}
 
 We can see a striking difference between the smaller and larger apartments which might suggest that if you are considering buying an apartment for investment it may be better to buy two smaller ones rather than one larger.
 
