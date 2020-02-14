@@ -2,12 +2,12 @@
   {
     "Tag": "News",
     "Url": "/tags/News.html",
-    "Weight": 37
+    "Weight": 36
   },
   {
     "Tag": "The Digest",
     "Url": "/tags/The-Digest.html",
-    "Weight": 29
+    "Weight": 28
   },
   {
     "Tag": "General Information",
@@ -40,13 +40,13 @@
     "Weight": 15
   },
   {
-    "Tag": "Krakow",
-    "Url": "/tags/Krakow.html",
+    "Tag": "Investment",
+    "Url": "/tags/Investment.html",
     "Weight": 11
   },
   {
-    "Tag": "Investment",
-    "Url": "/tags/Investment.html",
+    "Tag": "Krakow",
+    "Url": "/tags/Krakow.html",
     "Weight": 11
   },
   {
@@ -65,6 +65,11 @@
     "Weight": 5
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 4
+  },
+  {
     "Tag": "Katowice",
     "Url": "/tags/Katowice.html",
     "Weight": 4
@@ -80,28 +85,13 @@
     "Weight": 4
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 4
-  },
-  {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Rzeszow",
     "Url": "/tags/Rzeszow.html",
     "Weight": 2
   },
   {
-    "Tag": "Szczecin",
-    "Url": "/tags/Szczecin.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "News. The Digest",
-    "Url": "/tags/News-The-Digest.html",
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
     "Weight": 2
   },
   {
@@ -110,18 +100,23 @@
     "Weight": 2
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
+    "Tag": "News. The Digest",
+    "Url": "/tags/News-The-Digest.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Szczecin",
+    "Url": "/tags/Szczecin.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Polish Economy",
+    "Url": "/tags/Polish-Economy.html",
     "Weight": 1
   },
   {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Brexit & Poland",
-    "Url": "/tags/Brexit-&-Poland.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
@@ -130,18 +125,38 @@
     "Weight": 1
   },
   {
-    "Tag": "Polish Interest Rate",
-    "Url": "/tags/Polish-Interest-Rate.html",
+    "Tag": "Brexit & Poland",
+    "Url": "/tags/Brexit-&-Poland.html",
     "Weight": 1
   },
   {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
     "Tag": "NEWS",
     "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Interest Rate",
+    "Url": "/tags/Polish-Interest-Rate.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   },
   {
@@ -155,18 +170,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Gdynia",
-    "Url": "/tags/Gdynia.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -175,33 +180,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Valuation",
     "Url": "/tags/Valuation.html",
     "Weight": 1
   },
   {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Gdynia",
+    "Url": "/tags/Gdynia.html",
     "Weight": 1
   },
   {
-    "Tag": "Polish Economy",
-    "Url": "/tags/Polish-Economy.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
     "Weight": 1
   }
 ]
