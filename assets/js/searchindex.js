@@ -10,15 +10,15 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"John Hair Salon",
-            content:"Hair Salon",
-            description:"best John Hair Salon Krakow Centrum",
-            tags:'Krakow Centrum Hair Hair'
+            title:"Polish food shop pierogi",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
         },
         {
-            url:'/services/johns-hair-salon',
-            title:"John's Hair Salon",
-            description:"The best John's Hair Salon in Krakow Centrum"
+            url:'/services/a-food-shop-in-bronowice',
+            title:"Polish food shop with pierogi",
+            description:"Polish food shop with pierogi"
         }
     );
     a(
@@ -38,15 +38,15 @@ var searchModule = function() {
     a(
         {
             id:2,
-            title:"Polish food shop pierogi",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
+            title:"John Hair Salon",
+            content:"Hair Salon",
+            description:"best John Hair Salon Krakow Centrum",
+            tags:'Krakow Centrum Hair Hair'
         },
         {
-            url:'/services/a-food-shop-in-bronowice',
-            title:"Polish food shop with pierogi",
-            description:"Polish food shop with pierogi"
+            url:'/services/johns-hair-salon',
+            title:"John's Hair Salon",
+            description:"The best John's Hair Salon in Krakow Centrum"
         }
     );
     a(
