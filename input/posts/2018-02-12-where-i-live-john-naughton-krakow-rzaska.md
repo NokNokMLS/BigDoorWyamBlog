@@ -7,8 +7,6 @@ Image: /assets/Images/rzaskapic.jpg
 Tags:
   - Krakow
   - Where I Live
-  - Rent
-  - Mortgage
 ---
 **Name** John N..  
 
