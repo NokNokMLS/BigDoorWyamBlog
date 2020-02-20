@@ -31,7 +31,7 @@ To begin we look at apartment growth by City during 2019
 
 So there has been growth, but should we rent or buy?
 
-So now we can look at the cost of renting 3 types of apartments in major Polish cities. Making a comparison of net rent ( without ancillary costs i.e. management fee, tax etc ) versus the cost of borrowing 90 % to purchase a similar property, again without any extra expenses like insurance etc.
+For now, we can look at the cost of renting 3 types of apartments in major Polish cities. Making a comparison of net rent ( without ancillary costs i.e. management fee, tax etc ) versus the cost of borrowing 90 % to purchase a similar property, again without any extra expenses like insurance etc.
 
 We have displayed the results as a percentage of savings.
 
