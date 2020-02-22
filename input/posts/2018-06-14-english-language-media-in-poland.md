@@ -3,14 +3,14 @@ Title: English Language Media in Poland
 Author: Team BigDoor24
 Lead: What's happenin'
 Published: '2018-06-14T17:12:05+02:00'
-Image: /assets/Images/newspapers.jpg
+Image: ../assets/Images/english media poland.jpg
 Tags:
   - General Information
   - News
 ---
 Just a few News sources we recommend for the English speakers amongst us. 
 
-(Note - If you believe we have missed some, please let us now and we'll be happy to update & remember to[ Like us now on Facebook](https://www.facebook.com/bigdoor24/) to see all our articles on living in Poland)
+(Note - If you believe we have missed some, please let us now and we'll be happy to update. Remember to[ Like us now on Facebook](https://www.facebook.com/bigdoor24/) to see all our articles on living in Poland)
 
 **National**
 
@@ -32,7 +32,7 @@ https://notesfrompoland.com/
 
 https://www.thefirstnews.com/
 
-https://poland-today.pl/
+<https://kafkadesk.org/>
 
 ***Video***
 
@@ -73,6 +73,8 @@ http://www.warsawinsider.pl/
 **Culture**
 
 [Culture.pl](https://culture.pl/en)
+
+<https://www.inyourpocket.com/>
 
 ***About BigDoor24.pl***
 
