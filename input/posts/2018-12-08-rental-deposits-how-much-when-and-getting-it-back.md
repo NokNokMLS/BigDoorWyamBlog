@@ -1,7 +1,7 @@
 ---
-Title: 'Rental Deposits - how much, when and getting it back'
+Title: 'Rental Deposits - How Much, When and Getting it Back'
 Author: Team BigDoor24
-Lead: 'It''s easy when you know '
+Lead: 'Just Easier When You Know '
 Published: '2018-12-08T10:53:29+01:00'
 Image: ../assets/Images/small-house-made-out-of-gold-coins.jpg
 Tags:
