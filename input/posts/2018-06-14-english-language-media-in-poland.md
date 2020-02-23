@@ -10,7 +10,9 @@ Tags:
 ---
 Just a few News sources we recommend for the English speakers amongst us. 
 
-(Note - If you believe we have missed some, please let us now and we'll be happy to update. Remember to[ Like us now on Facebook](https://www.facebook.com/bigdoor24/) to see all our articles on living in Poland)
+(Note - If you believe we have missed some, please let us know and we'll be happy to update.)
+
+Remember to[ Like us now on Facebook](https://www.facebook.com/bigdoor24/) to see all our articles on living in Poland.
 
 **National**
 
