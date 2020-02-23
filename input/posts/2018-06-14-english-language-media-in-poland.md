@@ -18,7 +18,7 @@ Remember to[ Like us now on Facebook](https://www.facebook.com/bigdoor24/) to se
 
 Probably the best, if you are just looking for a weekly update is
 
-[The Digest](https://digestpoland.com/)
+[The Digest](https://digestpoland.com/) or like on Facebook [TheDigestPoland](https://www.facebook.com/TheDigestPoland/)
 
 which publishes every Sunday at 10.00 a.m. and can be followed on [Facebook](https://www.facebook.com/TheDigestPoland/).
 
