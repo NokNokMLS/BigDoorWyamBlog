@@ -1,9 +1,9 @@
 ---
-Title: 'Rental Deposits - how much, when and getting it back'
+Title: 'Rental Deposits - How Much, When and Getting it Back'
 Author: Team BigDoor24
-Lead: 'It''s easy when you know '
+Lead: 'Just Easier When You Know '
 Published: '2018-12-08T10:53:29+01:00'
-Image: /assets/Images/apartment-rental-deposit-thumbnail.jpg
+Image: ../assets/Images/small-house-made-out-of-gold-coins.jpg
 Tags:
   - Rent
   - Buy
@@ -24,9 +24,9 @@ In the spirit of "a verbal contract is not worth the paper it's written on", ens
 
 Having ensured the terms are clear, it is worth taking some pictures of the apartment when you are signing the contract with particular focus on furniture or fittings that are already damaged. Most Landlords will not give you a problem at the end of the contract but it doesn't hurt to have some proof should a dispute arise.
 
-[**Did you know ?**](https://bigdoor24.pl/)
+**[Did you know ?](https://bigdoor24.pl/)**
 
-[_**BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.**_](https://bigdoor24.pl/)
+***[BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.](https://bigdoor24.pl/)***
 
 **Getting it Back**
 
@@ -43,3 +43,11 @@ Continue to search articles on our Blog that may also help and don't forget to l
 Got more questions ?
 
 Drop us an email and we will do our best to answer any questions you might have.
+
+Team BigDoor24
+
+***About BigDoor24.pl***
+
+[Bigdoor24.pl is a new free service for Expats, finding Property experts who speak your language, securing Commission Discounts & Paying You CashBack on successful Polish mortgage applications.](https://bigdoor24.pl/)
+
+[We pay zl. 250 for successful applicant referrals as well as paying the applicant Zl. 200 for every Zl. 100k borrowed. Register now for details.](https://bigdoor24.pl/)
