@@ -16,7 +16,7 @@ Based on BigDoor24 research, we think someone else is now trying to screw them, 
 
 The property business, like lots of others, are built on the notion of ignorance. In the same way that if you are a Circus Clown you are unlikely to understand the work of a Doctor, or vice versa, Lawyers are betting you wont understand their work either.
 
-We have seen lots of legal groups setting up a cottage industry modelling themselves on the American system of class action suits, offering homeowners the possibility of reimbursement for the small price of an initial zl. 2,000 - 5,000 plus 20 or 30% of the final payout. These legal eagles will do all of the paperwork and judicial submissions and all you have to do is sit back and wait for your cheque. 
+We have seen lots of legal groups setting up a cottage industry modelling themselves on the American system of class action suits, offering homeowners the possibility of reimbursement for the small price of an initial zl. 2,000 - 5,000 plus 20 or 30% of the final payout. These legal eagles will do all of the paperwork and judicial submissions and all you have to do is wait for your cheque. 
 
 Not a bad offer, until you realise that there is in effect, no legal argument to be made. **The legal judgement has already been decided.** 
 
