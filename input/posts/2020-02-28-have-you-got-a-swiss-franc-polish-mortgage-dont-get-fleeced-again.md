@@ -1,7 +1,7 @@
 ---
 Title: Have you got a Swiss Franc Polish Mortgage? Don't get cheated again!
 Author: Team BigDoor24
-Lead: 'Lawyers are claiming a solution, that may be the problem.'
+Lead: 'Lawyers are offering a solution, that may be a problem.'
 Published: 2020-02-28T20:39:49.017Z
 Image: ../assets/Images/oleg-ivanov-RtTIXktREqQ-unsplash.jpg
 Tags:
