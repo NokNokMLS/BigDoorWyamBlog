@@ -34,6 +34,10 @@ We continue to believe, based on existing data, that Poland will repeat it's tri
 
 ***"When there is fear, get greedy, when there is greed, be fearful" - Warren Buffet, 1986***
 
+***The Zloty***
+
+*Expect the Zloty to lose value in the coming period as investors move to safe haven currencies like the Euro, US Dollar and the Swiss Franc. The Central bank does a pretty good job of keeping the currency stable but they may let it drift a bit to help with exports.*
+
 **What to do**
 
 We would not suggest that anyone tries to gamble on when we get back to "normal", but there will be an end to the current turmoil. If you were planning to invest in Polish property this year, you should be prepared to move fast to catch a bargain.
