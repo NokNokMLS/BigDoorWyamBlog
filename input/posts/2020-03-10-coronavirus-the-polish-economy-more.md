@@ -24,7 +24,7 @@ Yesterday (March 9th), world stock markets, including the Warsaw Exchange, opene
 
 After 10 years of growth many experts expected a correction or even a recession in 2020, although nothing to compare to 2008. There is no doubt that a spreading Coronavirus was an accelerator to slowing growth but the key to the recent market fall is too high levels of debt and the Russian/Saudi Oil war on the American Shale Oil industry.
 
-Before all of this we were preparing an article on how property is an excellent way of guarding yourself against increasing inflation. There is no doubt that inflation was the biggest danger to the Polish Economy. The Central Bank were expected to raise Interest rates in their last meeting to try to manage this inflation spiral, as is their job. They didn't.
+Before all of this, we were preparing an article on how property is an excellent way of guarding yourself against increasing inflation. There is no doubt that inflation was the biggest danger to the Polish Economy. The Central Bank were expected to raise Interest rates in their last meeting to try to manage this inflation spiral, as is their job. They didn't.
 
 This week, they have amended their inflation update for 2020 from 2.8 to 3.7 % but reduced their GDP forecast. So inflation is still an issue and slowing growth is expected.
 
@@ -36,7 +36,7 @@ We continue to believe, based on existing data, that Poland will repeat it's tri
 
 ***The Zloty***
 
-*Expect the Zloty to lose value in the coming period as investors move to safe haven currencies like the Euro, US Dollar and the Swiss Franc. The Central bank does a pretty good job of keeping the currency stable but they may let it drift a bit to help with exports.*
+Expect the Zloty to lose value in the coming period as investors move to safe haven currencies like the Euro, US Dollar and the Swiss Franc. The Central bank does a pretty good job of keeping the currency stable but they may let it drift a bit to help with exports.
 
 **What to do**
 
@@ -50,7 +50,7 @@ As a preparatory checklist, do an inventory of your financial strength.
 
 \- If you only consider investments for the longer term (5 year+), how will this impact you?
 
- Stay up to date with economic commentary and consider questions like -  
+*Stay up to date with economic commentary and consider questions like -*  
 
 \- Will reduced tourism affect Krakow rents?
 
