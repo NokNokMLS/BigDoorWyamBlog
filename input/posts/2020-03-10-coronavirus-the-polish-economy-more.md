@@ -12,11 +12,9 @@ Tags:
   - Investment
   - Coronavirus
 ---
-"When there is blood on the streets, buy property" - NM Rothschild, 18th Century
+"Where do we come from? What are we? Where are we going?" by Paul Gauguin (Image)
 
-"When there is fear, get greedy, when there is greed, be fearful" - Warren Buffet, 1986
-
-We chose the above image, " Where do we come from? What are we? Where are we going?"by Paul Gauguin, as an apt description of our current situation. We could have chosen Munch's "The Scream", but we are not there yet.
+***"When there is blood on the streets, buy property" - NM Rothschild, 18th Century***
 
 **What's going on?**
 
@@ -33,6 +31,8 @@ This week, they have amended their inflation update for 2020 from 2.8 to 3.7 % b
 The reduction in oil prices and the shock to the world economy, which is essentially a demand *and* supply problem, normally it's one or the other, would suggest that inflation and growth forecasts at the moment will be a moving number.
 
 We continue to believe, based on existing data, that Poland will repeat it's trick of 10 years ago and not be affected by this economic slowdown as much as other countries as debt levels still remain comparatively low. It will be affected however, and if there is "blood on the streets", then there will be opportunities for those investors who like risk.
+
+***"When there is fear, get greedy, when there is greed, be fearful" - Warren Buffet, 1986***
 
 **What to do**
 
@@ -60,6 +60,6 @@ We will continue to write more articles, and in more detail, as new events occur
 
 Team BigDoor24 - Just Easier
 
-[BigDoor24.pl is a free service that finds local Polish Property Professionals who speak your language. An official referral agent for OpenFinance, Expander and other National Mortgage Advisors,**BigDoor24 Pays You** when you successfully complete your mortgage application. Click here for more details.](https://bigdoor24.pl/)
+[BigDoor24.pl is a free service that finds local Polish Property Professionals who speak your language. An official referral agent for OpenFinance, Expander and other National Mortgage Advisors, **BigDoor24 Pays You** when you successfully complete your mortgage application. Click here for more details.](https://bigdoor24.pl/)
 
 **[For more articles that may save you some serious Zloty follow us now on Facebook.](https://www.facebook.com/bigdoor24/)**
