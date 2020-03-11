@@ -14,8 +14,6 @@ Tags:
 ---
 "Where do we come from? What are we? Where are we going?" by Paul Gauguin (Image)
 
-***"When there is blood on the streets, buy property" - NM Rothschild, 18th Century***
-
 **What's going on?**
 
 To begin, we have absolutely no idea what is going to happen to either the Polish property market nor to the Polish economy as a whole in the next 3 months. But at the heart of understanding the future, or at least trying to, is to understand what exactly is happening now.
@@ -30,7 +28,7 @@ This week, they have amended their inflation update for 2020 from 2.8 to 3.7 % b
 
 The reduction in oil prices and the shock to the world economy, which is essentially a demand *and* supply problem, normally it's one or the other, would suggest that inflation and growth forecasts at the moment will be a moving number.
 
-We continue to believe, based on existing data, that Poland will repeat it's trick of 10 years ago and not be affected by this economic slowdown as much as other countries as debt levels still remain comparatively low. It will be affected however, and if there is "blood on the streets", then there will be opportunities for those investors who like risk.
+We continue to believe, based on existing data, that Poland will repeat it's trick of 10 years ago and not be affected by this economic slowdown as much as other countries as debt levels still remain comparatively low. It will be affected As economic activity decreases a lot of businesses and property developers will be squeezed resulting in  opportunities for those investors who like risk.
 
 ***"When there is fear, get greedy, when there is greed, be fearful" - Warren Buffet, 1986***
 
