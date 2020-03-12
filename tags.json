@@ -20,13 +20,13 @@
     "Weight": 22
   },
   {
-    "Tag": "Rent",
-    "Url": "/tags/Rent.html",
+    "Tag": "Sell",
+    "Url": "/tags/Sell.html",
     "Weight": 18
   },
   {
-    "Tag": "Sell",
-    "Url": "/tags/Sell.html",
+    "Tag": "Rent",
+    "Url": "/tags/Rent.html",
     "Weight": 18
   },
   {
@@ -65,23 +65,23 @@
     "Weight": 5
   },
   {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 4
-  },
-  {
-    "Tag": "Gdansk",
-    "Url": "/tags/Gdansk.html",
-    "Weight": 4
-  },
-  {
     "Tag": "Katowice",
     "Url": "/tags/Katowice.html",
     "Weight": 4
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 4
+  },
+  {
     "Tag": "Lodz",
     "Url": "/tags/Lodz.html",
+    "Weight": 4
+  },
+  {
+    "Tag": "Gdansk",
+    "Url": "/tags/Gdansk.html",
     "Weight": 4
   },
   {
@@ -95,8 +95,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
     "Weight": 2
   },
   {
@@ -105,33 +105,13 @@
     "Weight": 2
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
     "Weight": 2
   },
   {
-    "Tag": "Bialystok",
-    "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Coronavirus",
-    "Url": "/tags/Coronavirus.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
+    "Tag": "Polish Economy",
+    "Url": "/tags/Polish-Economy.html",
     "Weight": 1
   },
   {
@@ -140,28 +120,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Polish Economy",
-    "Url": "/tags/Polish-Economy.html",
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Brexit & Poland",
-    "Url": "/tags/Brexit-&-Poland.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
     "Weight": 1
   },
   {
@@ -170,23 +135,33 @@
     "Weight": 1
   },
   {
-    "Tag": "Swiss Currency Mortgage",
-    "Url": "/tags/Swiss-Currency-Mortgage.html",
+    "Tag": "Coronavirus",
+    "Url": "/tags/Coronavirus.html",
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Bialystok",
+    "Url": "/tags/Bialystok.html",
     "Weight": 1
   },
   {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Brexit & Poland",
+    "Url": "/tags/Brexit-&-Poland.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -195,8 +170,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Tri-City",
-    "Url": "/tags/Tri-City.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -205,8 +185,28 @@
     "Weight": 1
   },
   {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Swiss Currency Mortgage",
+    "Url": "/tags/Swiss-Currency-Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
     "Weight": 1
   }
 ]
