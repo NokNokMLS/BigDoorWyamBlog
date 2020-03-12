@@ -34,7 +34,7 @@ We continue to believe, based on existing data, that Poland will repeat it's tri
 
 ***The Zloty***
 
-Expect the Zloty to lose value in the coming period as investors move to safe haven currencies like the Euro, US Dollar and the Swiss Franc. The Central Bank does a pretty good job of keeping the currency stable but they may let it drift a bit to help with exports.
+Expect the Zloty to lose value in the coming period as investors move to safe haven currencies like the Euro, US Dollar and the Swiss Franc. The Central Bank does a pretty good job of keeping the currency stable but they may let it drift a bit to help with exports. We would see it going from the current 4.32 to the next level of 4.41 and possibly beyond in the coming days/weeks.
 
 **What to do**
 
