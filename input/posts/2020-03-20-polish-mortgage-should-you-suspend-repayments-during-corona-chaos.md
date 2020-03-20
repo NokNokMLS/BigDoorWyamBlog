@@ -30,7 +30,7 @@ The banks have said that they will not charge fees for any of these changes and 
 
 Amongst other things, your mortgage margin (Interest rate = Wibor Central Bank Rate + Margin) is defined by your credit rating. Again, the Banks have said that accepting the offer of a repayment holiday will not affect your credit rating. Be aware that the onus is on you to make sure it doesn't. Look for details on this in the terms of each individual Bank offer.
 
-As the pandemic grows and eventually shrinks, we will try to keep you informed of the issues you need to know about. Let's keep in touch.
+As the pandemic grows and eventually shrinks, we will try to keep you informed of the financial issues you need to know about. Let's keep in touch.
 
 Stay safe,
 
