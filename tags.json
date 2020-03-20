@@ -2,12 +2,12 @@
   {
     "Tag": "General Information",
     "Url": "/tags/General-Information.html",
-    "Weight": 28
+    "Weight": 29
   },
   {
     "Tag": "Polish Mortgage",
     "Url": "/tags/Polish-Mortgage.html",
-    "Weight": 26
+    "Weight": 27
   },
   {
     "Tag": "Buy",
@@ -65,18 +65,13 @@
     "Weight": 5
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 4
-  },
-  {
-    "Tag": "Poznan",
-    "Url": "/tags/Poznan.html",
-    "Weight": 4
-  },
-  {
     "Tag": "Lodz",
     "Url": "/tags/Lodz.html",
+    "Weight": 4
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
     "Weight": 4
   },
   {
@@ -85,8 +80,23 @@
     "Weight": 4
   },
   {
+    "Tag": "Poznan",
+    "Url": "/tags/Poznan.html",
+    "Weight": 4
+  },
+  {
+    "Tag": "News. The Digest",
+    "Url": "/tags/News-The-Digest.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Szczecin",
     "Url": "/tags/Szczecin.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Coronavirus",
+    "Url": "/tags/Coronavirus.html",
     "Weight": 2
   },
   {
@@ -95,28 +105,28 @@
     "Weight": 2
   },
   {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "News. The Digest",
-    "Url": "/tags/News-The-Digest.html",
-    "Weight": 2
-  },
-  {
     "Tag": "Statistics",
     "Url": "/tags/Statistics.html",
     "Weight": 2
   },
   {
-    "Tag": "Polish Economy",
-    "Url": "/tags/Polish-Economy.html",
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
     "Weight": 1
   },
   {
-    "Tag": "Gdynia",
-    "Url": "/tags/Gdynia.html",
+    "Tag": "Banks",
+    "Url": "/tags/Banks.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
     "Weight": 1
   },
   {
@@ -130,38 +140,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Polish Interest Rate",
-    "Url": "/tags/Polish-Interest-Rate.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Coronavirus",
-    "Url": "/tags/Coronavirus.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Torun",
-    "Url": "/tags/Torun.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Bialystok",
     "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Brexit & Poland",
-    "Url": "/tags/Brexit-&-Poland.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -170,23 +150,38 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Polish Economy",
+    "Url": "/tags/Polish-Economy.html",
     "Weight": 1
   },
   {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
     "Tag": "Tri-City",
     "Url": "/tags/Tri-City.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Interest Rate",
+    "Url": "/tags/Polish-Interest-Rate.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Gdynia",
+    "Url": "/tags/Gdynia.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
     "Weight": 1
   },
   {
@@ -200,13 +195,23 @@
     "Weight": 1
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
     "Weight": 1
   },
   {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
+    "Tag": "Brexit & Poland",
+    "Url": "/tags/Brexit-&-Poland.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Torun",
+    "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
     "Weight": 1
   }
 ]
