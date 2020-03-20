@@ -19,17 +19,17 @@ There are many, like you, who are wondering if it is wise to buy PLN now at 4.60
 
 As it happens, one member of our BigDoor24  Team was a market Trader for many years so we thought we would share some tips that may help you in your decision.
 
-We begin by looking at the history of the currency. The best chart we could find was from the excellent [Oanda/TradingView](https://www.tradingview.com/symbols/EURPLN/) site. Please open this chart in another tab as we discuss our findings.
+We begin by looking at the history of the currency. The best chart we could find was from the excellent [Oanda/TradingView](https://www.tradingview.com/symbols/EURPLN/) site. Please open this chart in another tab as we discuss our findings. We are only discussing Eur/PLN for the purposes of this article as the same logic can apply to other currencies.
 
-We have gone back as far as 2003 on the chart and we can see the level in February 2004  the Eur rate was 4.88. This can be viewed as the highest price achieved in the last 17 years.
+We have gone back as far as 2003 on the chart and we can see that the level in February 2004 was 4.88. This can be viewed as the highest price achieved in the last 17 years.
 
-However, we don't like this rate as an historic high as it was reflective of Poland's entry to the EU and its developing economy from the big bang of the early 90's. We much prefer the rate of 4.63 in February 2009. The world was entering one of the worst recessions in decades and the Polish Zloty was treated as much more of a minor currency than it is today.
+However, we don't like this rate as an historic high as it was reflective of Poland's entry to the EU and it's developing economy from the big bang of the early 90's. We much prefer the rate of 4.63 in February 2009. The world was entering one of the worst recessions in decades and the Polish Zloty was treated as much more of a minor currency than it is today.
 
 Based on this, the Eur/PLN is now pretty much at the same level as it was during the worst of the global recession of 2008 +.
 
 **The Answer**
 
-Is this fair value? If you think not, then fill your boots and buy as much as you can. If you think EuroLand or the U.S. will do better than Poland than current media reports then hold off and wait. 
+Is this fair value? If you think not, then fill your boots and buy as much as you can. If you think EuroLand or the U.S. will do better than Poland than current media suggests, then hold off and wait. We believe anything over 4.60 is unknown territory.
 
 A final point - calculate the amount you want to exchange and it if its a small cash difference relative to the rate change... stop trying to guess and just change your money when you need it.
 
