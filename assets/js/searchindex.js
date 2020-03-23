@@ -10,20 +10,6 @@ var searchModule = function() {
     a(
         {
             id:0,
-            title:"Polish food shop pierogi",
-            content:"pierogi",
-            description:"Polish food shop pierogi",
-            tags:'Krakow Bronowice Food Food'
-        },
-        {
-            url:'/services/a-food-shop-in-bronowice',
-            title:"Polish food shop with pierogi",
-            description:"Polish food shop with pierogi"
-        }
-    );
-    a(
-        {
-            id:1,
             title:"ab",
             content:"additional search tags",
             description:"Best Dave Car Rental Krakow Bronowice",
@@ -33,6 +19,20 @@ var searchModule = function() {
             url:'/services/daves-car-rental',
             title:"ab",
             description:"The Best Dave's Car Rental in Krakow, Bronowice"
+        }
+    );
+    a(
+        {
+            id:1,
+            title:"Polish food shop pierogi",
+            content:"pierogi",
+            description:"Polish food shop pierogi",
+            tags:'Krakow Bronowice Food Food'
+        },
+        {
+            url:'/services/a-food-shop-in-bronowice',
+            title:"Polish food shop with pierogi",
+            description:"Polish food shop with pierogi"
         }
     );
     a(
