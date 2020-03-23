@@ -24,7 +24,7 @@ In addition to this, the future still remains very uncertain. Will you have a jo
 
 *Contracts*
 
-The banks have said that they will not charge fees for any of these changes and will make the process simple. Take the time to read the new contracts as it is not beyond the Banks to make changes to benefit themselves. Make sure you are happy with any changes they make to your terms. After the last recession, many Banks worldwide played fast and loose with contract changes regarding fixed rates etc..
+The banks have said that they will not charge fees for any of these changes and will make the process simple. Take the time to read the new contracts as it is not beyond the Banks to make changes to benefit themselves. Make sure you are happy with any changes they make to your terms. After the last recession, many Banks worldwide played fast and loose with contract changes regarding fixed rates etc.. In some cases, the Bank may not offer to extend the loan period but instead add the suspended amounts to future monthly repayments.
 
 *Credit Rating*
 
