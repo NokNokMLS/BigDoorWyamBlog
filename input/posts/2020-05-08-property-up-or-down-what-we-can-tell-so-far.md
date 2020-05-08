@@ -61,7 +61,7 @@ To fight inflation, Central Banks traditionally increase interest rates thus mak
 
 Further to that, if you borrow to buy rather than pay all cash for your property then the value of your debt will, over time, also go down, increasing the return on your cash investment.
 
-We have no idea if this is a route that the Polish Government will go down and as we have been saying, it is also far too early to make a call on the direction in the short term of Polish property. 
+We have no idea if this is a route that the Polish Government will travel and as we have been saying, it is also far too early to make a call on the direction of prices in the short term of Polish property. 
 
 We do say, keep an eye on inflation. If you do want to invest, get mortgage approval to be ready so you can move quickly. And if you are going to move, do it with a long term view. 
 
