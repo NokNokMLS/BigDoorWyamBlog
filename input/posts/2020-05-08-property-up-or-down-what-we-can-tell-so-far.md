@@ -3,6 +3,7 @@ Title: Property up or down, what we can tell so far
 Author: Team BigDoor24.pl
 Lead: Without a definite date for a vaccine, we work with what we know
 Published: 2020-05-08T11:18:40.864Z
+Image: ../assets/Images/anas-mulia-tb4fb9trsdi-unsplash.jpg
 Tags:
   - Polish Mortgage
   - Buy
