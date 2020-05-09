@@ -1,5 +1,5 @@
 ---
-Title: Property up or down? What we can tell so far
+Title: Polish property up or down? What we can tell so far
 Author: Team BigDoor24.pl
 Lead: Without a definite date for a vaccine, we work with what we know
 Published: 2020-05-08T11:18:40.864Z
