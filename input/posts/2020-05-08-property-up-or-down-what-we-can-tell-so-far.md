@@ -57,7 +57,7 @@ To guard against this, many smart investors move their cash into what are called
 
 Gold is one of these assets. So is Property.
 
-To fight inflation, Central Banks traditionally increase interest rates thus making it more expensive to borrow, thus reducing demand. But if the Central Bank decides that it wants more inflation, it will reduce interest rates and allow more money to enter the economy. This will result in greater demand for, yep, you guessed it, property. 
+To fight inflation, Central Banks traditionally increase interest rates thus making it more expensive to borrow and reducing demand. But if the Central Bank decides that it wants more inflation, it will reduce interest rates and allow more money to enter the economy. This will result in greater demand for, yep, you guessed it, property. 
 
 Further to that, if you borrow to buy rather than pay all cash for your property then the value of your debt will, over time, also go down, increasing the return on your cash investment.
 
