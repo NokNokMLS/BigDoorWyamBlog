@@ -51,7 +51,7 @@ It also means that any money you have in your savings account also loses value.
 
 **Options**
 
-As the forecast costs of this pandemic become clearer, we can see that Governments introducing more cash into the economy, again creating inflation. 
+As the costs of this pandemic become clearer, we can see that Governments are introducing more cash into the economy, again fuelling inflation. 
 
 To guard against this, many smart investors move their cash into what are called hedges, or safe havens, in the event of inflation. These are assets that traditionally mirror any rise in inflation. As inflation goes up, so does the asset.
 
@@ -61,11 +61,11 @@ To fight inflation, Central Banks traditionally increase interest rates thus mak
 
 Further to that, if you borrow to buy rather than pay all cash for your property then the value of your debt will, over time, also go down, increasing the return on your cash investment.
 
-We have no idea if this is a route that the Polish Government will travel and as we have been saying, it is also far too early to make a call on the direction of prices in the short term of Polish property. 
+We don't know yet if this is a route that the Polish Government will travel and as we have been saying, it is far too early to make a call on the direction of Polish property prices in the short term. 
 
 We do say, keep an eye on inflation. If you do want to invest, get mortgage approval to be ready so you can move quickly. And if you are going to move, do it with a long term view. 
 
-To see if you are right at the end of your investment, calculate how much milk you can buy now versus when you sell your property. 
+To see if you were successful at the end of your investment, calculate how much milk you can buy now versus when you finally sell.
 
 Stay safe,
 
