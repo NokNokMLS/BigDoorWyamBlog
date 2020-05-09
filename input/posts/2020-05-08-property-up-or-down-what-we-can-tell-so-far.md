@@ -3,7 +3,7 @@ Title: Property up or down, what we can tell so far
 Author: Team BigDoor24.pl
 Lead: Without a definite date for a vaccine, we work with what we know
 Published: 2020-05-08T11:18:40.864Z
-Image: ../assets/Images/anas-mulia-tb4fb9trsdi-unsplash.jpg
+Image: ../assets/Images/will-o-gtyfwfrfbma-unsplash.jpg
 Tags:
   - Polish Mortgage
   - Buy
@@ -37,11 +37,11 @@ However, what is certain is -
 
 \- With little international travel for the foreseeable future, many businesses in Poland's larger cities will collapse.
 
-We know all of this we hear you say. And of course, you do. But an additional threat that we do not see being spoken about as much is the longer term threat of inflation.
+We know all of this, we hear you say. And of course, you do. But an additional threat that we do not see being spoken about as much is the longer term threat of inflation.
 
 **Inflation**
 
-Inflation is essentially the prices of "things" becoming more expensive. Every economy needs stable inflation (say 2 %) and anything less or more of this is considered an issue in the worlds global centres. That's the simple explanation.
+Inflation is essentially the price of "things" becoming more expensive. Every economy needs stable inflation (say 2 %) and anything less or more than this is considered an issue in the worlds global centres. That's the simple explanation.
 
 But what inflation also does is to reduce the value of your money. If milk goes up from 2 zl. to 2.50 zl. and your income is the same, then you can buy less milk. It has less value.
 
@@ -51,7 +51,7 @@ It also means that any money you have in your savings account also loses value.
 
 **Options**
 
-As the forecast costs of this pandemic becomes clearer, we can see that Governments introducing more cash into the economy, again creating inflation. 
+As the forecast costs of this pandemic become clearer, we can see that Governments introducing more cash into the economy, again creating inflation. 
 
 To guard against this, many smart investors move their cash into what are called hedges, or safe havens, in the event of inflation. These are assets that traditionally mirror any rise in inflation. As inflation goes up, so does the asset.
 
@@ -65,7 +65,7 @@ We have no idea if this is a route that the Polish Government will travel and as
 
 We do say, keep an eye on inflation. If you do want to invest, get mortgage approval to be ready so you can move quickly. And if you are going to move, do it with a long term view. 
 
-To see if you are right at the end of your investment, calculate how much milk you can buy now versus when you sell. 
+To see if you are right at the end of your investment, calculate how much milk you can buy now versus when you sell your property. 
 
 Stay safe,
 
