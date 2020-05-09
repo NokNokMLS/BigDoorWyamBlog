@@ -1,5 +1,5 @@
 ---
-Title: Property up or down, what we can tell so far
+Title: Property up or down? What we can tell so far
 Author: Team BigDoor24.pl
 Lead: Without a definite date for a vaccine, we work with what we know
 Published: 2020-05-08T11:18:40.864Z
@@ -70,3 +70,7 @@ To see if you are right at the end of your investment, calculate how much milk y
 Stay safe,
 
 Team BigDoor24.pl
+
+**About BigDoor24.pl**
+
+[Bigdoor24.pl is a free service for Expats, finding Property Experts (Mortgage Advisors & Real Estate Agents) who speak your language, securing Commission Discounts & paying you a Mortgage CashBack.](https://bigdoor24.pl/)
