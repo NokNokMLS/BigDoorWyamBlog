@@ -1,7 +1,7 @@
 ---
 Title: The Polish Economy 2020 and Beyond - A Quick Update
 Author: Team BigDoor24.pl
-Lead: Green Shoots  - Economic indicators are beginning to have more
+Lead: Green Shoots - Economic indicators are beginning to have more
   relevance...finally.
 Published: 2020-07-07T13:54:52.154Z
 Image: ../assets/Images/laszlo-glatz-csebg4cbgxs-unsplash.jpg
