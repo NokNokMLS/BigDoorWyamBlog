@@ -27,11 +27,11 @@ Welcome to the new normal.[ Our last post](https://blog.bigdoor24.pl/posts/2020-
 
 **Property Prices**
 
-Firstly, anecdotally, we are hearing that while property sale prices have not (yet) dropped aggressively. Demand is still high from buyers but issues with the Banks may put a wet blanket on this moving forward.
+Firstly, anecdotally, we are hearing that while property sale prices have not (yet) dropped aggressively, demand is still high from buyers but issues with the Banks may put a wet blanket on this moving forward.
 
-Bank profits and economic uncertainty have resulted in a tighter lending environment. We are hearing that some banks have been asking for up to 35% cash deposit from borrowers. 
+Bank profits and economic uncertainty have resulted in a tighter lending environment. We are hearing that some banks have been asking for up to a 35% cash deposit from borrowers. 
 
-We think that by the end of the year, or shortly thereafter, bank mortgage lending will return to normal. We also think Property prices will begin to rise again.
+We think that by the end of the year, or shortly thereafter, bank mortgage lending will return to normal. We also think property prices will begin to rise again.
 
 We believe, however, that property values will have to drop from here if only to reflect the higher unemployment numbers. By how much we don't know.
 
@@ -48,6 +48,10 @@ We would also expect some pressure on management companies as they find it diffi
 **Overall**
 
 The bottom line is, we do buy into the EC's forecast that Poland will fare substantially better than the average EU country. We are less hesitant to say this than we would have been two months ago but the risks to the downside are still very much in place.
+
+Apologies for sounding a bit wishy-washy in our analysis but the more reliable data we see the more declarative we will become. 
+
+We trust you don't object and stay tuned for more updates as they arise.
 
 Keep that mask on and stay healthy,
 
