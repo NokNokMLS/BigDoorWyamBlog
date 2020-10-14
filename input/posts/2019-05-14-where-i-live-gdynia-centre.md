@@ -9,8 +9,6 @@ Tags:
   - Gdansk
   - Gdynia
 ---
-https://unsplash.com/@czarotg?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge
-
 **Name** Jakub W.
 
 **Nationality** Polish
@@ -43,8 +41,8 @@ Living, working, relaxing, love the area in every aspect of life. I'm close to w
 
 Lots of research and go to a Credit Advisor early in the process
 
-_**Other useful links**_
+***Other useful links***
 
-[_**Read more about Gdynia**_](https://en.wikipedia.org/wiki/Gdynia)
+***[Read more about Gdynia](https://en.wikipedia.org/wiki/Gdynia)***
 
 [Follow Jakub and TriCity News on Facebook](https://www.facebook.com/tricitynewspl/)
