@@ -1,5 +1,5 @@
 ---
-Title: "Property Prices in Poland 2018 to 2020 "
+Title: Polish Salaries, Property Prices & Mortgage Costs - 2018 to 2020
 Author: Team BigDoor24.pl
 Lead: Assessing the past may sometimes be a guide to the future
 Published: 2021-02-26T10:26:11.374Z
@@ -21,15 +21,11 @@ After almost twelve months of lockdowns, mask wearing and isolation where has th
 
 Further to our recent report [Polish Property & Mortgage Market 2021 - The Expert View](https://blog.bigdoor24.pl/posts/2021-02-09-polish-property-mortgage-market-2021-the-expert-view.html) , we now look at some of the numbers underpinning the Polish property market.
 
-
-
 The following is a chart detailing the price of one residential square metre per quarter (2018 - 2020). (Source - stat.gov.pl).
 
 ![Polish Residential Property Price per SQM - 2018 - 2020](../assets/Images/price2020m2.png "Source - stat.gov.pl")
 
-
-
-Anyone looking at this chart would be forgiven for thinking there was absolutely no disruption to the economy in the last year. Certainly price rises have slowed in the last three quarters but they have not collapsed as might have been expected.
+Anyone reviewing this chart would be forgiven for thinking there was absolutely no disruption to the economy in the last year. Certainly price rises have slowed in the last three quarters but they have not collapsed as might have been expected.
 
 ## **So what's going on?**
 
@@ -45,11 +41,9 @@ Whilst there is no direct correlation on a quarter by quarter basis it is fair t
 
 The main reason, however, for the sustainability of the property market, something seen across Europe, has to be the reduction in Polish mortgage interest rates. 
 
-
-
 ## **Cheaper Mortgages increase demand**
 
-On February 2020 the National Bank of Poland reduced their long standing reference rate from 1.5% to 0.10%. They have[ since said that they intend to keep these rates](https://polandin.com/52154559/no-change-to-interest-rates-likely-national-bank-of-polands-head?fbclid=IwAR24ma38M-Q6ncn9fbZ-BdgVW2IZVH-l-gs5mJeCuV1yByuipzHhC3dqVoA) at these levels amid a global conversation about the possibility of negative interest rates.
+On February 2020 the National Bank of Poland reduced their long-standing reference rate from 1.5% to 0.10%. They have[ since said that they intend to keep these rates](https://polandin.com/52154559/no-change-to-interest-rates-likely-national-bank-of-polands-head?fbclid=IwAR24ma38M-Q6ncn9fbZ-BdgVW2IZVH-l-gs5mJeCuV1yByuipzHhC3dqVoA) at these levels amid a global conversation about the possibility of negative interest rates.
 
 In real terms this means that existing mortgage holders of say a zl. 500,000 credit require approximately zl. 600 less per month in repayments. New applicants for mortgages would also find that the calculation of how much they can borrow is also higher as their "ability to repay" evaluation has been increased.
 
@@ -57,7 +51,7 @@ In addition to this we would expect access to the required cash deposit availabl
 
 ## **Inflation**
 
-Another impetus to buyers has to be the fear of increasing inflation. Inflation is of particular concern in Poland when compared with Europe overall and has been growing for years. Increasing inflation reduces the value of cash. This is a simple fact. It also reduces the value of mortgage debt over time. As such, increased property buying as protection against inflation is not something we see decreasing anywhere for the next few years. 
+Another impetus to buyers has to be the fear of increasing inflation. Inflation is of particular concern in Poland when compared with Europe overall and has been growing for years. Increasing inflation reduces the value of cash. This is a simple fact. It also reduces the value of mortgage debt over time. As such, property buying as a protection against inflation is not something we see decreasing anywhere for the next few years. 
 
 ***[Did you know?](https://bigdoor24.pl/)***
 
@@ -65,9 +59,9 @@ Another impetus to buyers has to be the fear of increasing inflation. Inflation 
 
 ## **So what does this tell us for the future?**
 
-Generally, across Europe, we would be very hesitant to forecast the future as the uncertainty in the economy continues. Poland seems to have weathered the pandemic relatively well, to date,  and this is reflected in recent GDP numbers. 
+Generally, across Europe, we would be very hesitant to forecast the future as the uncertainty in the economy continues. Poland, however, seems to have weathered the pandemic relatively well, to date,  and this is reflected in recent GDP numbers. 
 
-The factors that drive property price increases seem to be still quite strong. We are seeing changes to the type of properties people are buying but demand remains in place. If we imagine that the worst effects of the pandemic are behind us, then indications for the value of Polish residential property has got to be tentatively positive for 2021.
+The factors that drive property price increases seem to be still quite strong. We are seeing changes to the type of properties people are buying but demand remains in place with pressure really only being seen in the supply. If we imagine that the worst effects of the pandemic are behind us, then indications for the value of Polish residential property have got to be tentatively positive for 2021.
 
 Stay safe,
 
