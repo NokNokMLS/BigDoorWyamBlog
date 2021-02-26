@@ -1426,5 +1426,14 @@ $document.ready(function () {
       }, 300);
     });
   }
+
+  // make sure images are responsive
+  var imgs = document.querySelectorAll('body > div.page.text-center > main > section.section-top-70.section-bottom-80 > div > div > div.cell-md-8 > * > img'), i;
+
+  for (i = 0; i < imgs.length; ++i) {
+    if(!imgs[i].classList.contains('img-responsive')){
+      imgs[i].classList.add('img-responsive');
+    }
+  }
 });
 
