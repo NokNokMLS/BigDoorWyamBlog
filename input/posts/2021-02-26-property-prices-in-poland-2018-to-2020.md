@@ -27,7 +27,7 @@ The following is a chart detailing the price of one residential square metre per
 
 Anyone reviewing this chart would be forgiven for thinking there was absolutely no disruption to the economy in the last year. Certainly price rises have slowed in the last three quarters but they have not collapsed as might have been expected.
 
-## **So what's going on?**
+##### **So what's going on?**
 
 It depends on the question we ask. If we simply ask why prices are not rising at the same rate as before then the obvious answer is the uncertainty and disruption of 2020. If we ask the question , why did prices not fall?, we need to look at a number of different factors.
 
@@ -41,7 +41,7 @@ Whilst there is no direct correlation on a quarter by quarter basis it is fair t
 
 The main reason, however, for the sustainability of the property market, something seen across Europe, has to be the reduction in Polish mortgage interest rates. 
 
-## **Cheaper mortgages increase demand**
+##### **Cheaper mortgages increase demand**
 
 On February 2020 the National Bank of Poland reduced their long-standing reference rate from 1.5% to 0.10%. They have[ since said that they intend to keep these rates](https://polandin.com/52154559/no-change-to-interest-rates-likely-national-bank-of-polands-head?fbclid=IwAR24ma38M-Q6ncn9fbZ-BdgVW2IZVH-l-gs5mJeCuV1yByuipzHhC3dqVoA) at these levels amid a global conversation about the possibility of negative interest rates.
 
@@ -49,7 +49,7 @@ In real terms this means that existing mortgage holders of say a zl. 500,000 cre
 
 In addition to this we would expect access to the required cash deposit available to more people as savings levels have substantially increased during lockdowns.
 
-## **Inflation**
+##### **Inflation**
 
 Another impetus to buyers has to be the fear of increasing inflation. Inflation is of particular concern in Poland when compared with Europe overall and has been growing for years. Increasing inflation reduces the value of cash. This is a simple fact. It also reduces the value of mortgage debt over time. As such, property buying as a protection against inflation is not something we see decreasing anywhere for the next few years. 
 
@@ -57,7 +57,7 @@ Another impetus to buyers has to be the fear of increasing inflation. Inflation 
 
 ***[BigDoor24.pl sends you a zl. 250 retail voucher of your choice for every successful Polish Mortgage Applicant referred - (in addition to what we send them) - register now for your personal referral code.](https://bigdoor24.pl/)***
 
-## **What does this tell us for the future?**
+##### **What does this tell us for the future?**
 
 Generally, across Europe, we would be very hesitant to forecast the future as the uncertainty in the economy continues. Poland, however, seems to have weathered the pandemic relatively well, to date,  and this is reflected in recent GDP numbers. 
 
