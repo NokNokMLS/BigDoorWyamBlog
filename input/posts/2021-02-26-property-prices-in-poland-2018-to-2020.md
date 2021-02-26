@@ -15,7 +15,7 @@ Tags:
   - Negotiation
   - General Information
   - Polish Interest Rates
-  - PolishSalaries
+  - Polish Salaries
 ---
 After almost twelve months of lockdowns, mask wearing and isolation where has the Polish property market been and where might it be going?
 
@@ -23,7 +23,7 @@ Further to our recent report [Polish Property & Mortgage Market 2021 - The Exper
 
 The following is a chart detailing the price of one residential square metre per quarter (2018 - 2020). (Source - stat.gov.pl).
 
-![Polish Residential Property Price per SQM - 2018 - 2020](../assets/Images/price2020m2.png "Source - stat.gov.pl")
+![Polish Residential Property Price per SQM - 2018 - 2020](../assets/Images/price2020m2.png "Source - stat.gov.pl"){.img-fluid .img-responsive}
 
 Anyone reviewing this chart would be forgiven for thinking there was absolutely no disruption to the economy in the last year. Certainly price rises have slowed in the last three quarters but they have not collapsed as might have been expected.
 
@@ -35,7 +35,7 @@ Demand certainly seized up in the first half of the year but as people adjusted 
 
 If we show enterprise salary growth for the same period, side by side with property prices we can begin to see some correlation. (Source - stat.gov.pl)
 
-![Salary Growth vs. Residential Property Price per SQM - 2018 - 2020](../assets/Images/salaryvprice2020.png "Salary Growth vs. Residential Property Price per SQM - 2018 - 2020")
+![Salary Growth vs. Residential Property Price per SQM - 2018 - 2020](../assets/Images/salaryvprice2020.png "Salary Growth vs. Residential Property Price per SQM - 2018 - 2020"){.img-fluid .img-responsive}
 
 Whilst there is no direct correlation on a quarter by quarter basis it is fair to say that rising salaries eventually feed into property prices. 
 
@@ -43,7 +43,7 @@ The main reason, however, for the sustainability of the property market, somethi
 
 ## **Cheaper Mortgages increase demand**
 
-On February 2020 the National Bank of Poland reduced their long-standing reference rate from 1.5% to 0.10%. They have[ since said that they intend to keep these rates](https://polandin.com/52154559/no-change-to-interest-rates-likely-national-bank-of-polands-head?fbclid=IwAR24ma38M-Q6ncn9fbZ-BdgVW2IZVH-l-gs5mJeCuV1yByuipzHhC3dqVoA) at these levels amid a global conversation about the possibility of negative interest rates.
+On February 2020 the National Bank of Poland reduced their long-standing reference rate from 1.5% to 0.10%. They have [since said that they intend to keep these rates](https://polandin.com/52154559/no-change-to-interest-rates-likely-national-bank-of-polands-head?fbclid=IwAR24ma38M-Q6ncn9fbZ-BdgVW2IZVH-l-gs5mJeCuV1yByuipzHhC3dqVoA) at these levels amid a global conversation about the possibility of negative interest rates.
 
 In real terms this means that existing mortgage holders of say a zl. 500,000 credit require approximately zl. 600 less per month in repayments. New applicants for mortgages would also find that the calculation of how much they can borrow is also higher as their "ability to repay" evaluation has been increased.
 
