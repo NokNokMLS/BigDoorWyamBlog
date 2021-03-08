@@ -1,7 +1,7 @@
 ---
 Title: Which Polish City Offers The Best Return On Your Investment? - March 2021
 Author: Team BigDoor24
-Lead: "Rental yield in Warsaw is not as bad as you may think. "
+Lead: "Apartment prices in Warsaw are not as bad as you might think. "
 Published: 2021-03-08T10:05:48.051Z
 Tags:
   - Buy General Information Investment Let Negotiation Polish Interest Rates
@@ -29,13 +29,13 @@ There is certainly buying demand for apartments but the rental market in Krakow 
 
 Despite all of this, the Polish property market continues to show stunning returns versus other European cities. The economy is forecast to be amongst the best in the EU and while inflation is a concern, (which only helps house prices), increases in mortgage interest rates are not expected soon.
 
-***Gimme the numbers***
+***Gimme' the numbers***
 
 When you consider that mortgage costs per 100,000 borrowed have plummeted from above zl.400 p.m. last year to zl.300 today* *and* prices have remained constant, you may need to adjust your perspective on value.
 
 The average rent in Warsaw today stands at zl.4,250 which would pay a mortgage of zl.1.4 million approx. Adding your required cash deposit and you could expect to be able to buy a property for zl.1.75 million. Today, the average price of an apartment in Warsaw is zl. 865,000. Even if those mortgage costs are a bit ambitious, and we suspect they are, there is still plenty of room for upside.
 
-Warsaw is not so expensive after all. Lodz looks pretty good too though.
+Warsaw is not so expensive after all. Lodz looks pretty good too.
 
 Stay safe,
 
