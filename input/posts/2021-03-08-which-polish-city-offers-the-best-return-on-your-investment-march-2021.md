@@ -11,8 +11,6 @@ In February 2020, just before our lives were upturned, we asked [which Polish ci
 
 Today, with mortgage costs literally on the floor (0.10%) and with no rate hikes on the horizon, [according to the Central Bank President](https://think.ing.com/snaps/poland-nbp-chairman-sees-no-rate-hikes-further-fx-interventions-possible-but-no-floor/), we have decided to just concentrate on yield per city.
 
-
-
 Our data comes from a review of the major property portals and is adjusted for outlying or plainly incorrect adverts.
 
 ![](../assets/Images/priceyieldmar2021.jpg)
@@ -35,7 +33,9 @@ Despite all of this, the Polish property market continues to show stunning retur
 
 When you consider that mortgage costs per 100,000 borrowed have plummeted from above zl.400 p.m. last year to zl.300 today* *and* prices have remained constant, you may need to adjust your perspective on value.
 
-The average rent in Warsaw today stands at zl.4,250 which would pay a mortgage of zl.1.4 million approx. Adding your required cash deposit and you could expect to be able to buy a property for zl.1.75 million. Today, the average price of an apartment in Warsaw is zl. 865,000. Not so expensive after all. Lodz looks pretty good too though.
+The average rent in Warsaw today stands at zl.4,250 which would pay a mortgage of zl.1.4 million approx. Adding your required cash deposit and you could expect to be able to buy a property for zl.1.75 million. Today, the average price of an apartment in Warsaw is zl. 865,000. Even if those mortgage costs are a bit ambitious, and we suspect they are, there is still plenty of room for upside.
+
+Warsaw is not so expensive after all. Lodz looks pretty good too though.
 
 Stay safe,
 
