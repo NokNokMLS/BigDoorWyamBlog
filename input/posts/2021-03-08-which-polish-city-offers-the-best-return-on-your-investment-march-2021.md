@@ -1,7 +1,7 @@
 ---
 Title: Which Polish City Offers The Best Return On Your Investment? - March 2021
 Author: Team BigDoor24
-Lead: Identifying the best apples
+Lead: Identifying the Best Apples
 Published: 2021-03-08T10:05:48.051Z
 Image: ../assets/Images/eduardo-gonzalez-ug7kmsmxn74-unsplash.jpg
 Tags:
