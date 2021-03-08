@@ -35,7 +35,7 @@ When you consider that mortgage costs per 100,000 borrowed have plummeted from a
 
 The average rent in Warsaw today stands at zl.4,250 which would pay a mortgage of zl.1.4 million approx. Adding your required cash deposit and you could expect to be able to buy a property for zl.1.75 million. Today, the average price of an apartment in Warsaw is zl. 865,000. Even if those mortgage costs are a bit ambitious, and we suspect they are, there is still plenty of room for upside.
 
-Warsaw is not so expensive after all. Lodz looks pretty good too.
+Warsaw doesn't look so expensive after all. Lodz and Wroclaw look pretty good too.
 
 Stay safe,
 
