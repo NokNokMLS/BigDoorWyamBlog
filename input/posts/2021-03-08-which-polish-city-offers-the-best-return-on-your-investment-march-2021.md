@@ -1,8 +1,9 @@
 ---
 Title: Which Polish City Offers The Best Return On Your Investment? - March 2021
 Author: Team BigDoor24
-Lead: "Apartment prices in Warsaw are not as bad as you might think. "
+Lead: Identifying the best apples
 Published: 2021-03-08T10:05:48.051Z
+Image: ../assets/Images/eduardo-gonzalez-ug7kmsmxn74-unsplash.jpg
 Tags:
   - Buy General Information Investment Let Negotiation Polish Interest Rates
     Polish Mortgage Polish Property Polish Salaries Rent Sell
