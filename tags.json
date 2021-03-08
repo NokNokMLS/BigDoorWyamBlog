@@ -1,12 +1,12 @@
 [
   {
-    "Tag": "General Information",
-    "Url": "/tags/General-Information.html",
+    "Tag": "Polish Mortgage",
+    "Url": "/tags/Polish-Mortgage.html",
     "Weight": 36
   },
   {
-    "Tag": "Polish Mortgage",
-    "Url": "/tags/Polish-Mortgage.html",
+    "Tag": "General Information",
+    "Url": "/tags/General-Information.html",
     "Weight": 36
   },
   {
@@ -45,11 +45,6 @@
     "Weight": 10
   },
   {
-    "Tag": "News",
-    "Url": "/tags/News.html",
-    "Weight": 9
-  },
-  {
     "Tag": "Gdansk",
     "Url": "/tags/Gdansk.html",
     "Weight": 9
@@ -60,13 +55,13 @@
     "Weight": 9
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
-    "Weight": 8
+    "Tag": "News",
+    "Url": "/tags/News.html",
+    "Weight": 9
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
     "Weight": 8
   },
   {
@@ -75,18 +70,23 @@
     "Weight": 8
   },
   {
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
+    "Weight": 8
+  },
+  {
     "Tag": "Where I Live",
     "Url": "/tags/Where-I-Live.html",
     "Weight": 7
   },
   {
-    "Tag": "Gdynia",
-    "Url": "/tags/Gdynia.html",
+    "Tag": "Coronavirus",
+    "Url": "/tags/Coronavirus.html",
     "Weight": 6
   },
   {
-    "Tag": "Coronavirus",
-    "Url": "/tags/Coronavirus.html",
+    "Tag": "Gdynia",
+    "Url": "/tags/Gdynia.html",
     "Weight": 6
   },
   {
@@ -97,11 +97,6 @@
   {
     "Tag": "Rzeszow",
     "Url": "/tags/Rzeszow.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Banks",
-    "Url": "/tags/Banks.html",
     "Weight": 2
   },
   {
@@ -120,8 +115,8 @@
     "Weight": 2
   },
   {
-    "Tag": "Airbnb",
-    "Url": "/tags/Airbnb.html",
+    "Tag": "Banks",
+    "Url": "/tags/Banks.html",
     "Weight": 2
   },
   {
@@ -130,53 +125,13 @@
     "Weight": 2
   },
   {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Forecasts",
-    "Url": "/tags/Forecasts.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Residential Property in Poland",
-    "Url": "/tags/Residential-Property-in-Poland.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "PolishSalaries",
-    "Url": "/tags/PolishSalaries.html",
-    "Weight": 1
+    "Tag": "Airbnb",
+    "Url": "/tags/Airbnb.html",
+    "Weight": 2
   },
   {
     "Tag": "Buying Property",
     "Url": "/tags/Buying-Property.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "USD/PLN",
-    "Url": "/tags/USD/PLN.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Polish Interest Rate",
-    "Url": "/tags/Polish-Interest-Rate.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Lublin",
-    "Url": "/tags/Lublin.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Brexit & Poland",
-    "Url": "/tags/Brexit-&-Poland.html",
     "Weight": 1
   },
   {
@@ -185,8 +140,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
     "Weight": 1
   },
   {
@@ -195,28 +150,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Swiss Currency Mortgage",
-    "Url": "/tags/Swiss-Currency-Mortgage.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Kielce",
-    "Url": "/tags/Kielce.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Currency",
-    "Url": "/tags/Currency.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Polish Interest Rates",
-    "Url": "/tags/Polish-Interest-Rates.html",
+    "Tag": "USD/PLN",
+    "Url": "/tags/USD/PLN.html",
     "Weight": 1
   },
   {
@@ -225,8 +160,38 @@
     "Weight": 1
   },
   {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Brexit & Poland",
+    "Url": "/tags/Brexit-&-Poland.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Lublin",
+    "Url": "/tags/Lublin.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Currency",
+    "Url": "/tags/Currency.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Forecasts",
+    "Url": "/tags/Forecasts.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Interest Rates",
+    "Url": "/tags/Polish-Interest-Rates.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Kielce",
+    "Url": "/tags/Kielce.html",
     "Weight": 1
   },
   {
@@ -235,18 +200,13 @@
     "Weight": 1
   },
   {
+    "Tag": "Residential Property in Poland",
+    "Url": "/tags/Residential-Property-in-Poland.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Bialystok",
     "Url": "/tags/Bialystok.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Home Loan",
-    "Url": "/tags/Home-Loan.html",
     "Weight": 1
   },
   {
@@ -255,8 +215,53 @@
     "Weight": 1
   },
   {
+    "Tag": "Swiss Currency Mortgage",
+    "Url": "/tags/Swiss-Currency-Mortgage.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "PolishSalaries",
+    "Url": "/tags/PolishSalaries.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Home Loan",
+    "Url": "/tags/Home-Loan.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Interest Rate",
+    "Url": "/tags/Polish-Interest-Rate.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Eur/PLN",
     "Url": "/tags/Eur/PLN.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Buy General Information Investment Let Negotiation Polish Interest Rates Polish Mortgage Polish Property Polish Salaries Rent Sell",
+    "Url": "/tags/Buy-General-Information-Investment-Let-Negotiation-Polish-Interest-Rates-Polish-Mortgage-Polish-Property-Polish-Salaries-Rent-Sell.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
     "Weight": 1
   }
 ]
