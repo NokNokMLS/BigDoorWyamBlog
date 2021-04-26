@@ -55,7 +55,7 @@ The administration fee saving could be worth around zl. 25,000 to you representi
 
 For the more expensive properties, with less demand comes more negotiation space. But you get the idea.
 
-***See:** [How to apply for a Polish mortgage - 6 Tips](https://blog.bigdoor24.pl/posts/2018-06-15-getting-a-home-loan.html)*
+**See:** [How to apply for a Polish mortgage - 6 Tips](https://blog.bigdoor24.pl/posts/2018-06-15-getting-a-home-loan.html)
 
 **Conclusion**
 
