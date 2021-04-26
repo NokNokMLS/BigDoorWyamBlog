@@ -55,15 +55,15 @@ The administration fee saving could be worth around zl. 25,000 to you representi
 
 For the more expensive properties, with less demand comes more negotiation space. But you get the idea.
 
+***See:** [How to apply for a Polish mortgage - 6 Tips](https://blog.bigdoor24.pl/posts/2018-06-15-getting-a-home-loan.html)*
+
 **Conclusion**
 
 Be clever about what your costs represent. Your mortgage value, as with cash, goes down in value over time due to inflation so you want to maximise this part of your investment. 
 
-And don't forget, not using [BigDoor24.pl - Just Easier](https://bigdoor24.pl/) to find a mortgage advisor will actually cost you money, so you know.... just don't.
+And don't forget, not using [BigDoor24.pl - Just Easier](https://bigdoor24.pl/) to find a local mortgage advisor will actually cost you money, so you know.... just don't.
 
-
-
-Happy hunting,
+Happy hunting & [like us now on FB](https://www.facebook.com/bigdoor24) for more Polish property tips.
 
 Team BigDoor24.pl
 
