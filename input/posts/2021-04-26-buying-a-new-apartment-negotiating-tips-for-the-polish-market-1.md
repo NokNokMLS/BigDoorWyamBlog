@@ -49,13 +49,15 @@ The fact is, getting something for free saves you money, regardless if its label
 
 Based on the above examples let us propose a strategy. You are buying an apartment with a list price of zl. 500,000. There is a lot of demand for these apartments as they are close to the average price so your negotiating room will be smaller. To be in an optimal negotiating position, ensure you have your cash and [mortgage ready to go](https://bigdoor24.pl/). 
 
-Go in and offer the full zl. 500,000 with no price negotiation on the condition that they agree not to charge your building management fees for the next 5 years in addition to your purchasing notary costs. 
+***[Did you know you get a zl.200 cashback for every zl.100,000 borrowed when you use BigDoor24.pl to find a local Credit Advisor who speaks your language? Visit our homepage for more details now.](https://bigdoor24.pl/)***
 
-The administration fee saving could be worth around zl. 25,000 to you representing 5%. This saving, something you can't include in your mortgage, could theoretically be worth even more. The notary fee they should easily be able to cover. Maybe also ask for a free storage unit. You may get it or you may not, but you at least give them something to say no to, a key part of successful negotiations.
+Go in and offer the full zl. 500,000 with no price negotiation on the condition that they agree not exempt you from building management fees for the next 5 years in addition to your purchasing notary costs. 
+
+The administration fee saving alone could be worth around zl. 25,000 or 5% of the purchase price.  Remember also, you can borrow against the property but not against the fees so this example of a strategy has extra benefits. Maybe also ask for a free storage unit. You may get it or you may not, but you at least give them something to say no to, a key part of successful negotiations.
 
 For the more expensive properties, with less demand comes more negotiation space. But you get the idea.
 
-**See:** [How to apply for a Polish mortgage - 6 Tips](https://blog.bigdoor24.pl/posts/2018-06-15-getting-a-home-loan.html)
+**See also:** [How to apply for a Polish mortgage - 6 Tips](https://blog.bigdoor24.pl/posts/2018-06-15-getting-a-home-loan.html)
 
 **Conclusion**
 
