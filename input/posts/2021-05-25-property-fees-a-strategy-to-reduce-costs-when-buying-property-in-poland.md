@@ -39,7 +39,9 @@ This zl, 12,000 gross figure may be ambitious but as a starting point for negoti
 
 Be careful that you aren't too clever though and pay too little. If the agent feels they are not getting a good deal for themselves they may end up just getting in your way.
 
-If you need to find a local independent property agent who speaks your language remember to use the free service on bigdoor24.pl
+If you need to find a local independent property agent who speaks your language remember to use the free service on bigdoor24.pl and check out last months article, [Negotiating tips for buying Polish property](https://blog.bigdoor24.pl/posts/2021-04-26-buying-a-new-apartment-negotiating-tips-for-the-polish-market-1.html).
+
+
 
 Happy hunting,
 
