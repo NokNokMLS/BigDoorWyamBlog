@@ -2,12 +2,12 @@
   {
     "Tag": "Polish Mortgage",
     "Url": "/tags/Polish-Mortgage.html",
-    "Weight": 37
+    "Weight": 38
   },
   {
     "Tag": "General Information",
     "Url": "/tags/General-Information.html",
-    "Weight": 37
+    "Weight": 38
   },
   {
     "Tag": "Buy",
@@ -50,18 +50,18 @@
     "Weight": 9
   },
   {
-    "Tag": "News",
-    "Url": "/tags/News.html",
-    "Weight": 9
-  },
-  {
     "Tag": "Wroclaw",
     "Url": "/tags/Wroclaw.html",
     "Weight": 9
   },
   {
-    "Tag": "Lodz",
-    "Url": "/tags/Lodz.html",
+    "Tag": "News",
+    "Url": "/tags/News.html",
+    "Weight": 9
+  },
+  {
+    "Tag": "Katowice",
+    "Url": "/tags/Katowice.html",
     "Weight": 8
   },
   {
@@ -70,8 +70,8 @@
     "Weight": 8
   },
   {
-    "Tag": "Katowice",
-    "Url": "/tags/Katowice.html",
+    "Tag": "Lodz",
+    "Url": "/tags/Lodz.html",
     "Weight": 8
   },
   {
@@ -95,23 +95,8 @@
     "Weight": 3
   },
   {
-    "Tag": "Statistics",
-    "Url": "/tags/Statistics.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Rzeszow",
-    "Url": "/tags/Rzeszow.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Polish Property",
-    "Url": "/tags/Polish-Property.html",
-    "Weight": 2
-  },
-  {
-    "Tag": "Banks",
-    "Url": "/tags/Banks.html",
+    "Tag": "Residential Property in Poland",
+    "Url": "/tags/Residential-Property-in-Poland.html",
     "Weight": 2
   },
   {
@@ -120,8 +105,18 @@
     "Weight": 2
   },
   {
+    "Tag": "Polish Property",
+    "Url": "/tags/Polish-Property.html",
+    "Weight": 2
+  },
+  {
     "Tag": "Szczecin",
     "Url": "/tags/Szczecin.html",
+    "Weight": 2
+  },
+  {
+    "Tag": "Rzeszow",
+    "Url": "/tags/Rzeszow.html",
     "Weight": 2
   },
   {
@@ -130,33 +125,18 @@
     "Weight": 2
   },
   {
-    "Tag": "PolishSalaries",
-    "Url": "/tags/PolishSalaries.html",
-    "Weight": 1
+    "Tag": "Statistics",
+    "Url": "/tags/Statistics.html",
+    "Weight": 2
   },
   {
-    "Tag": "Valuation",
-    "Url": "/tags/Valuation.html",
-    "Weight": 1
+    "Tag": "Banks",
+    "Url": "/tags/Banks.html",
+    "Weight": 2
   },
   {
-    "Tag": "Buy General Information Investment Let Negotiation Polish Interest Rates Polish Mortgage Polish Property Polish Salaries Rent Sell",
-    "Url": "/tags/Buy-General-Information-Investment-Let-Negotiation-Polish-Interest-Rates-Polish-Mortgage-Polish-Property-Polish-Salaries-Rent-Sell.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "NEWS",
-    "Url": "/tags/NEWS.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Tri-City",
-    "Url": "/tags/Tri-City.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Polish Interest Rate",
-    "Url": "/tags/Polish-Interest-Rate.html",
+    "Tag": "Negotiation",
+    "Url": "/tags/Negotiation.html",
     "Weight": 1
   },
   {
@@ -165,33 +145,8 @@
     "Weight": 1
   },
   {
-    "Tag": "Opole",
-    "Url": "/tags/Opole.html",
-    "Weight": 1
-  },
-  {
     "Tag": "Buying Property",
     "Url": "/tags/Buying-Property.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Polish Interest Rates",
-    "Url": "/tags/Polish-Interest-Rates.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Olsztyn",
-    "Url": "/tags/Olsztyn.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Work Permit",
-    "Url": "/tags/Work-Permit.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Negotiation",
-    "Url": "/tags/Negotiation.html",
     "Weight": 1
   },
   {
@@ -200,8 +155,13 @@
     "Weight": 1
   },
   {
-    "Tag": "Brexit & Poland",
-    "Url": "/tags/Brexit-&-Poland.html",
+    "Tag": "Currency",
+    "Url": "/tags/Currency.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Property Agency Commission",
+    "Url": "/tags/Polish-Property-Agency-Commission.html",
     "Weight": 1
   },
   {
@@ -210,8 +170,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Residential Property in Poland",
-    "Url": "/tags/Residential-Property-in-Poland.html",
+    "Tag": "Brexit & Poland",
+    "Url": "/tags/Brexit-&-Poland.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Interest Rates",
+    "Url": "/tags/Polish-Interest-Rates.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Property Buying Costs",
+    "Url": "/tags/Polish-Property-Buying-Costs.html",
     "Weight": 1
   },
   {
@@ -230,28 +200,18 @@
     "Weight": 1
   },
   {
-    "Tag": "Currency",
-    "Url": "/tags/Currency.html",
+    "Tag": "Polish Interest Rate",
+    "Url": "/tags/Polish-Interest-Rate.html",
     "Weight": 1
   },
   {
-    "Tag": "Wroclaw Uncut",
-    "Url": "/tags/Wroclaw-Uncut.html",
+    "Tag": "Buying Property in Poland",
+    "Url": "/tags/Buying-Property-in-Poland.html",
     "Weight": 1
   },
   {
-    "Tag": "USD/PLN",
-    "Url": "/tags/USD/PLN.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Podcast",
-    "Url": "/tags/Podcast.html",
-    "Weight": 1
-  },
-  {
-    "Tag": "Economy",
-    "Url": "/tags/Economy.html",
+    "Tag": "Olsztyn",
+    "Url": "/tags/Olsztyn.html",
     "Weight": 1
   },
   {
@@ -260,8 +220,68 @@
     "Weight": 1
   },
   {
+    "Tag": "Tri-City",
+    "Url": "/tags/Tri-City.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Buy General Information Investment Let Negotiation Polish Interest Rates Polish Mortgage Polish Property Polish Salaries Rent Sell",
+    "Url": "/tags/Buy-General-Information-Investment-Let-Negotiation-Polish-Interest-Rates-Polish-Mortgage-Polish-Property-Polish-Salaries-Rent-Sell.html",
+    "Weight": 1
+  },
+  {
     "Tag": "Torun",
     "Url": "/tags/Torun.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Work Permit",
+    "Url": "/tags/Work-Permit.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Economy",
+    "Url": "/tags/Economy.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Polish Notary Fees",
+    "Url": "/tags/Polish-Notary-Fees.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "NEWS",
+    "Url": "/tags/NEWS.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "USD/PLN",
+    "Url": "/tags/USD/PLN.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "PolishSalaries",
+    "Url": "/tags/PolishSalaries.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Opole",
+    "Url": "/tags/Opole.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Wroclaw Uncut",
+    "Url": "/tags/Wroclaw-Uncut.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Podcast",
+    "Url": "/tags/Podcast.html",
+    "Weight": 1
+  },
+  {
+    "Tag": "Valuation",
+    "Url": "/tags/Valuation.html",
     "Weight": 1
   }
 ]
