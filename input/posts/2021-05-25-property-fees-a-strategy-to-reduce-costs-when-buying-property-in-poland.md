@@ -17,7 +17,7 @@ Before deciding to buy property in Poland you need to know how the system works.
 
 We will make the following assumptions. 
 
-You have already got initial approval for a mortgage through a Credit Advisor you found through [BigDoor24.pl](https://bigdoor24.pl/) (saving yourself an automatic zl. 1,000).
+You have already got initial approval for a zl. 500,000 mortgage through a Credit Advisor you found through [BigDoor24.pl](https://bigdoor24.pl/) (saving yourself an automatic zl. 1,000).
 
 You are now ready to chose a property and have checked all of the main property sites and identified a few possibilities ([Best Property Sites in Poland - Buying](https://blog.bigdoor24.pl/posts/2019-06-07-top-property-search-sites-in-poland-ranked-2.html)).
 
@@ -25,9 +25,9 @@ We also assume you have read the many articles we have on buying polish property
 
 ***A strategy***
 
-The central point we want to alert you to is that property agents in Poland regularly represent (and charge commission to) both buyers and sellers at the same time. However, it is also possible to engage the services of an agent who has no connection with the seller to negotiate on your behalf.
+The central point we want to alert you to is that property agents in Poland regularly represent (and charge commission to) both the buyer and seller at the same time. However, it is also possible to engage the services of an agent who has no connection with the seller to negotiate on your behalf.
 
-If you are sure you are going to have to pay some kind of agent commission (not necessarily true if buying a new development) then we would strongly suggest you engage a completely independent agent to represent you. 
+If you are sure you are going to have to pay some kind of agent commission (not necessarily true if buying a new development) then we would strongly suggest you engage a completely independent agent to represent you, unrelated to the agent included in the property advert.
 
 This agent can still find you a suitable property (if you haven't already found one yourself) and make contact with the sellers agent on your behalf. The first advantage here is that they should more effectively represent you in the purchase process. 
 
@@ -40,8 +40,6 @@ This zl, 12,000 gross figure may be ambitious but as a starting point for negoti
 Be careful that you aren't too clever though and pay too little. If the agent feels they are not getting a good deal for themselves they may end up just getting in your way.
 
 If you need to find a local independent property agent who speaks your language remember to use the free service on bigdoor24.pl and check out last months article, [Negotiating tips for buying Polish property](https://blog.bigdoor24.pl/posts/2021-04-26-buying-a-new-apartment-negotiating-tips-for-the-polish-market-1.html).
-
-
 
 Happy hunting,
 
