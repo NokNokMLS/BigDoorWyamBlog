@@ -59,6 +59,8 @@ For the more expensive properties, with less demand comes more negotiation space
 
 **See also:** [How to apply for a Polish mortgage - 6 Tips](https://blog.bigdoor24.pl/posts/2018-06-15-getting-a-home-loan.html)
 
+[Property Fees - A strategy to reduce costs when buying property in Poland](https://blog.bigdoor24.pl/posts/2021-05-25-property-fees-a-strategy-to-reduce-costs-when-buying-property-in-poland.html)
+
 **Conclusion**
 
 Be clever about what your costs represent. Your mortgage value, as with cash, goes down in value over time due to inflation so you want to maximise this part of your investment. 
