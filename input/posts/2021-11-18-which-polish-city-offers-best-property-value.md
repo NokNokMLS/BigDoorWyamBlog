@@ -1,5 +1,5 @@
 ---
-Title: Which Polish City offers best property value?
+Title: Which Polish City offers most affordable property value?
 Author: Team BigDoor24.pl
 Lead: How many sqm can the average salary buy in each main city and what does
   the data mean?
@@ -8,13 +8,11 @@ Image: ../assets/Images/avgsalariesvovoidship.jpg
 ---
 StatsPoland have just announced [regional average gross salary levels](https://stat.gov.pl/en/latest-statistical-news/communications-and-announcements/list-of-communiques-and-announcements/average-monthly-gross-wages-and-salaries-in-national-economy-in-voivodships-in-2020,306,7.html) around Poland and we thought it would be a good opportunity to compare them to average apartment costs in each major city.
 
-We would preface this with the obvious caveat that the salaries are vovoidship based and city salaries are higher but the relative comparison should give us an indication of which cities offer more value.
+We would preface this with the obvious caveat that the salaries are vovoidship based and city salaries are higher but the relative comparison should give us an indication of which cities offer more  affordability.
 
 Using data both internal to BigDoor24.pl and an amalgam of the main property platforms we can see the following.
 
 ![](../assets/Images/salarysqmcosts.png)
-
-
 
 The chart above essentially asks the question, "How many square metres can a monthly gross salary buy?". In essence, it portrays the affordability of property and the difference between Krakow an Lodz is striking with basically a 50% differential.
 
