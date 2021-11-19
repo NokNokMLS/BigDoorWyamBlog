@@ -26,7 +26,7 @@ Using data both internal to BigDoor24.pl and an amalgam of the main property pla
 
 ![](../assets/Images/salarysqmcosts.png)
 
-The chart above essentially asks the question, "How many square metres can a monthly gross salary buy?". In essence, it portrays the affordability of property and the difference between Krakow an Lodz is striking with basically a 50% differential.
+The chart above essentially asks the question, "How many square metres can a monthly gross salary buy?". In essence, it portrays the affordability of property and the difference between Krakow an Lodz is striking.
 
 At the same time it, we would argue that these disparities will probably continue to prevail into the future with possibly Wroclaw moving closer to the top three of Krakow, TriCity and Warsaw. With salaries unlikely to fall, this would suggest that Wroclaw is the place to watch for future price rises.
 
