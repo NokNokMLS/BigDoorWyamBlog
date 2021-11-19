@@ -5,6 +5,18 @@ Lead: How many sqm can the average salary buy in each main city and what does
   the data mean?
 Published: 2021-11-18T09:35:58.349Z
 Image: ../assets/Images/avgsalariesvovoidship.jpg
+Tags:
+  - PolishProperty
+  - Polish Mortgage
+  - Krakow
+  - Warsaw
+  - Lodz
+  - Wroclaw
+  - Gdansk
+  - Poznan
+  - Lodz
+  - Polish Economy
+  - ""
 ---
 StatsPoland have just announced [regional average gross salary levels](https://stat.gov.pl/en/latest-statistical-news/communications-and-announcements/list-of-communiques-and-announcements/average-monthly-gross-wages-and-salaries-in-national-economy-in-voivodships-in-2020,306,7.html) around Poland and we thought it would be a good opportunity to compare them to average apartment costs in each major city.
 
