@@ -27,7 +27,7 @@ If you have been considering buying Polish property in 2022, you may be holding 
 
 There is nothing wrong with this approach, apart from cash not being a great hedge against inflation,  but there is another strategy that you might want to consider.
 
-Right now, borrowing in Euro at say 1% fixed for 10 years and buying a Polish property yielding 5 or 6% may be worth a look.
+Right now, borrowing in Euro at say 1% fixed for 10 years and buying a Polish property yielding 5 or 6% p.a. may be worth a look.
 
 At the time of writing, you can buy 4.58 zloty for every 1 euro. It was 4.53 a few weeks ago but despite recent rate hikes in Poland, Russian threats on the Ukrainian border have made investors nervous. 
 
@@ -35,11 +35,11 @@ The European Central Bank (ECB) have adopted a transitory approach to inflation 
 
 The Polish Central Bank (NBP) is between two stools with some adopting the transitory thinking and others on the rate setting council calling for further aggressive rate increases to battle the high inflation numbers evident before the pandemic began.
 
-Rather than agree or disagree with either stance lets look at something a bit more probable - Interest rates in the euroland are highly unlikely to go down any further from here and Polish interest rates are highly likely to be increased further.
+Rather than agree or disagree with either stance let's look at something a bit more probable - Interest rates in the euroland are highly unlikely to go down any further from here and Polish interest rates are highly likely to be increased further.
 
 The problem with buying a Zloty asset with euro's will be obvious to anyone who has ever held or heard about the catastrophic results of the swiss franc (CHF) mortgages of recent years. 
 
-As a result of this "stupid" period of Polish banking (and we believed it to be stupid at the time and warned everyone we could at the time) Polish banks will only give non-Zloty mortgages to those earning an income in the foreign currency. 
+As a result of this "stupid" period of Polish banking (and we believed it to be stupid at the time and warned everyone we could), Polish banks will only give non-Zloty mortgages to those earning an income in the preferred foreign currency. 
 
 This is fair enough but if you are someone who either earns in Euro or has a property that can be refinanced in a euroland economy, you may have a once in a decade opportunity here to hedge against future inflation *and* earn a positive income.
 
