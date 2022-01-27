@@ -1,7 +1,7 @@
 ---
 Title: BORROW EURO, BUY IN ZLOTY - IS NOW A GOOD TIME?
 Author: Team BigDoor24.pl
-Lead: Is Euroland vs. Poland economic disparity an opportunity?
+Lead: Hedging in a time of inflation
 Published: 2022-01-25T13:26:07.467Z
 Image: ../assets/Images/bp-miller-tuqj2muj5sk-unsplash.jpg
 Tags:
