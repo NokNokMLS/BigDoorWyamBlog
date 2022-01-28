@@ -49,6 +49,8 @@ We would love to hear what you think.
 
 We believe it's a strategy worth considering but certainly requires professional consultation from those licensed and qualified to do so. For good order, we at BigDoor24.pl are in no way qualified to offer official financial advice.
 
+Check out[ Property Fees - A Strategy to Reduce Costs When Buying Property in Poland](https://blog.bigdoor24.pl/posts/2021-05-25-property-fees-a-strategy-to-reduce-costs-when-buying-property-in-poland.html)
+
 Happy hunting,
 
 Team BigDoor24.pl - Just Easier
