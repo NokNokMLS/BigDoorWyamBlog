@@ -39,6 +39,8 @@ Rather than agree or disagree with either stance let's look at something a bit m
 
 The problem with buying a Zloty asset with euro's will be obvious to anyone who has ever held or heard about the catastrophic results of the swiss franc (CHF) mortgages of recent years. 
 
+*[Did you know? BigDoor24.pl pays you a cashback when you use us to find a local Mortgage Advisor who speaks your language and complete the mortgage process. At zl. 200 for every zl. 100,000 borrowed it actually costs you money Not to use us. Go to our home page for more details of this unique offer.](https://bigdoor24.pl/)*
+
 As a result of this "stupid" period of Polish banking (and we believed it to be stupid at the time and warned everyone we could), Polish banks will only give non-Zloty mortgages to those earning an income in the preferred foreign currency. 
 
 This is fair enough but if you are someone who either earns in Euro or has a property that can be refinanced in a euroland economy, you may have a once in a decade opportunity here to hedge against future inflation *and* earn a positive income.
