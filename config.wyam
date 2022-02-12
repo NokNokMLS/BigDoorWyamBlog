@@ -1,6 +1,6 @@
 #n Wyam.Markdown
 #n Wyam.Yaml
-#n -p Wyam.Images
+#n MarkZither.Wyam.Images -p -v 2.3.4
 #n Wyam.SearchIndex
 
 #theme CleanBlog
