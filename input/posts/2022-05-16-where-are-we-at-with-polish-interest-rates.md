@@ -45,7 +45,7 @@ First of all, holding cash in an inflationary environment is never a good idea. 
 
 Demand for housing has collapsed but so has supply. Developers are building less as Ukrainian workers have disappeared and buyers are scarce. Rents have increased as existing landlords try to earn enough to cover their repayments and with less people able to afford new mortgages, they will be forced to remain in rented accommodation.
 
-If we look around the EU, Ireland,[ there has been an 81% decrease in rental properties in Dublin](https://www.thejournal.ie/daft-rent-report-2022-5760711-May2022/) in the last year. There is no reason why this cant happen in Poland.
+If we look around the EU, in Ireland,[ there has been an 81% decrease in rental properties in Dublin](https://www.thejournal.ie/daft-rent-report-2022-5760711-May2022/) in the last year. There is no reason why this cant happen in Poland.
 
 *[Did you know? BigDoor24.pl pays you a cashback when you use us to find a local Mortgage Advisor who speaks your language and complete the mortgage process. At zl. 200 for every zl. 100,000 borrowed it actually costs you money Not to use us. Go to our home page for more details of this unique offer.](https://bigdoor24.pl/)*
 
