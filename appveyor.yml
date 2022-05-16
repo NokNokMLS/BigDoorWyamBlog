@@ -28,9 +28,9 @@ build_script:
   - xcopy output ..\output /Esy
   - ls output
   # now run to produce artifacts which will be deployed to website/blog folder
-  - dotnet ..\Wyam\Wyam.dll %EXTRACOMMANDOPTIONS%
-  - pwd
-  - ls
+  #- dotnet ..\Wyam\Wyam.dll %EXTRACOMMANDOPTIONS%
+  #- pwd
+  #- ls
   - ls ..\output
   
 artifacts:
@@ -56,11 +56,11 @@ for:
     only:
       - master
 
-  deploy:
-  - provider: Environment
-    name: BigDoorLiveBlog
-    on:
-      branch: master
+#  deploy:
+#  - provider: Environment
+#    name: BigDoorLiveBlog
+#    on:
+#      branch: master
 
   environment:		
     PUSHTOBRANCH: gh-pages		
@@ -94,11 +94,11 @@ for:
     only:
       - /cms.*/
 
-  deploy:
-  - provider: Environment
-    name: BigDoorTestBlog
-    on:
-      branch: /cms.*/
+#  deploy:
+#  - provider: Environment
+#    name: BigDoorTestBlog
+#    on:
+#      branch: /cms.*/
   
   environment:
     PUSHTOBRANCH: gh-pages-staging
