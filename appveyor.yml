@@ -26,12 +26,12 @@ build_script:
   # run once to generate output for netlify
   - dotnet ..\Wyam\Wyam.dll 
   - xcopy output ..\output /Esy
-  - ls output
+  #- ls output
   # now run to produce artifacts which will be deployed to website/blog folder
-  #- dotnet ..\Wyam\Wyam.dll %EXTRACOMMANDOPTIONS%
-  #- pwd
+  - dotnet ..\Wyam\Wyam.dll %EXTRACOMMANDOPTIONS%
+  - pwd
   #- ls
-  - ls ..\output
+  #- ls ..\output
   
 artifacts:
   - path: 'blog\**\*.*'
@@ -56,11 +56,11 @@ for:
     only:
       - master
 
-#  deploy:
-#  - provider: Environment
-#    name: BigDoorLiveBlog
-#    on:
-#      branch: master
+  deploy:
+  - provider: Environment
+    name: BigDoorLiveBlog
+    on:
+      branch: master
 
   environment:		
     PUSHTOBRANCH: gh-pages		
@@ -76,9 +76,9 @@ for:
     - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
     - git checkout %PUSHTOBRANCH%
     - git rm -rf .
-    - ls
-    - ls blog
-    - ls ..\ghpages
+    #- ls
+    #- ls blog
+    #- ls ..\ghpages
     - xcopy ..\ghpages . /E
     # EDIT your domain name or remove if not using a custom domain
     - echo blog2.bigdoor24.pl > CNAME
@@ -114,8 +114,8 @@ for:
     - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
     - git checkout %PUSHTOBRANCH%
     - git rm -rf .
-    - ls
-    - ls ..\output
+    #- ls
+    #- ls ..\output
     - xcopy ..\output . /E
     # EDIT your domain name or remove if not using a custom domain
     - echo blog3.bigdoor24.pl > CNAME
