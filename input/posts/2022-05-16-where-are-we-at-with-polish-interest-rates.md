@@ -25,7 +25,7 @@ Tags:
 ---
 If Poland hadn't been one of the most successful global economies of the last 30 years then we wouldn't be facing the current inflationary tsunami in the same way. 
 
-To put things into context, Poland, according to the World Bank, is [one of the fastest growing economies in the world.](https://www.worldbank.org/en/news/press-release/2022/05/11/world-bank-poland-needs-to-invest-in-firm-productivity-to-spur-economic-growth) With this came many good things but the increased salaries, increased growth etc. always, always come at the price of higher prices. Namely inflation.
+To put things into context, Poland, according to the World Bank, is [one of the fastest growing economies in the world.](https://www.worldbank.org/en/news/press-release/2022/05/11/world-bank-poland-needs-to-invest-in-firm-productivity-to-spur-economic-growth) With this came many good things but the increased salaries, increased growth etc. always, *always* come at the cost of higher prices. Namely inflation.
 
 Signs of this inflation problem were evident before the coronavirus epidemic that forced global interest rates to next to zero. We had argued then and during the pandemic that Poland's inflation problem wasn't going to go away by itself and the noticeable delay by the central bank to hike rates until only recently have made the problem even harder to suppress.
 
@@ -45,7 +45,7 @@ First of all, holding cash in an inflationary environment is never a good idea. 
 
 Demand for housing has collapsed but so has supply. Developers are building less as Ukrainian workers have disappeared and buyers are scarce. Rents have increased as existing landlords try to earn enough to cover their repayments and with less people able to afford new mortgages, they will be forced to remain in rented accommodation.
 
-If we look at Ireland,[ there has been an 81% decrease in rental properties in Dublin](https://www.thejournal.ie/daft-rent-report-2022-5760711-May2022/) in the last year. There is no reason why this cant happen in Poland.
+If we look around the EU, Ireland,[ there has been an 81% decrease in rental properties in Dublin](https://www.thejournal.ie/daft-rent-report-2022-5760711-May2022/) in the last year. There is no reason why this cant happen in Poland.
 
 *[Did you know? BigDoor24.pl pays you a cashback when you use us to find a local Mortgage Advisor who speaks your language and complete the mortgage process. At zl. 200 for every zl. 100,000 borrowed it actually costs you money Not to use us. Go to our home page for more details of this unique offer.](https://bigdoor24.pl/)*
 
