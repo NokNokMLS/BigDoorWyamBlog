@@ -37,7 +37,9 @@ The government have rolled out [a package of measures to help mortgage holders](
 
 **Core Inflation is the key**
 
-Here are a couple of numbers. Core inflation (Inflation excluding food and energy) in [Poland just hit 7.7 %](https://www.thefirstnews.com/article/march-core-inflation-rate-at-77-pct---central-bank-30390). In the EU it's 3.6%. This means that even without the war or China the cost of living has gone up. Or to put it another way, the zloty you had last year can buy less than it can today (by almost 8%). Unemployment is at 5.5 % which is essentially zero when you factor out people with health issues etc.
+Here are a couple of numbers. Core inflation (Inflation excluding food and energy) in [Poland just hit 7.7 %](https://www.thefirstnews.com/article/march-core-inflation-rate-at-77-pct---central-bank-30390). In the EU it's 3.6%. This means that even without the war or China the cost of living has gone up. Or to put it another way, the zloty you had last year can buy less than it can today (by almost 8%). Unemployment is at 5.5 % which is essentially zero when you factor out people with health issues etc.. 
+
+Until core inflation begins to fall there will be no let up in interest rate increases. 
 
 **What does it mean for housing?**
 
